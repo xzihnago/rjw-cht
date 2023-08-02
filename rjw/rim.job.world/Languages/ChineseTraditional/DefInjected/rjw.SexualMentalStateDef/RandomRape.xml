@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RandomRape.label>隨機強姦</RandomRape.label>
+  <RandomRape.baseInspectLine>心理狀態：隨機強姦</RandomRape.baseInspectLine>
+  <RandomRape.beginLetter>{0}正處於性飢渴並尋找著強姦對象。</RandomRape.beginLetter>
+  <RandomRape.beginLetterLabel>隨機強姦</RandomRape.beginLetterLabel>
+  <RandomRape.recoveryMessage>{0}得到了性滿足並不再尋找強姦對象。</RandomRape.recoveryMessage>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttendedOrgy.label>参加亂交</AttendedOrgy.label>
+  <AttendedOrgy.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef]正在參加[ORGANIZER_nameDef]的亂交</li>
+    <li>tale_noun->[ATTENDER_nameDef]正在[ORGANIZER_nameDef]的亂交中放鬆享受</li>
+    <li>image->[ATTENDER_nameFull]正[circumstance_group]和[ORGANIZER_nameFull]交談</li>
+    <li>image->[ATTENDER_nameFull][circumstance_group]接過[ORGANIZER_nameFull]遞來的飲料</li>
+    <li>image->[ATTENDER_nameFull]正[circumstance_group]和[ORGANIZER_nameFull]談天</li>
+    <li>image->[ORGANIZER_nameFull][circumstance_group]歡迎[ATTENDER_nameFull]</li>
+    <li>image->[ORGANIZER_nameFull][circumstance_group]將[ATTENDER_nameFull]介紹給一名朋友</li>
+    <li>circumstance_phrase->笑容滿面的</li>
+    <li>circumstance_phrase->開心的</li>
+    <li>circumstance_phrase->快樂的</li>
+    <li>circumstance_phrase->親切的</li>
+    <li>circumstance_phrase->自在的</li>
+    <li>desc_sentence->[Quantity_adjphrase]名[PersonJob]加入了談話。</li>
+    <li>desc_sentence->亂交會場五光十色。</li>
+    <li>desc_sentence->[Quantity_adjphrase]頭[Animal]在附近玩耍。</li>
+  </AttendedOrgy.rulePack.rulesStrings>
+</LanguageData>

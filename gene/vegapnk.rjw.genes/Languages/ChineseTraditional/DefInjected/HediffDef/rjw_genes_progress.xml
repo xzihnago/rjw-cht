@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_feminization_progress.label>雌化</rjw_genes_feminization_progress.label>
+  <rjw_genes_feminization_progress.description>有些東西正在改變這個居民 - 有機會在性行為中發育出女性特徵。</rjw_genes_feminization_progress.description>
+  <rjw_genes_feminization_progress.stages.minor.label>輕度</rjw_genes_feminization_progress.stages.minor.label>
+  <rjw_genes_feminization_progress.stages.severe.label>重度</rjw_genes_feminization_progress.stages.severe.label>
+  <rjw_genes_feminization_progress.stages.critical.label>極重度</rjw_genes_feminization_progress.stages.critical.label>
+
+  <rjw_genes_twinkification_progress.label>鮮肉化</rjw_genes_twinkification_progress.label>
+  <rjw_genes_twinkification_progress.description>有些東西正在改變這個居民 - 有機會在性交時轉變為一個可愛的、可繁殖的小鮮肉。</rjw_genes_twinkification_progress.description>
+  <rjw_genes_twinkification_progress.stages.minor.label>輕度</rjw_genes_twinkification_progress.stages.minor.label>
+  <rjw_genes_twinkification_progress.stages.severe.label>重度</rjw_genes_twinkification_progress.stages.severe.label>
+  <rjw_genes_twinkification_progress.stages.critical.label>極重度</rjw_genes_twinkification_progress.stages.critical.label>
+</LanguageData>

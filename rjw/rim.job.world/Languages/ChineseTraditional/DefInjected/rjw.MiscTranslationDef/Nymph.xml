@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_feisty.label>易怒流鶯</rjw_feisty.label>
+  <rjw_feisty.description>[PAWN_nameDef]如同征服者一般在殖民地周圍大搖大擺，你試圖專注於工作，但是[PAWN_pronoun]不會讓你如願。[PAWN_pronoun]指責著你「我聽到你談論我的事」，即使你根本沒那樣做，而[PAWN_pronoun]也知道這點。[PAWN_pronoun]對你挑釁「想打一架嗎」。這時你該懂[PAWN_pronoun]的意思了，[PAWN_pronoun]想跟你來點床上運動，或是，如果你遲疑了，[PAWN_pronoun]將會硬上你。一開始你或許會覺得[PAWN_pronoun]很難相處，但到後來你會發現[PAWN_pronoun]簡直不可或缺。你向[PAWN_pronoun]解釋，「看到那些東西了嗎？需要把那弄過來」或是「那些人想幹掉我們，所以我們先下手為強」，[PAWN_pronoun]聽進去了，並且會做該做的事。</rjw_feisty.description>
+
+  <rjw_curious.label>好奇流鶯</rjw_curious.label>
+  <rjw_curious.description>將蓋板固定在後面並將執行器安裝槽 C 中，向上拉拉杆，不，還不夠，還需要更完美。現在，彈出 JC-444 芯片已就位。把橙色線焊到了 16 號位，把帶條紋的線焊在了 5 號位。突然一抬頭，看到了[PAWN_nameDef]在我面前。我倒是不驚訝見到[PAWN_pronoun]，只是沒聽到[PAWN_pronoun]接近的聲音，不過也已經習慣了。我繼續著默默地工作，而[PAWN_nameDef]的手則徘徊在我的身上，大大的眼睛一直注視著我雙手的快速、準確且謹慎的操作。</rjw_curious.description>
+
+  <rjw_tender.label>溫柔流鶯</rjw_tender.label>
+  <rjw_tender.description>[PAWN_nameDef]的眼神總是帶著似水的柔情，聲音柔美而動聽。由於有過護士的經歷，因此照顧人也很貼心到位。[PAWN_nameDef]正蜷縮在角落，手捂著[PAWN_pronoun]的耳朵，眼中閃過一道淚光。你一開始並不明白這是怎麼了，但之後便注意到了：那是遠處殺豬的慘叫聲</rjw_tender.description>
+
+  <rjw_chatty.label>健談流鶯</rjw_chatty.label>
+  <rjw_chatty.description>沒有人比[PAWN_nameDef]更健談。[PAWN_pronoun]有著靈活的舌頭，敏銳的頭腦和性感的熱唇。</rjw_chatty.description>
+
+  <rjw_broken.label>頹廢流鶯</rjw_broken.label>
+  <rjw_broken.description>也許是由於[PAWN_nameDef]以前遇到過一些可怕的事情，現在的[PAWN_pronoun]看上去很憔悴。沒人願意搭理[PAWN_pronoun]。[PAWN_pronoun]時常盯著棒狀物，只有在這時[PAWN_pronoun]看上去才有點活力。</rjw_broken.description>
+</LanguageData>

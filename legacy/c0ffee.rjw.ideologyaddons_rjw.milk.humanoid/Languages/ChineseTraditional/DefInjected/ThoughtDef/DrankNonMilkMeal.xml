@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrankNonMilkMeal_Essential.stages.0.label>吃了不含人乳的食物</DrankNonMilkMeal_Essential.stages.0.label>
+  <DrankNonMilkMeal_Essential.stages.0.description>我吃的食物不是由乳人的乳房產生的。這種食物應該只適合乳人。</DrankNonMilkMeal_Essential.stages.0.description>
+
+  <DrankNonMilkMeal_MandatoryHucow.stages.0.label>吃了不含人乳的食物</DrankNonMilkMeal_MandatoryHucow.stages.0.label>
+  <DrankNonMilkMeal_MandatoryHucow.stages.0.description>噁心！我不得不吃不含母乳的食物。這種食物應該只有乳人才能吃！</DrankNonMilkMeal_MandatoryHucow.stages.0.description>
+</LanguageData>

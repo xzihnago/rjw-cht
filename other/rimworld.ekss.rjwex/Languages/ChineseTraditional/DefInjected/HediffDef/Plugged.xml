@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plugged.label>塞著</Plugged.label>
+  <Plugged.description>塞著。</Plugged.description>
+  <Plugged.stages.loosely.label>鬆</Plugged.stages.loosely.label>
+  <Plugged.stages.comfortable.label>舒適</Plugged.stages.comfortable.label>
+  <Plugged.stages.tightly.label>緊</Plugged.stages.tightly.label>
+  <Plugged.stages.very_tight.label>很緊</Plugged.stages.very_tight.label>
+  <Plugged.stages.cracking_tight.label>超緊</Plugged.stages.cracking_tight.label>
+</LanguageData>

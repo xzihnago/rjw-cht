@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bestiality_Abhorrent.label>可惡的</Bestiality_Abhorrent.label>
+  <Bestiality_Abhorrent.description>獸交是一種極度邪惡的行為，是與人性的對立。</Bestiality_Abhorrent.description>
+
+  <Bestiality_Horrible.label>駭人聽聞的</Bestiality_Horrible.label>
+  <Bestiality_Horrible.description>獸交是一種駭人聽聞的行為，值得人們厭惡。</Bestiality_Horrible.description>
+
+  <Bestiality_Disapproved.label>不贊同的</Bestiality_Disapproved.label>
+  <Bestiality_Disapproved.description>獸交是極度令人厭惡、可恥的行為。</Bestiality_Disapproved.description>
+
+  <Bestiality_Acceptable.label>允許的</Bestiality_Acceptable.label>
+  <Bestiality_Acceptable.description>獸交是生活中正常的，不可磨滅的一部分。</Bestiality_Acceptable.description>
+
+  <Bestiality_OnlyVenerated.label>僅聖獸</Bestiality_OnlyVenerated.label>
+  <Bestiality_OnlyVenerated.description>與聖獸做愛的人應該被尊敬與敬重。但與其他動物做愛是值得嘲笑的行為。</Bestiality_OnlyVenerated.description>
+  <Bestiality_OnlyVenerated.comps.1.description>某人與非聖獸做愛</Bestiality_OnlyVenerated.comps.1.description>
+  <Bestiality_OnlyVenerated.comps.3.description>某人與聖獸做愛</Bestiality_OnlyVenerated.comps.3.description>
+
+  <Bestiality_BondOnly.label>僅羈絆動物</Bestiality_BondOnly.label>
+  <Bestiality_BondOnly.description>與羈絆動物做愛應該被尊敬與敬重，但與其他動物做愛是值得嘲笑的行為。</Bestiality_BondOnly.description>
+  <Bestiality_BondOnly.comps.1.description>某人與羈絆動物做愛</Bestiality_BondOnly.comps.1.description>
+  <Bestiality_BondOnly.comps.3.description>某人與非羈絆動物做愛</Bestiality_BondOnly.comps.3.description>
+
+  <Bestiality_Honorable.label>鼓勵的</Bestiality_Honorable.label>
+  <Bestiality_Honorable.description>應該鼓勵與動物做愛的人，這是很自然的。</Bestiality_Honorable.description>
+  <Bestiality_Honorable.comps.1.description>某人與動物做愛</Bestiality_Honorable.comps.1.description>
+  <Bestiality_Honorable.comps.3.description>某人與動物做愛</Bestiality_Honorable.comps.3.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallOvaryAgitator.label>安裝卵巢攪拌器</InstallOvaryAgitator.label>
+  <InstallOvaryAgitator.description>安裝卵巢攪拌器。</InstallOvaryAgitator.description>
+  <InstallOvaryAgitator.jobString>安裝卵巢攪拌器。</InstallOvaryAgitator.jobString>
+
+  <RemoveOvaryAgitator.label>移除卵巢攪拌器</RemoveOvaryAgitator.label>
+  <RemoveOvaryAgitator.description>移除卵巢攪拌器。</RemoveOvaryAgitator.description>
+  <RemoveOvaryAgitator.jobString>移除卵巢攪拌器。</RemoveOvaryAgitator.jobString>
+</LanguageData>

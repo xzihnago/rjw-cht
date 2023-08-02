@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Armbinder.label>束手器</Armbinder.label>
+  <Armbinder.description>束手器會阻止它所約束的任何人物使用手。</Armbinder.description>
+
+  <UnlockedArmbinder.label>未上鎖的束手器</UnlockedArmbinder.label>
+  <UnlockedArmbinder.description>束手器會阻止它所約束的任何人物使用手。</UnlockedArmbinder.description>
+
+  <Legbinder.label>束腿器</Legbinder.label>
+  <Legbinder.description>束腿器會阻止它所約束的任何人物使用腿。</Legbinder.description>
+
+  <UnlockedLegbinder.label>未上鎖的束腿器</UnlockedLegbinder.label>
+  <UnlockedLegbinder.description>束腿器會阻止它所約束的任何人物使用腿。</UnlockedLegbinder.description>
+</LanguageData>

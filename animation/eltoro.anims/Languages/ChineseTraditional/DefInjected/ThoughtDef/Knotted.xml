@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActiveKnottedGood.stages.0.label>肉結</ActiveKnottedGood.stages.0.label>
+  <ActiveKnottedGood.stages.0.description>我被困在原地，被腫脹的肉結擴張。裡面的每一次脈動都讓我感到溫暖充實，讓我全身發抖。</ActiveKnottedGood.stages.0.description>
+
+  <ActiveKnottedBad.stages.0.label>肉結</ActiveKnottedBad.stages.0.label>
+  <ActiveKnottedBad.stages.0.description>我被卡住了，腫脹的肉結擴張得太大了。它太緊了，很痛，很不舒服，並且每一次脈動都只會讓情況變得更糟。</ActiveKnottedBad.stages.0.description>
+
+  <KnottedGood.stages.0.label>肉結的記憶</KnottedGood.stages.0.label>
+  <KnottedGood.stages.0.description>肉結已經消失了，但我的內心仍然感到一陣暖意。一種深沉而愉悅的感覺縈繞在我的內心。</KnottedGood.stages.0.description>
+
+  <KnottedGoodFaint.stages.0.label>肉結的模糊記憶</KnottedGoodFaint.stages.0.label>
+  <KnottedGoodFaint.stages.0.description>肉結早已消失了，但一種淡淡的、愉悅的感覺仍然縈繞在我的內心。</KnottedGoodFaint.stages.0.description>
+
+  <KnottedBad.stages.0.label>肉結的記憶</KnottedBad.stages.0.label>
+  <KnottedBad.stages.0.description>肉結已經消失了，但我仍然感到酸痛和緊張。壓力已經減輕，但不適感仍然縈繞在我的內心。</KnottedBad.stages.0.description>
+
+  <KnottedBadFaint.stages.0.label>肉結的模糊記憶</KnottedBadFaint.stages.0.label>
+  <KnottedBadFaint.stages.0.description>肉結早已消失了，但仍然有一絲不適縈繞在我的內心。</KnottedBadFaint.stages.0.description>
+</LanguageData>

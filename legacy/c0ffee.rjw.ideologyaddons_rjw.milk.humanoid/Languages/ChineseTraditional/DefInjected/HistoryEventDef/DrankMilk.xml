@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrankMilkRaw.label>喝了母乳</DrankMilkRaw.label>
+  <DrankMilkMeal.label>吃了含有母乳的食物</DrankMilkMeal.label>
+  <DrankNonMilkMeal.label>吃了不含母乳的食物</DrankNonMilkMeal.label>
+</LanguageData>

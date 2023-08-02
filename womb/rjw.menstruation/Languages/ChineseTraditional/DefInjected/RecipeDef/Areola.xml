@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Surgery_ExpandAreola.label>擴大乳暈</Surgery_ExpandAreola.label>
+  <Surgery_ExpandAreola.description>擴大乳暈。</Surgery_ExpandAreola.description>
+  <Surgery_ExpandAreola.jobString>擴大乳暈</Surgery_ExpandAreola.jobString>
+
+  <Surgery_ContractAreola.label>縮小乳暈</Surgery_ContractAreola.label>
+  <Surgery_ContractAreola.description>縮小乳暈。</Surgery_ContractAreola.description>
+  <Surgery_ContractAreola.jobString>縮小乳暈</Surgery_ContractAreola.jobString>
+</LanguageData>

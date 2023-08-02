@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OvaryRegenerationPill.label>卵巢復甦劑</OvaryRegenerationPill.label>
+  <OvaryRegenerationPill.description>恢復卵巢的活力，令一部分卵細胞復甦。&#10;對於卵細胞殘留量較少的卵巢，效果較差。&#10;無法從絕經中恢復。</OvaryRegenerationPill.description>
+  <OvaryRegenerationPill.ingestible.ingestCommandString>服用{0}</OvaryRegenerationPill.ingestible.ingestCommandString>
+  <OvaryRegenerationPill.ingestible.ingestReportString>服用{0}</OvaryRegenerationPill.ingestible.ingestReportString>
+</LanguageData>

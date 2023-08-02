@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Pregnancy_Respected_Pregnant.stages.0.label>懷孕</Pregnancy_Respected_Pregnant.stages.0.label>
+  <Pregnancy_Respected_Pregnant.stages.0.description>我懷孕了。這使我成為社會的棟樑。</Pregnancy_Respected_Pregnant.stages.0.description>
+  <Pregnancy_Respected_Pregnant_Social.stages.0.label>懷孕</Pregnancy_Respected_Pregnant_Social.stages.0.label>
+
+  <Pregnancy_Elevated_Pregnant.stages.0.label>懷孕</Pregnancy_Elevated_Pregnant.stages.0.label>
+  <Pregnancy_Elevated_Pregnant.stages.0.description>我很快就會讓我們的殖民地變得更加強大。</Pregnancy_Elevated_Pregnant.stages.0.description>
+  <Pregnancy_Elevated_Pregnant_Social.stages.0.label>懷孕</Pregnancy_Elevated_Pregnant_Social.stages.0.label>
+
+  <Pregnancy_Horrible_Pregnant.stages.0.label>懷孕</Pregnancy_Horrible_Pregnant.stages.0.label>
+  <Pregnancy_Horrible_Pregnant.stages.0.description>我怎麼就變成這樣了？我從來沒想過懷孕！</Pregnancy_Horrible_Pregnant.stages.0.description>
+  <Pregnancy_Horrible_Pregnant_Social.stages.0.label>懷孕</Pregnancy_Horrible_Pregnant_Social.stages.0.label>
+
+  <Pregnancy_Horrible_NonPregnant.stages.0.label>未懷孕</Pregnancy_Horrible_NonPregnant.stages.0.label>
+  <Pregnancy_Horrible_NonPregnant.stages.0.description>我想要懷孕。</Pregnancy_Horrible_NonPregnant.stages.0.description>
+  <Pregnancy_Horrible_NonPregnant_Social.stages.0.label>未懷孕</Pregnancy_Horrible_NonPregnant_Social.stages.0.label>
+</LanguageData>

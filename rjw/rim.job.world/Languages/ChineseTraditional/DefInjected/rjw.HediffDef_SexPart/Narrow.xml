@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NarrowVagina.label>細陰道</NarrowVagina.label>
+  <NarrowVagina.labelNoun>細陰道</NarrowVagina.labelNoun>
+  <NarrowVagina.description>一個又窄又深的陰道。</NarrowVagina.description>
+  <NarrowVagina.stages.0.label>過窄</NarrowVagina.stages.0.label>
+  <NarrowVagina.stages.1.label>緊</NarrowVagina.stages.1.label>
+  <NarrowVagina.stages.2.label>普通</NarrowVagina.stages.2.label>
+  <NarrowVagina.stages.3.label>鬆</NarrowVagina.stages.3.label>
+  <NarrowVagina.stages.4.label>過鬆</NarrowVagina.stages.4.label>
+  <NarrowVagina.stages.5.label>深淵</NarrowVagina.stages.5.label>
+</LanguageData>

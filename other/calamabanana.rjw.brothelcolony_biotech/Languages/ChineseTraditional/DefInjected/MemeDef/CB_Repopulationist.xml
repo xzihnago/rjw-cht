@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Repopulationist.label>再繁衍</CB_Repopulationist.label>
+  <CB_Repopulationist.description>這個世界需要重新繁衍，我們將盡自己的一份力量\n\n資訊：一旦他們學會走路，如果他們有來自其他派系的父母，他們就可以被送進世界\n\n警告：義務意味著義務。你需要擴大你的殖民地來支持遊戲風格</CB_Repopulationist.description>
+
+  <CB_Repopulationist.generalRules.rulesStrings>
+    <li>memeAdjective->富饒的</li>
+    <li>memeAdjective->多產的</li>
+    <li>memeAdjective->生育的</li>
+    <li>memeAdjective->配種的</li>
+    <li>memeAdjective->繁茂的</li>
+    <li>memeAdjective->多子的</li>
+    <li>memeLeaderNoun->母親</li>
+    <li>memeLeaderNoun->生育者</li>
+    <li>memeLeaderNoun->配種者</li>
+    <li>memeConcept->再繁衍主義</li>
+    <li>memeConcept->配種</li>
+    <li>memeConcept->母性</li>
+    <li>memeConcept->生育</li>
+    <li>memeLeaderAdjective->富饒的</li>
+    <li>memeLeaderAdjective->多產的</li>
+    <li>memeLeaderAdjective->多子的</li>
+    <li>memeLeaderAdjective->繁茂的</li>
+    <li>memeLeaderAdjective->配種的</li>
+  </CB_Repopulationist.generalRules.rulesStrings>
+
+  <CB_Repopulationist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CB_Repopulationist)       ->[deity0_name]賦予我們為這個貧瘠世界帶來生命的使命。</li>
+    <li>episode(uses=1,tag=meme_CB_Repopulationist) ->[founderName]以[deity0_objective]之名生下了許多孩子。</li>
+  </CB_Repopulationist.descriptionMaker.rules.rulesStrings>
+
+  <CB_Repopulationist.symbolPacks.0.ideoName>再繁衍主義</CB_Repopulationist.symbolPacks.0.ideoName>
+  <CB_Repopulationist.symbolPacks.0.theme>再繁衍</CB_Repopulationist.symbolPacks.0.theme>
+  <CB_Repopulationist.symbolPacks.0.adjective>再繁衍的</CB_Repopulationist.symbolPacks.0.adjective>
+  <CB_Repopulationist.symbolPacks.0.member>再繁衍者</CB_Repopulationist.symbolPacks.0.member>
+  <CB_Repopulationist.symbolPacks.1.ideoName>生育主義</CB_Repopulationist.symbolPacks.1.ideoName>
+  <CB_Repopulationist.symbolPacks.1.theme>生育</CB_Repopulationist.symbolPacks.1.theme>
+  <CB_Repopulationist.symbolPacks.1.adjective>生育的</CB_Repopulationist.symbolPacks.1.adjective>
+  <CB_Repopulationist.symbolPacks.1.member>生育主義者</CB_Repopulationist.symbolPacks.1.member>
+  <CB_Repopulationist.symbolPacks.2.ideoName>配種</CB_Repopulationist.symbolPacks.2.ideoName>
+  <CB_Repopulationist.symbolPacks.2.theme>配種</CB_Repopulationist.symbolPacks.2.theme>
+  <CB_Repopulationist.symbolPacks.2.adjective>配種的</CB_Repopulationist.symbolPacks.2.adjective>
+  <CB_Repopulationist.symbolPacks.2.member>配種者</CB_Repopulationist.symbolPacks.2.member>
+</LanguageData>

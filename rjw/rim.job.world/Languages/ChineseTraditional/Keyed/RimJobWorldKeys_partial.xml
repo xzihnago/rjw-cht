@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Comfort designation-->
+  <ForComfort>設為慰安者</ForComfort>
+  <ForComfortDesc>設為洩慾對象</ForComfortDesc>
+  <ForComfortRefuseDesc>拒絕成為慰安者。\n需要特性：被虐狂</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>設為賣淫者</ForService> <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[設為賣淫者：
+- 會嘗試勾搭訪客。
+- 如果不忙，會取悅其他殖民者。
+- 在工作中儘量避免自慰，可能會導致沮喪。
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>不會同意賣淫</ForServiceRefuseDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>設為動物苗床</ForBreeding>
+  <ForBreedingDesc>設為動物交配對象</ForBreedingDesc>
+  <ForBreedingRefuseDesc>拒絕成為動物苗床。\n需要特性：戀獸癖</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>允許此動物對動物苗床交配。</ForBreedingAnimalDesc>
+
+  <BreedMessage>正試圖交配</BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>設為乳汁提供者</ForMilking>
+  <ForMilkingDesc>從該生物獲取乳汁</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>設為主角</ForHero>
+  <ForHeroDesc><![CDATA[指定此人為主角
+- 只能指定一次
+- 無法取消
+]]></ForHeroDesc>
+  <ForHeroRefuse1Desc>這是其他玩家的主角</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>你無法變更此決定</ForHeroRefuse2Desc>
+  <ForHeroRefuseHCDesc>硬核模式下的非主角殖民者</ForHeroRefuseHCDesc>
+
+  <!-- Hediff tooltips -->
+  <RJW_PartInfo_braCup>罩杯：{0}</RJW_PartInfo_braCup>
+  <RJW_PartInfo_braSizeNone>胸罩尺寸：-</RJW_PartInfo_braSizeNone>
+  <RJW_PartInfo_eggs>卵：{0}</RJW_PartInfo_eggs>
+  <RJW_PartInfo_fluidTypeFluidAmount>{0}：{1}</RJW_PartInfo_fluidTypeFluidAmount>
+  <RJW_PartInfo_braSize>胸罩尺寸：{0}:{1}</RJW_PartInfo_braSize>
+  <RJW_PartInfo_overbust>上胸圍：{0}</RJW_PartInfo_overbust>
+  <RJW_PartInfo_underbust>下胸圍：{0}</RJW_PartInfo_underbust>
+  <RJW_PartInfo_weight>重量：{0}</RJW_PartInfo_weight>
+  <RJW_PartInfo_properties>特性：{0}</RJW_PartInfo_properties>
+
+  <!-- Shared between hediff tooltip and inspect pane for installable parts-->
+  <RJW_PartInfo_girth>周長：{0}</RJW_PartInfo_girth>
+  <RJW_PartInfo_length>長度：{0}</RJW_PartInfo_length>
+  <RJW_PartInfo_depth>深度：{0}</RJW_PartInfo_depth>
+  <RJW_PartInfo_maxGirth>最大周長：{0}</RJW_PartInfo_maxGirth>
+  <RJW_PartInfo_maxLength>最大長度：{0}</RJW_PartInfo_maxLength>
+
+  <!-- Part inspect pane-->
+  <RJW_PartInfo_fluidTypeFluidAmountHeading>液體：{0} ({1} mL)</RJW_PartInfo_fluidTypeFluidAmountHeading>
+
+  <!-- Part stats & descriptions -->
+  <RJW_PartInfo_unknownSpecies>未知物種</RJW_PartInfo_unknownSpecies>
+  <RJW_PartInfo_unknownOwner>未知</RJW_PartInfo_unknownOwner>
+  <RJW_StatEntry_PreviousOwner>上一個擁有者</RJW_StatEntry_PreviousOwner>
+  <RJW_StatEntry_OriginalOwnerRace>原始種族</RJW_StatEntry_OriginalOwnerRace>
+  <RJW_StatEntry_OriginalOwnerSize>原始尺寸</RJW_StatEntry_OriginalOwnerSize>
+  <RJW_StatEntry_PartSize>尺寸</RJW_StatEntry_PartSize>
+  <RJW_StatEntry_PartCupSize>罩杯大小</RJW_StatEntry_PartCupSize>
+  <RJW_StatEntry_PartLength>長度</RJW_StatEntry_PartLength>
+  <RJW_StatEntry_PartGirth>周長</RJW_StatEntry_PartGirth>
+  <RJW_StatEntry_PartMaxGirth>最大周長</RJW_StatEntry_PartMaxGirth>
+  <RJW_StatEntry_PartDepth>深度</RJW_StatEntry_PartDepth>
+  <RJW_StatEntry_PartTags>特性</RJW_StatEntry_PartTags>
+  <RJW_StatEntry_Fluid>液體</RJW_StatEntry_Fluid>
+  <RJW_StatEntry_FluidAmount>液體量</RJW_StatEntry_FluidAmount>
+  <RJW_StatEntry_FluidAmount_ejaculation>射精量</RJW_StatEntry_FluidAmount_ejaculation>
+  <RJW_StatEntry_FluidAmount_wetness>濕度</RJW_StatEntry_FluidAmount_wetness>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RemoveBodyPart.label>移除部位</RemoveBodyPart.label>
+  <RemoveBodyPart.description>移除身體部位。</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>移除身體部位。</RemoveBodyPart.jobString>
+</LanguageData>

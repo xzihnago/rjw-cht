@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_HarpyEgg.label>鳥妖卵</EFR_HarpyEgg.label>
+  <EFR_HarpyEgg.labelNoun>鳥妖卵</EFR_HarpyEgg.labelNoun>
+  <EFR_HarpyEgg.description>鳥妖的卵。</EFR_HarpyEgg.description>
+  <EFR_HarpyEgg.stages.0.extraTooltip>這顆等待受精的卵細胞正在產生性刺激荷爾蒙。</EFR_HarpyEgg.stages.0.extraTooltip>
+  <EFR_HarpyEgg.stages.1.extraTooltip>已受精並正在成長。</EFR_HarpyEgg.stages.1.extraTooltip>
+
+  <EFR_ArachneEgg.label>阿拉克涅卵</EFR_ArachneEgg.label>
+  <EFR_ArachneEgg.labelNoun>阿拉克涅卵</EFR_ArachneEgg.labelNoun>
+  <EFR_ArachneEgg.description>阿拉克涅的卵。</EFR_ArachneEgg.description>
+  <EFR_ArachneEgg.stages.0.extraTooltip>這顆阿拉克涅卵尚未著床，正在產生性刺激荷爾蒙。</EFR_ArachneEgg.stages.0.extraTooltip>
+  <EFR_ArachneEgg.stages.1.extraTooltip>這顆卵由阿拉克涅植入體內，並在宿主體內緩慢生長。</EFR_ArachneEgg.stages.1.extraTooltip>
+  <EFR_ArachneEgg.stages.2.extraTooltip>阿拉克涅卵被植入到生產它的器官中，並持續產生性刺激荷爾蒙。</EFR_ArachneEgg.stages.2.extraTooltip>
+  <EFR_ArachneEgg.stages.3.extraTooltip>這顆卵由其他阿拉克涅植入體內，並在宿主體內緩慢生長。</EFR_ArachneEgg.stages.3.extraTooltip>
+</LanguageData>

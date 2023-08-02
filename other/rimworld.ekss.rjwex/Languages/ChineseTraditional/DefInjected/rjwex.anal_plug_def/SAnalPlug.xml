@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SAnalPlugSmall.label>小型肛塞</SAnalPlugSmall.label>
+  <SAnalPlugSmall.description>沉重光滑的肛塞。小號。</SAnalPlugSmall.description>
+  <SAnalPlugSmall.comps.0.useLabel>穿戴</SAnalPlugSmall.comps.0.useLabel>
+
+  <SAnalPlugMedium.label>中型肛塞</SAnalPlugMedium.label>
+  <SAnalPlugMedium.description>沉重光滑的肛塞。中號。</SAnalPlugMedium.description>
+  <SAnalPlugMedium.comps.0.useLabel>穿戴</SAnalPlugMedium.comps.0.useLabel>
+
+  <SAnalPlugLarge.label>大型肛塞</SAnalPlugLarge.label>
+  <SAnalPlugLarge.description>沉重光滑的肛塞。大號。</SAnalPlugLarge.description>
+  <SAnalPlugLarge.comps.0.useLabel>穿戴</SAnalPlugLarge.comps.0.useLabel>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Absorber_Pad.label>衛生棉</Absorber_Pad.label>
+  <Absorber_Pad.description>用於吸收陰道液體的墊子。</Absorber_Pad.description>
+
+  <Absorber_Pad_Dirty.label>髒衛生棉</Absorber_Pad_Dirty.label>
+  <Absorber_Pad_Dirty.description>用過的濕衛生棉。</Absorber_Pad_Dirty.description>
+</LanguageData>

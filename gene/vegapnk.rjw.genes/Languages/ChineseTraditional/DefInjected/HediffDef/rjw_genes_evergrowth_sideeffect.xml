@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_evergrowth_sideeffect.label>生殖器傲慢</rjw_genes_evergrowth_sideeffect.label>
+  <rjw_genes_evergrowth_sideeffect.description>科學已經走得太遠了 - 像這樣的工具需要不斷的關注。</rjw_genes_evergrowth_sideeffect.description>
+  <rjw_genes_evergrowth_sideeffect.stages.minor.label>輕度</rjw_genes_evergrowth_sideeffect.stages.minor.label>
+  <rjw_genes_evergrowth_sideeffect.stages.moderate.label>中度</rjw_genes_evergrowth_sideeffect.stages.moderate.label>
+  <rjw_genes_evergrowth_sideeffect.stages.strong.label>強烈</rjw_genes_evergrowth_sideeffect.stages.strong.label>
+</LanguageData>

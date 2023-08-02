@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_childC.baseDescription>[PAWN_nameDef]出生於城市。</rjw_childC.baseDescription>
+  <rjw_childC.title>孩子</rjw_childC.title>
+  <rjw_childC.titleShort>孩子</rjw_childC.titleShort>
+
+  <rjw_childT.baseDescription>[PAWN_nameDef]出生於部落。</rjw_childT.baseDescription>
+  <rjw_childT.title>孩子</rjw_childT.title>
+  <rjw_childT.titleShort>孩子</rjw_childT.titleShort>
+</LanguageData>

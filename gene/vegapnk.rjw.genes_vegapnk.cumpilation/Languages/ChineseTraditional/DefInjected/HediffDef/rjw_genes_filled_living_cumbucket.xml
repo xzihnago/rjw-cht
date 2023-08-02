@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_filled_living_cumbucket.label>肉精液桶</rjw_genes_filled_living_cumbucket.label>
+  <rjw_genes_filled_living_cumbucket.description>這個居民是一個（充滿的）的肉精液桶。感謝慷慨的捐贈，這個居民會慢慢產生精液供拾取。</rjw_genes_filled_living_cumbucket.description>
+  <rjw_genes_filled_living_cumbucket.stages.slight.label>輕微</rjw_genes_filled_living_cumbucket.stages.slight.label>
+  <rjw_genes_filled_living_cumbucket.stages.moderate.label>中等</rjw_genes_filled_living_cumbucket.stages.moderate.label>
+  <rjw_genes_filled_living_cumbucket.stages.full.label>飽滿</rjw_genes_filled_living_cumbucket.stages.full.label>
+  <rjw_genes_filled_living_cumbucket.stages.over-full.label>過滿</rjw_genes_filled_living_cumbucket.stages.over-full.label>
+  <rjw_genes_filled_living_cumbucket.stages.living_reservior.label>肉液庫</rjw_genes_filled_living_cumbucket.stages.living_reservior.label>
+</LanguageData>

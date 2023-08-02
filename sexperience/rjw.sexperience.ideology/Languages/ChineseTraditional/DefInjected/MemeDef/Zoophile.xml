@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Zoophile.label>戀獸</Zoophile.label>
+  <Zoophile.description>與動物進行性交流是展示與創造物的真正聯繫，應該經常這樣做。</Zoophile.description>
+
+  <Zoophile.generalRules.rulesStrings>
+    <li>memeAdjective->獸交的</li>
+    <li>memeAdjective->戀獸的</li>
+    <li>memeHyphenPrefix->戀獸</li>
+    <li>memeConcept->繁殖</li>
+    <li>memeConcept->戀獸癖</li>
+    <li>memeConcept->獸交</li>
+    <li>memeLeaderNoun->家畜</li>
+  </Zoophile.generalRules.rulesStrings>
+
+  <Zoophile.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Zoophile)        ->[deity0_name]喜歡和獸類繁殖。</li>
+    <li>episode(uses=1,tag=meme_Zoophile)  ->[deity0_name]告誡眾人：「西格瑪禁止此等行為！」</li>
+
+    <li>setup(tag=meme_Zoophile)           ->有一天，[founderName]精蟲上腦時強上了一個動物，從此喜歡上這樣做。</li>
+    <li>story(uses=1,tag=meme_Zoophile)    ->爲了擴大動物種群，[founderName]開始和動物交配。</li>
+
+    <li>lessonIntro(tag=meme_Zoophile)         ->有一天，我跟動物做愛了，比跟人做好多了！</li>
+    <li>lesson(tag=meme_Zoophile)              ->只有動物才能滿足我。</li>
+    <li>lessonReinforcement(tag=meme_Zoophile) ->和動物做愛吧！這裡有永恒的快樂。</li>
+
+    <li>archistBasis(tag=meme_Zoophile)    ->機械神教徒永遠尋找永恒的快樂。</li>
+    <li>archistFact(tag=meme_Zoophile)     ->那便是同動物做愛。</li>
+    <li>archistProphecy(tag=meme_Zoophile) ->[inTheEnd]，機械神教徒終於解鎖了異種性行為，因此，他們也獲得了真正的永恒的快樂。</li>
+
+    <li>animistFact(tag=meme_Zoophile)     ->最強大的力量來源於野獸，只有接受野獸的支配，才能發揮野獸的強大力量。</li>
+    <li>animistProphecy(tag=meme_Zoophile) ->[itIsSaid]一個強大的毀滅之神會摧毀宇宙，但一個由人獸雜交的野獸，將揮舞著[relic0_name]擊退毀滅者。</li>
+  </Zoophile.descriptionMaker.rules.rulesStrings>
+
+  <Zoophile.symbolPacks.0.ideoName>飼養</Zoophile.symbolPacks.0.ideoName>
+  <Zoophile.symbolPacks.0.theme>餵食</Zoophile.symbolPacks.0.theme>
+  <Zoophile.symbolPacks.0.adjective>獸交的</Zoophile.symbolPacks.0.adjective>
+  <Zoophile.symbolPacks.0.member>飼養者</Zoophile.symbolPacks.0.member>
+  <Zoophile.symbolPacks.1.ideoName>獸戀</Zoophile.symbolPacks.1.ideoName>
+  <Zoophile.symbolPacks.1.theme>戀獸</Zoophile.symbolPacks.1.theme>
+  <Zoophile.symbolPacks.1.adjective>戀獸的</Zoophile.symbolPacks.1.adjective>
+  <Zoophile.symbolPacks.1.member>戀獸者</Zoophile.symbolPacks.1.member>
+</LanguageData>

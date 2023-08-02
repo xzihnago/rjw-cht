@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CameInsideF.stages.0.label>被{0}中出了</CameInsideF.stages.0.label>
+  <CameInsideF.stages.0.description>我好擔心懷孕。</CameInsideF.stages.0.description>
+
+  <CameInsideFLowFert.stages.0.label>被{0}中出了</CameInsideFLowFert.stages.0.label>
+  <CameInsideFLowFert.stages.0.description>我好擔心懷孕。&#10;雖然機率很低，但…</CameInsideFLowFert.stages.0.description>
+
+  <CameInsideFFetish.stages.0.label>被{0}中出了</CameInsideFFetish.stages.0.label>
+  <CameInsideFFetish.stages.0.description>我希望能懷孕。</CameInsideFFetish.stages.0.description>
+
+  <CameInsideFFetishSafe.stages.0.label>被{0}中出了</CameInsideFFetishSafe.stages.0.label>
+  <CameInsideFFetishSafe.stages.0.description>雖說不太可能懷上，但幻想懷孕真的好有趣！</CameInsideFFetishSafe.stages.0.description>
+
+  <CameInsideFIdeo.stages.0.label>被{0}中出了</CameInsideFIdeo.stages.0.label>
+  <CameInsideFIdeo.stages.0.description>我希望這能讓我懷孕。</CameInsideFIdeo.stages.0.description>
+
+  <HaterCameInsideF.stages.0.label>被{0}中出了</HaterCameInsideF.stages.0.label>
+  <HaterCameInsideF.stages.0.description>我不想要他的孩子！</HaterCameInsideF.stages.0.description>
+
+  <HaterCameInsideFSafe.stages.0.label>被{0}中出了</HaterCameInsideFSafe.stages.0.label>
+  <HaterCameInsideFSafe.stages.0.description>雖說不太可能懷上，但我不喜歡。</HaterCameInsideFSafe.stages.0.description>
+
+  <HaterCameInsideFEstrus.stages.0.label>被{0}中出了</HaterCameInsideFEstrus.stages.0.label>
+  <HaterCameInsideFEstrus.stages.0.description>我到底在想什麼，竟然讓他做出了這種事！</HaterCameInsideFEstrus.stages.0.description>
+
+  <HaterCameInsideFIdeo.stages.0.label>被{0}中出了</HaterCameInsideFIdeo.stages.0.label>
+  <HaterCameInsideFIdeo.stages.0.description>我知道我應該懷孕，但是非他不可嗎？</HaterCameInsideFIdeo.stages.0.description>
+</LanguageData>

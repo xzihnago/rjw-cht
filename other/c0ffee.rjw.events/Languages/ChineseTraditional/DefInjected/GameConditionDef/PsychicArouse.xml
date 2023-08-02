@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicArouse.label>心靈催情</PsychicArouse.label>
+  <PsychicArouse.description>遠方的建築物正在發射心靈電波，提升人們的情慾。</PsychicArouse.description>
+  <PsychicArouse.descriptionFuture>[psychicDroneLevel]的干擾電波將會在[gameConditionDuration_duration]內不斷在[map_definite]迴響，使[psychicDroneGender]的人們提升情慾</PsychicArouse.descriptionFuture>
+  <PsychicArouse.endMessage>這場心靈催情已經結束。</PsychicArouse.endMessage>
+  <PsychicArouse.letterText>每個{0}的殖民者都因興奮而臉紅。\n\n在遠方有個慾望機器正在運作。它發射的心靈輻射籠罩了整個區域，它只會影響{0}。幾天內，每個{0}都會感到性慾提高與性需求增加。</PsychicArouse.letterText>
+</LanguageData>

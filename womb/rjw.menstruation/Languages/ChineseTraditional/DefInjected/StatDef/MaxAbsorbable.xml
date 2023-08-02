@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MaxAbsorbable.label>吸收量</MaxAbsorbable.label>
+  <MaxAbsorbable.description>該物品可吸收的最大液體量。</MaxAbsorbable.description>
+  <MaxAbsorbable.formatString>{0} 毫升</MaxAbsorbable.formatString>
+</LanguageData>

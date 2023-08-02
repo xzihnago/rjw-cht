@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InterruptedSex.label>中斷做愛</InterruptedSex.label>
+  <InterruptedSex.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]的突然出現嚇了[RECIPIENT_nameDef]一跳。</li>
+    <li>r_logentry->[INITIATOR_nameDef]意外闖入了[RECIPIENT_nameDef]的私人聚會。</li>
+    <li>r_logentry->[INITIATOR_nameDef]無意中侵犯了[RECIPIENT_nameDef]的隱私。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]正要插入時粗魯地打斷了。</li>
+  </InterruptedSex.logRulesInitiator.rulesStrings>
+</LanguageData>

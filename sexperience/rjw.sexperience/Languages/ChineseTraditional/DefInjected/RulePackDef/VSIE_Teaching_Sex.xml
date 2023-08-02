@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSIE_Teaching_Sex.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][SexTopic]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef][talkedabout][SexTopic]。</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef]對[RECIPIENT_nameDef][commentedabout][SexTopic]。</li>
+
+    <li>talkedabout(p=4)->聊了</li>
+    <li>talkedabout->分享了一句話關於</li>
+    <li>talkedabout->談到</li>
+    <li>talkedabout->閒聊到</li>
+    <li>talkedabout->討論到</li>
+    <li>talkedabout->開玩笑著說</li>
+    <li>talkedabout->打趣著說</li>
+
+    <li>commentedabout->說了一些關於</li>
+    <li>commentedabout->說了一句話關於</li>
+    <li>commentedabout->發表了評論關於</li>
+    <li>commentedabout->評論關於</li>
+    <li>commentedabout->講了一個笑話關於</li>
+  </VSIE_Teaching_Sex.rulePack.rulesStrings>
+</LanguageData>

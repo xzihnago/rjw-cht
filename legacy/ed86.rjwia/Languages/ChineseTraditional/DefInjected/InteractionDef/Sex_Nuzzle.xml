@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_Nuzzle.label>磨蹭</Sex_Nuzzle.label>
+  <Sex_Nuzzle.logRulesInitiator.rulesStrings.0>r_logentry->磨蹭[RECIPIENT_nameDef]。</Sex_Nuzzle.logRulesInitiator.rulesStrings.0>
+  <Sex_Nuzzle.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]磨蹭。</Sex_Nuzzle.logRulesRecipient.rulesStrings.0>
+  <Sex_Nuzzle.modExtensions.0.RMBLabel>磨蹭</Sex_Nuzzle.modExtensions.0.RMBLabel>
+</LanguageData>

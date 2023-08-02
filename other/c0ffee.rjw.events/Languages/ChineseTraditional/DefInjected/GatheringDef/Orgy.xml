@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Orgy.label>亂交</Orgy.label>
+  <Orgy.letterTitle>亂交</Orgy.letterTitle>
+  <Orgy.letterText>{ORGANIZER_labelShort}正在舉辦一場亂交！任何參加亂交的人都能獲得社交和性滿意度。</Orgy.letterText>
+  <Orgy.calledOffMessage>亂交取消了。</Orgy.calledOffMessage>
+  <Orgy.finishedMessage>亂交結束了。</Orgy.finishedMessage>
+</LanguageData>

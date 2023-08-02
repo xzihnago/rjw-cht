@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VomitedCum.label>吐出精液</VomitedCum.label>
+  <VomitedCum.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]吐出的精液</li>
+    <li>image->[PAWN_nameFull]將精液噴射在地上[circumstance_group]</li>
+    <li>image->看起來昏昏沉沉，全身覆滿精液[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]翻身在地板上嘔吐精液[circumstance_group]</li>
+    <li>image->[PAWN_nameFull]跪在地上，將精液吐到地板上[circumstance_group]</li>
+    <li>circumstance_phrase->同時看起來很勉強</li>
+    <li>circumstance_phrase->同時從[PAWN_possessive]鼻子流出精液</li>
+    <li>desc_sentence->[PAWN_pronoun]似乎完全不知道[PAWN_objective]周圍的情況。</li>
+    <li>desc_sentence->精液從[PAWN_possessive]嘴巴冒泡。</li>
+    <li>desc_sentence->[PAWN_pronoun]幾乎失去知覺，舌頭懶散地伸出，嘴巴裡滴著精液。</li>
+    <li>desc_sentence->[PAWN_pronoun]正在劇烈抽搐。</li>
+    <li>desc_sentence->[PAWN_pronoun]看起來筋疲力盡。</li>
+    <li>desc_sentence->[PAWN_pronoun]似乎在嘗試笑，儘管處境不妙。</li>
+    <li>desc_sentence->[PAWN_pronoun]看起來幾乎虛脫，彷彿被強烈的精液嘔吐所掏空。</li>
+    <li>desc_sentence->[PAWN_pronoun]被一個藝術性地渲染的精液光環所圍繞。</li>
+    <li>desc_sentence->背景中有一隻[Animal]正在吃著精液的痕跡。</li>
+  </VomitedCum.rulePack.rulesStrings>
+</LanguageData>

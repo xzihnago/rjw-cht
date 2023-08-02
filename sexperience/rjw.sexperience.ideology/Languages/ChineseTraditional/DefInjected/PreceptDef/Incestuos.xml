@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Incestuos_Free.label>無所禁忌</Incestuos_Free.label>
+  <Incestuos_Free.description>思想開明的。</Incestuos_Free.description>
+
+  <Incestuos_Disapproved_CloseOnly.label>不允許近親（３等親）</Incestuos_Disapproved_CloseOnly.label>
+  <Incestuos_Disapproved_CloseOnly.description>亂倫在社會上是不被認可的，但堂表親不算亂倫。</Incestuos_Disapproved_CloseOnly.description>
+
+  <Incestuos_Disapproved.label>不贊同</Incestuos_Disapproved.label>
+  <Incestuos_Disapproved.description>亂倫違反公序良俗。</Incestuos_Disapproved.description>
+
+  <Incestuos_Forbidden.label>禁忌</Incestuos_Forbidden.label>
+  <Incestuos_Forbidden.description>亂倫是社會所不認可的。</Incestuos_Forbidden.description>
+
+  <Incestuos_IncestOnly.label>僅族內通婚</Incestuos_IncestOnly.label>
+  <Incestuos_IncestOnly.description>萬世一系，血脈相融。</Incestuos_IncestOnly.description>
+</LanguageData>

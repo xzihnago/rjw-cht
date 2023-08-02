@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Surgery_ExpandNipple.label>增大乳頭</Surgery_ExpandNipple.label>
+  <Surgery_ExpandNipple.description>增大乳頭。</Surgery_ExpandNipple.description>
+  <Surgery_ExpandNipple.jobString>增大乳頭</Surgery_ExpandNipple.jobString>
+
+  <Surgery_ContractNipple.label>縮小乳頭</Surgery_ContractNipple.label>
+  <Surgery_ContractNipple.description>縮小乳頭。</Surgery_ContractNipple.description>
+  <Surgery_ContractNipple.jobString>縮小乳頭</Surgery_ContractNipple.jobString>
+
+  <Surgery_DarkenNipple.label>黯化乳頭</Surgery_DarkenNipple.label>
+  <Surgery_DarkenNipple.description>黯化乳頭。</Surgery_DarkenNipple.description>
+  <Surgery_DarkenNipple.jobString>黯化乳頭</Surgery_DarkenNipple.jobString>
+
+  <Surgery_LightenNipple.label>亮化乳頭</Surgery_LightenNipple.label>
+  <Surgery_LightenNipple.description>亮化乳頭。</Surgery_LightenNipple.description>
+  <Surgery_LightenNipple.jobString>亮化乳頭</Surgery_LightenNipple.jobString>
+</LanguageData>

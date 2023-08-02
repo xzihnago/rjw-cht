@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Virgin.degreeDatas.0.label>破損的純潔</Virgin.degreeDatas.0.label>
+  <Virgin.degreeDatas.0.labelMale>出問題了！男性無法擁有此特性</Virgin.degreeDatas.0.labelMale>
+  <Virgin.degreeDatas.0.description>[PAWN_nameDef]尚無經驗，但她的處女膜因為其他原因破了。</Virgin.degreeDatas.0.description>
+
+  <Virgin.degreeDatas.1.label>純潔</Virgin.degreeDatas.1.label>
+  <Virgin.degreeDatas.1.description>[PAWN_nameDef]尚無經驗。</Virgin.degreeDatas.1.description>
+
+  <Virgin.degreeDatas.2.label>純潔？</Virgin.degreeDatas.2.label>
+  <Virgin.degreeDatas.2.labelMale>出問題了！男性無法擁有此特性</Virgin.degreeDatas.2.labelMale>
+  <Virgin.degreeDatas.2.description>[PAWN_nameDef]看起來有經驗，但處女膜仍在。</Virgin.degreeDatas.2.description>
+
+  <Virgin.degreeDatas.3.label>純潔</Virgin.degreeDatas.3.label>
+  <Virgin.degreeDatas.3.labelMale>出問題了！男性無法擁有此特性</Virgin.degreeDatas.3.labelMale>
+  <Virgin.degreeDatas.3.description>[PAWN_nameDef]尚無經驗。</Virgin.degreeDatas.3.description>
+</LanguageData>

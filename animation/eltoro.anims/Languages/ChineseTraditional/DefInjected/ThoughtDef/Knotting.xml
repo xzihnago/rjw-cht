@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActiveKnottingGood.stages.0.label>肉結</ActiveKnottingGood.stages.0.label>
+  <ActiveKnottingGood.stages.0.description>我被深深地鎖在裡面，我的肉結膨脹起來，讓我身邊的伴侶擴張。濕熱的感覺緊緊包圍著我，每一次脈動都讓這種感覺更加強烈。</ActiveKnottingGood.stages.0.description>
+
+  <ActiveKnottingBad.stages.0.label>肉結</ActiveKnottingBad.stages.0.label>
+  <ActiveKnottingBad.stages.0.description>我的肉結膨脹起來，將我們牢牢地鎖在一起。壓力和熱量太大，並且每一次脈動都只會讓情況變得更糟。</ActiveKnottingBad.stages.0.description>
+
+  <KnottingGood.stages.0.label>肉結的記憶</KnottingGood.stages.0.label>
+  <KnottingGood.stages.0.description>交纏已經解開了，但我仍然能感覺到肉結周圍的溫暖。愉悅的感覺仍然存在，留下深深的、令人滿意的疼痛。</KnottingGood.stages.0.description>
+
+  <KnottingGoodFaint.stages.0.label>肉結的模糊記憶</KnottingGoodFaint.stages.0.label>
+  <KnottingGoodFaint.stages.0.description>肉結周圍的溫暖和緊繃感已基本消退，但我仍能感受到令人滿意的餘輝。</KnottingGoodFaint.stages.0.description>
+
+  <KnottingBad.stages.0.label>肉結的記憶</KnottingBad.stages.0.label>
+  <KnottingBad.stages.0.description>交纏已經解開了，但我仍然感到疼痛。壓力依然存在，不適感也始終沒有消失。</KnottingBad.stages.0.description>
+
+  <KnottingBadFaint.stages.0.label>肉結的模糊記憶</KnottingBadFaint.stages.0.label>
+  <KnottingBadFaint.stages.0.description>最糟糕的時期已經過去了，但我仍然記得自己被困在裡面的情景。</KnottingBadFaint.stages.0.description>
+</LanguageData>

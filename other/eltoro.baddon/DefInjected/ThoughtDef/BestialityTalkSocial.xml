@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityTalkSocial.stages.0.label>獸交討論</BestialityTalkSocial.stages.0.label>
+  <BestialityTalkSocial.stages.0.description>我和某人談論了獸交。</BestialityTalkSocial.stages.0.description>
+
+  <BestialityTalkSocial_Negative.stages.0.label>不愉快的獸交討論</BestialityTalkSocial_Negative.stages.0.label>
+  <BestialityTalkSocial_Negative.stages.0.description>我和某人不愉快地談論了獸交。</BestialityTalkSocial_Negative.stages.0.description>
+
+  <BestialityTalkMood.stages.0.label>獸交討論</BestialityTalkMood.stages.0.label>
+  <BestialityTalkMood.stages.0.description>我進行了一次關於獸交的愉快談話。</BestialityTalkMood.stages.0.description>
+</LanguageData>

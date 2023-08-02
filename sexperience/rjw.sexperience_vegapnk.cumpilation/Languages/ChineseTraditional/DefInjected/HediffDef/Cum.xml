@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CumAddiction.label>精液成癮</CumAddiction.label>
+  <CumAddiction.description>精液成癮。</CumAddiction.description>
+  <CumAddiction.stages.withdrawal.label>戒斷</CumAddiction.stages.withdrawal.label>
+
+  <CumTolerance.label>精液耐受</CumTolerance.label>
+  <CumTolerance.description>更容易對精液上癮。</CumTolerance.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_EggedOtherPawn.stages.0.label>托卵</EFR_EggedOtherPawn.stages.0.label>
+  <EFR_EggedOtherPawn.stages.0.description>我能夠將我的卵植入某個地方，知道我的後代正在成長的感覺真好。</EFR_EggedOtherPawn.stages.0.description>
+
+  <EFR_WasEgged.stages.1.label>被托卵</EFR_WasEgged.stages.1.label>
+  <EFR_WasEgged.stages.1.description>我被植入了阿拉克涅的卵，我可以感覺到它們在我體內移動。</EFR_WasEgged.stages.1.description>
+  <EFR_WasEgged.stages.2.label>卵已受精</EFR_WasEgged.stages.2.label>
+  <EFR_WasEgged.stages.2.description>我的卵已經受精，正在我體內慢慢成長，感覺真好。</EFR_WasEgged.stages.2.description>
+  <EFR_WasEgged.stages.3.label>被托卵</EFR_WasEgged.stages.3.label>
+  <EFR_WasEgged.stages.3.description>我被植入了其他阿拉克涅的卵。延續這個物種的感覺真好，雖然我希望是植入的那方。</EFR_WasEgged.stages.3.description>
+
+  <EFR_ArachneWasEgged.stages.0.label>被托卵</EFR_ArachneWasEgged.stages.0.label>
+  <EFR_ArachneWasEgged.stages.0.description>我被植入了一些卵，我可以感覺到它們在我體內移動。</EFR_ArachneWasEgged.stages.0.description>
+</LanguageData>

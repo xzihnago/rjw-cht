@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rapist.label>強暴</Rapist.label>
+  <Rapist.description>想要性交是很自然的事，否認任何人的這項權利是不自然與卑鄙的，而未經同意的行為則是純粹與正確的。</Rapist.description>
+
+  <Rapist.generalRules.rulesStrings>
+    <li>memeAdjective->暴力的</li>
+    <li>memeAdjective->強姦的</li>
+    <li>memeHyphenPrefix->強暴犯</li>
+    <li>memeHyphenPrefix->騷擾犯</li>
+    <li>memeHyphenPrefix->變態</li>
+    <li>memeConcept->強姦犯</li>
+    <li>memeConcept->變態</li>
+    <li>r_deityName->色孽</li>
+    <li>memeLeaderNoun->種馬</li>
+    <li>memeLeaderNoun->大強暴犯</li>
+  </Rapist.generalRules.rulesStrings>
+
+  <Rapist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Rapist)        ->[deity0_name]喜好強暴。</li>
+    <li>episode(uses=1,tag=meme_Rapist)  ->[deity0_name]將某人強暴致死。</li>
+
+    <li>setup(tag=meme_Rapist)           ->[founderName]總是慾火焚身。</li>
+    <li>story(uses=1,tag=meme_Rapist)    ->[founderName]強暴了某人。沒人能夠制止[founderName]。[founderName]試圖強暴整個星球，死在了半路上。</li>
+
+    <li>lessonIntro(tag=meme_Rapist)         ->強暴萬歲！強暴萬歲！強暴萬歲！</li>
+    <li>lesson(tag=meme_Rapist)              ->強暴萬歲！強暴萬歲！強暴萬歲！強暴萬歲！</li>
+    <li>lessonReinforcement(tag=meme_Rapist) ->強暴萬歲！強暴萬歲！強暴萬歲！強暴萬歲！強暴萬歲！</li>
+
+    <li>archistBasis(tag=meme_Rapist)    ->人類的歷史就是強暴的歷史。</li>
+    <li>archistFact(tag=meme_Rapist)     ->機械信徒也阻止不了強暴犯。</li>
+    <li>archistProphecy(tag=meme_Rapist) ->[inTheEnd]，強暴犯從未停止過強暴。</li>
+
+    <li>animistFact(tag=meme_Rapist)     ->強暴之靈是最強大的靈，牠會強暴其他所有的靈。</li>
+    <li>animistProphecy(tag=meme_Rapist) ->[itIsSaid]一個強大的毀滅之神會摧毀宇宙，但一個強姦了一百萬個人類的強暴犯揮舞著[relic0_name]擊退了毀滅者。</li>
+  </Rapist.descriptionMaker.rules.rulesStrings>
+
+  <Rapist.symbolPacks.0.ideoName>強姦者們</Rapist.symbolPacks.0.ideoName>
+  <Rapist.symbolPacks.0.theme>強姦者</Rapist.symbolPacks.0.theme>
+  <Rapist.symbolPacks.0.adjective>強姦的</Rapist.symbolPacks.0.adjective>
+  <Rapist.symbolPacks.0.member>強姦者</Rapist.symbolPacks.0.member>
+  <Rapist.symbolPacks.1.ideoName>色孽的呼喚</Rapist.symbolPacks.1.ideoName>
+  <Rapist.symbolPacks.1.theme>快樂</Rapist.symbolPacks.1.theme>
+  <Rapist.symbolPacks.1.adjective>頹廢的</Rapist.symbolPacks.1.adjective>
+  <Rapist.symbolPacks.1.member>異教徒</Rapist.symbolPacks.1.member>
+</LanguageData>

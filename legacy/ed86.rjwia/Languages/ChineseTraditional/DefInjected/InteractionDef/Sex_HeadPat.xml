@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_HeadPat.label>摸頭</Sex_HeadPat.label>
+  <Sex_HeadPat.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]摸頭。</Sex_HeadPat.logRulesInitiator.rulesStrings.0>
+  <Sex_HeadPat.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]摸頭。</Sex_HeadPat.logRulesRecipient.rulesStrings.0>
+  <Sex_HeadPat.modExtensions.0.RMBLabel>摸頭</Sex_HeadPat.modExtensions.0.RMBLabel>
+
+  <Sex_Reverse_HeadPat.label>摸頭</Sex_Reverse_HeadPat.label>
+  <Sex_Reverse_HeadPat.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]摸頭。</Sex_Reverse_HeadPat.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_HeadPat.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]摸頭。</Sex_Reverse_HeadPat.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_HeadPat.modExtensions.0.RMBLabel>摸頭</Sex_Reverse_HeadPat.modExtensions.0.RMBLabel>
+</LanguageData>

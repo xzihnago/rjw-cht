@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OvipositorM.label>產卵管(雄性)</OvipositorM.label>
+  <OvipositorM.description>昆蟲用以使卵受精的交配器官。</OvipositorM.description>
+
+  <OvipositorF.label>產卵管(雌性)</OvipositorF.label>
+  <OvipositorF.description>昆蟲用以使卵孵化的交配器官。</OvipositorF.description>
+
+  <InsectAnus.label>馬氏管</InsectAnus.label>
+  <InsectAnus.description>昆蟲肛門。</InsectAnus.description>
+</LanguageData>

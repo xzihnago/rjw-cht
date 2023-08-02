@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.label>反蟲精胃</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.label>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.labelNoun>反蟲精胃</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.labelNoun>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.description>顯然你可以處理得很好。</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.description>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_slightly_bloated.label>稍微發脹</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_slightly_bloated.label>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_bloated.label>發脹</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_bloated.label>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_full.label>飽滿</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_full.label>
+  <RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_over-stuffed.label>過量</RJW_Genes_Cumpilation_InsectSpunkStuffed_Counter.stages.counter_over-stuffed.label>
+</LanguageData>

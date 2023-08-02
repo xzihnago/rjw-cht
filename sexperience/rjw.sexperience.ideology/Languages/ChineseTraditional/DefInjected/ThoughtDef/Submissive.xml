@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BeenRaped_Submissive.stages.0.label>被強暴</BeenRaped_Submissive.stages.0.label>
+  <BeenRaped_Submissive.stages.0.description>我不得不接受，但那讓我不好過。</BeenRaped_Submissive.stages.0.description>
+
+  <BeenRaped_NotSubmissive.stages.0.label>{0}強姦我</BeenRaped_NotSubmissive.stages.0.label>
+  <BeenRaped_NotSubmissive.stages.0.description>怎麼敢…</BeenRaped_NotSubmissive.stages.0.description>
+
+  <Raped_Know_NotBeingSubmissive.stages.0.label>不服從</Raped_Know_NotBeingSubmissive.stages.0.label>
+</LanguageData>

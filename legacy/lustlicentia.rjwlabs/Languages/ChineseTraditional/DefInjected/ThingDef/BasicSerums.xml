@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreastExpansionSerum.label>乳房擴張血清</BreastExpansionSerum.label>
+  <BreastExpansionSerum.description>增大使用者的乳房尺寸。</BreastExpansionSerum.description>
+  <BreastExpansionSerum.ingestible.ingestCommandString>飲用{0}</BreastExpansionSerum.ingestible.ingestCommandString>
+  <BreastExpansionSerum.ingestible.ingestReportString>飲用{0}。</BreastExpansionSerum.ingestible.ingestReportString>
+
+  <BreastReductionSerum.label>乳房收縮血清</BreastReductionSerum.label>
+  <BreastReductionSerum.description>縮小使用者的乳房尺寸。</BreastReductionSerum.description>
+  <BreastReductionSerum.ingestible.ingestCommandString>飲用{0}</BreastReductionSerum.ingestible.ingestCommandString>
+  <BreastReductionSerum.ingestible.ingestReportString>飲用{0}。</BreastReductionSerum.ingestible.ingestReportString>
+
+  <GenitalExtrusionSerum.label>生殖器強化血清</GenitalExtrusionSerum.label>
+  <GenitalExtrusionSerum.description>增大使用者的陰莖尺寸。或是導致陰道收縮。</GenitalExtrusionSerum.description>
+  <GenitalExtrusionSerum.ingestible.ingestCommandString>飲用{0}</GenitalExtrusionSerum.ingestible.ingestCommandString>
+  <GenitalExtrusionSerum.ingestible.ingestReportString>飲用{0}。</GenitalExtrusionSerum.ingestible.ingestReportString>
+
+  <GenitalRetractionSerum.label>生殖器弱化血清</GenitalRetractionSerum.label>
+  <GenitalRetractionSerum.description>縮小使用者的陰莖尺寸。或是導致陰道擴張。</GenitalRetractionSerum.description>
+  <GenitalRetractionSerum.ingestible.ingestCommandString>飲用{0}</GenitalRetractionSerum.ingestible.ingestCommandString>
+  <GenitalRetractionSerum.ingestible.ingestReportString>飲用{0}。</GenitalRetractionSerum.ingestible.ingestReportString>
+
+  <CumIncreaseSerum.label>精液＋血清</CumIncreaseSerum.label>
+  <CumIncreaseSerum.description>增加精液產量。</CumIncreaseSerum.description>
+  <CumIncreaseSerum.ingestible.ingestCommandString>飲用{0}</CumIncreaseSerum.ingestible.ingestCommandString>
+  <CumIncreaseSerum.ingestible.ingestReportString>飲用{0}。</CumIncreaseSerum.ingestible.ingestReportString>
+
+  <CumDecreaseSerum.label>精液－血清</CumDecreaseSerum.label>
+  <CumDecreaseSerum.description>減少精液產量。</CumDecreaseSerum.description>
+  <CumDecreaseSerum.ingestible.ingestCommandString>飲用{0}</CumDecreaseSerum.ingestible.ingestCommandString>
+  <CumDecreaseSerum.ingestible.ingestReportString>飲用{0}。</CumDecreaseSerum.ingestible.ingestReportString>
+
+  <TighteningSerumAnal.label>肛門收縮血清</TighteningSerumAnal.label>
+  <TighteningSerumAnal.description>收緊使用者的肛門...</TighteningSerumAnal.description>
+  <TighteningSerumAnal.ingestible.ingestCommandString>飲用{0}</TighteningSerumAnal.ingestible.ingestCommandString>
+  <TighteningSerumAnal.ingestible.ingestReportString>飲用{0}。</TighteningSerumAnal.ingestible.ingestReportString>
+
+  <ElasticisingSerum.label>彈性血清</ElasticisingSerum.label>
+  <ElasticisingSerum.description>讓使用者的孔洞富有彈性。</ElasticisingSerum.description>
+  <ElasticisingSerum.ingestible.ingestCommandString>飲用{0}</ElasticisingSerum.ingestible.ingestCommandString>
+  <ElasticisingSerum.ingestible.ingestReportString>飲用{0}。</ElasticisingSerum.ingestible.ingestReportString>
+
+  <EnlargingSerum.label>增大血清</EnlargingSerum.label>
+  <EnlargingSerum.description>暫時增大生殖器官。</EnlargingSerum.description>
+  <EnlargingSerum.ingestible.ingestCommandString>飲用{0}</EnlargingSerum.ingestible.ingestCommandString>
+  <EnlargingSerum.ingestible.ingestReportString>飲用{0}。</EnlargingSerum.ingestible.ingestReportString>
+
+  <DiminishingSerum.label>縮小血清</DiminishingSerum.label>
+  <DiminishingSerum.description>暫時縮小生殖器官。</DiminishingSerum.description>
+  <DiminishingSerum.ingestible.ingestCommandString>飲用{0}</DiminishingSerum.ingestible.ingestCommandString>
+  <DiminishingSerum.ingestible.ingestReportString>飲用{0}。</DiminishingSerum.ingestible.ingestReportString>
+
+  <ReinforcingSerum.label>強化血清</ReinforcingSerum.label>
+  <ReinforcingSerum.description>讓使用者的孔洞不易撕裂，但仍具有伸展性。</ReinforcingSerum.description>
+  <ReinforcingSerum.ingestible.ingestCommandString>飲用{0}</ReinforcingSerum.ingestible.ingestCommandString>
+  <ReinforcingSerum.ingestible.ingestReportString>飲用{0}。</ReinforcingSerum.ingestible.ingestReportString>
+</LanguageData>

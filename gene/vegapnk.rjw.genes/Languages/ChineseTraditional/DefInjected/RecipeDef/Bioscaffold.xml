@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallBioscaffold.label>安裝生物支架</InstallBioscaffold.label>
+  <InstallBioscaffold.description>安裝生物支架。</InstallBioscaffold.description>
+  <InstallBioscaffold.jobString>安裝生物支架。</InstallBioscaffold.jobString>
+
+  <RemoveBioscaffold.label>移除生物支架</RemoveBioscaffold.label>
+  <RemoveBioscaffold.description>移除生物支架。</RemoveBioscaffold.description>
+  <RemoveBioscaffold.jobString>移除生物支架。</RemoveBioscaffold.jobString>
+</LanguageData>

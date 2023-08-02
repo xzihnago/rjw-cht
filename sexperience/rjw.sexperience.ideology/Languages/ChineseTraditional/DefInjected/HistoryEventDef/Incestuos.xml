@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSI_CloseRelativeMarriage.label>近親結婚（３等親）</RSI_CloseRelativeMarriage.label>
+  <RSI_IncestuosMarriage.label>近親結婚（４等親）</RSI_IncestuosMarriage.label>
+  <RSI_NonIncestuosMarriage.label>非近親結婚</RSI_NonIncestuosMarriage.label>
+
+  <RSI_CloseRelativeSex.label>近親相姦（３等親）</RSI_CloseRelativeSex.label>
+  <RSI_IncestuosSex.label>近親相姦（４等親）</RSI_IncestuosSex.label>
+  <RSI_NonIncestuosSex.label>非近親相姦</RSI_NonIncestuosSex.label>
+</LanguageData>

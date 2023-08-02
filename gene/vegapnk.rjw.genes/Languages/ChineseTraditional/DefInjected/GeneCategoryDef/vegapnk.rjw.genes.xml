@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_gender.label>性別</rjw_genes_gender.label>
+  <rjw_genes_genitalia_type.label>外觀 - 生殖器類型</rjw_genes_genitalia_type.label>
+  <rjw_genes_genitalia_extras.label>生殖器數量</rjw_genes_genitalia_extras.label>
+  <rjw_genes_genitalia_size.label>生殖器尺寸 / 屬性</rjw_genes_genitalia_size.label>
+  <rjw_genes_fertilin.label>育原</rjw_genes_fertilin.label>
+  <rjw_genes_breeding.label>配種</rjw_genes_breeding.label>
+  <rjw_genes_fluids.label>體液</rjw_genes_fluids.label>
+  <rjw_genes_damage.label>生殖器相關傷害</rjw_genes_damage.label>
+  <rjw_genes_special.label>生殖器特殊能力</rjw_genes_special.label>
+  <rjw_genes_diseases.label>遺傳性性病</rjw_genes_diseases.label>
+</LanguageData>

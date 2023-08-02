@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_HuffTheFluff.label>撫摸尾巴</Sex_HuffTheFluff.label>
+  <Sex_HuffTheFluff.logRulesInitiator.rulesStrings.0>r_logentry->撫摸[RECIPIENT_nameDef]的尾巴。</Sex_HuffTheFluff.logRulesInitiator.rulesStrings.0>
+  <Sex_HuffTheFluff.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]撫摸尾巴。</Sex_HuffTheFluff.logRulesRecipient.rulesStrings.0>
+  <Sex_HuffTheFluff.modExtensions.0.RMBLabel>撫摸尾巴</Sex_HuffTheFluff.modExtensions.0.RMBLabel>
+</LanguageData>

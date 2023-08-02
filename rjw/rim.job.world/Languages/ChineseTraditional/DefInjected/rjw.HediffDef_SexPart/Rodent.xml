@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RodentPenis.label>鼠陰莖</RodentPenis.label>
+  <RodentPenis.labelNoun>鼠陰莖</RodentPenis.labelNoun>
+  <RodentPenis.description>一個鼠陰莖。</RodentPenis.description>
+  <RodentPenis.stages.0.label>微小</RodentPenis.stages.0.label>
+  <RodentPenis.stages.1.label>小</RodentPenis.stages.1.label>
+  <RodentPenis.stages.2.label>普通</RodentPenis.stages.2.label>
+  <RodentPenis.stages.3.label>大</RodentPenis.stages.3.label>
+  <RodentPenis.stages.4.label>巨大</RodentPenis.stages.4.label>
+  <RodentPenis.stages.5.label>參天</RodentPenis.stages.5.label>
+
+  <RodentVagina.label>鼠陰道</RodentVagina.label>
+  <RodentVagina.labelNoun>鼠陰道</RodentVagina.labelNoun>
+  <RodentVagina.description>一個鼠陰道。</RodentVagina.description>
+  <RodentVagina.stages.0.label>過窄</RodentVagina.stages.0.label>
+  <RodentVagina.stages.1.label>緊</RodentVagina.stages.1.label>
+  <RodentVagina.stages.2.label>普通</RodentVagina.stages.2.label>
+  <RodentVagina.stages.3.label>鬆</RodentVagina.stages.3.label>
+  <RodentVagina.stages.4.label>過鬆</RodentVagina.stages.4.label>
+  <RodentVagina.stages.5.label>深淵</RodentVagina.stages.5.label>
+</LanguageData>

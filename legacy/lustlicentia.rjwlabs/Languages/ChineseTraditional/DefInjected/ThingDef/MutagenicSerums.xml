@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CanineMutagenicSerum.label>犬科變異血清</CanineMutagenicSerum.label>
+  <CanineMutagenicSerum.description>讓使用者獲得狗的生殖器官。</CanineMutagenicSerum.description>
+  <CanineMutagenicSerum.ingestible.ingestCommandString>飲用{0}</CanineMutagenicSerum.ingestible.ingestCommandString>
+  <CanineMutagenicSerum.ingestible.ingestReportString>飲用{0}。</CanineMutagenicSerum.ingestible.ingestReportString>
+
+  <FelineMutagenicSerum.label>貓科變異血清</FelineMutagenicSerum.label>
+  <FelineMutagenicSerum.description>讓使用者獲得貓的生殖器官。</FelineMutagenicSerum.description>
+  <FelineMutagenicSerum.ingestible.ingestCommandString>飲用{0}</FelineMutagenicSerum.ingestible.ingestCommandString>
+  <FelineMutagenicSerum.ingestible.ingestReportString>飲用{0}。</FelineMutagenicSerum.ingestible.ingestReportString>
+
+  <EquineMutagenicSerum.label>馬科變異血清</EquineMutagenicSerum.label>
+  <EquineMutagenicSerum.description>讓使用者獲得馬的生殖器官。</EquineMutagenicSerum.description>
+  <EquineMutagenicSerum.ingestible.ingestCommandString>飲用{0}</EquineMutagenicSerum.ingestible.ingestCommandString>
+  <EquineMutagenicSerum.ingestible.ingestReportString>飲用{0}。</EquineMutagenicSerum.ingestible.ingestReportString>
+
+  <DraconicMutagenicSerum.label>龍類變異血清</DraconicMutagenicSerum.label>
+  <DraconicMutagenicSerum.description>讓使用者獲得龍的生殖器官。</DraconicMutagenicSerum.description>
+  <DraconicMutagenicSerum.ingestible.ingestCommandString>飲用{0}</DraconicMutagenicSerum.ingestible.ingestCommandString>
+  <DraconicMutagenicSerum.ingestible.ingestReportString>飲用{0}。</DraconicMutagenicSerum.ingestible.ingestReportString>
+
+  <DemonicMutagenicSerum.label>惡魔變異血清</DemonicMutagenicSerum.label>
+  <DemonicMutagenicSerum.description>讓使用者獲得惡魔的生殖器官和肛門。</DemonicMutagenicSerum.description>
+  <DemonicMutagenicSerum.ingestible.ingestCommandString>飲用{0}</DemonicMutagenicSerum.ingestible.ingestCommandString>
+  <DemonicMutagenicSerum.ingestible.ingestReportString>飲用{0}。</DemonicMutagenicSerum.ingestible.ingestReportString>
+
+  <SlimeMutagenicSerum.label>史萊姆變異血清</SlimeMutagenicSerum.label>
+  <SlimeMutagenicSerum.description>讓使用者獲得史萊姆的生殖器官、胸部和肛門。</SlimeMutagenicSerum.description>
+  <SlimeMutagenicSerum.ingestible.ingestCommandString>飲用{0}</SlimeMutagenicSerum.ingestible.ingestCommandString>
+  <SlimeMutagenicSerum.ingestible.ingestReportString>飲用{0}。</SlimeMutagenicSerum.ingestible.ingestReportString>
+
+  <InsectoidMutagenicSerum.label>昆蟲變異血清</InsectoidMutagenicSerum.label>
+  <InsectoidMutagenicSerum.description>讓使用者獲得產卵管和昆蟲肛門。</InsectoidMutagenicSerum.description>
+  <InsectoidMutagenicSerum.ingestible.ingestCommandString>飲用{0}</InsectoidMutagenicSerum.ingestible.ingestCommandString>
+  <InsectoidMutagenicSerum.ingestible.ingestReportString>飲用{0}。</InsectoidMutagenicSerum.ingestible.ingestReportString>
+
+  <RodentMutagenicSerum.label>齧齒類變異血清</RodentMutagenicSerum.label>
+  <RodentMutagenicSerum.description>讓使用者獲得齧齒類的生殖器官。</RodentMutagenicSerum.description>
+  <RodentMutagenicSerum.ingestible.ingestCommandString>飲用{0}</RodentMutagenicSerum.ingestible.ingestCommandString>
+  <RodentMutagenicSerum.ingestible.ingestReportString>飲用{0}。</RodentMutagenicSerum.ingestible.ingestReportString>
+
+  <NarrowMutagenicSerum.label>細長變異血清</NarrowMutagenicSerum.label>
+  <NarrowMutagenicSerum.description>讓使用者獲得細長的生殖器官。</NarrowMutagenicSerum.description>
+  <NarrowMutagenicSerum.ingestible.ingestCommandString>飲用{0}</NarrowMutagenicSerum.ingestible.ingestCommandString>
+  <NarrowMutagenicSerum.ingestible.ingestReportString>飲用{0}。</NarrowMutagenicSerum.ingestible.ingestReportString>
+
+  <CloacalMutagenicSerum.label>泄殖腔變異血清</CloacalMutagenicSerum.label>
+  <CloacalMutagenicSerum.description>讓使用者獲得泄殖腔。</CloacalMutagenicSerum.description>
+  <CloacalMutagenicSerum.ingestible.ingestCommandString>飲用{0}</CloacalMutagenicSerum.ingestible.ingestCommandString>
+  <CloacalMutagenicSerum.ingestible.ingestReportString>飲用{0}。</CloacalMutagenicSerum.ingestible.ingestReportString>
+</LanguageData>

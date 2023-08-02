@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stretched.label>拉伸</Stretched.label>
+  <Stretched.labelNoun>變化的器官</Stretched.labelNoun>
+  <Stretched.description>將物品強行塞入太小的孔中可能會引起疼痛的拉伸感。隨著時間的推移，拉伸感將消失。</Stretched.description>
+  <Stretched.stages.sore.label>發炎</Stretched.stages.sore.label>
+  <Stretched.stages.painful.label>疼痛</Stretched.stages.painful.label>
+</LanguageData>

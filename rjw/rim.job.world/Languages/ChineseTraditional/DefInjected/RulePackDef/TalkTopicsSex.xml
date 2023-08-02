@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TalkTopicsSex.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicSex]</li>
+
+    <li>TalkTopicSex(p=0.08)->[talktopicsexfile]</li>
+
+    <li>TalkTopicHeavy(p=0.08)->[talktopicsexfile]與[talktopicsexfile]之間的連結</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicsexfile]與[talktopicsexfile]之間的關聯性</li>
+    <li>TalkTopicHeavy(p=0.08)->[talktopicsexfile]與[talktopicsexfile]之間的關係</li>
+    <li>TalkTopicHeavy(p=0.16)->[talktopicheavyfile]與[talktopicsexfile]之間的連結</li>
+    <li>TalkTopicHeavy(p=0.16)->[talktopicheavyfile]與[talktopicsexfile]之間的關聯性</li>
+    <li>TalkTopicHeavy(p=0.16)->[talktopicheavyfile]與[talktopicsexfile]之間的關係</li>
+  </TalkTopicsSex.rulePack.rulesStrings>
+</LanguageData>

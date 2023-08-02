@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Necrophile.label>戀屍</Necrophile.label>
+  <Necrophile.description>猥褻屍體者</Necrophile.description>
+
+  <Necrophile.generalRules.rulesStrings>
+    <li>r_deityName->音速小子</li>
+    <li>r_deityName->洛克人</li>
+    <li>memeConcept->屍體</li>
+    <li>memeConcept->死亡</li>
+  </Necrophile.generalRules.rulesStrings>
+</LanguageData>

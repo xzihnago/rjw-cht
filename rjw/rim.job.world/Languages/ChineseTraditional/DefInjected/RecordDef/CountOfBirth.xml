@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CountOfBirthHuman.label>出產數量（人型）</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>我出產的人型生物數量。</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>出產數量（動物）</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>我出產的動物數量。</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>出產數量（卵）</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>我出產的卵數量。</CountOfBirthEgg.description>
+</LanguageData>

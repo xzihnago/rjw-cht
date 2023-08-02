@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AlwaysNudists.label>幻想種族總是裸體主義者</AlwaysNudists.label>
+  <AlwaysNudists.description>是否確保所有幻想種族異種人物在生成時都具有裸體主義特性。\n\n這不會影響派系戒律。</AlwaysNudists.description>
+
+  <ShowMissingAlphaGenes.label>啟動時顯示「無 Alpha Genes」警告</ShowMissingAlphaGenes.label>
+  <ShowMissingAlphaGenes.description>如果缺少 &lt;color=#EFBF04&gt;Alpha Genes&lt;/color&gt; 模組，是否在遊戲啟動後顯示視窗。</ShowMissingAlphaGenes.description>
+
+  <AllXenotypesFemale.label>僅生成女性人物</AllXenotypesFemale.label>
+  <AllXenotypesFemale.description>是否在所有幻想種族異種中都包含僅女性基因，以防止異種的男性人物生成。</AllXenotypesFemale.description>
+</LanguageData>

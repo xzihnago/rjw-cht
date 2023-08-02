@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Prostitution_Sacred.label>神聖的</CB_Prostitution_Sacred.label>
+  <CB_Prostitution_Sacred.description>用我們的身體為他人服務是最神聖的責任。</CB_Prostitution_Sacred.description>
+  <CB_Prostitution_Sacred.comps.0.description>神聖的職責</CB_Prostitution_Sacred.comps.0.description>
+  <CB_Prostitution_Sacred.comps.1.description>有人是神聖的妓女</CB_Prostitution_Sacred.comps.1.description>
+  <CB_Prostitution_Sacred.comps.2.thoughtStageDescriptions.0>自我們履行神聖職責以來還不到{DAYSSINCECOLONYWHORINGTHRESHOLD}天</CB_Prostitution_Sacred.comps.2.thoughtStageDescriptions.0>
+  <CB_Prostitution_Sacred.comps.2.thoughtStageDescriptions.1>自我們上次履行神聖職責以來已經過了{DAYSSINCECOLONYWHORINGTHRESHOLD}天。這是錯誤的</CB_Prostitution_Sacred.comps.2.thoughtStageDescriptions.1>
+  <CB_Prostitution_Sacred.comps.3.thoughtStageDescriptions.0>已經{DAYSSINCEPRIVATEWHORINGTRESHHOLD}天未能履行神聖職責</CB_Prostitution_Sacred.comps.3.thoughtStageDescriptions.0>
+  <CB_Prostitution_Sacred.comps.4.description>不情願的妓女</CB_Prostitution_Sacred.comps.4.description>
+
+  <CB_Prostitution_Essential.label>需要的</CB_Prostitution_Essential.label>
+  <CB_Prostitution_Essential.description>用我們的身體為他人服務是一種責任。</CB_Prostitution_Essential.description>
+  <CB_Prostitution_Essential.comps.0.description>盡職的妓女</CB_Prostitution_Essential.comps.0.description>
+  <CB_Prostitution_Essential.comps.1.description>有人是妓女</CB_Prostitution_Essential.comps.1.description>
+  <CB_Prostitution_Essential.comps.2.thoughtStageDescriptions.0>自我們履行職責以來還不到{DAYSSINCECOLONYWHORINGTHRESHOLD}天</CB_Prostitution_Essential.comps.2.thoughtStageDescriptions.0>
+  <CB_Prostitution_Essential.comps.2.thoughtStageDescriptions.1>自我們上次履行職責以來已經過了{DAYSSINCECOLONYWHORINGTHRESHOLD}天。這是錯誤的</CB_Prostitution_Essential.comps.2.thoughtStageDescriptions.1>
+  <CB_Prostitution_Essential.comps.3.thoughtStageDescriptions.0>已經{DAYSSINCEPRIVATEWHORINGTRESHHOLD}天未能履行職責</CB_Prostitution_Essential.comps.3.thoughtStageDescriptions.0>
+  <CB_Prostitution_Essential.comps.4.description>不情願的妓女</CB_Prostitution_Essential.comps.4.description>
+
+  <CB_Prostitution_Accepted.label>允許的</CB_Prostitution_Accepted.label>
+  <CB_Prostitution_Accepted.description>賣淫和其他工作一樣。</CB_Prostitution_Accepted.description>
+
+  <CB_Prostitution_Neutral.label>中立的</CB_Prostitution_Neutral.label>
+  <CB_Prostitution_Neutral.description>賣淫是常有的事，但我不會想這麼做。</CB_Prostitution_Neutral.description>
+  <CB_Prostitution_Neutral.comps.0.description>不甘心的妓女</CB_Prostitution_Neutral.comps.0.description>
+
+  <CB_Prostitution_Horrendous.label>可怕的</CB_Prostitution_Horrendous.label>
+  <CB_Prostitution_Horrendous.description>賣淫是可怕的。</CB_Prostitution_Horrendous.description>
+  <CB_Prostitution_Horrendous.comps.0.description>被強迫的妓女</CB_Prostitution_Horrendous.comps.0.description>
+  <CB_Prostitution_Horrendous.comps.1.description>有人是妓女</CB_Prostitution_Horrendous.comps.1.description>
+</LanguageData>

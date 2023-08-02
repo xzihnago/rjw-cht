@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChastityBelt_Hediff.label>貞操帶</ChastityBelt_Hediff.label>
+  <ChastityBelt_Hediff.labelNoun>貞操帶</ChastityBelt_Hediff.labelNoun>
+  <ChastityBelt_Hediff.description>貞操帶。限制穿戴者與其伴侶接觸陰道和肛門。</ChastityBelt_Hediff.description>
+
+  <ChastityBeltOpen_Hediff.label>貞操帶（開放）</ChastityBeltOpen_Hediff.label>
+  <ChastityBeltOpen_Hediff.labelNoun>貞操帶（開放）</ChastityBeltOpen_Hediff.labelNoun>
+  <ChastityBeltOpen_Hediff.description>開放的貞操帶。限制穿戴者與其伴侶接觸陰道。</ChastityBeltOpen_Hediff.description>
+
+  <ChastityCage.label>貞操籠</ChastityCage.label>
+  <ChastityCage.labelNoun>貞操籠</ChastityCage.labelNoun>
+  <ChastityCage.description>貞操籠。限制穿戴者與其伴侶接觸陰莖。</ChastityCage.description>
+</LanguageData>

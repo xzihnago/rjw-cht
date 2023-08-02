@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrankMilkMeal_Essential.stages.0.label>吃了含有人乳的食物</DrankMilkMeal_Essential.stages.0.label>
+  <DrankMilkMeal_Essential.stages.0.description>母乳使我的飯菜更加美味。</DrankMilkMeal_Essential.stages.0.description>
+
+  <DrankMilkMeal_MandatoryHucow.stages.0.label>吃了含有人乳的食物</DrankMilkMeal_MandatoryHucow.stages.0.label>
+  <DrankMilkMeal_MandatoryHucow.stages.0.description>母乳使我的飯菜更加美味。</DrankMilkMeal_MandatoryHucow.stages.0.description>
+</LanguageData>

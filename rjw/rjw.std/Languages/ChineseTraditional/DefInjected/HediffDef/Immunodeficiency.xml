@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Immunodeficiency.label>免疫缺陷</Immunodeficiency.label>
+  <Immunodeficiency.description>易受疾病感染。</Immunodeficiency.description>
+  <Immunodeficiency.stages.minor.label>輕度</Immunodeficiency.stages.minor.label>
+  <Immunodeficiency.stages.major.label>重度</Immunodeficiency.stages.major.label>
+  <Immunodeficiency.stages.extreme.label>極重度</Immunodeficiency.stages.extreme.label>
+</LanguageData>

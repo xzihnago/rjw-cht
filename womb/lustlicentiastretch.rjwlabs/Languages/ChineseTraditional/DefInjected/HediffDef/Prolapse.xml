@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Prolapse.label>脫垂</Prolapse.label>
+  <Prolapse.labelNoun>脫垂</Prolapse.labelNoun>
+  <Prolapse.description>這個開口的內部部分暫時翻轉，暴露出嬌嫩的內部組織。性活動可能在一段時間內受到影響。</Prolapse.description>
+  <Prolapse.stages.recovering.label>痊癒中</Prolapse.stages.recovering.label>
+  <Prolapse.stages.painful.label>疼痛</Prolapse.stages.painful.label>
+
+  <ExtremeProlapse.label>嚴重脫垂</ExtremeProlapse.label>
+  <ExtremeProlapse.labelNoun>嚴重脫垂</ExtremeProlapse.labelNoun>
+  <ExtremeProlapse.description>這個開口的內部部分嚴重翻轉，暴露出嬌嫩的內部組織。除非通過手術恢復，否則性活動可能無法進行。</ExtremeProlapse.description>
+  <ExtremeProlapse.stages.requires_surgery.label>需要手術</ExtremeProlapse.stages.requires_surgery.label>
+</LanguageData>

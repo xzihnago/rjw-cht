@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClosedGag.label>口器（封閉）</ClosedGag.label>
+  <ClosedGag.labelNoun>口器（封閉）</ClosedGag.labelNoun>
+  <ClosedGag.description>一種封閉式的口器，可防止穿戴者說話。</ClosedGag.description>
+
+  <OpenGag.label>口器（開放）</OpenGag.label>
+  <OpenGag.labelNoun>口器（開放）</OpenGag.labelNoun>
+  <OpenGag.description>一種開放式的口器，僅允許穿戴者發出難以理解的咕噥聲。</OpenGag.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_MenstrualCramp.label>月經</Hediff_MenstrualCramp.label>
+  <Hediff_MenstrualCramp.labelNoun>月經</Hediff_MenstrualCramp.labelNoun>
+  <Hediff_MenstrualCramp.description>經期結束時陰道出血。&#10;經常相當痛苦。</Hediff_MenstrualCramp.description>
+  <Hediff_MenstrualCramp.stages.0.label>不適</Hediff_MenstrualCramp.stages.0.label>
+  <Hediff_MenstrualCramp.stages.1.label>煩躁</Hediff_MenstrualCramp.stages.1.label>
+  <Hediff_MenstrualCramp.stages.2.label>疼痛</Hediff_MenstrualCramp.stages.2.label>
+  <Hediff_MenstrualCramp.stages.3.label>痛苦</Hediff_MenstrualCramp.stages.3.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalSexChat.label>動物交談</AnimalSexChat.label>
+  <AnimalSexChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=20)->[INITIATOR_nameDef][zooact][RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]坐在[RECIPIENT_nameDef]身邊並自言自語著關於[TalkTopicSex]的話題。</li>
+    <li>r_logentry->[INITIATOR_nameDef]坐在[RECIPIENT_nameDef]身邊並自言自語著關於[INITIATOR_objective]和[TalkTopicAny]的話題。</li>
+    <li>r_logentry->[INITIATOR_nameDef]一邊低語著關於[TalkTopicSex]的話題以拉近與[RECIPIENT_nameDef]的距離。</li>
+    <li>r_logentry->[INITIATOR_nameDef]一邊低語著關於[INITIATOR_objective]和[TalkTopicSex]的話題以拉近與[RECIPIENT_nameDef]的距離。</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef]來到了[RECIPIENT_nameDef]身邊，嘴裡述說著關於[TalkTopicSex]的話題。</li>
+    <li>r_logentry->[INITIATOR_nameDef]來到了[RECIPIENT_nameDef]身邊，嘴裡述說著關於[INITIATOR_objective]和[TalkTopicAny]的話題。</li>
+    <li>r_logentry->[INITIATOR_nameDef]試圖讓[RECIPIENT_nameDef]坐好。</li>
+    <li>r_logentry->[INITIATOR_nameDef]試圖讓[RECIPIENT_nameDef]靜止不動。</li>
+    <li>r_logentry->[INITIATOR_nameDef]拍打[RECIPIENT_nameDef]以彰顯自己支配者的身份。</li>
+    <li>r_logentry->[INITIATOR_nameDef]溫柔的撫摸了[RECIPIENT_nameDef]的生殖器。</li>
+    <li>r_logentry->[INITIATOR_nameDef]掌握著[RECIPIENT_nameDef]身上最脆弱的部份，要求牠服從。</li>
+
+    <li>zooact->被要求服從於</li>
+    <li>zooact->發出溫和的叫聲於</li>
+    <li>zooact->展現友好、謹慎的態度於</li>
+    <li>zooact->發出溫柔的噓聲予</li>
+    <li>zooact->發出愉悅的彈舌音予</li>
+    <li>zooact->一邊輕柔的比手畫腳一邊接近</li>
+    <li>zooact->緩慢的接近</li>
+    <li>zooact->溫柔的撫摸了</li>
+    <li>zooact->溫柔的愛撫了</li>
+    <li>zooact->堅定地撫摸著</li>
+    <li>zooact->安撫並激勵了</li>
+    <li>zooact->配合呼吸於</li>
+    <li>zooact->壓低姿態接近</li>
+    <li>zooact->展現無畏和包容於</li>
+    <li>zooact->堅定而溫柔的撫摸了</li>
+    <li>zooact->展現了放鬆的態度於</li>
+    <li>zooact->展示[INITIATOR_possessive]生殖器給</li>
+    <li>zooact->展現[INITIATOR_possessive]生殖器給</li>
+    <li>zooact->述說了一則關於[TalkTopicAny]的故事於</li>
+    <li>zooact->述說了一則關於[TalkTopicSex]的故事於</li>
+  </AnimalSexChat.logRulesInitiator.rulesStrings>
+</LanguageData>

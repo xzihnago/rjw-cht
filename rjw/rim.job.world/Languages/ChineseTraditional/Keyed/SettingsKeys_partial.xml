@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings-->
+  <RJWSettingsOne>RJW-基礎設定</RJWSettingsOne>
+  <NymphTamed_desc>生成帶有「Hypersexual」特性之角色加入你的殖民地。</NymphTamed_desc>
+  <NymphWild_desc>生成帶有「Hypersexual」特性之角色襲擊殖民地。</NymphWild_desc>
+  <NymphFrustratedRape>流鶯沮喪時強暴。</NymphFrustratedRape>
+  <NymphFrustratedRape_desc>當流鶯感到沮喪並且沒有伴侶時，他們會隨機強暴某人/某物</NymphFrustratedRape_desc>
+
+  <!-- obsolete -->
+  <RPG_hero_control_name>「主角」模式</RPG_hero_control_name>
+  <RPG_hero_control_desc>允許玩家設定一位居民作為自己的分身並無條件直接控制。</RPG_hero_control_desc>
+  <RPG_hero_control_HC_name>「主角」模式（硬核）</RPG_hero_control_HC_name>
+  <RPG_hero_control_HC_desc>硬核：玩家只能控制「主角」。\n（此模式專為多人遊戲設計）</RPG_hero_control_HC_desc>
+  <RPG_hero_control_Ironman_name>「主角」模式（鐵人）</RPG_hero_control_Ironman_name>
+  <RPG_hero_control_Ironman_desc>鐵人：只能指定一次「主角」。</RPG_hero_control_Ironman_desc>
+
+  <!-- cheat stuff-->
+  <AddTrait_Necrophiliac>獲得戀屍癖特性</AddTrait_Necrophiliac>
+
+  <Disable_egg_pregnancy_relations>禁用蟲卵親戚關係</Disable_egg_pregnancy_relations>
+  <Disable_egg_pregnancy_relations_desc>禁止蟲卵懷孕的關係（母親 / 父親 / 兄弟姊妹）。\n作弊是小狗！</Disable_egg_pregnancy_relations_desc>
+
+  <!-- Pregnancy stuff-->
+  <RJWA_pregnancy_notifications>啟用動物懷孕通知</RJWA_pregnancy_notifications>
+  <RJWA_pregnancy_notifications_desc>將發送有關動物懷孕、宮縮開始與健康分娩的通知。\n\n這對於擁有大量牧場的殖民地來說可能會很吵，建議禁用此設置。\n\n無論此設定如何，都會發送重要通知</RJWA_pregnancy_notifications_desc>
+
+  <RJWI_FertilizationCheck>產卵口受精篩選</RJWI_FertilizationCheck>
+  <RJWI_FertilizationCheck_desc>僅在「性交」產卵口中使卵受精。</RJWI_FertilizationCheck_desc>
+</LanguageData>

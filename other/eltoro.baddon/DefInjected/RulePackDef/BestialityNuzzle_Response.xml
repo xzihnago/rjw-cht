@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityNuzzle_Response_Accept_Female.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]注意到了[INITIATOR_nameDef]的興奮並轉變為接受的姿勢。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]輕輕呼出一口氣，微微抬起一條腿，示意對方靠近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]伸手輕輕觸碰[INITIATOR_nameDef]的生殖器。</li>
+  </BestialityNuzzle_Response_Accept_Female.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Reject_Female.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]從[INITIATOR_nameDef]身邊走開，假裝沒注意到。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，無視於[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微轉過身，選擇不回應動物的意圖。</li>
+  </BestialityNuzzle_Response_Reject_Female.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Accept_Male.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微後退了一步，讓[INITIATOR_nameDef]靠近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]用手摸摸[INITIATOR_nameDef]的生殖器，淡淡地點頭表示同意。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]引導[INITIATOR_nameDef]進入位置。</li>
+  </BestialityNuzzle_Response_Accept_Male.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Reject_Male.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]從[INITIATOR_nameDef]身邊走開，假裝沒注意到。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，無視於[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微轉過身，選擇不回應動物的意圖。</li>
+  </BestialityNuzzle_Response_Reject_Male.rulePack.rulesStrings>
+</LanguageData>

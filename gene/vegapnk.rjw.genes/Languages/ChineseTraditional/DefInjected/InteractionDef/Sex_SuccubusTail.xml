@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_SuccubusTail_Tailjob.label>魅魔尾交</Sex_SuccubusTail_Tailjob.label>
+  <Sex_SuccubusTail_Tailjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]尾交。</Sex_SuccubusTail_Tailjob.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Tailjob.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]尾交。</Sex_SuccubusTail_Tailjob.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Tailjob.modExtensions.0.RMBLabel>尾交</Sex_SuccubusTail_Tailjob.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Vaginal.label>魅魔陰道尾交</Sex_SuccubusTail_Vaginal.label>
+  <Sex_SuccubusTail_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道尾交。</Sex_SuccubusTail_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道尾交。</Sex_SuccubusTail_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Vaginal.modExtensions.0.RMBLabel>陰道尾交</Sex_SuccubusTail_Vaginal.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Anal.label>魅魔肛門尾交</Sex_SuccubusTail_Anal.label>
+  <Sex_SuccubusTail_Anal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛門尾交。</Sex_SuccubusTail_Anal.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛門尾交。</Sex_SuccubusTail_Anal.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Anal.modExtensions.0.RMBLabel>肛門尾交</Sex_SuccubusTail_Anal.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Envelop.label>魅魔包覆尾交</Sex_SuccubusTail_Envelop.label>
+  <Sex_SuccubusTail_Envelop.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]特殊尾交。</Sex_SuccubusTail_Envelop.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Envelop.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]特殊尾交。</Sex_SuccubusTail_Envelop.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Envelop.modExtensions.0.RMBLabel>包覆</Sex_SuccubusTail_Envelop.modExtensions.0.RMBLabel>
+
+
+  <Sex_SuccubusTail_Reverse_Tailjob.label>魅魔尾交</Sex_SuccubusTail_Reverse_Tailjob.label>
+  <Sex_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]尾交。</Sex_SuccubusTail_Reverse_Tailjob.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]尾交。</Sex_SuccubusTail_Reverse_Tailjob.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Tailjob.modExtensions.0.RMBLabel>尾交</Sex_SuccubusTail_Reverse_Tailjob.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Reverse_Vaginal.label>魅魔陰道尾交</Sex_SuccubusTail_Reverse_Vaginal.label>
+  <Sex_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]陰道尾交。</Sex_SuccubusTail_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]陰道尾交。</Sex_SuccubusTail_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Vaginal.modExtensions.0.RMBLabel>陰道尾交</Sex_SuccubusTail_Reverse_Vaginal.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Reverse_Anal.label>魅魔肛門尾交</Sex_SuccubusTail_Reverse_Anal.label>
+  <Sex_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]肛門尾交。</Sex_SuccubusTail_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]肛門尾交。</Sex_SuccubusTail_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Anal.modExtensions.0.RMBLabel>肛門尾交</Sex_SuccubusTail_Reverse_Anal.modExtensions.0.RMBLabel>
+
+  <Sex_SuccubusTail_Reverse_Envelop.label>魅魔包覆尾交</Sex_SuccubusTail_Reverse_Envelop.label>
+  <Sex_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]特殊尾交。</Sex_SuccubusTail_Reverse_Envelop.logRulesInitiator.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]特殊尾交。</Sex_SuccubusTail_Reverse_Envelop.logRulesRecipient.rulesStrings.0>
+  <Sex_SuccubusTail_Reverse_Envelop.modExtensions.0.RMBLabel>包覆</Sex_SuccubusTail_Reverse_Envelop.modExtensions.0.RMBLabel>
+</LanguageData>

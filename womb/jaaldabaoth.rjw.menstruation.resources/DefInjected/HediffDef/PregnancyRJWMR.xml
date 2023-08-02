@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PregnancyRJWMR.label>異常懷孕</PregnancyRJWMR.label>
+  <PregnancyRJWMR.labelNoun>異常懷孕</PregnancyRJWMR.labelNoun>
+  <PregnancyRJWMR.description>懷孕期間出現的令人不安與難以理解的變化，暗示著與典型懷孕不同的事情。</PregnancyRJWMR.description>
+  <PregnancyRJWMR.stages.0.label>損傷初現</PregnancyRJWMR.stages.0.label>
+  <PregnancyRJWMR.stages.1.label>損傷增加</PregnancyRJWMR.stages.1.label>
+  <PregnancyRJWMR.stages.2.label>損傷加劇</PregnancyRJWMR.stages.2.label>
+  <PregnancyRJWMR.stages.3.label>損傷極重</PregnancyRJWMR.stages.3.label>
+</LanguageData>

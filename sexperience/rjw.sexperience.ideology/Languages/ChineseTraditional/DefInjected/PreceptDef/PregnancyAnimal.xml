@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PregnancyAnimal_NoRules.label>中立的</PregnancyAnimal_NoRules.label>
+  <PregnancyAnimal_NoRules.description>懷上動物的後代是生活中正常的，不可磨滅的一部分。</PregnancyAnimal_NoRules.description>
+
+  <PregnancyAnimal_Required.label>需要的</PregnancyAnimal_Required.label>
+  <PregnancyAnimal_Required.description>我們必須盡自己的一份力量來增加動物數量，即使這意味著生育牠們的後代。這是我們社會平衡的必要責任。</PregnancyAnimal_Required.description>
+
+  <PregnancyAnimal_Horrible.label>可怕的</PregnancyAnimal_Horrible.label>
+  <PregnancyAnimal_Horrible.description>懷上動物的後代是錯誤的且非自然的。這是一個必須不惜一切代價避免的負擔。</PregnancyAnimal_Horrible.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WAnalPlugSmall.label>小型肛塞</WAnalPlugSmall.label>
+  <WAnalPlugSmall.description>光滑的原始肛塞，長期穿戴可能不太健康。小號。</WAnalPlugSmall.description>
+  <WAnalPlugSmall.comps.0.useLabel>穿戴</WAnalPlugSmall.comps.0.useLabel>
+
+  <WAnalPlugMedium.label>中型肛塞</WAnalPlugMedium.label>
+  <WAnalPlugMedium.description>光滑的原始肛塞，長期穿戴可能不太健康。中號。</WAnalPlugMedium.description>
+  <WAnalPlugMedium.comps.0.useLabel>穿戴</WAnalPlugMedium.comps.0.useLabel>
+
+  <WAnalPlugLarge.label>大型肛塞</WAnalPlugLarge.label>
+  <WAnalPlugLarge.description>光滑的原始肛塞，長期穿戴可能不太健康。大號。</WAnalPlugLarge.description>
+  <WAnalPlugLarge.comps.0.useLabel>穿戴</WAnalPlugLarge.comps.0.useLabel>
+</LanguageData>

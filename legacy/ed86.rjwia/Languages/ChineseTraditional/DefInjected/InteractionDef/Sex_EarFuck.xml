@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_EarFuck.label>耳交</Sex_EarFuck.label>
+  <Sex_EarFuck.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]耳交。</Sex_EarFuck.logRulesInitiator.rulesStrings.0>
+  <Sex_EarFuck.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]耳交。</Sex_EarFuck.logRulesRecipient.rulesStrings.0>
+  <Sex_EarFuck.modExtensions.0.RMBLabel>耳交</Sex_EarFuck.modExtensions.0.RMBLabel>
+</LanguageData>

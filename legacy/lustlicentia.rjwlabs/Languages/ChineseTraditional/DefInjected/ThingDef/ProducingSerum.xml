@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ProductionSerum.label>生產性血清</ProductionSerum.label>
+  <ProductionSerum.description>使使用者每隔幾天生產出荷爾蒙血清。可能會導致情緒上的輕微問題。</ProductionSerum.description>
+  <ProductionSerum.ingestible.ingestCommandString>飲用{0}</ProductionSerum.ingestible.ingestCommandString>
+  <ProductionSerum.ingestible.ingestReportString>飲用{0}。</ProductionSerum.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SuperovulationInducingAgent.label>超排卵誘導劑</SuperovulationInducingAgent.label>
+  <SuperovulationInducingAgent.description>誘導超量排卵，使下次排卵額外產生 1~4 個卵子。&#10;&#10;可能會導致提前閉經。</SuperovulationInducingAgent.description>
+  <SuperovulationInducingAgent.ingestible.ingestCommandString>服用{0}</SuperovulationInducingAgent.ingestible.ingestCommandString>
+  <SuperovulationInducingAgent.ingestible.ingestReportString>服用{0}</SuperovulationInducingAgent.ingestible.ingestReportString>
+</LanguageData>

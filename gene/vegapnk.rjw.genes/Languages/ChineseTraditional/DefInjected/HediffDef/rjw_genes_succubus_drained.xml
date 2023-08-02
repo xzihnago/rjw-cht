@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_succubus_drained.label>被榨乾</rjw_genes_succubus_drained.label>
+  <rjw_genes_succubus_drained.description>這個居民的精氣已經被吸乾了。在完全恢復之前不能再次吸取。</rjw_genes_succubus_drained.description>
+  <rjw_genes_succubus_drained.stages.minor.label>輕度</rjw_genes_succubus_drained.stages.minor.label>
+  <rjw_genes_succubus_drained.stages.moderate.label>中度</rjw_genes_succubus_drained.stages.moderate.label>
+  <rjw_genes_succubus_drained.stages.severe.label>重度</rjw_genes_succubus_drained.stages.severe.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Submissive_None.label>正常</Submissive_None.label>
+  <Submissive_None.description>任何性別都不應被要求服從。</Submissive_None.description>
+
+  <Submissive_Male.label>男性須服從</Submissive_Male.label>
+  <Submissive_Male.description>男性必須服從。他們會服從並接受女性決定的任何與所有待遇。</Submissive_Male.description>
+
+  <Submissive_Female.label>女性須服從</Submissive_Female.label>
+  <Submissive_Female.description>女性必須服從。她們會服從並接受男性決定的任何與所有待遇。</Submissive_Female.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PainReliever.label>止痛藥</PainReliever.label>
+  <PainReliever.description>在 24 小時內緩解經痛。&#10;&#10;對其他來源的疼痛也有效。</PainReliever.description>
+  <PainReliever.ingestible.ingestCommandString>服用{0}</PainReliever.ingestible.ingestCommandString>
+  <PainReliever.ingestible.ingestReportString>服用{0}</PainReliever.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CloacalPenis.label>泄殖腔（陰莖）</CloacalPenis.label>
+  <CloacalPenis.labelNoun>泄殖腔（陰莖）</CloacalPenis.labelNoun>
+  <CloacalPenis.description>一個作為陰莖功能的泄殖腔。</CloacalPenis.description>
+  <CloacalPenis.stages.0.label>微小</CloacalPenis.stages.0.label>
+  <CloacalPenis.stages.1.label>小</CloacalPenis.stages.1.label>
+  <CloacalPenis.stages.2.label>普通</CloacalPenis.stages.2.label>
+  <CloacalPenis.stages.3.label>大</CloacalPenis.stages.3.label>
+  <CloacalPenis.stages.4.label>巨大</CloacalPenis.stages.4.label>
+  <CloacalPenis.stages.5.label>參天</CloacalPenis.stages.5.label>
+
+  <CloacalVagina.label>泄殖腔（陰道）</CloacalVagina.label>
+  <CloacalVagina.labelNoun>泄殖腔（陰道）</CloacalVagina.labelNoun>
+  <CloacalVagina.description>一個作為陰道功能的泄殖腔。</CloacalVagina.description>
+  <CloacalVagina.stages.0.label>過窄</CloacalVagina.stages.0.label>
+  <CloacalVagina.stages.1.label>緊</CloacalVagina.stages.1.label>
+  <CloacalVagina.stages.2.label>普通</CloacalVagina.stages.2.label>
+  <CloacalVagina.stages.3.label>鬆</CloacalVagina.stages.3.label>
+  <CloacalVagina.stages.4.label>過鬆</CloacalVagina.stages.4.label>
+  <CloacalVagina.stages.5.label>深淵</CloacalVagina.stages.5.label>
+
+  <CloacalAnus.label>泄殖腔（肛門）</CloacalAnus.label>
+  <CloacalAnus.labelNoun>泄殖腔（肛門）</CloacalAnus.labelNoun>
+  <CloacalAnus.description>一個作為肛門功能的泄殖腔。</CloacalAnus.description>
+  <CloacalAnus.stages.0.label>過窄</CloacalAnus.stages.0.label>
+  <CloacalAnus.stages.1.label>緊</CloacalAnus.stages.1.label>
+  <CloacalAnus.stages.2.label>普通</CloacalAnus.stages.2.label>
+  <CloacalAnus.stages.3.label>鬆</CloacalAnus.stages.3.label>
+  <CloacalAnus.stages.4.label>過鬆</CloacalAnus.stages.4.label>
+  <CloacalAnus.stages.5.label>深淵</CloacalAnus.stages.5.label>
+</LanguageData>

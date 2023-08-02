@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CountOfSex.label>做愛次數</CountOfSex.label>
+  <CountOfSex.description>我做愛的次數。</CountOfSex.description>
+
+  <CountOfSexWithHumanlikes.label>作愛次數（人型）</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>我與人形生物做愛的次數。</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>作愛次數（動物）</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>我與動物做愛的次數。</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>作愛次數（蟲）</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>我與蟲做愛的次數。</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>作愛次數（其他）</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>我與怪東西做愛的次數。</CountOfSexWithOthers.description>
+</LanguageData>

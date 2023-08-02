@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_Free.label>自由的</Sex_Free.label>
+  <Sex_Free.description>陰道、肛門、口腔，只要玩得開心，都沒關係。</Sex_Free.description>
+
+  <Sex_VaginalOnly.label>僅性交</Sex_VaginalOnly.label>
+  <Sex_VaginalOnly.description>只有性交是合理的，其他都太怪了。</Sex_VaginalOnly.description>
+
+  <Sex_AnalOnly.label>僅肛性</Sex_AnalOnly.label>
+  <Sex_AnalOnly.description>只有肛交是合理的，其他都太怪了。</Sex_AnalOnly.description>
+
+  <Sex_OralOnly.label>僅口交</Sex_OralOnly.label>
+  <Sex_OralOnly.description>只有口交是合理的，其他都太怪了。</Sex_OralOnly.description>
+
+  <Sex_Promiscuous.label>亂交</Sex_Promiscuous.label>
+  <Sex_Promiscuous.description>凌亂的性生活是被認可的。</Sex_Promiscuous.description>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_BlueBalls.label>悶蛋</Cumpilation_BlueBalls.label>
+  <Cumpilation_BlueBalls.labelNoun>悶蛋</Cumpilation_BlueBalls.labelNoun>
+  <Cumpilation_BlueBalls.description>緊張局勢正在加劇。</Cumpilation_BlueBalls.description>
+  <Cumpilation_BlueBalls.stages.negligible.label>微不足道</Cumpilation_BlueBalls.stages.negligible.label>
+  <Cumpilation_BlueBalls.stages.noticable.label>值得注意</Cumpilation_BlueBalls.stages.noticable.label>
+  <Cumpilation_BlueBalls.stages.swollen.label>脹大</Cumpilation_BlueBalls.stages.swollen.label>
+  <Cumpilation_BlueBalls.stages.aching.label>酸痛</Cumpilation_BlueBalls.stages.aching.label>
+
+  <Cumpilation_Drained.label>枯竭</Cumpilation_Drained.label>
+  <Cumpilation_Drained.labelNoun>枯竭</Cumpilation_Drained.labelNoun>
+  <Cumpilation_Drained.description>最近有一些東西清空了你的蛋蛋—幹得好，但要小心過度使用。</Cumpilation_Drained.description>
+  <Cumpilation_Drained.stages.negligible.label>微不足道</Cumpilation_Drained.stages.negligible.label>
+  <Cumpilation_Drained.stages.stressed.label>壓力</Cumpilation_Drained.stages.stressed.label>
+  <Cumpilation_Drained.stages.empty.label>空</Cumpilation_Drained.stages.empty.label>
+  <Cumpilation_Drained.stages.hurtful.label>有害</Cumpilation_Drained.stages.hurtful.label>
+
+  <Cumpilation_Wet.label>滿溢</Cumpilation_Wet.label>
+  <Cumpilation_Wet.labelNoun>滿溢</Cumpilation_Wet.labelNoun>
+  <Cumpilation_Wet.description>刺激（暫時）增加陰道的液體量。</Cumpilation_Wet.description>
+  <Cumpilation_Wet.stages.normal.label>正常</Cumpilation_Wet.stages.normal.label>
+  <Cumpilation_Wet.stages.soaking.label>濕潤</Cumpilation_Wet.stages.soaking.label>
+  <Cumpilation_Wet.stages.drenched.label>濕透</Cumpilation_Wet.stages.drenched.label>
+  <Cumpilation_Wet.stages.dripping.label>淋漓</Cumpilation_Wet.stages.dripping.label>
+</LanguageData>

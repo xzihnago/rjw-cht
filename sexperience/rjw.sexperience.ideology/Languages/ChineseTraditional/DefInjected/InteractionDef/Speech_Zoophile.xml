@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Speech_Zoophile.label>獸交演講</Speech_Zoophile.label>
+  <Speech_Zoophile.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+
+    <li>speechtopic->獸交的含義和真諦</li>
+    <li>speechtopic->獸交的表達方式</li>
+    <li>speechtopic->受控的淫蕩</li>
+    <li>speechtopic->精液的滾燙</li>
+    <li>speechtopic->異種繁殖的偉大</li>
+    <li>speechtopic->動物與愛</li>
+    <li>speechtopic->抽象化的獸交</li>
+    <li>speechtopic->繁殖和生育</li>
+    <li>speechtopic->繁殖的藝術</li>
+    <li>speechtopic->動物的誘惑</li>
+    <li>speechtopic->射在地上的精液</li>
+  </Speech_Zoophile.logRulesInitiator.rulesStrings>
+</LanguageData>
