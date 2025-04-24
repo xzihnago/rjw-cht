@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_Hediff_Slugsplash.label>黏液</Cumpilation_Hediff_Slugsplash.label>
+  <Cumpilation_Hediff_Slugsplash.labelNoun>黏液</Cumpilation_Hediff_Slugsplash.labelNoun>
+  <Cumpilation_Hediff_Slugsplash.labelNounPretty>{1}身上的黏液</Cumpilation_Hediff_Slugsplash.labelNounPretty>
+  <Cumpilation_Hediff_Slugsplash.description>黏液。</Cumpilation_Hediff_Slugsplash.description>
+  <Cumpilation_Hediff_Slugsplash.stages.little.label>少量</Cumpilation_Hediff_Slugsplash.stages.little.label>
+  <Cumpilation_Hediff_Slugsplash.stages.some.label>些許</Cumpilation_Hediff_Slugsplash.stages.some.label>
+  <Cumpilation_Hediff_Slugsplash.stages.dripping.label>淋漓</Cumpilation_Hediff_Slugsplash.stages.dripping.label>
+  <Cumpilation_Hediff_Slugsplash.stages.drenched.label>濕透</Cumpilation_Hediff_Slugsplash.stages.drenched.label>
+</LanguageData>

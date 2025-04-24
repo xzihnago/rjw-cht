@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiosculpterPod.comps.Comp_BiosculpterPod_FluidIncreaseCycle.label>體液增加</BiosculpterPod.comps.Comp_BiosculpterPod_FluidIncreaseCycle.label>
+  <BiosculpterPod.comps.Comp_BiosculpterPod_FluidIncreaseCycle.description>永久增加所有體液輸出量。</BiosculpterPod.comps.Comp_BiosculpterPod_FluidIncreaseCycle.description>
+
+  <BiosculpterPod.comps.Comp_BiosculpterPod_ResetFluidAmountCycle.label>體液重設</BiosculpterPod.comps.Comp_BiosculpterPod_ResetFluidAmountCycle.label>
+  <BiosculpterPod.comps.Comp_BiosculpterPod_ResetFluidAmountCycle.description>將體液類型與輸出量重設為未修改時的值。</BiosculpterPod.comps.Comp_BiosculpterPod_ResetFluidAmountCycle.description>
+</LanguageData>

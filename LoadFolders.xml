@@ -14,6 +14,9 @@
     <li IfModActive="rjw.sexperience.ideology">sexperience/rjw.sexperience.ideology</li>
 
     <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.cumpilation,ludeon.rimworld.ideology">womb/vegapnk.cumpilation_ludeon.rimworld.ideology</li>
+    <li IfModActive="vegapnk.cumpilation,ludeon.rimworld.biotech">womb/vegapnk.cumpilation_ludeon.rimworld.biotech</li>
+    <li IfModActive="vegapnk.cumpilation" IfModNotActive="winderig.processor">womb/vegapnk.cumpilation_winderig.processor</li>
     <li IfModActive="rjw.menstruation">womb/rjw.menstruation</li>
     <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">womb/lustlicentiastretch.rjwlabs</li>

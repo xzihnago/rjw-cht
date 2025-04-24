@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_Hediff_SlugCoverageController.label>黏液</Cumpilation_Hediff_SlugCoverageController.label>
+  <Cumpilation_Hediff_SlugCoverageController.description>被黏液覆蓋。</Cumpilation_Hediff_SlugCoverageController.description>
+  <Cumpilation_Hediff_SlugCoverageController.stages.minor.label>少量</Cumpilation_Hediff_SlugCoverageController.stages.minor.label>
+  <Cumpilation_Hediff_SlugCoverageController.stages.little.label>些許</Cumpilation_Hediff_SlugCoverageController.stages.little.label>
+  <Cumpilation_Hediff_SlugCoverageController.stages.extensive.label>大量</Cumpilation_Hediff_SlugCoverageController.stages.extensive.label>
+  <Cumpilation_Hediff_SlugCoverageController.stages.full.label>完全</Cumpilation_Hediff_SlugCoverageController.stages.full.label>
+</LanguageData>
