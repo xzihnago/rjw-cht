@@ -20,10 +20,11 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                            | `214203` | 完整                         |
 | [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                              | `1fa0fc` | 完整                         |
+| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)                 | `01a47f` | 完整                         |
+| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                                 | `ff57f5` | 完整                         |
 | [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                                   | `518778` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)                   | `897797` | 完整                         |
 | [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `4f7061` | 完整                         |
-| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                                 | `ff57f5` | 完整                         |
 | [RJW-Events](https://gitgud.io/LukeLu/rjw-events)                                                   | `1f3832` | 完整                         |
 | [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                                 | `60fffb` | 完整                         |
 

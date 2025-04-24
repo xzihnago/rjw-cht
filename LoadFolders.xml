@@ -30,12 +30,14 @@
     <li IfModActive="teacher.uap">animation/teacher.uap</li>
     <li IfModActive="eltoro.anims">animation/eltoro.anims</li>
 
+    <li IfModActive="hehehew.sizedapparelforslaves">item/hehehew.sizedapparelforslaves</li>
+    <li IfModActive="rimworld.ekss.rjwex">item/rimworld.ekss.rjwex</li>
+
     <li IfModActive="abscon.privacy.please">other/abscon.privacy.please</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">other/calamabanana.rjw.brothelcolony</li>
     <li IfModActive="calamabanana.rjw.brothelcolony,ludeon.rimworld.ideology">other/calamabanana.rjw.brothelcolony_ideology</li>
     <li IfModActive="calamabanana.rjw.brothelcolony,ludeon.rimworld.biotech">other/calamabanana.rjw.brothelcolony_biotech</li>
     <li IfModActive="rjw.milk.humanoid">other/rjw.milk.humanoid</li>
-    <li IfModActive="rimworld.ekss.rjwex">other/rimworld.ekss.rjwex</li>
     <li IfModActive="c0ffee.rjw.events">other/c0ffee.rjw.events</li>
     <li IfModActive="eltoro.baddon">other/eltoro.baddon</li>
 
