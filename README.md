@@ -35,6 +35,14 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [C0ffeeRIA](https://gitgud.io/c0ffeeeeeeee/coffees-rjw-ideology-addons)    | `f13a1f` | 完整 |
 | [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs) | `938d07` | 完整 |
 
+# 參閱
+
+- [RJW Discord](https://discord.gg/CXwHhv8)
+- [RJW Loverslab](https://www.loverslab.com/topic/110270-mod-rimjobworld)
+- [RJW Wiki](https://rjw.miraheze.org/wiki/Main_Page)
+- [RJW Wiki 附加模組列表](https://rjw.miraheze.org/wiki/RJW_Add-On_List)
+- [RJW 巴哈討論串](https://forum.gamer.com.tw/C.php?bsn=27313&snA=812)
+
 # 標準化
 
 ```sh
