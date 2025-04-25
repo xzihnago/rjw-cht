@@ -11,6 +11,8 @@
   <DrugOrgy.outcomeChances.1.description>{0}太沉悶了。</DrugOrgy.outcomeChances.1.description>
   <DrugOrgy.outcomeChances.2.label>滿足</DrugOrgy.outcomeChances.2.label>
   <DrugOrgy.outcomeChances.2.description>{0}令人滿足。</DrugOrgy.outcomeChances.2.description>
+  <DrugOrgy.outcomeChances.2.potentialExtraOutcomeDesc>有 5% 的機率其中一位參加者會獲得靈感。</DrugOrgy.outcomeChances.2.potentialExtraOutcomeDesc>
   <DrugOrgy.outcomeChances.3.label>完美</DrugOrgy.outcomeChances.3.label>
   <DrugOrgy.outcomeChances.3.description>{0}實在完美！</DrugOrgy.outcomeChances.3.description>
+  <DrugOrgy.outcomeChances.3.potentialExtraOutcomeDesc>有 10% 的機率其中一位參加者會獲得靈感。</DrugOrgy.outcomeChances.3.potentialExtraOutcomeDesc>
 </LanguageData>
