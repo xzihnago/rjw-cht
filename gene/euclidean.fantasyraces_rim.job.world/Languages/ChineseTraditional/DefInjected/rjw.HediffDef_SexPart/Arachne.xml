@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_ArachneVagina.label>阿拉克涅陰道</EFR_ArachneVagina.label>
+  <EFR_ArachneVagina.labelNoun>阿拉克涅陰道</EFR_ArachneVagina.labelNoun>
+  <EFR_ArachneVagina.description>阿拉克涅生產卵的陰道。</EFR_ArachneVagina.description>
+  <EFR_ArachneVagina.stages.0.label>過窄</EFR_ArachneVagina.stages.0.label>
+  <EFR_ArachneVagina.stages.1.label>緊</EFR_ArachneVagina.stages.1.label>
+  <EFR_ArachneVagina.stages.2.label>普通</EFR_ArachneVagina.stages.2.label>
+  <EFR_ArachneVagina.stages.3.label>鬆</EFR_ArachneVagina.stages.3.label>
+  <EFR_ArachneVagina.stages.4.label>過鬆</EFR_ArachneVagina.stages.4.label>
+  <EFR_ArachneVagina.stages.5.label>深淵</EFR_ArachneVagina.stages.5.label>
+
+  <EFR_ArachneOvipositor.label>阿拉克涅產卵管</EFR_ArachneOvipositor.label>
+  <EFR_ArachneOvipositor.labelNoun>阿拉克涅產卵管</EFR_ArachneOvipositor.labelNoun>
+  <EFR_ArachneOvipositor.description>阿拉克涅產卵管，用以植入卵。</EFR_ArachneOvipositor.description>
+  <EFR_ArachneOvipositor.stages.0.label>微小</EFR_ArachneOvipositor.stages.0.label>
+  <EFR_ArachneOvipositor.stages.1.label>小</EFR_ArachneOvipositor.stages.1.label>
+  <EFR_ArachneOvipositor.stages.2.label>普通</EFR_ArachneOvipositor.stages.2.label>
+  <EFR_ArachneOvipositor.stages.3.label>大</EFR_ArachneOvipositor.stages.3.label>
+  <EFR_ArachneOvipositor.stages.4.label>巨大</EFR_ArachneOvipositor.stages.4.label>
+  <EFR_ArachneOvipositor.stages.5.label>參天</EFR_ArachneOvipositor.stages.5.label>
+</LanguageData>
