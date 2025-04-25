@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <hypersexuality.label>性愛成癮</hypersexuality.label>
-  <hypersexuality.description>基因擁有者性愛成癮（流鶯）。</hypersexuality.description>
+  <rjw_genes_hypersexual.label>性愛成癮</rjw_genes_hypersexual.label>
+  <rjw_genes_hypersexual.description>基因擁有者性愛成癮（流鶯）。</rjw_genes_hypersexual.description>
 
   <rjw_genes_rapist.label>強暴犯</rjw_genes_rapist.label>
   <rjw_genes_rapist.description>基因擁有者在性方面更傾向於強迫他人。</rjw_genes_rapist.description>

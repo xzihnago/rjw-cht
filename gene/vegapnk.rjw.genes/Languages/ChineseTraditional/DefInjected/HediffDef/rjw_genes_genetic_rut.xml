@@ -2,6 +2,6 @@
 <LanguageData>
   <rjw_genes_genetic_rut.label>發情</rjw_genes_genetic_rut.label>
   <rjw_genes_genetic_rut.description>基於基因，這個居民正在發情。</rjw_genes_genetic_rut.description>
-  <rjw_genes_genetic_rut.stages.calming_down.label>冷靜中</rjw_genes_genetic_rut.stages.calming_down.label>
-  <rjw_genes_genetic_rut.stages.in_heat.label>燥熱</rjw_genes_genetic_rut.stages.in_heat.label>
+  <rjw_genes_genetic_rut.stages.0.label>冷靜中</rjw_genes_genetic_rut.stages.0.label>
+  <rjw_genes_genetic_rut.stages.1.label>燥熱</rjw_genes_genetic_rut.stages.1.label>
 </LanguageData>
