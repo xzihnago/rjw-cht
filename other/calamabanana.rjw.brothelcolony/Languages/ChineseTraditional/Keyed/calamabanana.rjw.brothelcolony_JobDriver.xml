@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WhoreIsServingVisitorsPaymentSilver>{0}為{1}服務並獲得了 {2} 白銀。基本價格：{3}，品質差：{4}</WhoreIsServingVisitorsPaymentSilver>
+  <WhoreIsServingVisitorsPaymentGoodwill>{0}為{1}服務並獲得了{3}的 {2} 友好度。</WhoreIsServingVisitorsPaymentGoodwill>
+  <WhoreIsServingVisitorsPaymentFervor>{0}為{1}服務並獲得了 {2} 點神聖熱情。</WhoreIsServingVisitorsPaymentFervor>
+</LanguageData>

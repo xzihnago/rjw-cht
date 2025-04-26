@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RepopulationNoGenesCanTaken>無法提取任何基因。</RepopulationNoGenesCanTaken>
+  <RepopulationNoNewGenes>無法賦予新的基因。</RepopulationNoNewGenes>
+  <RepopulationNoBedAvaliable>無床可用。</RepopulationNoBedAvaliable>
+  <RepopulationTargetnotInterested>目標對{0}不感興趣</RepopulationTargetnotInterested>
+  <RepopulationNoGenesAvaliable>目標無可用基因</RepopulationNoGenesAvaliable>
+
+  <RepopulationSelectVisitor>選擇訪客</RepopulationSelectVisitor>
+  <RepopulationSelectOffering>選擇後代</RepopulationSelectOffering>
+  <RepopulationSelectTarget>選擇目標</RepopulationSelectTarget>
+
+  <RepopulationActionLabel>已學習基因</RepopulationActionLabel>
+  <RepopulationActionDesc>選擇以查看所有已學習的基因。</RepopulationActionDesc>
+  <RepopulationActionDiaNode>這些基因已被{0}學習。\n\n透過基因竄改添加基因需要 {1} 點熱情，每增加一級基因複雜度需要額外的 {2} 點熱情。\n\n移除一個基因需要 {3} 點熱情，每增加一級基因複雜度需要額外的 {4} 點熱情。\n\n針對未出生的嬰兒進行可使成本降低一半。</RepopulationActionDiaNode>
+  <RepopulationActionDisabled>需要熱情以學習基因</RepopulationActionDisabled>
+
+  <RepopulationOfferCanNotWalk>{0}無法獨自行走。</RepopulationOfferCanNotWalk>
+  <RepopulationOfferIsNotOne>{0}不是你的。</RepopulationOfferIsNotOne>
+
+  <RepopulationOfferDiaNode>\n\n將把{0}送給{1}。\n他們不會感激我們把他們的親人交給別人。</RepopulationOfferDiaNode>
+  <RepopulationOfferDiaOptionYes>無論如何都要這麼做</RepopulationOfferDiaOptionYes>
+  <RepopulationOfferDiaOptionNo>最好不要</RepopulationOfferDiaOptionNo>
+  <RepopulationOfferDiaNodeTitle>給予錯誤的派系</RepopulationOfferDiaNodeTitle>
+
+  <RepopulationOfferLetterText1>\n\n我們送出{0}到{1}\n\n由於{0}不是他們的成員，所以他們認為這是我們的恩惠。由於我們與他們的關係（{2}），以及{3}對{0}的個人看法（{4}），他們只提供一般報酬的{5}。</RepopulationOfferLetterText1>
+  <RepopulationOfferLetterText2>\n\n我們送出{0}到{1}\n\n由於{0}是他們中的一員，他們向我們提供了一般的報酬。</RepopulationOfferLetterText2>
+  <RepopulationOfferLetterTitle>送出{0}</RepopulationOfferLetterTitle>
+  <RepopulationOfferLetterAcceptForSilver>以 {0} 白銀接受</RepopulationOfferLetterAcceptForSilver>
+  <RepopulationOfferLetterAcceptForGoodwill>以 {0} 友好度接受</RepopulationOfferLetterAcceptForGoodwill>
+  <RepopulationOfferLetterAcceptForFervor>以 {0} 點熱情接受</RepopulationOfferLetterAcceptForFervor>
+  <RepopulationOfferLetterAcceptNothing>不求回報</RepopulationOfferLetterAcceptNothing>
+  <RepopulationOfferLetterAcceptRefuse>拒絕</RepopulationOfferLetterAcceptRefuse>
+
+  <RepopulationValidGenesDiaOption>{0} | 複雜度：{1} | 代謝效率：{2}</RepopulationValidGenesDiaOption>
+
+  <RepopulationFloatMenuTitle>可用基因</RepopulationFloatMenuTitle>
+  <RepopulationFloatMenuTitle2>基因</RepopulationFloatMenuTitle2>
+  <RepopulationWidgetRemoveGeneTitle>移除基因</RepopulationWidgetRemoveGeneTitle>
+  <RepopulationWidgetAddGeneTitle>加入基因</RepopulationWidgetAddGeneTitle>
+
+  <RepopulationGeneFervor>熱情：{0}</RepopulationGeneFervor>
+  <RepopulationGeneRemovePrice>移除（{0}）</RepopulationGeneRemovePrice>
+  <RepopulationGeneAddPrice>加入（{0}）</RepopulationGeneAddPrice>
+
+  <RepopulationGeneRemovedMessage>已從{1}中移除{0}。</RepopulationGeneRemovedMessage>
+  <RepopulationGeneRemovedUnbornMessage>已從未出生的嬰兒中移除{0}。</RepopulationGeneRemovedUnbornMessage>
+
+  <RepopulationGeneAddedMessage>已在{1}中加入{0}。</RepopulationGeneAddedMessage>
+  <RepopulationGeneAddedUnbornMessage>已在未出生的嬰兒中加入{0}</RepopulationGeneAddedUnbornMessage>
+
+  <RepopulationRitualGeneTamperingTitle>基因竄改成功</RepopulationRitualGeneTamperingTitle>
+  <RepopulationRitualGeneTamperingDiaNodeText1>\n\n你目前有 {0} 點神聖熱情可供使用。\n選擇一個你想要為{1}的孩子進行竄改的基因。母親懷孕期間，其基因不可被竄改。</RepopulationRitualGeneTamperingDiaNodeText1>
+  <RepopulationRitualGeneTamperingDiaNodeText2>\n\n你目前有 {0} 點神聖熱情可供使用。\n選擇一個你想要為{1}進行竄改的基因。</RepopulationRitualGeneTamperingDiaNodeText2>
+
+  <RepopulationRitualReasonNotTarget>不是目標</RepopulationRitualReasonNotTarget>
+  <RepopulationRitualReasonAnimal>那是一隻動物</RepopulationRitualReasonAnimal>
+  <RepopulationRitualReasonNotPregnantAndHasNoGenes>目標沒有基因，並且沒有懷孕</RepopulationRitualReasonNotPregnantAndHasNoGenes>
+
+  <RepopulationCommandActionLabelStart>出發</RepopulationCommandActionLabelStart>
+  <RepopulationCommandActionLabelForSilver>為了白銀</RepopulationCommandActionLabelForSilver>
+  <RepopulationCommandActionLabelForGoodwill>為了友好度</RepopulationCommandActionLabelForGoodwill>
+  <RepopulationCommandActionLabelForFervor>為了熱情</RepopulationCommandActionLabelForFervor>
+  <RepopulationCommandActionDesc>告知以自動出發，你可以在此處更改設定</RepopulationCommandActionDesc>
+
+  <RepopulationLetterDiaOptionForSilver>是，為了白銀</RepopulationLetterDiaOptionForSilver>
+  <RepopulationLetterDiaOptionForGoodwill>是，為了友好度</RepopulationLetterDiaOptionForGoodwill>
+  <RepopulationLetterDiaOptionForFervor>是，為了熱情</RepopulationLetterDiaOptionForFervor>
+  <RepopulationLetterDiaOptionNothing>是，不求回報</RepopulationLetterDiaOptionNothing>
+  <RepopulationLetterDiaOptionNoAsk>否，當他們到達時詢問</RepopulationLetterDiaOptionNoAsk>
+  <RepopulationLetterDiaOptionNoNever>否，從不</RepopulationLetterDiaOptionNoNever>
+  <RepopulationLetterDiaOptionDisabled>當我們宣布再繁衍的意圖時，我們做出選擇</RepopulationLetterDiaOptionDisabled>
+  <RepopulationLetterDiaOptionDead>死亡</RepopulationLetterDiaOptionDead>
+</LanguageData>

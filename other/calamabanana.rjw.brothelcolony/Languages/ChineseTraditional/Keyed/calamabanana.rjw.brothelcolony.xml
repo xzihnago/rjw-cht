@@ -6,7 +6,8 @@
   <show_whore_price_factor_on_bed_desc>在允許賣淫的床上顯示性交易價格倍率</show_whore_price_factor_on_bed_desc>
   <show_whore_widgets_on_bed>顯示床小工具</show_whore_widgets_on_bed>
   <show_whore_widgets_on_bed_desc>顯示床小工具用以標記公共／私人性交易床。</show_whore_widgets_on_bed_desc>
-
+  <NotifyPayment>付款通知</NotifyPayment>
+  <NotifyPayment_desc>如果你想看顧客的付款通知</NotifyPayment_desc>
   <MoneyPrinting>印鈔票</MoneyPrinting>
   <MoneyPrinting_desc>顧客會憑空產生白銀而非原先攜帶的白銀</MoneyPrinting_desc>
 
@@ -48,6 +49,7 @@
   <CommandBedAllowWhoringLabel>允許擁有者賣淫</CommandBedAllowWhoringLabel>
   <CommandBedAllowWhoringDesc>是否允許擁有者用這張床賣淫。</CommandBedAllowWhoringDesc>
   <WhorePriceCalcDesc>賣淫價格因素（基於舒適度、房間印象及房間內的床數）：{0}</WhorePriceCalcDesc>
+  <CommandDisableBedTypeIsNotAssignable>不能給人物分配這種類型的床。</CommandDisableBedTypeIsNotAssignable>
 
   <WhorePrice>性交易價格區間：</WhorePrice>
   <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
@@ -65,8 +67,7 @@
   <CB_AskToTakeLetterRefused>{0}對拒絕感到失望。關係已降低{3}。他們將在{2}天後再次索要{1}。</CB_AskToTakeLetterRefused>
 
   <CB_SetToLeaveLetterLabel>{0}繁殖生滿</CB_SetToLeaveLetterLabel>
-  <CB_SetToLeaveLetterDescription>{0}的父親是{1}，他是{2}的一員。\n\n我們的任務是重建這個世界的人口，現在我們必須決定這個孩子是否應該準備好加入下一批自己經過的{2}，還是應該先問一下。\n\n<b>讓{0}自動離開嗎？</b>
-  </CB_SetToLeaveLetterDescription>
+  <CB_SetToLeaveLetterDescription>{0}的父親是{1}，他是{2}的一員。\n\n我們的任務是重建這個世界的人口，現在我們必須決定這個孩子是否應該準備好加入下一批自己經過的{2}，還是應該先問一下。\n\n<b>讓{0}自動離開嗎？</b></CB_SetToLeaveLetterDescription>
   <CB_SetToLeaveLetterDescription0>\n我們堅信這是我們的責任。</CB_SetToLeaveLetterDescription0>
   <CB_SetToLeaveLetterDescription1>\n{0}會感激我們的善意。</CB_SetToLeaveLetterDescription1>
   <CB_SetToLeaveLetterDescription2>\n通常我們這樣做是為了白銀。</CB_SetToLeaveLetterDescription2>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ProstitutionCouldNotAfford>{0}無力負擔{1}</ProstitutionCouldNotAfford>
+  <ProstitutionUnhealtyAndReject>{0}不健康並且被拒絕。</ProstitutionUnhealtyAndReject>
+  <ProstitutionNoneAppealing>{0}覺得你的妓女沒有一個有吸引力。</ProstitutionNoneAppealing>
+
+  <ProstitutionAbilityPresentCooldown>下一個展示準備就緒時間：{0}</ProstitutionAbilityPresentCooldown>
+  <ProstitutionAbilityPresentDisabled>先指定至少一張賣淫床位。</ProstitutionAbilityPresentDisabled>
+  <ProstitutionAbilityPresentWarning>\n\n警告！{0}是遠行隊隊長，他們的馱獸會跟著他們。</ProstitutionAbilityPresentWarning>
+
+  <ProstitutionAbilityPresentSilverGuests>\n\n可供顧客使用的白銀：\n</ProstitutionAbilityPresentSilverGuests>
+  <ProstitutionAbilityPresentSilverGroup>{0} - {1} 的區間\n</ProstitutionAbilityPresentSilverGroup>
+  <ProstitutionAbilityPresentSilverTotal>\n總計：{0}\n</ProstitutionAbilityPresentSilverTotal>
+
+  <ProstitutionAbilityPresentWhorePrice>最便宜的妓女：\n{0}：{1}白銀</ProstitutionAbilityPresentWhorePrice>
+  <ProstitutionAbilityPresentWhoreFree>有些妓女不需要白銀。</ProstitutionAbilityPresentWhoreFree>
+
+  <ProstitutionAbilityPresentWhoreTitle>神聖生育力</ProstitutionAbilityPresentWhoreTitle>
+  <ProstitutionAbilityPresentWhoreOutcomeDesc>所有參加者的生育能力都提升了。</ProstitutionAbilityPresentWhoreOutcomeDesc>
+  <ProstitutionAbilityPresentWhoreDiaNodeText>\n\n儀式的品質使我們的初始生育力提高了 {0}%。\n\n每枚居民花費五點神聖熱情可再增加 100%。</ProstitutionAbilityPresentWhoreDiaNodeText>
+  <ProstitutionAbilityPresentWhoreDiaOptionNone>無</ProstitutionAbilityPresentWhoreDiaOptionNone>
+  <ProstitutionAbilityPresentWhoreDiaOption>每位參加者花費{0}熱情\n總計：{1}</ProstitutionAbilityPresentWhoreDiaOption>
+  <ProstitutionAbilityPresentWhoreDiaOptionDisable>無力負擔這麼多</ProstitutionAbilityPresentWhoreDiaOptionDisable>
+
+  <ProstitutionDesignateBrothelBedFirst>先指定至少一張賣淫床位。</ProstitutionDesignateBrothelBedFirst>
+
+  <ProstitutionRitualReasonClient>儀式人物必須是非敵對訪客</ProstitutionRitualReasonClient>
+  <ProstitutionRitualReasonWhore>{0}未被指定為賣淫者。</ProstitutionRitualReasonWhore>
+
+  <ProstitutionLetterTitle>沒有更多顧客</ProstitutionLetterTitle>
+  <ProstitutionLetterDesc>沒有更多顧客需要服務。</ProstitutionLetterDesc>
+
+  <ProstitutionRitualDesc><![CDATA[
+妓女會盡力為所有願意接待她們的顧客提供服務。 {madam}的社交技能（{madam_skills}）將協助他們找到顧客。\n\n\n\n男性顧客：{male_clients}\n\n女性顧客：{female_clients}\n\n\n
+]]></ProstitutionRitualDesc>
+</LanguageData>
