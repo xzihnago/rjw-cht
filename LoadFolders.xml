@@ -35,6 +35,7 @@
     <li IfModActive="teacher.uap">animation/teacher.uap</li>
     <li IfModActive="eltoro.anims">animation/eltoro.anims</li>
 
+    <li IfModActive="otyoty.sizedapparel">item/otyoty.sizedapparel</li>
     <li IfModActive="hehehew.sizedapparelforslaves">item/hehehew.sizedapparelforslaves</li>
     <li IfModActive="rimworld.ekss.rjwex">item/rimworld.ekss.rjwex</li>
 
