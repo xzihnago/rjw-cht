@@ -2,6 +2,7 @@
 <LanguageData>
   <StretchTear.label>撕裂</StretchTear.label>
   <StretchTear.labelNoun>撕裂</StretchTear.labelNoun>
+  <StretchTear.labelNounPretty>{1}中的{0}</StretchTear.labelNounPretty>
   <StretchTear.description>使用較大的插入物在較小的開口進行性行為可能導致疼痛的撕裂。</StretchTear.description>
   <StretchTear.comps.0.labelTendedWell>縫合</StretchTear.comps.0.labelTendedWell>
   <StretchTear.comps.0.labelTendedWellInner>縫合</StretchTear.comps.0.labelTendedWellInner>

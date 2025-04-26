@@ -2,6 +2,7 @@
 <LanguageData>
   <CervixBruise.label>子宮頸瘀傷</CervixBruise.label>
   <CervixBruise.labelNoun>子宮頸瘀傷</CervixBruise.labelNoun>
+  <CervixBruise.labelNounPretty>{1}中的{0}</CervixBruise.labelNounPretty>
   <CervixBruise.description>子宮頸上的瘀傷。</CervixBruise.description>
   <CervixBruise.comps.0.labelTendedWell>休養</CervixBruise.comps.0.labelTendedWell>
   <CervixBruise.comps.0.labelTendedWellInner>休養</CervixBruise.comps.0.labelTendedWellInner>
