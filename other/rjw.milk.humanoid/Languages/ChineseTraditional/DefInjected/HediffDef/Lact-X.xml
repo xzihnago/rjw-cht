@@ -10,4 +10,7 @@
 
   <Lact-XTolerance.label>泌乳劑X耐受</Lact-XTolerance.label>
   <Lact-XTolerance.description>獲得對泌乳劑X的耐受性</Lact-XTolerance.description>
+  <Lact-XTolerance.stages.small.label>輕微</Lact-XTolerance.stages.small.label>
+  <Lact-XTolerance.stages.large.label>強烈</Lact-XTolerance.stages.large.label>
+  <Lact-XTolerance.stages.massive.label>極強</Lact-XTolerance.stages.massive.label>
 </LanguageData>
