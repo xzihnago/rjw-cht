@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_SlugStuffed.label>充滿黏液</Cumpilation_SlugStuffed.label>
+  <Cumpilation_SlugStuffed.labelNoun>充滿黏液</Cumpilation_SlugStuffed.labelNoun>
+  <Cumpilation_SlugStuffed.description>你距離正在黏黏的人太近了。</Cumpilation_SlugStuffed.description>
+  <Cumpilation_SlugStuffed.stages.slightly_bloated.label>稍微發脹</Cumpilation_SlugStuffed.stages.slightly_bloated.label>
+  <Cumpilation_SlugStuffed.stages.bloated.label>發脹</Cumpilation_SlugStuffed.stages.bloated.label>
+  <Cumpilation_SlugStuffed.stages.full.label>飽滿</Cumpilation_SlugStuffed.stages.full.label>
+  <Cumpilation_SlugStuffed.stages.overstuffed.label>過量</Cumpilation_SlugStuffed.stages.overstuffed.label>
+</LanguageData>
