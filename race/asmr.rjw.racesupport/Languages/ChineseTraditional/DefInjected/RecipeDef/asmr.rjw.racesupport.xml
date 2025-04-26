@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreastSurgeryMammalBreasts.label>安裝哺乳類乳房</BreastSurgeryMammalBreasts.label>
+  <BreastSurgeryMammalBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryMammalBreasts.description>
+  <BreastSurgeryMammalBreasts.jobString>安裝乳房</BreastSurgeryMammalBreasts.jobString>
+
+  <SexReassignmentPMammalPenis.label>安裝哺乳類陰莖</SexReassignmentPMammalPenis.label>
+  <SexReassignmentPMammalPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPMammalPenis.description>
+  <SexReassignmentPMammalPenis.jobString>安裝陰莖</SexReassignmentPMammalPenis.jobString>
+
+  <SexReassignmentVMammalVagina.label>安裝哺乳類陰道</SexReassignmentVMammalVagina.label>
+  <SexReassignmentVMammalVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVMammalVagina.description>
+  <SexReassignmentVMammalVagina.jobString>安裝陰道</SexReassignmentVMammalVagina.jobString>
+
+  <AnalSurgeryMammalAnus.label>安裝哺乳類肛門</AnalSurgeryMammalAnus.label>
+  <AnalSurgeryMammalAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryMammalAnus.description>
+  <AnalSurgeryMammalAnus.jobString>安裝肛門</AnalSurgeryMammalAnus.jobString>
+
+  <MultiBreastMammalBreasts.label>加裝哺乳類乳房</MultiBreastMammalBreasts.label>
+  <MultiBreastMammalBreasts.description>加裝額外的乳房。</MultiBreastMammalBreasts.description>
+  <MultiBreastMammalBreasts.jobString>加裝乳房</MultiBreastMammalBreasts.jobString>
+
+  <MultiPenisMammalPenis.label>加裝哺乳類陰莖</MultiPenisMammalPenis.label>
+  <MultiPenisMammalPenis.description>加裝額外的陰莖。</MultiPenisMammalPenis.description>
+  <MultiPenisMammalPenis.jobString>加裝陰莖</MultiPenisMammalPenis.jobString>
+
+  <MultiVaginaMammalVagina.label>加裝哺乳類陰道</MultiVaginaMammalVagina.label>
+  <MultiVaginaMammalVagina.description>加裝額外的陰道。</MultiVaginaMammalVagina.description>
+  <MultiVaginaMammalVagina.jobString>加裝陰道</MultiVaginaMammalVagina.jobString>
+
+  <MultiAnusMammalAnus.label>加裝哺乳類肛門</MultiAnusMammalAnus.label>
+  <MultiAnusMammalAnus.description>加裝額外的肛門。</MultiAnusMammalAnus.description>
+  <MultiAnusMammalAnus.jobString>加裝肛門</MultiAnusMammalAnus.jobString>
+</LanguageData>

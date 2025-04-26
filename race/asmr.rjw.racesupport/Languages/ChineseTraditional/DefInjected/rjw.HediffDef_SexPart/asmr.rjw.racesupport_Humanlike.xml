@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ElfPenis.label>精靈陰莖</ElfPenis.label>
+  <ElfPenis.labelNoun>精靈陰莖</ElfPenis.labelNoun>
+  <ElfPenis.description>一根更細更長的類似人類的陰莖。它在閃爍嗎？</ElfPenis.description>
+  <ElfPenis.stages.0.label>微小</ElfPenis.stages.0.label>
+  <ElfPenis.stages.1.label>小</ElfPenis.stages.1.label>
+  <ElfPenis.stages.2.label>普通</ElfPenis.stages.2.label>
+  <ElfPenis.stages.3.label>大</ElfPenis.stages.3.label>
+  <ElfPenis.stages.4.label>巨大</ElfPenis.stages.4.label>
+  <ElfPenis.stages.5.label>參天</ElfPenis.stages.5.label>
+
+  <ElfVagina.label>精靈陰道</ElfVagina.label>
+  <ElfVagina.labelNoun>精靈陰道</ElfVagina.labelNoun>
+  <ElfVagina.description>一個更緊緻的類似人類的陰道。嘗起來像橘子。</ElfVagina.description>
+  <ElfVagina.stages.0.label>過窄</ElfVagina.stages.0.label>
+  <ElfVagina.stages.1.label>緊</ElfVagina.stages.1.label>
+  <ElfVagina.stages.2.label>普通</ElfVagina.stages.2.label>
+  <ElfVagina.stages.3.label>鬆</ElfVagina.stages.3.label>
+  <ElfVagina.stages.4.label>過鬆</ElfVagina.stages.4.label>
+  <ElfVagina.stages.5.label>深淵</ElfVagina.stages.5.label>
+
+  <ElfAnus.label>精靈肛門</ElfAnus.label>
+  <ElfAnus.labelNoun>精靈肛門</ElfAnus.labelNoun>
+  <ElfAnus.description>一個更緊緻的類似人類的肛門。有花香。</ElfAnus.description>
+  <ElfAnus.stages.0.label>過窄</ElfAnus.stages.0.label>
+  <ElfAnus.stages.1.label>緊</ElfAnus.stages.1.label>
+  <ElfAnus.stages.2.label>普通</ElfAnus.stages.2.label>
+  <ElfAnus.stages.3.label>鬆</ElfAnus.stages.3.label>
+  <ElfAnus.stages.4.label>過鬆</ElfAnus.stages.4.label>
+  <ElfAnus.stages.5.label>深淵</ElfAnus.stages.5.label>
+
+
+  <OrcBreasts.label>獸人乳房</OrcBreasts.label>
+  <OrcBreasts.labelNoun>獸人乳房</OrcBreasts.labelNoun>
+  <OrcBreasts.description>一對像人類一樣下垂的乳房。</OrcBreasts.description>
+  <OrcBreasts.stages.0.label>平坦</OrcBreasts.stages.0.label>
+  <OrcBreasts.stages.1.label>微隆</OrcBreasts.stages.1.label>
+  <OrcBreasts.stages.2.label>小巧</OrcBreasts.stages.2.label>
+  <OrcBreasts.stages.3.label>普通</OrcBreasts.stages.3.label>
+  <OrcBreasts.stages.4.label>較大</OrcBreasts.stages.4.label>
+  <OrcBreasts.stages.5.label>巨大</OrcBreasts.stages.5.label>
+  <OrcBreasts.stages.6.label>龐大</OrcBreasts.stages.6.label>
+  <OrcBreasts.stages.7.label>極大</OrcBreasts.stages.7.label>
+  <OrcBreasts.stages.8.label>巨人</OrcBreasts.stages.8.label>
+  <OrcBreasts.stages.9.label>巨像</OrcBreasts.stages.9.label>
+  <OrcBreasts.stages.10.label>泰坦</OrcBreasts.stages.10.label>
+  <OrcBreasts.stages.11.label>天體</OrcBreasts.stages.11.label>
+
+  <OrcPenis.label>獸人陰莖</OrcPenis.label>
+  <OrcPenis.labelNoun>獸人陰莖</OrcPenis.labelNoun>
+  <OrcPenis.description>一根粗大的陰莖，帶有包皮環，但其他方面與人類陰莖相似。</OrcPenis.description>
+  <OrcPenis.stages.0.label>微小</OrcPenis.stages.0.label>
+  <OrcPenis.stages.1.label>小</OrcPenis.stages.1.label>
+  <OrcPenis.stages.2.label>普通</OrcPenis.stages.2.label>
+  <OrcPenis.stages.3.label>大</OrcPenis.stages.3.label>
+  <OrcPenis.stages.4.label>巨大</OrcPenis.stages.4.label>
+  <OrcPenis.stages.5.label>參天</OrcPenis.stages.5.label>
+
+  <OrcVagina.label>獸人陰道</OrcVagina.label>
+  <OrcVagina.labelNoun>獸人陰道</OrcVagina.labelNoun>
+  <OrcVagina.description>一個鬆弛的、類似人類的陰道，陰唇很大。</OrcVagina.description>
+  <OrcVagina.stages.0.label>過窄</OrcVagina.stages.0.label>
+  <OrcVagina.stages.1.label>緊</OrcVagina.stages.1.label>
+  <OrcVagina.stages.2.label>普通</OrcVagina.stages.2.label>
+  <OrcVagina.stages.3.label>鬆</OrcVagina.stages.3.label>
+  <OrcVagina.stages.4.label>過鬆</OrcVagina.stages.4.label>
+  <OrcVagina.stages.5.label>深淵</OrcVagina.stages.5.label>
+
+  <OrcAnus.label>獸人肛門</OrcAnus.label>
+  <OrcAnus.labelNoun>獸人肛門</OrcAnus.labelNoun>
+  <OrcAnus.description>一個肛門，看起來像是人類肛門與馬肛門的結合。</OrcAnus.description>
+  <OrcAnus.stages.0.label>過窄</OrcAnus.stages.0.label>
+  <OrcAnus.stages.1.label>緊</OrcAnus.stages.1.label>
+  <OrcAnus.stages.2.label>普通</OrcAnus.stages.2.label>
+  <OrcAnus.stages.3.label>鬆</OrcAnus.stages.3.label>
+  <OrcAnus.stages.4.label>過鬆</OrcAnus.stages.4.label>
+  <OrcAnus.stages.5.label>深淵</OrcAnus.stages.5.label>
+</LanguageData>

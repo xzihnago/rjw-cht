@@ -23,6 +23,7 @@
     <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">womb/lustlicentiastretch.rjwlabs</li>
 
+    <li IfModActive="asmr.rjw.racesupport">race/asmr.rjw.racesupport</li>
     <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes</li>
     <li IfModActive="vegapnk.rjw.genes,vegapnk.cumpilation">race/vegapnk.rjw.genes_vegapnk.cumpilation</li>
     <li IfModActive="vegapnk.rjw.genes,asmr.rjw.racesupport">race/vegapnk.rjw.genes_asmr.rjw.racesupport</li>

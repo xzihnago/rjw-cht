@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AedeagusPenis.label>插入器</AedeagusPenis.label>
+  <AedeagusPenis.labelNoun>插入器</AedeagusPenis.labelNoun>
+  <AedeagusPenis.description>一根雄性節肢動物的陰莖，用於排出精囊以使雌性節肢動物受精。</AedeagusPenis.description>
+  <AedeagusPenis.stages.0.label>微小</AedeagusPenis.stages.0.label>
+  <AedeagusPenis.stages.1.label>小</AedeagusPenis.stages.1.label>
+  <AedeagusPenis.stages.2.label>普通</AedeagusPenis.stages.2.label>
+  <AedeagusPenis.stages.3.label>大</AedeagusPenis.stages.3.label>
+  <AedeagusPenis.stages.4.label>巨大</AedeagusPenis.stages.4.label>
+  <AedeagusPenis.stages.5.label>參天</AedeagusPenis.stages.5.label>
+
+  <OviporeVagina.label>卵孔</OviporeVagina.label>
+  <OviporeVagina.labelNoun>卵孔</OviporeVagina.labelNoun>
+  <OviporeVagina.description>一個雌性節肢動物用於接收精囊的孔狀性器官。與陰道大致相同。</OviporeVagina.description>
+  <OviporeVagina.stages.0.label>過窄</OviporeVagina.stages.0.label>
+  <OviporeVagina.stages.1.label>緊</OviporeVagina.stages.1.label>
+  <OviporeVagina.stages.2.label>普通</OviporeVagina.stages.2.label>
+  <OviporeVagina.stages.3.label>鬆</OviporeVagina.stages.3.label>
+  <OviporeVagina.stages.4.label>過鬆</OviporeVagina.stages.4.label>
+  <OviporeVagina.stages.5.label>深淵</OviporeVagina.stages.5.label>
+</LanguageData>

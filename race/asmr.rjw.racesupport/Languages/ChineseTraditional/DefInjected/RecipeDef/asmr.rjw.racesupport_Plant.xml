@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreastSurgeryCactoidBreasts.label>安裝仙人掌乳房</BreastSurgeryCactoidBreasts.label>
+  <BreastSurgeryCactoidBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryCactoidBreasts.description>
+  <BreastSurgeryCactoidBreasts.jobString>安裝乳房</BreastSurgeryCactoidBreasts.jobString>
+
+  <SexReassignmentPCactoidPenis.label>安裝仙人掌陰莖</SexReassignmentPCactoidPenis.label>
+  <SexReassignmentPCactoidPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPCactoidPenis.description>
+  <SexReassignmentPCactoidPenis.jobString>安裝陰莖</SexReassignmentPCactoidPenis.jobString>
+
+  <SexReassignmentVCactoidVagina.label>安裝仙人掌陰道</SexReassignmentVCactoidVagina.label>
+  <SexReassignmentVCactoidVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVCactoidVagina.description>
+  <SexReassignmentVCactoidVagina.jobString>安裝陰道</SexReassignmentVCactoidVagina.jobString>
+
+  <AnalSurgeryCactoidAnus.label>安裝仙人掌肛門</AnalSurgeryCactoidAnus.label>
+  <AnalSurgeryCactoidAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryCactoidAnus.description>
+  <AnalSurgeryCactoidAnus.jobString>安裝肛門</AnalSurgeryCactoidAnus.jobString>
+
+  <MultiBreastCactoidBreasts.label>加裝仙人掌乳房</MultiBreastCactoidBreasts.label>
+  <MultiBreastCactoidBreasts.description>加裝額外的乳房。</MultiBreastCactoidBreasts.description>
+  <MultiBreastCactoidBreasts.jobString>加裝乳房</MultiBreastCactoidBreasts.jobString>
+
+  <MultiPenisCactoidPenis.label>加裝仙人掌陰莖</MultiPenisCactoidPenis.label>
+  <MultiPenisCactoidPenis.description>加裝額外的陰莖。</MultiPenisCactoidPenis.description>
+  <MultiPenisCactoidPenis.jobString>加裝陰莖</MultiPenisCactoidPenis.jobString>
+
+  <MultiVaginaCactoidVagina.label>加裝仙人掌陰道</MultiVaginaCactoidVagina.label>
+  <MultiVaginaCactoidVagina.description>加裝額外的陰道。</MultiVaginaCactoidVagina.description>
+  <MultiVaginaCactoidVagina.jobString>加裝陰道</MultiVaginaCactoidVagina.jobString>
+
+  <MultiAnusCactoidAnus.label>加裝仙人掌肛門</MultiAnusCactoidAnus.label>
+  <MultiAnusCactoidAnus.description>加裝額外的肛門。</MultiAnusCactoidAnus.description>
+  <MultiAnusCactoidAnus.jobString>加裝肛門</MultiAnusCactoidAnus.jobString>
+
+
+  <SexReassignmentPAntherPenis.label>安裝花藥</SexReassignmentPAntherPenis.label>
+  <SexReassignmentPAntherPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPAntherPenis.description>
+  <SexReassignmentPAntherPenis.jobString>安裝陰莖</SexReassignmentPAntherPenis.jobString>
+
+  <SexReassignmentVPistilVagina.label>安裝雌蕊</SexReassignmentVPistilVagina.label>
+  <SexReassignmentVPistilVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVPistilVagina.description>
+  <SexReassignmentVPistilVagina.jobString>安裝陰道</SexReassignmentVPistilVagina.jobString>
+
+  <MultiPenisAntherPenis.label>加裝花藥</MultiPenisAntherPenis.label>
+  <MultiPenisAntherPenis.description>加裝額外的陰莖。</MultiPenisAntherPenis.description>
+  <MultiPenisAntherPenis.jobString>加裝陰莖</MultiPenisAntherPenis.jobString>
+
+  <MultiVaginaPistilVagina.label>加裝雌蕊</MultiVaginaPistilVagina.label>
+  <MultiVaginaPistilVagina.description>加裝額外的陰道。</MultiVaginaPistilVagina.description>
+  <MultiVaginaPistilVagina.jobString>加裝陰道</MultiVaginaPistilVagina.jobString>
+
+
+  <SexReassignmentPVinePenis.label>安裝藤蔓</SexReassignmentPVinePenis.label>
+  <SexReassignmentPVinePenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPVinePenis.description>
+  <SexReassignmentPVinePenis.jobString>安裝陰莖</SexReassignmentPVinePenis.jobString>
+
+  <MultiPenisVinePenis.label>加裝藤蔓</MultiPenisVinePenis.label>
+  <MultiPenisVinePenis.description>加裝額外的陰莖。</MultiPenisVinePenis.description>
+  <MultiPenisVinePenis.jobString>加裝陰莖</MultiPenisVinePenis.jobString>
+
+
+  <BreastSurgeryTreeBreasts.label>安裝樹皮乳房</BreastSurgeryTreeBreasts.label>
+  <BreastSurgeryTreeBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryTreeBreasts.description>
+  <BreastSurgeryTreeBreasts.jobString>安裝乳房</BreastSurgeryTreeBreasts.jobString>
+
+  <SexReassignmentPTreePenis.label>安裝樹皮陰莖</SexReassignmentPTreePenis.label>
+  <SexReassignmentPTreePenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPTreePenis.description>
+  <SexReassignmentPTreePenis.jobString>安裝陰莖</SexReassignmentPTreePenis.jobString>
+
+  <SexReassignmentVTreeVagina.label>安裝樹皮陰道</SexReassignmentVTreeVagina.label>
+  <SexReassignmentVTreeVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVTreeVagina.description>
+  <SexReassignmentVTreeVagina.jobString>安裝陰道</SexReassignmentVTreeVagina.jobString>
+
+  <AnalSurgeryTreeAnus.label>安裝樹皮肛門</AnalSurgeryTreeAnus.label>
+  <AnalSurgeryTreeAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryTreeAnus.description>
+  <AnalSurgeryTreeAnus.jobString>安裝肛門</AnalSurgeryTreeAnus.jobString>
+
+  <MultiBreastTreeBreasts.label>加裝樹皮乳房</MultiBreastTreeBreasts.label>
+  <MultiBreastTreeBreasts.description>加裝額外的乳房。</MultiBreastTreeBreasts.description>
+  <MultiBreastTreeBreasts.jobString>加裝乳房</MultiBreastTreeBreasts.jobString>
+
+  <MultiPenisTreePenis.label>加裝樹皮陰莖</MultiPenisTreePenis.label>
+  <MultiPenisTreePenis.description>加裝額外的陰莖。</MultiPenisTreePenis.description>
+  <MultiPenisTreePenis.jobString>加裝陰莖</MultiPenisTreePenis.jobString>
+
+  <MultiVaginaTreeVagina.label>加裝樹皮陰道</MultiVaginaTreeVagina.label>
+  <MultiVaginaTreeVagina.description>加裝額外的陰道。</MultiVaginaTreeVagina.description>
+  <MultiVaginaTreeVagina.jobString>加裝陰道</MultiVaginaTreeVagina.jobString>
+
+  <MultiAnusTreeAnus.label>加裝樹皮肛門</MultiAnusTreeAnus.label>
+  <MultiAnusTreeAnus.description>加裝額外的肛門。</MultiAnusTreeAnus.description>
+  <MultiAnusTreeAnus.jobString>加裝肛門</MultiAnusTreeAnus.jobString>
+</LanguageData>

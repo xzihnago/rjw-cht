@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CactoidBreasts.label>仙人掌乳房</CactoidBreasts.label>
+  <CactoidBreasts.description>一對粗糙如植物般的乳房，周圍佈滿荊棘，以及如花朵般的乳頭。</CactoidBreasts.description>
+  <CactoidPenis.label>仙人掌陰莖</CactoidPenis.label>
+  <CactoidPenis.description>一根粗糙的植物狀陰莖，陰莖上有刺。</CactoidPenis.description>
+  <CactoidVagina.label>仙人掌陰道</CactoidVagina.label>
+  <CactoidVagina.description>一個粗糙的植物狀陰道，內壁佈滿刺。在性交過程中，荊棘會刺住男性生殖器。</CactoidVagina.description>
+  <CactoidAnus.label>仙人掌肛門</CactoidAnus.label>
+  <CactoidAnus.description>一個粗糙的植物狀肛門。這次沒有刺。</CactoidAnus.description>
+
+  <AntherPenis.label>花藥</AntherPenis.label>
+  <AntherPenis.description>一個花的雄性生殖器官。細長的花絲，頂端有一個大的花粉產生頭。</AntherPenis.description>
+  <PistilVagina.label>雌蕊</PistilVagina.label>
+  <PistilVagina.description>一個花的雌性生殖器官。黏性入口透過長管狀結構與子房相連。</PistilVagina.description>
+
+  <VinePenis.label>藤蔓</VinePenis.label>
+  <VinePenis.description>一團藤蔓，應該是陰莖。</VinePenis.description>
+
+  <TreeBreasts.label>樹皮乳房</TreeBreasts.label>
+  <TreeBreasts.description>一對自然生長的木質乳房。堅硬的樹皮覆蓋了整個外部，而乳頭則暴露在外。</TreeBreasts.description>
+  <TreePenis.label>樹皮陰莖</TreePenis.label>
+  <TreePenis.description>一根自然生長的木質陰莖。睪丸完全被堅硬的木質樹皮覆蓋，而陰莖柱的質感較軟，尖端未被覆蓋。</TreePenis.description>
+  <TreeVagina.label>樹皮陰道</TreeVagina.label>
+  <TreeVagina.description>一個自然生長的木質陰道。雖然外表看起來像樹皮，但裡面卻很柔軟。</TreeVagina.description>
+  <TreeAnus.label>樹皮肛門</TreeAnus.label>
+  <TreeAnus.description>一個自然生長的木質肛門。雖然外表看起來像樹皮，但裡面卻很柔軟。</TreeAnus.description>
+</LanguageData>
