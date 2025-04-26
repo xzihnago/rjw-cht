@@ -23,14 +23,14 @@
     <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">womb/lustlicentiastretch.rjwlabs</li>
 
-    <li IfModActive="vegapnk.rjw.genes">gene/vegapnk.rjw.genes</li>
-    <li IfModActive="vegapnk.rjw.genes,vegapnk.cumpilation">gene/vegapnk.rjw.genes_vegapnk.cumpilation</li>
-    <li IfModActive="vegapnk.rjw.genes,asmr.rjw.racesupport">gene/asmr.rjw.racesupport</li>
-    <li IfModActive="vegapnk.rjw.genes,lustlicentia.rjwlabs">gene/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
-    <li IfModActive="euclidean.fantasyraces">gene/euclidean.fantasyraces</li>
-    <li IfModActive="euclidean.fantasyraces,sarg.alphagenes">gene/euclidean.fantasyraces_sarg.alphagenes</li>
-    <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">gene/euclidean.fantasyraces_sarg.alphagenes</li>
-    <li IfModActive="euclidean.fantasyraces,rim.job.world">gene/euclidean.fantasyraces_rim.job.world</li>
+    <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes</li>
+    <li IfModActive="vegapnk.rjw.genes,vegapnk.cumpilation">race/vegapnk.rjw.genes_vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.rjw.genes,asmr.rjw.racesupport">race/vegapnk.rjw.genes_asmr.rjw.racesupport</li>
+    <li IfModActive="vegapnk.rjw.genes,lustlicentia.rjwlabs">race/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
+    <li IfModActive="euclidean.fantasyraces">race/euclidean.fantasyraces</li>
+    <li IfModActive="euclidean.fantasyraces,sarg.alphagenes">race/euclidean.fantasyraces_sarg.alphagenes</li>
+    <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">race/euclidean.fantasyraces_sarg.alphagenes</li>
+    <li IfModActive="euclidean.fantasyraces,rim.job.world">race/euclidean.fantasyraces_rim.job.world</li>
 
     <li IfModActive="teacher.uap">animation/teacher.uap</li>
     <li IfModActive="eltoro.anims">animation/eltoro.anims</li>
