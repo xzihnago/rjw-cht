@@ -100,7 +100,7 @@
   <RSOption_LogInjection_Label>記錄性經歷 comp 注入</RSOption_LogInjection_Label>
   <RSOption_LogInjection_Desc>遊戲啟動時，顯示所有包含 SexHistoryComp 注入的 def</RSOption_LogInjection_Desc>
 
-  <Button_ResetToDefault>重設為預設</Button_ResetToDefault>
+  <Button_ResetToDefault>重設為預設值</Button_ResetToDefault>
 
   <!-- Sex types -->
   <Vaginal>陰道性交</Vaginal>

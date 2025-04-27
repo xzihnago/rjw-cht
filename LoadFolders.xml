@@ -9,6 +9,7 @@
     <li IfModActive="rjw.std">rjw/rjw.std</li>
 
     <li IfModActive="rjw.sexperience">sexperience/rjw.sexperience</li>
+    <li IfModActive="rjw.sexperience">sexperience/rjw.sexperience_vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li IfModActive="rjw.sexperience,rjw.cum" IfModNotActive="vegapnk.cumpilation">sexperience/rjw.sexperience_rjw.cum</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">sexperience/rjw.sexperience_vegapnk.cumpilation</li>
     <li IfModActive="rjw.sexperience.ideology">sexperience/rjw.sexperience.ideology</li>
