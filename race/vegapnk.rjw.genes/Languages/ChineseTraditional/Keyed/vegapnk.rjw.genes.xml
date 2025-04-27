@@ -35,6 +35,6 @@
   <rjw_genes_settings_generous_donor_cheatmode_key>慷慨捐贈者作弊模式</rjw_genes_settings_generous_donor_cheatmode_key>
   <rjw_genes_settings_generous_donor_cheatmode_explanation>啟用後，擁有「慷慨捐贈者」的人物不會被榨乾，也不會耗盡育原。因此，它們可以不間斷地為魅魔與夢魔提供能量。這使得他們更容易留下，但你不應該這樣做。</rjw_genes_settings_generous_donor_cheatmode_explanation>
 
-  <rjw_genes_settings_detailed_debug_key>偵錯細節</rjw_genes_settings_detailed_debug_key>
+  <rjw_genes_settings_detailed_debug_key>除錯細節</rjw_genes_settings_detailed_debug_key>
   <rjw_genes_settings_detailed_debug_explanation>將有關相互作用與基因的詳細資訊添加到日誌中。</rjw_genes_settings_detailed_debug_explanation>
 </LanguageData>

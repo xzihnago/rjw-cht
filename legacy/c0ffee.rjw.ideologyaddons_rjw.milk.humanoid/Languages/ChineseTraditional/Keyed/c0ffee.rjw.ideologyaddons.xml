@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CRIALactationSettings.settings>RJW-C0ffee's RJW 理念附加-泌乳</CRIALactationSettings.settings>
+  <CRIALactationSettings.settings>RJW - C0ffee's RJW 理念附加-泌乳</CRIALactationSettings.settings>
 
   <CRIALactation.massageCooldown>按摩冷卻</CRIALactation.massageCooldown>
   <CRIALactation.massageCooldownDesc>預設 0.3。刺激泌乳的按摩之間的時間間隔。1 = 一整天。更改此數字不會更新現有的冷卻時間，它僅適用於新應用的冷卻時間。</CRIALactation.massageCooldownDesc>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <privacy_please_basicsettings>RJW-請注意隱私</privacy_please_basicsettings>
+  <privacy_please_basicsettings>RJW - 請注意隱私</privacy_please_basicsettings>
 
   <privacy_please_general>常規選項</privacy_please_general>
 
@@ -9,16 +9,16 @@
   <worry_about_whoring>人們會對賣淫做出反應</worry_about_whoring>
   <worry_about_whoring_desc>他們的反應將取決於他們的賣淫戒律（如果有 Brothel Colony）、暴露狂以及他們是否有偷窺狂怪癖。</worry_about_whoring_desc>
   <worry_about_masturbation>人們會對自慰做出反應</worry_about_masturbation>
-  <worry_about_masturbation_desc>他們的反應將取決於他們的自慰戒律（需要 RJW-性經驗理念）。\n\n如果停用此選項，將被視為暴露癖。</worry_about_masturbation_desc>
+  <worry_about_masturbation_desc>他們的反應將取決於他們的自慰戒律（需要 RJW - 性經驗理念）。\n\n如果停用此選項，將被視為暴露癖。</worry_about_masturbation_desc>
   <worry_about_infidelity>人們會對出軌的伴侶做出反應</worry_about_infidelity>
   <worry_about_infidelity_desc>他們的反應將取決於他們的不忠戒律以及他們是否有綠帽癖。\n\n如果停用此選項，將被視為暴露癖。</worry_about_infidelity_desc>
   <worry_about_beastiality>人們會對戀獸癖做出反應</worry_about_beastiality>
-  <worry_about_beastiality_desc>他們的反應將取決於他們的戀獸戒律（需要 RJW-性經驗理念）以及他們是否具有戀獸癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_beastiality_desc>
+  <worry_about_beastiality_desc>他們的反應將取決於他們的戀獸戒律（需要 RJW - 性經驗理念）以及他們是否具有戀獸癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_beastiality_desc>
   <worry_about_rape>人們會對強暴做出反應</worry_about_rape>
-  <worry_about_rape_desc>他們的反應將取決於他們的強暴戒律（需要 RJW-性經驗理念）以及他們是否具有強暴犯特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_rape_desc>
+  <worry_about_rape_desc>他們的反應將取決於他們的強暴戒律（需要 RJW - 性經驗理念）以及他們是否具有強暴犯特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_rape_desc>
   <ignore_slave_rape>如果受害者是囚犯或奴隸，人們會忽視強暴</ignore_slave_rape>
   <worry_about_necro>人們會對戀屍癖做出反應</worry_about_necro>
-  <worry_about_necro_desc>他們的反應將取決於他們的戀屍戒律（需要 RJW-性經驗理念）以及他們是否具有戀屍癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_necro_desc>
+  <worry_about_necro_desc>他們的反應將取決於他們的戀屍戒律（需要 RJW - 性經驗理念）以及他們是否具有戀屍癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_necro_desc>
   <worry_about_xeno>人們會對不同物種類人生物之間的結合做出反應</worry_about_xeno>
   <worry_about_xeno_desc>他們的反應將取決於他們的外星人約會戒律（需要 Humanoid Alien Races）以及他們是否具有親外或仇外特徵。\n\n請注意，基因改造個體仍然算作「人類」，如果停用此選項，將被視為暴露癖。</worry_about_xeno_desc>
 

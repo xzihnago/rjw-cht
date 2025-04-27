@@ -3,7 +3,7 @@
   <MilkFullnessMilk>乳汁飽滿</MilkFullnessMilk>
   <MilkFullnessMilkBottles>乳瓶</MilkFullnessMilkBottles>
 
-  <MilkableColonists.settings>RJW-泌乳-生機</MilkableColonists.settings>
+  <MilkableColonists.settings>RJW - 泌乳</MilkableColonists.settings>
 
   <MilkableColonists.breastGrowthDisabled>關閉胸部成長</MilkableColonists.breastGrowthDisabled>
   <MilkableColonists.breastGrowthDisabledDesc>預設：關。啟用以防止乳房因產奶或擠奶而生長。仍然可以透過藥物或其他方式改變大小。</MilkableColonists.breastGrowthDisabledDesc>
@@ -33,32 +33,32 @@
   <MilkableColonists.enabledMilkDripAmountDesc>預設 100%：乳汁開始滴落前需要多少乳汁存量。</MilkableColonists.enabledMilkDripAmountDesc>
 
   <MilkableColonists.enableDebugFillButton>除錯：顯示填滿乳汁按鈕</MilkableColonists.enableDebugFillButton>
-  <MilkableColonists.enableDebugFillButtonDesc>預設：關。在居民上顯示按鈕以立即填滿其乳汁存量。</MilkableColonists.enableDebugFillButtonDesc>
+  <MilkableColonists.enableDebugFillButtonDesc>預設：關。在人物上顯示按鈕以立即填滿其乳汁存量。</MilkableColonists.enableDebugFillButtonDesc>
 
   <MilkableColonists.enableLessInteruptions>除錯/測試：減少工作中斷。</MilkableColonists.enableLessInteruptions>
-  <MilkableColonists.enableLessInteruptionsDesc>預設：開。擠奶和喝奶只會停止其他在移動/睡覺/自由時的居民。其他工作應繼續不間斷。</MilkableColonists.enableLessInteruptionsDesc>
+  <MilkableColonists.enableLessInteruptionsDesc>預設：開。擠奶和喝奶只會停止其他在移動/睡覺/自由時的人物。其他工作應繼續不間斷。</MilkableColonists.enableLessInteruptionsDesc>
 
 
   <MilkableColonists.adultBreastfeedNutritionModAmount>喝奶營養倍率</MilkableColonists.adultBreastfeedNutritionModAmount>
-  <MilkableColonists.adultBreastfeedNutritionModAmountDesc>預設 5：乳汁的營養通常很低。它將乘以這個倍率，這樣你的居民在喝奶時就不會挨餓。1 = 嬰兒食品。</MilkableColonists.adultBreastfeedNutritionModAmountDesc>
+  <MilkableColonists.adultBreastfeedNutritionModAmountDesc>預設 5：乳汁的營養通常很低。它將乘以這個倍率，這樣你的人物在喝奶時就不會挨餓。1 = 嬰兒食品。</MilkableColonists.adultBreastfeedNutritionModAmountDesc>
 
   <MilkableColonists.fullnessHungerAmount>喝奶：喝奶所需的飢餓度</MilkableColonists.fullnessHungerAmount>
-  <MilkableColonists.fullnessHungerAmountDesc>預設 50%：成年居民在食物值低於此值前不會考慮喝奶。更高的值會讓居民喝奶更頻繁。如果設定太低，他們可能會吃食物。</MilkableColonists.fullnessHungerAmountDesc>
+  <MilkableColonists.fullnessHungerAmountDesc>預設 50%：成年人物在食物值低於此值前不會考慮喝奶。更高的值會讓人物喝奶更頻繁。如果設定太低，他們可能會吃食物。</MilkableColonists.fullnessHungerAmountDesc>
 
   <MilkableColonists.fullnessMilkBreastfeedAmount>喝奶：需要的乳汁存量</MilkableColonists.fullnessMilkBreastfeedAmount>
-  <MilkableColonists.fullnessMilkBreastfeedAmountDesc>預設 100%：在居民的乳汁存量至少達到此值之前，居民不會成為喝奶的目標。</MilkableColonists.fullnessMilkBreastfeedAmountDesc>
+  <MilkableColonists.fullnessMilkBreastfeedAmountDesc>預設 100%：在人物的乳汁存量至少達到此值之前，人物不會成為喝奶的目標。</MilkableColonists.fullnessMilkBreastfeedAmountDesc>
 
   <MilkableColonists.fullnessMilkBottleAmount>擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkBottleAmount>
-  <MilkableColonists.fullnessMilkBottleAmountDesc>預設 120%：在居民的乳汁存量至少達到此值之前，居民不會成為擠奶的目標。</MilkableColonists.fullnessMilkBottleAmountDesc>
+  <MilkableColonists.fullnessMilkBottleAmountDesc>預設 120%：在人物的乳汁存量至少達到此值之前，人物不會成為擠奶的目標。</MilkableColonists.fullnessMilkBottleAmountDesc>
 
   <MilkableColonists.fullnessMilkSelfAmount>自行擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkSelfAmount>
-  <MilkableColonists.fullnessMilkSelfAmountDesc>預設 150%：在居民的乳汁存量至少達到此值之前，居民將不會自行擠奶。</MilkableColonists.fullnessMilkSelfAmountDesc>
+  <MilkableColonists.fullnessMilkSelfAmountDesc>預設 150%：在人物的乳汁存量至少達到此值之前，人物將不會自行擠奶。</MilkableColonists.fullnessMilkSelfAmountDesc>
 
   <MilkableColonists.fullnessMilkMachineAmount>擠乳站自行擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkMachineAmount>
-  <MilkableColonists.fullnessMilkMachineAmountDesc>預設 140%：在居民的乳汁存量至少達到此值之前，居民將無法在擠乳站自行擠奶。</MilkableColonists.fullnessMilkMachineAmountDesc>
+  <MilkableColonists.fullnessMilkMachineAmountDesc>預設 140%：在人物的乳汁存量至少達到此值之前，人物將無法在擠乳站自行擠奶。</MilkableColonists.fullnessMilkMachineAmountDesc>
 
   <MilkableColonists.workSpeedMult>工作速度/量倍率</MilkableColonists.workSpeedMult>
-  <MilkableColonists.workSpeedMultDesc>預設 1：可加速此模組提供的多種工作速度/量倍率。每個動作你都會擠更多的奶或喝更多的奶。對於擁有大量資產的居民來說，有些事情要花很長時間，這讓我感到不耐煩。</MilkableColonists.workSpeedMultDesc>
+  <MilkableColonists.workSpeedMultDesc>預設 1：可加速此模組提供的多種工作速度/量倍率。每個動作你都會擠更多的奶或喝更多的奶。對於擁有大量資產的人物來說，有些事情要花很長時間，這讓我感到不耐煩。</MilkableColonists.workSpeedMultDesc>
 
   <MilkableColonists.breastMilkModifierHydraulic>人工乳房（液壓）乳量倍率</MilkableColonists.breastMilkModifierHydraulic>
   <MilkableColonists.breastMilkModifierHydraulicDesc>預設 50%：在基礎 RJW 中液壓乳房不產奶。您可以在此處調整它們與真實乳房產生的百分比。</MilkableColonists.breastMilkModifierHydraulicDesc>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Fertilin strings -->
-  <AbilityDisabledNoFertilinGene>居民不具備必需的育原性基因。</AbilityDisabledNoFertilinGene>
+  <AbilityDisabledNoFertilinGene>人物不具備必需的育原性基因。</AbilityDisabledNoFertilinGene>
   <AbilityDisabledNoFertilin>育原量不足以進行。</AbilityDisabledNoFertilin>
   <MentalBreakNoFertilin>因為育原量低而發生這種情況。</MentalBreakNoFertilin>
 

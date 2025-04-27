@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Mod_Title>RJW-月經週期</Mod_Title>
+  <Mod_Title>RJW - 經期</Mod_Title>
 
   <Menstrual_Blood>經血</Menstrual_Blood>
   <Info_noCum>空</Info_noCum>
@@ -22,10 +22,10 @@
   <Stage_Pregnant_Desc>嬰兒正在子宮內成長。隨著時間的推移與精心照料，它將成為這個世界的新居民。</Stage_Pregnant_Desc>
   <Stage_Recover_Desc>子宮正在從最近的妊娠中恢復。</Stage_Recover_Desc>
   <Stage_None_Desc>子宮不具備生育能力，無法懷孕。</Stage_None_Desc>
-  <Stage_Climacteric_Desc>卵巢已接近衰竭，月經週期變得不規則。</Stage_Climacteric_Desc>
+  <Stage_Climacteric_Desc>卵巢已接近衰竭，經期變得不規則。</Stage_Climacteric_Desc>
   <Stage_Menopause_Desc>卵巢已經衰竭，子宮不再能產生卵子。</Stage_Menopause_Desc>
-  <Stage_Anestrus_Desc>子宮不再處於繁殖季。月經週期將在時機到來時恢復。</Stage_Anestrus_Desc>
-  <Stage_Anestrus_Periodic_Desc>子宮處於週期之間。經過足夠的時間後，月經週期將重新開始。</Stage_Anestrus_Periodic_Desc>
+  <Stage_Anestrus_Desc>子宮不再處於繁殖季。經期將在時機到來時恢復。</Stage_Anestrus_Desc>
+  <Stage_Anestrus_Periodic_Desc>子宮處於週期之間。經過足夠的時間後，經期將重新開始。</Stage_Anestrus_Periodic_Desc>
   <Button_HealthTab>狀態</Button_HealthTab>
   <Button_MilkTooltip>自行擠奶</Button_MilkTooltip>
   <Dialog_WombInfo01>狀態</Dialog_WombInfo01>
@@ -54,7 +54,7 @@
   <Option6_Label>每小時精液生育力衰減率</Option6_Label>
   <Option6_Desc>每小時精液的生育力會以這個比率減少&#10;該值間接影響受精機率。</Option6_Desc>
   <Option7_Label>經期加速</Option7_Label>
-  <Option7_Desc>加速月經週期&#10;這會導致過早停經與不孕。&#10;建議將其設為低於 x12。&#10;Rimworld 的時間尺度：x6（預設）</Option7_Desc>
+  <Option7_Desc>加速經期&#10;這會導致過早停經與不孕。&#10;建議將其設為低於 x12。&#10;Rimworld 的時間尺度：x6（預設）</Option7_Desc>
   <Option_ColonistUpdateInterval_Label>居民更新間隔</Option_ColonistUpdateInterval_Label>
   <Option_ColonistUpdateInterval_Desc>每個殖民者、俘虜與奴隸的子宮更新頻率。&#10;降低該值可以更精確地模擬子宮，增加該值可以提升遊戲流暢度。</Option_ColonistUpdateInterval_Desc>
   <Option_NonColonistUpdateInterval_Label>非居民更新間隔</Option_NonColonistUpdateInterval_Label>

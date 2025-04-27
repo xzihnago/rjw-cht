@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RS_Mod_Title>RJW-性經驗</RS_Mod_Title>
+  <RS_Mod_Title>RJW - 性經驗</RS_Mod_Title>
 
   <!-- Sex status screen -->
   <RSTotalGatheredCum>接收精液總量：</RSTotalGatheredCum>
@@ -43,7 +43,7 @@
   <RS_Ago>天前</RS_Ago>
   <RS_LastSex>最後一次性交</RS_LastSex>
   <RS_HadBestSexDaysAgo>最好的性交在{0}</RS_HadBestSexDaysAgo>
-  <RS_PawnLockDesc>鎖定顯示的居民。\n\n解鎖後，窗口將自動切換到當前選定的居民。</RS_PawnLockDesc>
+  <RS_PawnLockDesc>鎖定顯示的人物。\n\n解鎖後，窗口將自動切換到當前選定的人物。</RS_PawnLockDesc>
 
   <!-- Settings tab labels -->
   <RSTabLabelMain>主要</RSTabLabelMain>
@@ -83,27 +83,27 @@
   <RSOption_EnableBastardRelation_Label>啟用雜種關係</RSOption_EnableBastardRelation_Label>
   <RSOption_EnableBastardRelation_Desc>如果是單親或是父母未結婚，小孩會被標記為雜種。</RSOption_EnableBastardRelation_Desc>
   <RSOption_EnableSexHistory_Label>[重大] 啟用性經歷</RSOption_EnableSexHistory_Label>
-  <RSOption_EnableSexHistory_Desc>* 需要重新啟動遊戲\n\n啟用性經歷窗口，啟用該窗口的訊息收集與訊息的保存／加載。還會在居民的記錄中啟用性伴侶計數。\n\n[警告] 在中途存檔禁用此選項將導致以前收集的歷史記錄丟失。</RSOption_EnableSexHistory_Desc>
-  <RSOption_HideGizmoWhenDrafted_Label>在居民被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Label>
-  <RSOption_HideGizmoWhenDrafted_Desc>在居民被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Desc>
+  <RSOption_EnableSexHistory_Desc>* 需要重新啟動遊戲\n\n啟用性經歷窗口，啟用該窗口的訊息收集與訊息的保存 / 加載。還會在人物的記錄中啟用性伴侶計數。\n\n[警告] 在中途存檔禁用此選項將導致以前收集的歷史記錄丟失。</RSOption_EnableSexHistory_Desc>
+  <RSOption_HideGizmoWhenDrafted_Label>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Label>
+  <RSOption_HideGizmoWhenDrafted_Desc>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Desc>
   <RSOption_VirginityCheck_M2M_Label>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Label>
   <RSOption_VirginityCheck_M2M_Desc>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Desc>
-  <RSOption_VirginityCheck_F2F_Label>磨豆豆移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Label>
-  <RSOption_VirginityCheck_F2F_Desc>磨豆豆移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Desc>
+  <RSOption_VirginityCheck_F2F_Label>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Label>
+  <RSOption_VirginityCheck_F2F_Desc>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Desc>
 
   <!-- Mod settings: Sex records -->
   <RsDialog_ChooseColor_Title>選擇{0}的色彩</RsDialog_ChooseColor_Title>
 
   <!-- Mod settings: Debug -->
-  <RSOption_Debug_Label>偵錯功能</RSOption_Debug_Label>
-  <RSOption_Debug_Desc>啟用偵錯紀錄</RSOption_Debug_Desc>
+  <RSOption_Debug_Label>除錯功能</RSOption_Debug_Label>
+  <RSOption_Debug_Desc>啟用除錯紀錄</RSOption_Debug_Desc>
   <RSOption_LogInjection_Label>記錄性經歷 comp 注入</RSOption_LogInjection_Label>
   <RSOption_LogInjection_Desc>遊戲啟動時，顯示所有包含 SexHistoryComp 注入的 def</RSOption_LogInjection_Desc>
 
   <Button_ResetToDefault>重設為預設值</Button_ResetToDefault>
 
   <!-- Sex types -->
-  <Vaginal>陰道性交</Vaginal>
+  <Vaginal>性交</Vaginal>
   <Anal>肛交</Anal>
   <Oral>口交</Oral>
   <Masturbation>自慰</Masturbation>
@@ -112,7 +112,7 @@
   <Handjob>手交</Handjob>
   <Footjob>足交</Footjob>
   <Fingering>指交</Fingering>
-  <Scissoring>磨豆豆</Scissoring>
+  <Scissoring>剪刀式</Scissoring>
   <MutualMasturbation>相互手淫</MutualMasturbation>
   <Fisting>拳交</Fisting>
   <MechImplant>機械注入</MechImplant>

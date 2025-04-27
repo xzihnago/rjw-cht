@@ -34,7 +34,7 @@
 
   <rjw_genes_seduce.label>誘惑</rjw_genes_seduce.label>
   <rjw_genes_seduce.labelShortAdj>誘惑</rjw_genes_seduce.labelShortAdj>
-  <rjw_genes_seduce.description>基因擁有者能夠引誘居民與他們發生性關係。</rjw_genes_seduce.description>
+  <rjw_genes_seduce.description>基因擁有者能夠引誘人物與他們發生性關係。</rjw_genes_seduce.description>
   <rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>擊暈</rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>
   <rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>親吻</rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>
 
@@ -42,14 +42,14 @@
   <rjw_genes_naked_prowess.description>基因擁有者能夠在裸體的情況下暫時增強力量與恢復力。</rjw_genes_naked_prowess.description>
 
   <rjw_genes_cum_eater.label>精液吞噬者</rjw_genes_cum_eater.label>
-  <rjw_genes_cum_eater.description>基因擁有者能夠透過吞食精液吸收育原。這包括口交、吞食精液或吸出其他居民腹中的精液。</rjw_genes_cum_eater.description>
+  <rjw_genes_cum_eater.description>基因擁有者能夠透過吞食精液吸收育原。這包括口交、吞食精液或吸出其他人物腹中的精液。</rjw_genes_cum_eater.description>
 
   <rjw_genes_fertilin_absorber.label>育原吸收</rjw_genes_fertilin_absorber.label>
   <rjw_genes_fertilin_absorber.description>基因擁有者能夠透過陰道與肛門吸收精子中的育原。</rjw_genes_fertilin_absorber.description>
 
   <rjw_genes_lifeforce_empath.label>育原共鳴</rjw_genes_lifeforce_empath.label>
-  <rjw_genes_lifeforce_empath.description>基因擁有者在附近居民獲得性滿足時會吸收育原。小心：性挫折的居民會讓你的共鳴失去育原！</rjw_genes_lifeforce_empath.description>
+  <rjw_genes_lifeforce_empath.description>基因擁有者在附近人物獲得性滿足時會吸收育原。小心：性飢渴的人物會讓你的共鳴失去育原！</rjw_genes_lifeforce_empath.description>
 
   <rjw_genes_drainer.label>活力消耗者</rjw_genes_drainer.label>
-  <rjw_genes_drainer.description>基因擁有者能夠透過消耗伴侶的活力來吸收大量的育原。這是透過與不具有該基因的尚未被榨乾的居民發生性關係來被動完成的。</rjw_genes_drainer.description>
+  <rjw_genes_drainer.description>基因擁有者能夠透過消耗伴侶的活力來吸收大量的育原。這是透過與不具有該基因的尚未被榨乾的人物發生性關係來被動完成的。</rjw_genes_drainer.description>
 </LanguageData>

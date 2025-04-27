@@ -9,9 +9,9 @@
   <Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_Boobjob_UAP.modExtensions.0.RMBLabel>(U) 口交 BEV</Sex_Boobjob_UAP.modExtensions.0.RMBLabel>
 
-  <Sex_Cowgirl_UAP.label>陰道性交</Sex_Cowgirl_UAP.label>
-  <Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Cowgirl_UAP.label>性交</Sex_Cowgirl_UAP.label>
+  <Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>(V) 騎乘位</Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>
 
   <Sex_DoggystyleCondom_UAP.label>肛交</Sex_DoggystyleCondom_UAP.label>
@@ -41,21 +41,21 @@
   <Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_Blowjob_UAP.modExtensions.0.RMBLabel>(U) 親愛口交</Sex_Blowjob_UAP.modExtensions.0.RMBLabel>
 
-  <Sex_MissionaryCondom_UAP.label>陰道性交</Sex_MissionaryCondom_UAP.label>
-  <Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryCondom_UAP.label>性交</Sex_MissionaryCondom_UAP.label>
+  <Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [避孕套]</Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>
-  <Sex_MissionaryInside_UAP.label>陰道性交</Sex_MissionaryInside_UAP.label>
-  <Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryInside_UAP.label>性交</Sex_MissionaryInside_UAP.label>
+  <Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [內射]</Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>
-  <Sex_MissionaryOutside_UAP.label>陰道性交</Sex_MissionaryOutside_UAP.label>
-  <Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryOutside_UAP.label>性交</Sex_MissionaryOutside_UAP.label>
+  <Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [外射]</Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>
-  <Sex_Missionary2D_UAP.label>陰道性交</Sex_Missionary2D_UAP.label>
-  <Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Missionary2D_UAP.label>性交</Sex_Missionary2D_UAP.label>
+  <Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>(V) 正常位</Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>
 
   <Sex_ProneboneSlave_UAP.label>肛交</Sex_ProneboneSlave_UAP.label>
@@ -67,10 +67,10 @@
   <Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>
   <Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>(A) 俯趴位</Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>
 
-  <Sex_Scissoring_UAP.label>剪刀腳</Sex_Scissoring_UAP.label>
-  <Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]剪刀腳。</Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]剪刀腳。</Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Scissoring_UAP.modExtensions.0.RMBLabel>(U) 剪刀腳</Sex_Scissoring_UAP.modExtensions.0.RMBLabel>
+  <Sex_Scissoring_UAP.label>剪刀式</Sex_Scissoring_UAP.label>
+  <Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]剪刀式。</Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]剪刀式。</Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Scissoring_UAP.modExtensions.0.RMBLabel>(U) 剪刀式</Sex_Scissoring_UAP.modExtensions.0.RMBLabel>
 
   <Sex_Sixtynine_UAP.label>互相 69</Sex_Sixtynine_UAP.label>
   <Sex_Sixtynine_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]互相 69。</Sex_Sixtynine_UAP.logRulesInitiator.rulesStrings.0>

@@ -30,7 +30,7 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [RJW-Events](https://gitgud.io/LukeLu/rjw-events)                                                   | `1f3832` | 完整                         |
 | [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                                 | `60fffb` | 完整                         |
 
-已棄用的附加模組，不再提供更新與修正
+已損壞的附加模組（參閱 RJW Wiki 附加模組列表），不提供更新與修正
 
 | 模組                                                                       | 版本     | 狀態 |
 | -------------------------------------------------------------------------- | -------- | ---- |
