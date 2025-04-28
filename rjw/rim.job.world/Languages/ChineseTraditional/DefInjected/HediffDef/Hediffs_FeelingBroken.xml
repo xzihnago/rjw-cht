@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FeelingBroken.label>精神崩壞</FeelingBroken.label>
+  <FeelingBroken.description>心壞了。不再具有情感。</FeelingBroken.description>
+  <FeelingBroken.stages.0.label>早期</FeelingBroken.stages.0.label>
+  <FeelingBroken.stages.1.label>恍惚</FeelingBroken.stages.1.label>
+  <FeelingBroken.stages.2.label>破碎</FeelingBroken.stages.2.label>
+  <FeelingBroken.stages.3.label>崩壞</FeelingBroken.stages.3.label>
+</LanguageData>

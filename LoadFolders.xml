@@ -2,6 +2,7 @@
 <loadFolders>
   <default>
     <li IfModActive="rim.job.world">rjw/rim.job.world</li>
+    <li IfModActive="rim.job.world">rjw/rim.job.world_sarg.rimbees</li>
     <li IfModActive="rjw.cum">rjw/rjw.cum</li>
     <li IfModActive="rjw.fb">rjw/rjw.fb</li>
     <li IfModActive="rjw.fc">rjw/rjw.fc</li>

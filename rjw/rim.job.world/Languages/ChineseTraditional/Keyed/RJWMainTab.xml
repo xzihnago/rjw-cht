@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PawnColumnWorker_RJWGender_IsHerm>雌雄同體</PawnColumnWorker_RJWGender_IsHerm>
+
+  <!-- todo? -->
+  <!-- or not todo? -->
+  <PawnColumnWorker_IsSlave>人物是奴隸？</PawnColumnWorker_IsSlave>
+  <PawnColumnWorker_IsPrisoner>人物是俘虜？</PawnColumnWorker_IsPrisoner>
+  <PawnColumnWorker_IsComfort>人物是慰安者？</PawnColumnWorker_IsComfort>
+  <PawnColumnWorker_IsBreeder>人物是動物苗床？</PawnColumnWorker_IsBreeder>
+
+  <MainTabWindow_Designators>身分</MainTabWindow_Designators>
+</LanguageData>

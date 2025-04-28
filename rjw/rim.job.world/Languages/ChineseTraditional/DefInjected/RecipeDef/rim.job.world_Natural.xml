@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttachCatPenis.label>安裝貓陰莖</AttachCatPenis.label>
+  <AttachCatPenis.description>安裝陰莖，替換同部位器官。</AttachCatPenis.description>
+  <AttachCatPenis.jobString>安裝陰莖</AttachCatPenis.jobString>
+
+  <InstallCatVagina.label>安裝貓陰道</InstallCatVagina.label>
+  <InstallCatVagina.description>安裝陰道，替換同部位器官。</InstallCatVagina.description>
+  <InstallCatVagina.jobString>安裝陰道</InstallCatVagina.jobString>
+
+  <AddMultiCatPenis.label>加裝貓陰莖</AddMultiCatPenis.label>
+  <AddMultiCatPenis.description>加裝額外的陰莖。</AddMultiCatPenis.description>
+  <AddMultiCatPenis.jobString>加裝陰莖</AddMultiCatPenis.jobString>
+
+  <AddMultiCatVagina.label>加裝貓陰道</AddMultiCatVagina.label>
+  <AddMultiCatVagina.description>加裝額外的陰道。</AddMultiCatVagina.description>
+  <AddMultiCatVagina.jobString>加裝陰道</AddMultiCatVagina.jobString>
+
+
+  <AttachCloacalPenis.label>安裝泄殖腔（陰莖）</AttachCloacalPenis.label>
+  <AttachCloacalPenis.description>安裝陰莖，替換同部位器官。</AttachCloacalPenis.description>
+  <AttachCloacalPenis.jobString>安裝陰莖</AttachCloacalPenis.jobString>
+
+  <InstallCloacalVagina.label>安裝泄殖腔（陰道）</InstallCloacalVagina.label>
+  <InstallCloacalVagina.description>安裝陰道，替換同部位器官。</InstallCloacalVagina.description>
+  <InstallCloacalVagina.jobString>安裝陰道</InstallCloacalVagina.jobString>
+
+  <InstallCloacalAnus.label>安裝泄殖腔（肛門）</InstallCloacalAnus.label>
+  <InstallCloacalAnus.description>安裝肛門，替換同部位器官。</InstallCloacalAnus.description>
+  <InstallCloacalAnus.jobString>安裝肛門</InstallCloacalAnus.jobString>
+
+
+  <AttachCrocodilianPenis.label>安裝鱷魚陰莖</AttachCrocodilianPenis.label>
+  <AttachCrocodilianPenis.description>安裝陰莖，替換同部位器官。</AttachCrocodilianPenis.description>
+  <AttachCrocodilianPenis.jobString>安裝陰莖</AttachCrocodilianPenis.jobString>
+
+  <AddMultiCrocodilianPenis.label>加裝鱷魚陰莖</AddMultiCrocodilianPenis.label>
+  <AddMultiCrocodilianPenis.description>加裝額外的陰莖。</AddMultiCrocodilianPenis.description>
+  <AddMultiCrocodilianPenis.jobString>加裝陰莖</AddMultiCrocodilianPenis.jobString>
+
+
+  <AttachDogPenis.label>安裝狗陰莖</AttachDogPenis.label>
+  <AttachDogPenis.description>安裝陰莖，替換同部位器官。</AttachDogPenis.description>
+  <AttachDogPenis.jobString>安裝陰莖</AttachDogPenis.jobString>
+
+  <InstallDogVagina.label>安裝狗陰道</InstallDogVagina.label>
+  <InstallDogVagina.description>安裝陰道，替換同部位器官。</InstallDogVagina.description>
+  <InstallDogVagina.jobString>安裝陰道</InstallDogVagina.jobString>
+
+  <AddMultiDogPenis.label>加裝狗陰莖</AddMultiDogPenis.label>
+  <AddMultiDogPenis.description>加裝額外的陰莖。</AddMultiDogPenis.description>
+  <AddMultiDogPenis.jobString>加裝陰莖</AddMultiDogPenis.jobString>
+
+  <AddMultiDogVagina.label>加裝狗陰道</AddMultiDogVagina.label>
+  <AddMultiDogVagina.description>加裝額外的陰道。</AddMultiDogVagina.description>
+  <AddMultiDogVagina.jobString>加裝陰道</AddMultiDogVagina.jobString>
+
+
+  <AttachDragonPenis.label>安裝龍陰莖</AttachDragonPenis.label>
+  <AttachDragonPenis.description>安裝陰莖，替換同部位器官。</AttachDragonPenis.description>
+  <AttachDragonPenis.jobString>安裝陰莖</AttachDragonPenis.jobString>
+
+  <InstallDragonVagina.label>安裝龍陰道</InstallDragonVagina.label>
+  <InstallDragonVagina.description>安裝陰道，替換同部位器官。</InstallDragonVagina.description>
+  <InstallDragonVagina.jobString>安裝陰道</InstallDragonVagina.jobString>
+
+  <AddMultiDragonPenis.label>加裝龍陰莖</AddMultiDragonPenis.label>
+  <AddMultiDragonPenis.description>加裝額外的陰莖。</AddMultiDragonPenis.description>
+  <AddMultiDragonPenis.jobString>加裝陰莖</AddMultiDragonPenis.jobString>
+
+  <AddMultiDragonVagina.label>加裝龍陰道</AddMultiDragonVagina.label>
+  <AddMultiDragonVagina.description>加裝額外的陰道。</AddMultiDragonVagina.description>
+  <AddMultiDragonVagina.jobString>加裝陰道</AddMultiDragonVagina.jobString>
+
+
+  <AttachFeaturelesschest.label>安裝平滑胸部</AttachFeaturelesschest.label>
+  <AttachFeaturelesschest.description>安裝光滑的非哺乳動物胸部，替換同部位器官。</AttachFeaturelesschest.description>
+  <AttachFeaturelesschest.jobString>安裝平滑胸部</AttachFeaturelesschest.jobString>
+
+  <AttachHemiPenis.label>安裝半陰莖</AttachHemiPenis.label>
+  <AttachHemiPenis.description>安裝陰莖，替換同部位器官。</AttachHemiPenis.description>
+  <AttachHemiPenis.jobString>安裝陰莖</AttachHemiPenis.jobString>
+
+  <AddMultiHemiPenis.label>加裝半陰莖</AddMultiHemiPenis.label>
+  <AddMultiHemiPenis.description>加裝額外的陰莖。</AddMultiHemiPenis.description>
+  <AddMultiHemiPenis.jobString>加裝陰莖</AddMultiHemiPenis.jobString>
+
+
+  <AttachHorsePenis.label>安裝馬陰莖</AttachHorsePenis.label>
+  <AttachHorsePenis.description>安裝陰莖，替換同部位器官。</AttachHorsePenis.description>
+  <AttachHorsePenis.jobString>安裝陰莖</AttachHorsePenis.jobString>
+
+  <InstallHorseVagina.label>安裝馬陰道</InstallHorseVagina.label>
+  <InstallHorseVagina.description>安裝陰道，替換同部位器官。</InstallHorseVagina.description>
+  <InstallHorseVagina.jobString>安裝陰道</InstallHorseVagina.jobString>
+
+  <AddMultiHorsePenis.label>加裝馬陰莖</AddMultiHorsePenis.label>
+  <AddMultiHorsePenis.description>加裝額外的陰莖。</AddMultiHorsePenis.description>
+  <AddMultiHorsePenis.jobString>加裝陰莖</AddMultiHorsePenis.jobString>
+
+  <AddMultiHorseVagina.label>加裝馬陰道</AddMultiHorseVagina.label>
+  <AddMultiHorseVagina.description>加裝額外的陰道。</AddMultiHorseVagina.description>
+  <AddMultiHorseVagina.jobString>加裝陰道</AddMultiHorseVagina.jobString>
+
+
+  <AttachOvipositorM.label>安裝產卵管（雄性）</AttachOvipositorM.label>
+  <AttachOvipositorM.description>安裝陰莖，替換同部位器官。</AttachOvipositorM.description>
+  <AttachOvipositorM.jobString>安裝陰莖</AttachOvipositorM.jobString>
+
+  <InstallOvipositorF.label>安裝產卵管（雌性）</InstallOvipositorF.label>
+  <InstallOvipositorF.description>安裝陰道，替換同部位器官。</InstallOvipositorF.description>
+  <InstallOvipositorF.jobString>安裝陰道</InstallOvipositorF.jobString>
+
+  <InstallInsectAnus.label>安裝蟲肛門</InstallInsectAnus.label>
+  <InstallInsectAnus.description>安裝肛門，替換同部位器官。</InstallInsectAnus.description>
+  <InstallInsectAnus.jobString>安裝肛門</InstallInsectAnus.jobString>
+
+  <AddMultiOvipositorM.label>加裝產卵管（雄性）</AddMultiOvipositorM.label>
+  <AddMultiOvipositorM.description>加裝額外的陰莖。</AddMultiOvipositorM.description>
+  <AddMultiOvipositorM.jobString>加裝陰莖</AddMultiOvipositorM.jobString>
+
+  <AddMultiOvipositorF.label>加裝產卵管（雌性）</AddMultiOvipositorF.label>
+  <AddMultiOvipositorF.description>加裝額外的陰道。</AddMultiOvipositorF.description>
+  <AddMultiOvipositorF.jobString>加裝陰道</AddMultiOvipositorF.jobString>
+
+  <AddMultiInsectAnus.label>加裝蟲肛門</AddMultiInsectAnus.label>
+  <AddMultiInsectAnus.description>加裝額外的肛門。</AddMultiInsectAnus.description>
+  <AddMultiInsectAnus.jobString>加裝肛門</AddMultiInsectAnus.jobString>
+
+
+  <AttachNeedlePenis.label>安裝針陰莖</AttachNeedlePenis.label>
+  <AttachNeedlePenis.description>安裝陰莖，替換同部位器官。</AttachNeedlePenis.description>
+  <AttachNeedlePenis.jobString>安裝陰莖</AttachNeedlePenis.jobString>
+
+  <InstallNarrowVagina.label>安裝細陰道</InstallNarrowVagina.label>
+  <InstallNarrowVagina.description>安裝陰道，替換同部位器官。</InstallNarrowVagina.description>
+  <InstallNarrowVagina.jobString>安裝陰道</InstallNarrowVagina.jobString>
+
+
+  <AttachRaccoonPenis.label>安裝浣熊陰莖</AttachRaccoonPenis.label>
+  <AttachRaccoonPenis.description>安裝陰莖，替換同部位器官。</AttachRaccoonPenis.description>
+  <AttachRaccoonPenis.jobString>安裝陰莖</AttachRaccoonPenis.jobString>
+
+  <AddMultiRaccoonPenis.label>加裝浣熊陰莖</AddMultiRaccoonPenis.label>
+  <AddMultiRaccoonPenis.description>加裝額外的陰莖。</AddMultiRaccoonPenis.description>
+  <AddMultiRaccoonPenis.jobString>加裝陰莖</AddMultiRaccoonPenis.jobString>
+
+
+  <AttachRodentPenis.label>安裝鼠陰莖</AttachRodentPenis.label>
+  <AttachRodentPenis.description>安裝陰莖，替換同部位器官。</AttachRodentPenis.description>
+  <AttachRodentPenis.jobString>安裝陰莖</AttachRodentPenis.jobString>
+
+  <InstallRodentVagina.label>安裝鼠陰道</InstallRodentVagina.label>
+  <InstallRodentVagina.description>安裝陰道，替換同部位器官。</InstallRodentVagina.description>
+  <InstallRodentVagina.jobString>安裝陰道</InstallRodentVagina.jobString>
+</LanguageData>

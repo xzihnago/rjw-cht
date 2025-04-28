@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Breasts.label>人類乳房</Breasts.label>
+  <Breasts.labelNoun>乳房</Breasts.labelNoun>
+  <Breasts.description>一對乳房。</Breasts.description>
+  <Breasts.stages.0.label>平坦</Breasts.stages.0.label>
+  <Breasts.stages.1.label>微隆</Breasts.stages.1.label>
+  <Breasts.stages.2.label>小巧</Breasts.stages.2.label>
+  <Breasts.stages.3.label>普通</Breasts.stages.3.label>
+  <Breasts.stages.4.label>較大</Breasts.stages.4.label>
+  <Breasts.stages.5.label>巨大</Breasts.stages.5.label>
+  <Breasts.stages.6.label>龐大</Breasts.stages.6.label>
+  <Breasts.stages.7.label>極大</Breasts.stages.7.label>
+  <Breasts.stages.8.label>巨人</Breasts.stages.8.label>
+  <Breasts.stages.9.label>巨像</Breasts.stages.9.label>
+  <Breasts.stages.10.label>泰坦</Breasts.stages.10.label>
+  <Breasts.stages.11.label>天體</Breasts.stages.11.label>
+
+  <Penis.label>人類陰莖</Penis.label>
+  <Penis.labelNoun>陰莖</Penis.labelNoun>
+  <Penis.description>一根陰莖。</Penis.description>
+  <Penis.stages.0.label>微小</Penis.stages.0.label>
+  <Penis.stages.1.label>小</Penis.stages.1.label>
+  <Penis.stages.2.label>普通</Penis.stages.2.label>
+  <Penis.stages.3.label>大</Penis.stages.3.label>
+  <Penis.stages.4.label>巨大</Penis.stages.4.label>
+  <Penis.stages.5.label>參天</Penis.stages.5.label>
+
+  <Vagina.label>人類陰道</Vagina.label>
+  <Vagina.labelNoun>陰道</Vagina.labelNoun>
+  <Vagina.description>一個陰道。</Vagina.description>
+  <Vagina.stages.0.label>過窄</Vagina.stages.0.label>
+  <Vagina.stages.1.label>緊</Vagina.stages.1.label>
+  <Vagina.stages.2.label>普通</Vagina.stages.2.label>
+  <Vagina.stages.3.label>鬆</Vagina.stages.3.label>
+  <Vagina.stages.4.label>過鬆</Vagina.stages.4.label>
+  <Vagina.stages.5.label>深淵</Vagina.stages.5.label>
+
+  <Anus.label>人類肛門</Anus.label>
+  <Anus.labelNoun>肛門</Anus.labelNoun>
+  <Anus.description>一個肛門。</Anus.description>
+  <Anus.stages.0.label>過窄</Anus.stages.0.label>
+  <Anus.stages.1.label>緊</Anus.stages.1.label>
+  <Anus.stages.2.label>普通</Anus.stages.2.label>
+  <Anus.stages.3.label>鬆</Anus.stages.3.label>
+  <Anus.stages.4.label>過鬆</Anus.stages.4.label>
+  <Anus.stages.5.label>深淵</Anus.stages.5.label>
+
+
+  <FeaturelessChest.label>平滑胸部</FeaturelessChest.label>
+  <FeaturelessChest.labelNoun>平滑胸部</FeaturelessChest.labelNoun>
+  <FeaturelessChest.description>一個平滑的胸部，本應有乳頭的地方沒有。</FeaturelessChest.description>
+</LanguageData>

@@ -1,47 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <AnalRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強暴並插入肛門。</AnalRapeRP.rulePack.rulesStrings.0>
-  <VaginalRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強暴並插入陰道。</VaginalRapeRP.rulePack.rulesStrings.0>
-  <FellatioRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強迫口交。</FellatioRapeRP.rulePack.rulesStrings.0>
-  <OtherRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強暴。</OtherRapeRP.rulePack.rulesStrings.0>
-  <ForcedRimmingRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]舔肛。</ForcedRimmingRP.rulePack.rulesStrings.0>
-  <ForcedCunnilingusRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]舔陰。</ForcedCunnilingusRP.rulePack.rulesStrings.0>
-  <ForcedFellatioRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]口交。</ForcedFellatioRP.rulePack.rulesStrings.0>
-  <ForcedBreastjobRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]乳交。</ForcedBreastjobRP.rulePack.rulesStrings.0>
-  <HandjobRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]推倒了[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]手交。</HandjobRapeRP.rulePack.rulesStrings.0>
-  <HandjobRapeRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef]強行對[RECIPIENT_objective]手交以羞辱[RECIPIENT_nameDef]。</HandjobRapeRP.rulePack.rulesStrings.1>
-  <FootjobRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]足交。</FootjobRapeRP.rulePack.rulesStrings.0>
-  <MaleRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強迫[RECIPIENT_nameDef]射精。</MaleRapeRP.rulePack.rulesStrings.0>
-  <ForcedHandjobRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]手交。</ForcedHandjobRP.rulePack.rulesStrings.0>
-  <ForcedHandjobRP.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef]被強迫幫[INITIATOR_nameDef]手淫。</ForcedHandjobRP.rulePack.rulesStrings.1>
-  <ForcedFootjobRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]足交。</ForcedFootjobRP.rulePack.rulesStrings.0>
-  <DoubleRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強暴並兩穴齊插。</DoubleRapeRP.rulePack.rulesStrings.0>
-  <FingeringRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]指交。</FingeringRapeRP.rulePack.rulesStrings.0>
-  <ForcedFingeringRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]指交。</ForcedFingeringRP.rulePack.rulesStrings.0>
-  <ScissoringRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]磨豆豆。</ScissoringRapeRP.rulePack.rulesStrings.0>
-  <ForcedScissoringRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]磨豆豆。</ForcedScissoringRP.rulePack.rulesStrings.0>
-  <FistingRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]拳交。</FistingRapeRP.rulePack.rulesStrings.0>
-  <ForcedSixtynineRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]壓著[RECIPIENT_nameDef]強行其與[INITIATOR_objective]69。</ForcedSixtynineRP.rulePack.rulesStrings.0>
-  <ForcedSixtynineRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef]強要[RECIPIENT_nameDef]對[INITIATOR_objective]69。</ForcedSixtynineRP.rulePack.rulesStrings.1>
-  <MechImplantingRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]用某些東西插入了[RECIPIENT_nameDef]。</MechImplantingRP.rulePack.rulesStrings.0>
-  <DeepthroatRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]深喉嚨。</DeepthroatRapeRP.rulePack.rulesStrings.0>
+  <AnalRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強姦並插入肛門。</li>
+  </AnalRapeRP.rulePack.rulesStrings>
+
+  <VaginalRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強姦並插入陰道。</li>
+  </VaginalRapeRP.rulePack.rulesStrings>
+
+  <FellatioRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強迫口交。</li>
+  </FellatioRapeRP.rulePack.rulesStrings>
+
+  <BeakjobRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]喙交。</li>
+  </BeakjobRapeRP.rulePack.rulesStrings>
+
+  <OtherRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強姦。</li>
+  </OtherRapeRP.rulePack.rulesStrings>
+
+  <ForcedRimmingRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]舔肛。</li>
+  </ForcedRimmingRP.rulePack.rulesStrings>
+
+  <ForcedCunnilingusRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]舔陰。</li>
+  </ForcedCunnilingusRP.rulePack.rulesStrings>
+
+  <ForcedFellatioRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]口交。</li>
+  </ForcedFellatioRP.rulePack.rulesStrings>
+
+  <ForcedBreastjobRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]乳交。</li>
+  </ForcedBreastjobRP.rulePack.rulesStrings>
+
+  <HandjobRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]推倒了[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]手交。</li>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_objective]手交以羞辱[RECIPIENT_nameDef]。</li>
+  </HandjobRapeRP.rulePack.rulesStrings>
+
+  <FootjobRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]足交。</li>
+  </FootjobRapeRP.rulePack.rulesStrings>
+
+  <MaleRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強迫[RECIPIENT_nameDef]射精。</li>
+  </MaleRapeRP.rulePack.rulesStrings>
+
+  <ForcedHandjobRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]手交。</li>
+    <li>sent->[RECIPIENT_nameDef]被強迫幫[INITIATOR_nameDef]手淫。</li>
+  </ForcedHandjobRP.rulePack.rulesStrings>
+
+  <ForcedFootjobRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]足交。</li>
+  </ForcedFootjobRP.rulePack.rulesStrings>
+
+  <DoubleRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強姦並兩穴齊插。</li>
+  </DoubleRapeRP.rulePack.rulesStrings>
+
+  <FingeringRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]指交。</li>
+  </FingeringRapeRP.rulePack.rulesStrings>
+
+  <ForcedFingeringRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]指交。</li>
+  </ForcedFingeringRP.rulePack.rulesStrings>
+
+  <ScissoringRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]剪刀式。</li>
+  </ScissoringRapeRP.rulePack.rulesStrings>
+
+  <ForcedScissoringRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]剪刀式。</li>
+  </ForcedScissoringRP.rulePack.rulesStrings>
+
+  <FistingRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]拳交。</li>
+  </FistingRapeRP.rulePack.rulesStrings>
+
+  <ForcedSixtynineRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]壓著[RECIPIENT_nameDef]強行其與[INITIATOR_objective] 69。</li>
+    <li>sent->[INITIATOR_nameDef]強要[RECIPIENT_nameDef]對[INITIATOR_objective] 69。</li>
+  </ForcedSixtynineRP.rulePack.rulesStrings>
+
+  <MechImplantingRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]用某些東西插入了[RECIPIENT_nameDef]。</li>
+  </MechImplantingRP.rulePack.rulesStrings>
+
+  <DeepthroatRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]深喉嚨。</li>
+  </DeepthroatRapeRP.rulePack.rulesStrings>
 
 
-  <AnalReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]強行使[INITIATOR_nameDef]插入肛門。</AnalReverseRapeRP.rulePack.rulesStrings.0>
-  <VaginalReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]強行使[INITIATOR_nameDef]插入陰道。</VaginalReverseRapeRP.rulePack.rulesStrings.0>
-  <HandjobReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]推倒了[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]手交。</HandjobReverseRapeRP.rulePack.rulesStrings.0>
-  <HandjobReverseRapeRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef]強行對[RECIPIENT_objective]手交以羞辱[RECIPIENT_nameDef]。</HandjobReverseRapeRP.rulePack.rulesStrings.1>
-  <FootjobReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強迫[RECIPIENT_nameDef]對自己足交。</FootjobReverseRapeRP.rulePack.rulesStrings.0>
-  <FingeringReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強行指交。</FingeringReverseRapeRP.rulePack.rulesStrings.0>
-  <FistingReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]肛門拳交。</FistingReverseRapeRP.rulePack.rulesStrings.0>
-  <BreastjobReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]乳交。</BreastjobReverseRapeRP.rulePack.rulesStrings.0>
-  <BreastjobReverseRapeRP.rulePack.rulesStrings.1>sent->[INITIATOR_nameDef]推倒[RECIPIENT_nameDef]並以[INITIATOR_possessive]的乳房擠壓[RECIPIENT_pronoun]。</BreastjobReverseRapeRP.rulePack.rulesStrings.1>
-  <DoubleReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]兩穴齊插。</DoubleReverseRapeRP.rulePack.rulesStrings.0>
-  <ScissoringReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行與[RECIPIENT_nameDef]磨豆豆。</ScissoringReverseRapeRP.rulePack.rulesStrings.0>
-  <RimmingReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]舔肛。</RimmingReverseRapeRP.rulePack.rulesStrings.0>
-  <CunnilingusReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]舔陰。</CunnilingusReverseRapeRP.rulePack.rulesStrings.0>
-  <FellatioReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]強行對[INITIATOR_nameDef]口交。</FellatioReverseRapeRP.rulePack.rulesStrings.0>
-  <BeakjobReverseRapeRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]強行對[INITIATOR_nameDef]喙交。</BeakjobReverseRapeRP.rulePack.rulesStrings.0>
-  <SixtynineReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]強行與[RECIPIENT_nameDef]69。</SixtynineReverseRapeRP.rulePack.rulesStrings.0>
-  <DeepthroatReverseRapeRP.rulePack.rulesStrings.0>sent->[INITIATOR_nameDef]推倒[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]深喉嚨。</DeepthroatReverseRapeRP.rulePack.rulesStrings.0>
+  <AnalReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]被強迫對[RECIPIENT_nameDef]插入肛門。</li>
+  </AnalReverseRapeRP.rulePack.rulesStrings>
+
+  <VaginalReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]被強迫對[RECIPIENT_nameDef]插入陰道。</li>
+  </VaginalReverseRapeRP.rulePack.rulesStrings>
+
+  <HandjobReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]推倒了[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]手交。</li>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_objective]手交以羞辱[RECIPIENT_nameDef]。</li>
+  </HandjobReverseRapeRP.rulePack.rulesStrings>
+
+  <FootjobReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]被強迫對[RECIPIENT_nameDef]足交。</li>
+  </FootjobReverseRapeRP.rulePack.rulesStrings>
+
+  <FingeringReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]強行指交。</li>
+  </FingeringReverseRapeRP.rulePack.rulesStrings>
+
+  <FistingReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]拳交。</li>
+  </FistingReverseRapeRP.rulePack.rulesStrings>
+
+  <BreastjobReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]乳交。</li>
+    <li>sent->[INITIATOR_nameDef]推倒[RECIPIENT_nameDef]並以[INITIATOR_possessive]乳房擠壓[RECIPIENT_objective]。</li>
+  </BreastjobReverseRapeRP.rulePack.rulesStrings>
+
+  <DoubleReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被強迫對[INITIATOR_nameDef]兩穴齊插。</li>
+  </DoubleReverseRapeRP.rulePack.rulesStrings>
+
+  <ScissoringReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行與[RECIPIENT_nameDef]剪刀式。</li>
+  </ScissoringReverseRapeRP.rulePack.rulesStrings>
+
+  <RimmingReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]舔肛。</li>
+  </RimmingReverseRapeRP.rulePack.rulesStrings>
+
+  <CunnilingusReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行對[RECIPIENT_nameDef]舔陰。</li>
+  </CunnilingusReverseRapeRP.rulePack.rulesStrings>
+
+  <FellatioReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]強行對[INITIATOR_nameDef]口交。</li>
+  </FellatioReverseRapeRP.rulePack.rulesStrings>
+
+  <BeakjobReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]強行對[INITIATOR_nameDef]喙交。</li>
+  </BeakjobReverseRapeRP.rulePack.rulesStrings>
+
+  <SixtynineReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]強行與[RECIPIENT_nameDef] 69。</li>
+  </SixtynineReverseRapeRP.rulePack.rulesStrings>
+
+  <DeepthroatReverseRapeRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]推倒[RECIPIENT_nameDef]並強行對[RECIPIENT_objective]深喉嚨。</li>
+  </DeepthroatReverseRapeRP.rulePack.rulesStrings>
 </LanguageData>

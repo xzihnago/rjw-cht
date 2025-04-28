@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenericBreasts.label>通用乳房</GenericBreasts.label>
+  <GenericBreasts.labelNoun>乳房</GenericBreasts.labelNoun>
+  <GenericBreasts.description>一對乳房。未支援種族的通用器官。</GenericBreasts.description>
+  <GenericBreasts.stages.0.label>平坦</GenericBreasts.stages.0.label>
+  <GenericBreasts.stages.1.label>微隆</GenericBreasts.stages.1.label>
+  <GenericBreasts.stages.2.label>小巧</GenericBreasts.stages.2.label>
+  <GenericBreasts.stages.3.label>普通</GenericBreasts.stages.3.label>
+  <GenericBreasts.stages.4.label>較大</GenericBreasts.stages.4.label>
+  <GenericBreasts.stages.5.label>巨大</GenericBreasts.stages.5.label>
+  <GenericBreasts.stages.6.label>龐大</GenericBreasts.stages.6.label>
+  <GenericBreasts.stages.7.label>極大</GenericBreasts.stages.7.label>
+  <GenericBreasts.stages.8.label>巨人</GenericBreasts.stages.8.label>
+  <GenericBreasts.stages.9.label>巨像</GenericBreasts.stages.9.label>
+  <GenericBreasts.stages.10.label>泰坦</GenericBreasts.stages.10.label>
+  <GenericBreasts.stages.11.label>天體</GenericBreasts.stages.11.label>
+
+  <GenericPenis.label>通用陰莖</GenericPenis.label>
+  <GenericPenis.labelNoun>陰莖</GenericPenis.labelNoun>
+  <GenericPenis.description>一根陰莖。未支援種族的通用器官。</GenericPenis.description>
+  <GenericPenis.stages.0.label>微小</GenericPenis.stages.0.label>
+  <GenericPenis.stages.1.label>小</GenericPenis.stages.1.label>
+  <GenericPenis.stages.2.label>普通</GenericPenis.stages.2.label>
+  <GenericPenis.stages.3.label>大</GenericPenis.stages.3.label>
+  <GenericPenis.stages.4.label>巨大</GenericPenis.stages.4.label>
+  <GenericPenis.stages.5.label>參天</GenericPenis.stages.5.label>
+
+  <GenericVagina.label>通用陰道</GenericVagina.label>
+  <GenericVagina.labelNoun>陰道</GenericVagina.labelNoun>
+  <GenericVagina.description>一個陰道。未支援種族的通用器官。</GenericVagina.description>
+  <GenericVagina.stages.0.label>過窄</GenericVagina.stages.0.label>
+  <GenericVagina.stages.1.label>緊</GenericVagina.stages.1.label>
+  <GenericVagina.stages.2.label>普通</GenericVagina.stages.2.label>
+  <GenericVagina.stages.3.label>鬆</GenericVagina.stages.3.label>
+  <GenericVagina.stages.4.label>過鬆</GenericVagina.stages.4.label>
+  <GenericVagina.stages.5.label>深淵</GenericVagina.stages.5.label>
+
+  <GenericAnus.label>通用肛門</GenericAnus.label>
+  <GenericAnus.labelNoun>肛門</GenericAnus.labelNoun>
+  <GenericAnus.description>一個肛門。未支援種族的通用器官。</GenericAnus.description>
+  <GenericAnus.stages.0.label>過窄</GenericAnus.stages.0.label>
+  <GenericAnus.stages.1.label>緊</GenericAnus.stages.1.label>
+  <GenericAnus.stages.2.label>普通</GenericAnus.stages.2.label>
+  <GenericAnus.stages.3.label>鬆</GenericAnus.stages.3.label>
+  <GenericAnus.stages.4.label>過鬆</GenericAnus.stages.4.label>
+  <GenericAnus.stages.5.label>深淵</GenericAnus.stages.5.label>
+</LanguageData>

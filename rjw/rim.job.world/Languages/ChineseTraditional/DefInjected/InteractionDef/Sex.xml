@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Sex_Vaginal.label>陰道性交</Sex_Vaginal.label>
-  <Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]陰道性交。</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]陰道性交。</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Sex_Vaginal.modExtensions.0.RMBLabel>陰道性交</Sex_Vaginal.modExtensions.0.RMBLabel>
-  <Sex_Reverse_Vaginal.label>接受陰道性交</Sex_Reverse_Vaginal.label>
-  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]陰道性交。</Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]陰道性交。</Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>接受陰道性交</Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>
+  <Sex_Vaginal.label>性交</Sex_Vaginal.label>
+  <Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_Vaginal.modExtensions.0.RMBLabel>性交</Sex_Vaginal.modExtensions.0.RMBLabel>
+  <Sex_Reverse_Vaginal.label>接受性交</Sex_Reverse_Vaginal.label>
+  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]性交。</Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]性交。</Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>接受性交</Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>
 
   <Sex_Anal.label>肛交</Sex_Anal.label>
   <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
@@ -127,8 +127,8 @@
   <Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]互相手淫。</Sex_MutualMasturbation.logRulesRecipient.rulesStrings.0>
   <Sex_MutualMasturbation.modExtensions.0.RMBLabel>互相手淫</Sex_MutualMasturbation.modExtensions.0.RMBLabel>
 
-  <Sex_Scissoring.label>剪刀腳</Sex_Scissoring.label>
-  <Sex_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]剪刀腳。</Sex_Scissoring.logRulesInitiator.rulesStrings.0>
-  <Sex_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]剪刀腳。</Sex_Scissoring.logRulesRecipient.rulesStrings.0>
-  <Sex_Scissoring.modExtensions.0.RMBLabel>剪刀腳</Sex_Scissoring.modExtensions.0.RMBLabel>
+  <Sex_Scissoring.label>剪刀式</Sex_Scissoring.label>
+  <Sex_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]剪刀式。</Sex_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Sex_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]剪刀式。</Sex_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Sex_Scissoring.modExtensions.0.RMBLabel>剪刀式</Sex_Scissoring.modExtensions.0.RMBLabel>
 </LanguageData>

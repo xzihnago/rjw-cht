@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_UnknownEgg.label>通用蟲卵</RJW_UnknownEgg.label>
+  <RJW_UnknownEgg.description>寄生卵進入宿主體內吸收營養直到孵化，幸好它們不會從你的胸口破體而出。</RJW_UnknownEgg.description>
+
+  <RJW_InsectHiveEgg.label>蟲卵</RJW_InsectHiveEgg.label>
+  <RJW_InsectHiveEgg.description>寄生卵進入宿主體內吸收營養直到孵化，幸好它們不會從你的胸口破體而出。</RJW_InsectHiveEgg.description>
+</LanguageData>

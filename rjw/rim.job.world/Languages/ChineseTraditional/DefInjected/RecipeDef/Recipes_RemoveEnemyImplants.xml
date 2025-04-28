@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RemoveUnknownEgg.label>移除卵</RemoveUnknownEgg.label>
+  <RemoveUnknownEgg.description>移除卵。</RemoveUnknownEgg.description>
+  <RemoveUnknownEgg.jobString>移除卵</RemoveUnknownEgg.jobString>
+
+  <RemoveInsectHiveEgg.label>移除卵</RemoveInsectHiveEgg.label>
+  <RemoveInsectHiveEgg.description>移除卵。</RemoveInsectHiveEgg.description>
+  <RemoveInsectHiveEgg.jobString>移除卵</RemoveInsectHiveEgg.jobString>
+
+  <RJW_RemoveRestraints.label>移除束縛</RJW_RemoveRestraints.label>
+  <RJW_RemoveRestraints.description>移除束縛。</RJW_RemoveRestraints.description>
+  <RJW_RemoveRestraints.jobString>移除束縛</RJW_RemoveRestraints.jobString>
+
+  <RJW_RemoveCocoon.label>移除繭</RJW_RemoveCocoon.label>
+  <RJW_RemoveCocoon.description>移除繭。</RJW_RemoveCocoon.description>
+  <RJW_RemoveCocoon.jobString>移除繭</RJW_RemoveCocoon.jobString>
+</LanguageData>

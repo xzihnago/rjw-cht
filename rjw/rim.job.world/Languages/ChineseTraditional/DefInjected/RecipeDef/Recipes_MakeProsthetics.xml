@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakePegDick.label>雕刻假陰莖</MakePegDick.label>
+  <MakePegDick.description>用一塊木頭雕刻出一根假陰莖。</MakePegDick.description>
+  <MakePegDick.jobString>雕刻假陰莖</MakePegDick.jobString>
+
+  <MakeHydraulicPenis.label>製作液壓陰莖</MakeHydraulicPenis.label>
+  <MakeHydraulicPenis.description>用鋼鐵與零件製作一根液壓陰莖。</MakeHydraulicPenis.description>
+  <MakeHydraulicPenis.jobString>製作液壓陰莖</MakeHydraulicPenis.jobString>
+
+  <MakeBionicPenis.label>製作仿生陰莖</MakeBionicPenis.label>
+  <MakeBionicPenis.description>用超級布料、塑鋼與零件製作一根仿生陰莖。</MakeBionicPenis.description>
+  <MakeBionicPenis.jobString>製作仿生陰莖</MakeBionicPenis.jobString>
+
+
+  <MakeHydraulicVagina.label>製作液壓陰道</MakeHydraulicVagina.label>
+  <MakeHydraulicVagina.description>用鋼鐵與零件製作一個液壓陰道。</MakeHydraulicVagina.description>
+  <MakeHydraulicVagina.jobString>製作液壓陰道</MakeHydraulicVagina.jobString>
+
+  <MakeBionicVagina.label>製作仿生陰道</MakeBionicVagina.label>
+  <MakeBionicVagina.description>用超級布料、塑鋼與零件製作一個仿生陰道。</MakeBionicVagina.description>
+  <MakeBionicVagina.jobString>製作仿生陰道</MakeBionicVagina.jobString>
+
+
+  <MakeHydraulicBreasts.label>製作液壓乳房</MakeHydraulicBreasts.label>
+  <MakeHydraulicBreasts.description>用鋼鐵與零件製作一對液壓乳房。</MakeHydraulicBreasts.description>
+  <MakeHydraulicBreasts.jobString>製作液壓乳房</MakeHydraulicBreasts.jobString>
+
+  <MakeBionicBreasts.label>製作仿生乳房</MakeBionicBreasts.label>
+  <MakeBionicBreasts.description>用超級布料、塑鋼與零件製作一對仿生乳房。</MakeBionicBreasts.description>
+  <MakeBionicBreasts.jobString>製作仿生乳房</MakeBionicBreasts.jobString>
+
+
+  <MakeHydraulicAnus.label>製作液壓肛門</MakeHydraulicAnus.label>
+  <MakeHydraulicAnus.description>用鋼鐵與零件製作一個液壓肛門。</MakeHydraulicAnus.description>
+  <MakeHydraulicAnus.jobString>製作液壓肛門</MakeHydraulicAnus.jobString>
+
+  <MakeBionicAnus.label>製作仿生肛門</MakeBionicAnus.label>
+  <MakeBionicAnus.description>用超級布料、塑鋼與零件製作一個仿生肛門。</MakeBionicAnus.description>
+  <MakeBionicAnus.jobString>製作仿生肛門</MakeBionicAnus.jobString>
+</LanguageData>

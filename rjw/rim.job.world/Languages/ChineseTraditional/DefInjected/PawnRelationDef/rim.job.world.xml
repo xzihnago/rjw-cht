@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <RJW_Sire.label>父親</RJW_Sire.label>
+  <RJW_Sire.labelFemale>母親</RJW_Sire.labelFemale>
+
+  <RJW_Pup.label>兒子</RJW_Pup.label>
+  <RJW_Pup.labelFemale>女兒</RJW_Pup.labelFemale>
+
+  <Child_Beast.label>兒子</Child_Beast.label>
+  <Child_Beast.labelFemale>女兒</Child_Beast.labelFemale>
+
+  <Sibling_Beast.label>兄弟</Sibling_Beast.label>
+  <Sibling_Beast.labelFemale>姊妹</Sibling_Beast.labelFemale>
+
+  <HalfSibling_Beast.label>兄弟</HalfSibling_Beast.label>
+  <HalfSibling_Beast.labelFemale>姊妹</HalfSibling_Beast.labelFemale>
+
+  <Grandparent_Beast.label>祖父</Grandparent_Beast.label>
+  <Grandparent_Beast.labelFemale>祖母</Grandparent_Beast.labelFemale>
+
+  <Grandchild_Beast.label>孫子</Grandchild_Beast.label>
+  <Grandchild_Beast.labelFemale>孫女</Grandchild_Beast.labelFemale>
+
+  <NephewOrNiece_Beast.label>姪子</NephewOrNiece_Beast.label>
+  <NephewOrNiece_Beast.labelFemale>姪女</NephewOrNiece_Beast.labelFemale>
+
+  <UncleOrAunt_Beast.label>叔叔</UncleOrAunt_Beast.label>
+  <UncleOrAunt_Beast.labelFemale>阿姨</UncleOrAunt_Beast.labelFemale>
+
+  <Cousin_Beast.label>堂表兄弟姊妹</Cousin_Beast.label>
+
+  <GreatGrandparent_Beast.label>曾祖父</GreatGrandparent_Beast.label>
+  <GreatGrandparent_Beast.labelFemale>曾祖母</GreatGrandparent_Beast.labelFemale>
+
+  <GreatGrandchild_Beast.label>曾孫</GreatGrandchild_Beast.label>
+  <GreatGrandchild_Beast.labelFemale>曾孫女</GreatGrandchild_Beast.labelFemale>
+
+  <GranduncleOrGrandaunt_Beast.label>叔祖</GranduncleOrGrandaunt_Beast.label>
+  <GranduncleOrGrandaunt_Beast.labelFemale>叔祖母</GranduncleOrGrandaunt_Beast.labelFemale>
+
+  <GrandnephewOrGrandniece_Beast.label>姪孫</GrandnephewOrGrandniece_Beast.label>
+  <GrandnephewOrGrandniece_Beast.labelFemale>姪孫女</GrandnephewOrGrandniece_Beast.labelFemale>
+
+  <CousinOnceRemoved_Beast.label>表姪</CousinOnceRemoved_Beast.label>
+
+  <SecondCousin_Beast.label>遠親</SecondCousin_Beast.label>
+</LanguageData>

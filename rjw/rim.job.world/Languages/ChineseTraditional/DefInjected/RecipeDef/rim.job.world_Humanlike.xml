@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RemoveBreasts.label>拆除乳房</RemoveBreasts.label>
+  <RemoveBreasts.description>拆除乳房。</RemoveBreasts.description>
+  <RemoveBreasts.jobString>拆除乳房</RemoveBreasts.jobString>
+
+  <RemoveGenitals.label>拆除生殖器</RemoveGenitals.label>
+  <RemoveGenitals.description>拆除性器官。</RemoveGenitals.description>
+  <RemoveGenitals.jobString>拆除生殖器</RemoveGenitals.jobString>
+
+  <RemoveAnus.label>拆除肛門</RemoveAnus.label>
+  <RemoveAnus.description>拆除肛門。</RemoveAnus.description>
+  <RemoveAnus.jobString>拆除肛門</RemoveAnus.jobString>
+
+
+  <AttachBreasts.label>安裝乳房</AttachBreasts.label>
+  <AttachBreasts.description>安裝乳房，替換同部位器官。</AttachBreasts.description>
+  <AttachBreasts.jobString>安裝乳房</AttachBreasts.jobString>
+
+  <AttachPenis.label>安裝陰莖</AttachPenis.label>
+  <AttachPenis.description>安裝陰莖，替換同部位器官。</AttachPenis.description>
+  <AttachPenis.jobString>安裝陰莖</AttachPenis.jobString>
+
+  <InstallVagina.label>安裝陰道</InstallVagina.label>
+  <InstallVagina.description>安裝陰道，替換同部位器官。</InstallVagina.description>
+  <InstallVagina.jobString>安裝陰道</InstallVagina.jobString>
+
+  <InstallAnus.label>安裝肛門</InstallAnus.label>
+  <InstallAnus.description>安裝肛門，替換同部位器官。</InstallAnus.description>
+  <InstallAnus.jobString>安裝肛門</InstallAnus.jobString>
+
+
+  <AddMultiBreasts.label>加裝乳房</AddMultiBreasts.label>
+  <AddMultiBreasts.description>加裝額外的乳房。</AddMultiBreasts.description>
+  <AddMultiBreasts.jobString>加裝乳房</AddMultiBreasts.jobString>
+
+  <AddMultiPenis.label>加裝陰莖</AddMultiPenis.label>
+  <AddMultiPenis.description>加裝額外的陰莖。</AddMultiPenis.description>
+  <AddMultiPenis.jobString>加裝陰莖</AddMultiPenis.jobString>
+
+  <AddMultiVagina.label>加裝陰道</AddMultiVagina.label>
+  <AddMultiVagina.description>加裝額外的陰道。</AddMultiVagina.description>
+  <AddMultiVagina.jobString>加裝陰道</AddMultiVagina.jobString>
+
+  <AddMultiAnus.label>加裝肛門</AddMultiAnus.label>
+  <AddMultiAnus.description>加裝額外的肛門。</AddMultiAnus.description>
+  <AddMultiAnus.jobString>加裝肛門</AddMultiAnus.jobString>
+</LanguageData>

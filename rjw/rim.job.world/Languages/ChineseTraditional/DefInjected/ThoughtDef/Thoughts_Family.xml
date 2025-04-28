@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MyPupDied.stages.0.label>我的兒子{0}去世了</MyPupDied.stages.0.label>
+  <MyPupDied.stages.0.description>我的兒子去世了。我的親骨肉…</MyPupDied.stages.0.description>
+
+  <MyPupDiedFemale.stages.0.label>我的女兒{0}去世了</MyPupDiedFemale.stages.0.label>
+  <MyPupDiedFemale.stages.0.description>我的女兒去世了。我的親骨肉…</MyPupDiedFemale.stages.0.description>
+
+
+  <KilledMyPup.stages.0.label>殺了我的兒子</KilledMyPup.stages.0.label>
+  <KilledMyPupFemale.stages.0.label>殺了我的兒子</KilledMyPupFemale.stages.0.label>
+
+  <SoldMyPup.stages.0.label>賣掉我的愛人</SoldMyPup.stages.0.label>
+  <SoldMyPup.stages.0.description>我的孩子被賣掉了！</SoldMyPup.stages.0.description>
+</LanguageData>

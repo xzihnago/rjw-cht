@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GettinRaped.reportString>被強姦</GettinRaped.reportString>
+  <RapeComfortPawn.reportString>強姦慰安者</RapeComfortPawn.reportString>
+  <RandomRape.reportString>強姦</RandomRape.reportString>
+  <RapeEnemy.reportString>強姦敵人</RapeEnemy.reportString>
+  <RapeEnemyByInsect.reportString>強姦敵人</RapeEnemyByInsect.reportString>
+  <RapeEnemyByAnimal.reportString>強姦敵人</RapeEnemyByAnimal.reportString>
+  <RapeEnemyByMech.reportString>強姦敵人</RapeEnemyByMech.reportString>
+  <RapeEnemyToParasite.reportString>強姦敵人</RapeEnemyToParasite.reportString>
+</LanguageData>
