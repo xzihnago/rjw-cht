@@ -1,6 +1,11 @@
 # RJW 中文化
 
-RJW 與部分附加模組的中文化，包含以下模組
+RJW 與部分附加模組的中文化。<br />
+目標是提供 RJW 與附加模組之間翻譯風格的一致性，以及與官方社群繁體中文用詞盡可能貼近的翻譯。
+
+### 維護中的模組
+
+可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題還請提出。
 
 | 模組                                                                                                | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
@@ -31,7 +36,9 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [RJW-Events](https://gitgud.io/LukeLu/rjw-events)                                                   | `1f3832` | 完整                         |
 | [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                                 | `60fffb` | 完整                         |
 
-已損壞的附加模組（參閱 RJW Wiki 附加模組列表），不提供更新與修正
+### 已損壞的模組
+
+參閱 RJW Wiki 附加模組列表，不提供更新與修正。
 
 | 模組                                                                       | 版本     | 狀態 |
 | -------------------------------------------------------------------------- | -------- | ---- |
@@ -41,14 +48,28 @@ RJW 與部分附加模組的中文化，包含以下模組
 
 # 參閱
 
-- [RJW Discord](https://discord.gg/CXwHhv8)
-- [RJW Loverslab](https://www.loverslab.com/topic/110270-mod-rimjobworld)
+- [RimWorld 官方社群繁體中文化](https://github.com/Ludeon/RimWorld-ChineseTraditional)
 - [RJW Wiki](https://rjw.miraheze.org/wiki/Main_Page)
 - [RJW Wiki 附加模組列表](https://rjw.miraheze.org/wiki/RJW_Add-On_List)
+- [RJW Discord](https://discord.gg/CXwHhv8)
+- [RJW Loverslab](https://www.loverslab.com/topic/110270-mod-rimjobworld)
 - [RJW 巴哈討論串](https://forum.gamer.com.tw/C.php?bsn=27313&snA=812)
 
+<details>
+<summary></summary>
+
 # 標準化
+
+Simple is better.
+
+❌ `crlf`<br />
+✅ `lf`
+
+❌ `utf-8-bom`<br />
+✅ `utf-8`
 
 ```sh
 find . -name "*.xml" | xargs dos2unix
 ```
+
+</details>
