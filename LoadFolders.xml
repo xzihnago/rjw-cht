@@ -33,6 +33,7 @@
     <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">race/euclidean.fantasyraces_vegapnk.rjw.genes</li>
     <li IfModActive="euclidean.fantasyraces">race/euclidean.fantasyraces_rim.job.world</li>
 
+    <li IfModActive="c0ffee.rimworld.animations">animation/c0ffee.rimworld.animations</li>
     <li IfModActive="teacher.uap">animation/teacher.uap</li>
     <li IfModActive="eltoro.anims">animation/eltoro.anims</li>
 

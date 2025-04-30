@@ -19,6 +19,7 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                                   | `b6c1fa` | 完整（部分跨模組支援未翻譯） |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `b0da74` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
+| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                       | `e96305` | 補全（選單按鈕）             |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                            | `214203` | 完整                         |
 | [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                              | `1fa0fc` | 完整                         |
 | [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)                | `a902ee` | 補全（紋身）                 |
