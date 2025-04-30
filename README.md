@@ -9,7 +9,7 @@ RJW 與部分附加模組的中文化，包含以下模組
 | [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                                   | `9080ca` | 完整                         |
 | [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                                   | `dca868` | 完整                         |
 | [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                                   | `be266b` | 完整                         |
-| [RimJobWorld - STD](https://gitgud.io/Ed86/rjw-std)                                                 | `70525e` | 完整                         |
+| [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                             | `0cfa87` | 完整                         |
 | [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                                     | `f86a54` | 完整                         |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)                   | `0294af` | 完整                         |
 | [Cumpilation](https://github.com/vegapnk/Cumpilation)                                               | `b6439b` | 完整                         |
