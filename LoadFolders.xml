@@ -15,13 +15,13 @@
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">sexperience/rjw.sexperience_vegapnk.cumpilation</li>
     <li IfModActive="rjw.sexperience.ideology">sexperience/rjw.sexperience.ideology</li>
 
+    <li IfModActive="rjw.menstruation">womb/rjw.menstruation</li>
+    <li IfModActive="rjw.menstruation">womb/rjw.menstruation_ludeon.rimworld.ideology</li>
+    <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation</li>
     <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation_ludeon.rimworld.ideology</li>
     <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation_ludeon.rimworld.biotech</li>
     <li IfModActive="vegapnk.cumpilation" IfModNotActive="winderig.processor">womb/vegapnk.cumpilation_winderig.processor</li>
-    <li IfModActive="rjw.menstruation">womb/rjw.menstruation</li>
-    <li IfModActive="rjw.menstruation">womb/rjw.menstruation_ludeon.rimworld.ideology</li>
-    <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">womb/lustlicentiastretch.rjwlabs</li>
 
     <li IfModActive="asmr.rjw.racesupport">race/asmr.rjw.racesupport</li>

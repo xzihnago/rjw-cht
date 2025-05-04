@@ -17,12 +17,12 @@ RJW 與部分附加模組的中文化。<br />
 | [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                             | `0cfa87` | 完整                         |
 | [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                                     | `f86a54` | 完整                         |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)                   | `0294af` | 完整                         |
-| [Cumpilation](https://github.com/vegapnk/Cumpilation)                                               | `b6439b` | 完整                         |
 | [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                             | `ac1a64` | 完整                         |
 | [RJW Menstruation - Resources](https://gitgud.io/ElToro/rjw-menstruation-resources)                 | `4c915b` | 完整                         |
+| [Cumpilation](https://github.com/vegapnk/Cumpilation)                                               | `b6439b` | 完整                         |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |
 | [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                                   | `b6c1fa` | 完整（部分跨模組支援未翻譯） |
-| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `b0da74` | 完整（部分跨模組支援未翻譯） |
+| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `7540b9` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
 | [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                       | `e96305` | 補全（選單按鈕）             |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                            | `214203` | 完整                         |
