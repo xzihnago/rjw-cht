@@ -33,7 +33,7 @@
   <futa_spacers_chance_desc>扶他 / 偽娘太空民出現頻率\n有效範圍：0-100\n預設值：5。</futa_spacers_chance_desc>
 
   <sexneed_decay_rate_name>性需求衰減倍率</sexneed_decay_rate_name>
-  <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。建議範圍：50% 至 200%</sexneed_decay_rate_desc>
+  <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。\n建議範圍：50% 至 200%</sexneed_decay_rate_desc>
   <sexneed_fix_name>性需求修正</sexneed_fix_name>
   <sexneed_fix_desc>修正不正確的性需求閾值，顯著減少性愛與強姦的觸發。</sexneed_fix_desc>
   <Animal_mating_cooldown>動物交配冷卻時間</Animal_mating_cooldown>
@@ -116,7 +116,7 @@
   <SettingNoHookupsDuringWorkHours_desc>控制居民是否可以在工作時間約炮。\n性愛成癮特性不受此控制。</SettingNoHookupsDuringWorkHours_desc>
   <SettingColonistsCanHookup>允許殖民者約炮</SettingColonistsCanHookup>
   <SettingColonistsCanHookup_desc>控制是否允許殖民者約炮。</SettingColonistsCanHookup_desc>
-  <SettingColonistsCanHookupWithVisitor>殖民者可以和訪客約炮</SettingColonistsCanHookupWithVisitor>
+  <SettingColonistsCanHookupWithVisitor>殖民者可以與訪客約炮</SettingColonistsCanHookupWithVisitor>
   <SettingColonistsCanHookupWithVisitor_desc>控制居民是否可以與來殖民地的訪客約炮。</SettingColonistsCanHookupWithVisitor_desc>
   <SettingCanHookupWithPrisoner>非俘虜可以與俘虜約炮</SettingCanHookupWithPrisoner>
   <SettingCanHookupWithPrisoner_desc>控制非俘虜是否可以與俘虜約炮。\n這不受慰安者的設定影響，雙方都是自願的。</SettingCanHookupWithPrisoner_desc>

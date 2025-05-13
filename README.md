@@ -24,12 +24,12 @@ RJW 與部分附加模組的中文化。<br />
 | [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                                   | `b6c1fa` | 完整（部分跨模組支援未翻譯） |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `7540b9` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
+| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                                 | `ff57f5` | 完整                         |
+| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)                | `a902ee` | 補全（紋身）                 |
+| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)                 | `01a47f` | 完整                         |
 | [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                       | `e96305` | 補全（選單按鈕）             |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                            | `214203` | 完整                         |
 | [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                              | `1fa0fc` | 完整                         |
-| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)                | `a902ee` | 補全（紋身）                 |
-| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)                 | `01a47f` | 完整                         |
-| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                                 | `ff57f5` | 完整                         |
 | [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                                   | `518778` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)                   | `211892` | 完整                         |
 | [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `4f7061` | 完整                         |
