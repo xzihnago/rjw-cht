@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_Promiscuous.stages.0.label>亂交</Sex_Promiscuous.stages.0.label>
+  <Sex_Promiscuous.stages.0.description>我是不道德的。這讓我興奮！</Sex_Promiscuous.stages.0.description>
+  <Sex_Know_Promiscuous.stages.0.label>亂交</Sex_Know_Promiscuous.stages.0.label>
+  <Sex_Know_Promiscuous_Approval.stages.0.label>亂交</Sex_Know_Promiscuous_Approval.stages.0.label>
+
+  <Sex_NonPromiscuous.stages.0.label>正常的性交</Sex_NonPromiscuous.stages.0.label>
+  <Sex_NonPromiscuous.stages.0.description>根本滿足不了我。</Sex_NonPromiscuous.stages.0.description>
+  <Sex_Know_NonPromiscuous.stages.0.label>乏味</Sex_Know_NonPromiscuous.stages.0.label>
+</LanguageData>

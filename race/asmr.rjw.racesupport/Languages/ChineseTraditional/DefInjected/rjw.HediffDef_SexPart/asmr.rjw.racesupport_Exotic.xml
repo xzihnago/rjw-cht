@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TentaclePenis.label>觸手</TentaclePenis.label>
+  <TentaclePenis.labelNoun>觸手</TentaclePenis.labelNoun>
+  <TentaclePenis.description>一團類似觸手的陰莖，既能約束，又能愉快。</TentaclePenis.description>
+  <TentaclePenis.stages.0.label>微小</TentaclePenis.stages.0.label>
+  <TentaclePenis.stages.1.label>小</TentaclePenis.stages.1.label>
+  <TentaclePenis.stages.2.label>普通</TentaclePenis.stages.2.label>
+  <TentaclePenis.stages.3.label>大</TentaclePenis.stages.3.label>
+  <TentaclePenis.stages.4.label>巨大</TentaclePenis.stages.4.label>
+  <TentaclePenis.stages.5.label>參天</TentaclePenis.stages.5.label>
+
+  <DemonTentaclesF.label>惡魔觸手</DemonTentaclesF.label>
+  <DemonTentaclesF.labelNoun>惡魔觸手</DemonTentaclesF.labelNoun>
+  <DemonTentaclesF.description>一根長而靈活的觸手，能夠產卵。</DemonTentaclesF.description>
+  <DemonTentaclesF.stages.0.label>微小</DemonTentaclesF.stages.0.label>
+  <DemonTentaclesF.stages.1.label>小</DemonTentaclesF.stages.1.label>
+  <DemonTentaclesF.stages.2.label>普通</DemonTentaclesF.stages.2.label>
+  <DemonTentaclesF.stages.3.label>大</DemonTentaclesF.stages.3.label>
+  <DemonTentaclesF.stages.4.label>巨大</DemonTentaclesF.stages.4.label>
+  <DemonTentaclesF.stages.5.label>參天</DemonTentaclesF.stages.5.label>
+
+  <GolemPenis.label>傀儡陰莖</GolemPenis.label>
+  <GolemPenis.labelNoun>傀儡陰莖</GolemPenis.labelNoun>
+  <GolemPenis.description>一根粗糙且參差不齊如石頭般的陰莖。</GolemPenis.description>
+  <GolemPenis.stages.0.label>微小</GolemPenis.stages.0.label>
+  <GolemPenis.stages.1.label>小</GolemPenis.stages.1.label>
+  <GolemPenis.stages.2.label>普通</GolemPenis.stages.2.label>
+  <GolemPenis.stages.3.label>大</GolemPenis.stages.3.label>
+  <GolemPenis.stages.4.label>巨大</GolemPenis.stages.4.label>
+  <GolemPenis.stages.5.label>參天</GolemPenis.stages.5.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_MutualTailholding.label>交纏尾巴</Sex_MutualTailholding.label>
+  <Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]交纏尾巴。</Sex_MutualTailholding.logRulesInitiator.rulesStrings.0>
+  <Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]交纏尾巴。</Sex_MutualTailholding.logRulesRecipient.rulesStrings.0>
+  <Sex_MutualTailholding.modExtensions.0.RMBLabel>交纏尾巴</Sex_MutualTailholding.modExtensions.0.RMBLabel>
+</LanguageData>

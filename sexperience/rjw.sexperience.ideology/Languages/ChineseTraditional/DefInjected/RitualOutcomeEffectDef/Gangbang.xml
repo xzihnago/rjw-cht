@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gangbang.description>視乎儀式表現，參與者將獲得{MOODDAYS}天{MINMOOD}至{MAXMOOD}的心情加成。</Gangbang.description>
+  <Gangbang.extraPredictedOutcomeDescriptions.0>如果{0}令人滿足，其中一位參加者可能會獲得靈感。</Gangbang.extraPredictedOutcomeDescriptions.0>
+  <Gangbang.comps.0.label>教義導師在場</Gangbang.comps.0.label>
+  <Gangbang.comps.1.label>參與人數</Gangbang.comps.1.label>
+  <Gangbang.comps.2.label>在祭壇舉行</Gangbang.comps.2.label>
+  <Gangbang.comps.2.expectedThingLabelTip>一個祭壇</Gangbang.comps.2.expectedThingLabelTip>
+  <Gangbang.comps.3.label>受害者壞掉</Gangbang.comps.3.label>
+  <Gangbang.comps.4.label>受害者幾乎壞掉</Gangbang.comps.4.label>
+  <Gangbang.comps.5.label>受害者完全壞掉</Gangbang.comps.5.label>
+  <Gangbang.comps.6.label>滿意的參加者</Gangbang.comps.6.label>
+  <Gangbang.comps.7.label>完全滿足的參加者</Gangbang.comps.7.label>
+  <Gangbang.outcomeChances.0.label>糟糕</Gangbang.outcomeChances.0.label>
+  <Gangbang.outcomeChances.0.description>{0}太糟糕了！演講既結結巴巴又語無倫次，受害者也很拙劣——每個人都等不及完結。</Gangbang.outcomeChances.0.description>
+  <Gangbang.outcomeChances.1.label>沉悶</Gangbang.outcomeChances.1.label>
+  <Gangbang.outcomeChances.1.description>{0}太沉悶了。重複的演講內容，很明顯有瑕疵的受害者。總覺得不夠莊重。</Gangbang.outcomeChances.1.description>
+  <Gangbang.outcomeChances.2.label>滿足</Gangbang.outcomeChances.2.label>
+  <Gangbang.outcomeChances.2.description>{0}令人滿足。演講內容充滿意義，受害者精準又莊重。</Gangbang.outcomeChances.2.description>
+  <Gangbang.outcomeChances.2.potentialExtraOutcomeDesc>有 5% 的機率其中一位參加者會獲得靈感。</Gangbang.outcomeChances.2.potentialExtraOutcomeDesc>
+  <Gangbang.outcomeChances.3.label>完美</Gangbang.outcomeChances.3.label>
+  <Gangbang.outcomeChances.3.description>{0}實在完美！演講話音剛落，受害者就像魅魔一樣，所有人都為之瘋狂。</Gangbang.outcomeChances.3.description>
+  <Gangbang.outcomeChances.3.potentialExtraOutcomeDesc>有 10% 的機率其中一位參加者會獲得靈感。</Gangbang.outcomeChances.3.potentialExtraOutcomeDesc>
+
+  <Gangbang_Consensual.description>視乎儀式表現，參與者將獲得{MOODDAYS}天{MINMOOD}至{MAXMOOD}的心情加成。</Gangbang_Consensual.description>
+  <Gangbang_Consensual.extraPredictedOutcomeDescriptions.0>如果{0}令人滿足，其中一位參加者可能會獲得靈感。</Gangbang_Consensual.extraPredictedOutcomeDescriptions.0>
+  <Gangbang_Consensual.comps.0.label>教義導師在場</Gangbang_Consensual.comps.0.label>
+  <Gangbang_Consensual.comps.1.label>參與人數</Gangbang_Consensual.comps.1.label>
+  <Gangbang_Consensual.comps.2.label>在祭壇舉行</Gangbang_Consensual.comps.2.label>
+  <Gangbang_Consensual.comps.2.expectedThingLabelTip>一個祭壇</Gangbang_Consensual.comps.2.expectedThingLabelTip>
+  <Gangbang_Consensual.comps.3.label>滿意的參加者</Gangbang_Consensual.comps.3.label>
+  <Gangbang_Consensual.comps.4.label>完全滿足的參加者</Gangbang_Consensual.comps.4.label>
+  <Gangbang_Consensual.outcomeChances.0.label>糟糕</Gangbang_Consensual.outcomeChances.0.label>
+  <Gangbang_Consensual.outcomeChances.0.description>{0}太糟糕了！演講既結結巴巴又語無倫次，受害者也很拙劣——每個人都等不及完結。</Gangbang_Consensual.outcomeChances.0.description>
+  <Gangbang_Consensual.outcomeChances.1.label>沉悶</Gangbang_Consensual.outcomeChances.1.label>
+  <Gangbang_Consensual.outcomeChances.1.description>{0}太沉悶了。重複的演講內容，很明顯有瑕疵的受害者。總覺得不夠莊重。</Gangbang_Consensual.outcomeChances.1.description>
+  <Gangbang_Consensual.outcomeChances.2.label>滿足</Gangbang_Consensual.outcomeChances.2.label>
+  <Gangbang_Consensual.outcomeChances.2.description>{0}令人滿足。演講內容充滿意義，受害者精準又莊重。</Gangbang_Consensual.outcomeChances.2.description>
+  <Gangbang_Consensual.outcomeChances.2.potentialExtraOutcomeDesc>有 5% 的機率其中一位參加者會獲得靈感。</Gangbang_Consensual.outcomeChances.2.potentialExtraOutcomeDesc>
+  <Gangbang_Consensual.outcomeChances.3.label>完美</Gangbang_Consensual.outcomeChances.3.label>
+  <Gangbang_Consensual.outcomeChances.3.description>{0}實在完美！演講話音剛落，受害者就像魅魔一樣，所有人都為之瘋狂。</Gangbang_Consensual.outcomeChances.3.description>
+  <Gangbang_Consensual.outcomeChances.3.potentialExtraOutcomeDesc>有 10% 的機率其中一位參加者會獲得靈感。</Gangbang_Consensual.outcomeChances.3.potentialExtraOutcomeDesc>
+</LanguageData>

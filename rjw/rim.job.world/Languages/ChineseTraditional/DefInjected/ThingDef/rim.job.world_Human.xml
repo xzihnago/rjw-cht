@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Breasts.label>乳房</Breasts.label>
+  <Breasts.description>一對乳房。</Breasts.description>
+
+  <Penis.label>陰莖</Penis.label>
+  <Penis.description>一根陰莖。</Penis.description>
+
+  <Vagina.label>陰道</Vagina.label>
+  <Vagina.description>一個陰道。</Vagina.description>
+
+  <Anus.label>肛門</Anus.label>
+  <Anus.description>一個肛門。</Anus.description>
+
+  <FeaturelessChest.label>平滑胸部</FeaturelessChest.label>
+  <FeaturelessChest.description>平滑且毫無突起的胸部。能在非哺乳動物身上找到。</FeaturelessChest.description>
+</LanguageData>

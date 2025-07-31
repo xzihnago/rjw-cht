@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_GoodwillChangedReason_StoleGene.label>偷竊基因</rjw_genes_GoodwillChangedReason_StoleGene.label>
+  <rjw_genes_GoodwillChangedReason_infected_with_disease.label>使人物感染遺傳疾病</rjw_genes_GoodwillChangedReason_infected_with_disease.label>
+  <rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>傳播遺傳疾病</rjw_genes_GoodwillChangedReason_spread_genetic_disease.label>
+
+  <rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>透過性愛年齡轉移讓人物變老</rjw_genes_GoodwillChangedReason_aged_pawn_with_sex_gene.label>
+  <rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>用青春之泉讓人物變年輕</rjw_genes_GoodwillChangedReason_youthed_pawn_with_sex_gene.label>
+  <rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>置換妊娠</rjw_genes_GoodwillChangedReason_OverwritePregnancy.label>
+</LanguageData>

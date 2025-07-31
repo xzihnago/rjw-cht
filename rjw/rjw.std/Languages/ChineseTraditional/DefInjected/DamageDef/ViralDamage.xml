@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ViralDamage.label>病毒侵襲</ViralDamage.label>
+  <ViralDamage.deathMessage>{0} 死於疾病。</ViralDamage.deathMessage>
+</LanguageData>

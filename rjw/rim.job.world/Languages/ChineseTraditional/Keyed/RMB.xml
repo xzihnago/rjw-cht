@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_RMB>互動</RJW_RMB>
+  <RJW_RMB_NoSex>拒絕發生性關係與</RJW_RMB_NoSex>
+
+  <RJW_RMB_Social>與{0_labelShort}社交</RJW_RMB_Social>
+  <RJW_RMB_Masturbate>自慰</RJW_RMB_Masturbate>
+
+  <RJW_RMB_Sex>與{0_labelShort}性交</RJW_RMB_Sex>
+  <RJW_RMB_Bestiality>與{0_labelShort}獸交</RJW_RMB_Bestiality>
+
+  <RJW_RMB_Sex_Reverse>與{0_labelShort}性交（反向）</RJW_RMB_Sex_Reverse>
+  <RJW_RMB_Bestiality_Reverse>與{0_labelShort}獸交（反向）</RJW_RMB_Bestiality_Reverse>
+
+  <!--Social-->
+  <RJW_RMB_Insult>羞辱</RJW_RMB_Insult>
+  <RJW_RMB_SocialFight>吵架</RJW_RMB_SocialFight>
+  <RJW_RMB_Chat>閒聊</RJW_RMB_Chat>
+  <RJW_RMB_DeepTalk>談話</RJW_RMB_DeepTalk>
+  <RJW_RMB_RomanceAttempt>調情</RJW_RMB_RomanceAttempt>
+  <RJW_RMB_MarriageProposal>求婚</RJW_RMB_MarriageProposal>
+
+  <!--Masturbate-->
+  <RJW_RMB_Masturbate_Bed>自慰，在椅子或床上</RJW_RMB_Masturbate_Bed>
+  <RJW_RMB_Masturbate_At>自慰，在</RJW_RMB_Masturbate_At>
+  <RJW_RMB_Masturbate_Here>自慰，在此處</RJW_RMB_Masturbate_Here>
+  <RJW_RMB_Masturbate_With>自慰，用道具</RJW_RMB_Masturbate_With> <!-- dildoes or something like that, someday? -->
+
+  <!--Have sex-->
+
+  <!--Rape-->
+  <RJW_RMB_Rape>強姦{0_labelShort}</RJW_RMB_Rape>
+  <RJW_RMB_Rape_Reverse>強姦{0_labelShort}（反向）</RJW_RMB_Rape_Reverse>
+
+  <RJW_RMB_RapeCorpse>侵犯{0_labelShort}</RJW_RMB_RapeCorpse>
+  <RJW_RMB_RapeCorpse_Reverse>侵犯{0_labelShort}（反向）</RJW_RMB_RapeCorpse_Reverse>
+
+  <RJW_RMB_RapeAnimal>配種{0_labelShort}</RJW_RMB_RapeAnimal>
+  <RJW_RMB_RapeAnimal_Reverse>配種{0_labelShort}（反向）</RJW_RMB_RapeAnimal_Reverse>
+  <!--Poses/parts?-->
+
+
+  <!--stuff-->
+  <RJW_RMB_HackMechPregnancy>駭入機械植入物</RJW_RMB_HackMechPregnancy>
+
+  <!--Reasons for why RMB option is unavailable-->
+  <RJW_RMB_ReasonLowOpinionOfTarget>對目標評價低</RJW_RMB_ReasonLowOpinionOfTarget>
+  <RJW_RMB_ReasonUnappealingTarget>對目標沒有性吸引力</RJW_RMB_ReasonUnappealingTarget>
+  <RJW_RMB_ReasonLowOpinionOfPawn>對我評價低</RJW_RMB_ReasonLowOpinionOfPawn>
+  <RJW_RMB_ReasonUnappealingPawn>對我沒有性吸引力</RJW_RMB_ReasonUnappealingPawn>
+
+  <RJW_RMB_ReasonNeedBed>需要指定床位</RJW_RMB_ReasonNeedBed>
+  <RJW_RMB_ReasonCantReachBed>無法到達指定床位</RJW_RMB_ReasonCantReachBed>
+</LanguageData>

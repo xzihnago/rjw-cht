@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <stool_with_cumbucket.label>附精液桶的凳子</stool_with_cumbucket.label>
+  <stool_with_cumbucket.description>一個簡易的凳子，中間有一個洞，下面有一個精液桶。可供精液腹人物使用以自行洩精。</stool_with_cumbucket.description>
+
+  <chair_with_cumbucket.label>附精液桶的椅子</chair_with_cumbucket.label>
+  <chair_with_cumbucket.description>一張簡易的椅子，中間有一個精液收集裝置，下面有一個精液桶。可供精液腹人物使用以自行洩精。</chair_with_cumbucket.description>
+
+  <autochair_with_cumtank.label>附精液箱的自動椅</autochair_with_cumtank.label>
+  <autochair_with_cumtank.description>一張先進的椅子，配有自動精液收集裝置，連接到精液箱。可供精液腹人物使用以自行洩精。</autochair_with_cumtank.description>
+</LanguageData>

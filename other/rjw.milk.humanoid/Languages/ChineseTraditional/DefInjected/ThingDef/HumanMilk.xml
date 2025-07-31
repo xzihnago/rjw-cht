@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HumanMilk.label>人乳瓶</HumanMilk.label>
+  <HumanMilk.description>從人類身上收集的乳汁，相當甜美，對新生兒的生命至關重要。</HumanMilk.description>
+  <HumanMilkBulk.label>人乳</HumanMilkBulk.label>
+  <HumanMilkBulk.description>從人類身上收集的乳汁，相當甜美，對新生兒的生命至關重要。</HumanMilkBulk.description>
+
+  <HumanoidMilk.label>類人乳瓶</HumanoidMilk.label>
+  <HumanoidMilk.description>從類人哺乳動物身上收集的乳汁，相當甜美，對新生兒的生命至關重要。</HumanoidMilk.description>
+  <HumanoidMilkBulk.label>類人乳</HumanoidMilkBulk.label>
+  <HumanoidMilkBulk.description>從類人哺乳動物身上收集的乳汁，相當甜美，對新生兒的生命至關重要。</HumanoidMilkBulk.description>
+</LanguageData>

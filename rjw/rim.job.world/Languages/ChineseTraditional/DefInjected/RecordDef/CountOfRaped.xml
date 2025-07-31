@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CountOfRapedHumanlikes.label>強姦次數（人型）</CountOfRapedHumanlikes.label>
+  <CountOfRapedHumanlikes.description>我強姦人形生物的次數。</CountOfRapedHumanlikes.description>
+
+  <CountOfRapedAnimals.label>強姦次數（動物）</CountOfRapedAnimals.label>
+  <CountOfRapedAnimals.description>我強姦動物的次數。</CountOfRapedAnimals.description>
+
+  <CountOfRapedInsects.label>強姦次數（蟲）</CountOfRapedInsects.label>
+  <CountOfRapedInsects.description>我強姦蟲的次數。</CountOfRapedInsects.description>
+
+  <CountOfRapedOthers.label>強姦次數（其他）</CountOfRapedOthers.label>
+  <CountOfRapedOthers.description>我強姦怪東西的次數。</CountOfRapedOthers.description>
+
+  <CountOfSexWithCorpse.label>強姦次數（屍體）</CountOfSexWithCorpse.label>
+  <CountOfSexWithCorpse.description>我強姦屍體的次數。</CountOfSexWithCorpse.description>
+
+  <CountOfBeenRapedByHumanlikes.label>被強姦次數（人型）</CountOfBeenRapedByHumanlikes.label>
+  <CountOfBeenRapedByHumanlikes.description>我被人形生物強姦的次數</CountOfBeenRapedByHumanlikes.description>
+
+  <CountOfBeenRapedByAnimals.label>被強姦次數（動物）</CountOfBeenRapedByAnimals.label>
+  <CountOfBeenRapedByAnimals.description>我被動物強姦的次數。</CountOfBeenRapedByAnimals.description>
+
+  <CountOfBeenRapedByInsects.label>被強姦次數（蟲）</CountOfBeenRapedByInsects.label>
+  <CountOfBeenRapedByInsects.description>我被蟲強姦的次數。</CountOfBeenRapedByInsects.description>
+
+  <CountOfBeenRapedByOthers.label>被強姦次數（其他）</CountOfBeenRapedByOthers.label>
+  <CountOfBeenRapedByOthers.description>我被怪東西強姦的次數。</CountOfBeenRapedByOthers.description>
+
+  <GetRapedAsComfortPrisoner.label>慰安次數</GetRapedAsComfortPrisoner.label>
+  <GetRapedAsComfortPrisoner.description>我被當作洩慾對像強姦的次數。</GetRapedAsComfortPrisoner.description>
+</LanguageData>

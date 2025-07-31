@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.Sacred_repopulation.label>神聖的再繁衍</CB_Repopulation_GivenAway_Duty_Sacred.stages.Sacred_repopulation.label>
+  <CB_Repopulation_GivenAway_Duty_Sacred.stages.Sacred_repopulation.description>又一個神聖的孩子被送進世界</CB_Repopulation_GivenAway_Duty_Sacred.stages.Sacred_repopulation.description>
+
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.Repopulation.label>再繁衍</CB_Repopulation_GivenAway_Duty_Essential.stages.Repopulation.label>
+  <CB_Repopulation_GivenAway_Duty_Essential.stages.Repopulation.description>又一個孩子被送進世界</CB_Repopulation_GivenAway_Duty_Essential.stages.Repopulation.description>
+
+  <CB_Repopulation_GivenAway_Duty.stages.Child_sent_away.label>孩子被送走</CB_Repopulation_GivenAway_Duty.stages.Child_sent_away.label>
+  <CB_Repopulation_GivenAway_Duty.stages.Child_sent_away.description>又一個孩子被送進世界</CB_Repopulation_GivenAway_Duty.stages.Child_sent_away.description>
+
+  <CB_Repopulation_GivenAway.stages.Sacred_repopulation.label>神聖的再繁衍</CB_Repopulation_GivenAway.stages.Sacred_repopulation.label>
+  <CB_Repopulation_GivenAway.stages.Sacred_repopulation.description>又一個神聖的孩子被送進世界</CB_Repopulation_GivenAway.stages.Sacred_repopulation.description>
+  <CB_Repopulation_GivenAway.stages.Repopulation.label>再繁衍</CB_Repopulation_GivenAway.stages.Repopulation.label>
+  <CB_Repopulation_GivenAway.stages.Repopulation.description>又一個孩子被送進世界</CB_Repopulation_GivenAway.stages.Repopulation.description>
+  <CB_Repopulation_GivenAway.stages.2.label>孩子被送走</CB_Repopulation_GivenAway.stages.2.label>
+  <CB_Repopulation_GivenAway.stages.2.description>少一張吃飯的嘴</CB_Repopulation_GivenAway.stages.2.description>
+  <CB_Repopulation_GivenAway.stages.3.label>孩子被送走</CB_Repopulation_GivenAway.stages.3.label>
+  <CB_Repopulation_GivenAway.stages.3.description>為什麼我們要這樣做？</CB_Repopulation_GivenAway.stages.3.description>
+  <CB_Repopulation_GivenAway.stages.4.label>孩子被送走</CB_Repopulation_GivenAway.stages.4.label>
+  <CB_Repopulation_GivenAway.stages.4.description>為什麼我們要這樣做？</CB_Repopulation_GivenAway.stages.4.description>
+</LanguageData>

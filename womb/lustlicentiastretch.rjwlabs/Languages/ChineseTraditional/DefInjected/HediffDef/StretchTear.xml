@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StretchTear.label>撕裂</StretchTear.label>
+  <StretchTear.labelNoun>撕裂</StretchTear.labelNoun>
+  <StretchTear.labelNounPretty>{1}中的{0}</StretchTear.labelNounPretty>
+  <StretchTear.description>使用較大的插入物在較小的開口進行性行為可能導致疼痛的撕裂。</StretchTear.description>
+  <StretchTear.comps.0.labelTendedWell>縫合</StretchTear.comps.0.labelTendedWell>
+  <StretchTear.comps.0.labelTendedWellInner>縫合</StretchTear.comps.0.labelTendedWellInner>
+  <StretchTear.comps.0.labelSolidTendedWell>已修復</StretchTear.comps.0.labelSolidTendedWell>
+  <StretchTear.comps.2.permanentLabel>撕裂疤痕</StretchTear.comps.2.permanentLabel>
+  <StretchTear.injuryProps.destroyedLabel>破裂</StretchTear.injuryProps.destroyedLabel>
+  <StretchTear.injuryProps.destroyedOutLabel>破裂</StretchTear.injuryProps.destroyedOutLabel>
+</LanguageData>

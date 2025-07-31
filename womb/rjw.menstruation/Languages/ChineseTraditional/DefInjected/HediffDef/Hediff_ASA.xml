@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_ASA.label>精子抗體</Hediff_ASA.label>
+  <Hediff_ASA.labelNoun>精子抗體</Hediff_ASA.labelNoun>
+  <Hediff_ASA.description>精子抗體。&#10;增加精子的死亡率。</Hediff_ASA.description>
+  <Hediff_ASA.labelNounPretty>{0}擁有精子抗體。</Hediff_ASA.labelNounPretty>
+</LanguageData>

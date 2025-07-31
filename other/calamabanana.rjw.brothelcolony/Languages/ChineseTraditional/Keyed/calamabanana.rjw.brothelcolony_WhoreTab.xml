@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WhoringPaymentTypeSilver>白銀</WhoringPaymentTypeSilver>
+  <WhoringPaymentTypeFervor>熱情</WhoringPaymentTypeFervor>
+  <WhoringPaymentTypeGoodwill>友好度</WhoringPaymentTypeGoodwill>
+  <WhoringPaymentTypeNothing>無</WhoringPaymentTypeNothing>
+
+  <WhoringPregnancyTypeNormal>正常</WhoringPregnancyTypeNormal>
+  <WhoringPregnancyTypeAvoid>避免</WhoringPregnancyTypeAvoid>
+  <WhoringPregnancyTypeTry>嘗試</WhoringPregnancyTypeTry>
+
+  <WhoringCondomTypeNormal>正常</WhoringCondomTypeNormal>
+  <WhoringCondomTypeAlways>總是</WhoringCondomTypeAlways>
+  <WhoringCondomTypeNever>從不</WhoringCondomTypeNever>
+
+  <WhoringTipPrice>&#x3000;基礎：{0}\n&#x3000;特性：{1}\n&#x3000;技能：{2}</WhoringTipPrice>
+  <WhoringTipBoth>&#x3000;性別：{0}\n&#x3000;年齡：{1}\n&#x3000;受傷：{2}</WhoringTipBoth>
+
+  <WhoringTipPaymentTypeSilver>最低：\n{0}\n最高：\n{1}\n綜合：\n{2}\n\n受賣淫床品質影響。</WhoringTipPaymentTypeSilver>
+  <WhoringTipPaymentTypeGoodwill>增加 {0} 友好度\n\n受賣淫床品質影響。</WhoringTipPaymentTypeGoodwill>
+  <WhoringTipPaymentTypeFervor>獲得 {0} 點神聖熱情。\n\n受賣淫床品質影響。</WhoringTipPaymentTypeFervor>
+  <WhoringTipNoPayment>無付款方式？</WhoringTipNoPayment>
+</LanguageData>

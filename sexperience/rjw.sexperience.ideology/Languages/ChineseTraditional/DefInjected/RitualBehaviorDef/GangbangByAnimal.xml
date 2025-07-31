@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GangbangByAnimal.spectatorGerund>參與</GangbangByAnimal.spectatorGerund>
+  <GangbangByAnimal.spectatorsLabel>參加者</GangbangByAnimal.spectatorsLabel>
+  <GangbangByAnimal.roles.0.label>引導者</GangbangByAnimal.roles.0.label>
+  <GangbangByAnimal.roles.1.label>交配者</GangbangByAnimal.roles.1.label>
+  <GangbangByAnimal.roles.1.missingDesc>將被動物性交的交配者</GangbangByAnimal.roles.1.missingDesc>
+  <GangbangByAnimal.roles.2.label>播種者</GangbangByAnimal.roles.2.label>
+  <GangbangByAnimal.roles.2.missingDesc>可繁殖的動物</GangbangByAnimal.roles.2.missingDesc>
+  <GangbangByAnimal.stages.0.failTriggers.0.desc>無法到達受害者位置。</GangbangByAnimal.stages.0.failTriggers.0.desc>
+
+  <GangbangByAnimal_Consensual.spectatorGerund>參與</GangbangByAnimal_Consensual.spectatorGerund>
+  <GangbangByAnimal_Consensual.spectatorsLabel>參加者</GangbangByAnimal_Consensual.spectatorsLabel>
+  <GangbangByAnimal_Consensual.roles.0.label>引導者</GangbangByAnimal_Consensual.roles.0.label>
+  <GangbangByAnimal_Consensual.roles.1.label>播種者</GangbangByAnimal_Consensual.roles.1.label>
+  <GangbangByAnimal_Consensual.roles.1.missingDesc>可繁殖的動物</GangbangByAnimal_Consensual.roles.1.missingDesc>
+</LanguageData>

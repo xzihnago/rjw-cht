@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_NoneOutcome.description>沒有其他結果。</CB_NoneOutcome.description>
+  <CB_NoneOutcome.comps.0.label>參與者人數</CB_NoneOutcome.comps.0.label>
+  <CB_NoneOutcome.outcomeChances.0.label>無</CB_NoneOutcome.outcomeChances.0.label>
+  <CB_NoneOutcome.outcomeChances.0.description>無</CB_NoneOutcome.outcomeChances.0.description>
+</LanguageData>

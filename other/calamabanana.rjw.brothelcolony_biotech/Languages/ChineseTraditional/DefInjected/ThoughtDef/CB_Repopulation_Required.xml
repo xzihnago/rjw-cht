@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Repopulation_Required.stages.Repopulating.label>再繁衍</CB_Repopulation_Required.stages.Repopulating.label>
+  <CB_Repopulation_Required.stages.Repopulating.description>我們正在履行重建這個星球的義務</CB_Repopulation_Required.stages.Repopulating.description>
+  <CB_Repopulation_Required.stages.Not_repopulating.label>尚未再繁衍</CB_Repopulation_Required.stages.Not_repopulating.label>
+  <CB_Repopulation_Required.stages.Not_repopulating.description>我們尚未盡到重建這個星球的義務</CB_Repopulation_Required.stages.Not_repopulating.description>
+</LanguageData>

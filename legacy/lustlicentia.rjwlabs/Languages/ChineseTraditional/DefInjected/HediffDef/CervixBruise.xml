@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CervixBruise.label>子宮頸瘀傷</CervixBruise.label>
+  <CervixBruise.description>子宮頸上的瘀傷。</CervixBruise.description>
+  <CervixBruise.comps.0.labelTendedWell>休養</CervixBruise.comps.0.labelTendedWell>
+  <CervixBruise.comps.0.labelTendedWellInner>休養</CervixBruise.comps.0.labelTendedWellInner>
+  <CervixBruise.comps.0.labelSolidTendedWell>已修復</CervixBruise.comps.0.labelSolidTendedWell>
+  <CervixBruise.injuryProps.destroyedLabel>損壞</CervixBruise.injuryProps.destroyedLabel>
+  <CervixBruise.labelNoun>子宮頸瘀傷</CervixBruise.labelNoun>
+</LanguageData>

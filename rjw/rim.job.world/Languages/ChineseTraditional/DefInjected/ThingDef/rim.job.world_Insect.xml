@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OvipositorM.label>產卵管（雄性）</OvipositorM.label>
+  <OvipositorM.description>用以使卵受精的產卵管。</OvipositorM.description>
+
+  <OvipositorF.label>產卵管（雌性）</OvipositorF.label>
+  <OvipositorF.description>用以產卵的產卵管。</OvipositorF.description>
+
+  <InsectAnus.label>蟲肛門</InsectAnus.label>
+  <InsectAnus.description>一個蟲肛門。</InsectAnus.description>
+</LanguageData>

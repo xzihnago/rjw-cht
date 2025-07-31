@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Virgin_Precious_Taken_Forcefully.stages.0.label>失去純潔</Virgin_Precious_Taken_Forcefully.stages.0.label>
+  <Virgin_Precious_Taken_Forcefully.stages.0.description>我被迫失去純潔。</Virgin_Precious_Taken_Forcefully.stages.0.description>
+
+  <Virgin_Precious_Taken.stages.0.label>被{0}奪走純潔</Virgin_Precious_Taken.stages.0.label>
+  <Virgin_Precious_Taken.stages.0.description>我不再純潔。</Virgin_Precious_Taken.stages.0.description>
+  <Virgin_Precious_Taken.stages.1.label>被{0}奪走純潔</Virgin_Precious_Taken.stages.1.label>
+  <Virgin_Precious_Taken.stages.1.description>我不再純潔。</Virgin_Precious_Taken.stages.1.description>
+  <Virgin_Precious_Taken.stages.2.label>被{0}奪走純潔</Virgin_Precious_Taken.stages.2.label>
+  <Virgin_Precious_Taken.stages.2.description>我不再純潔。</Virgin_Precious_Taken.stages.2.description>
+  <Virgin_Precious_Taken.stages.3.label>向{0}獻出純潔</Virgin_Precious_Taken.stages.3.label>
+  <Virgin_Precious_Taken.stages.3.description>我將純潔獻給所愛之人。</Virgin_Precious_Taken.stages.3.description>
+
+  <Virgin_Shameful_Taken.stages.0.label>被{0}奪走純潔</Virgin_Shameful_Taken.stages.0.label>
+  <Virgin_Shameful_Taken.stages.0.description>終於！</Virgin_Shameful_Taken.stages.0.description>
+  <Virgin_Shameful_Taken.stages.1.label>被{0}奪走純潔</Virgin_Shameful_Taken.stages.1.label>
+  <Virgin_Shameful_Taken.stages.1.description>終於！</Virgin_Shameful_Taken.stages.1.description>
+  <Virgin_Shameful_Taken.stages.2.label>被{0}奪走純潔</Virgin_Shameful_Taken.stages.2.label>
+  <Virgin_Shameful_Taken.stages.2.description>終於！</Virgin_Shameful_Taken.stages.2.description>
+
+  <Virgin_OnlyForSpouse_Know_Taken.stages.0.label>蕩婦</Virgin_OnlyForSpouse_Know_Taken.stages.0.label>
+</LanguageData>

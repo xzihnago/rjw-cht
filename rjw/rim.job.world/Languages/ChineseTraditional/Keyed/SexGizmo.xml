@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Labels -->
+  <RJW_SexGizmo_Orgasm>高潮</RJW_SexGizmo_Orgasm>
+  <RJW_SexGizmo_RestNeed>耐力</RJW_SexGizmo_RestNeed>
+  <RJW_SexGizmo_SexNeed>滿足</RJW_SexGizmo_SexNeed><!-- ? -->
+
+  <!-- Buttons -->
+  <RJW_SexGizmo_SexOverdriveTooltip>性愛超載 - 性行為在人物崩潰或是被其他事打擾前將不會停止。</RJW_SexGizmo_SexOverdriveTooltip>
+  <RJW_SexGizmo_HitPawn>揍一拳。</RJW_SexGizmo_HitPawn>
+  <RJW_SexGizmo_Cocoon>將人物包成繭。</RJW_SexGizmo_Cocoon>
+  <RJW_SexGizmo_Egg>塞入卵。</RJW_SexGizmo_Egg>
+</LanguageData>

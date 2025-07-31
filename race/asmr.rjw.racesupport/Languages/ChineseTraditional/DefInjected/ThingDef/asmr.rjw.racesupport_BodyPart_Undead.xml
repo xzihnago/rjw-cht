@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GhostBreasts.label>靈體乳房</GhostBreasts.label>
+  <GhostBreasts.description>一對半透明的、幾乎無形的乳房。觸摸它們會讓人脊背發涼。</GhostBreasts.description>
+  <GhostPenis.label>靈體陰莖</GhostPenis.label>
+  <GhostPenis.description>一根半透明的、幾乎無形的陰莖。觸摸它們會讓人脊背發涼。</GhostPenis.description>
+  <GhostVagina.label>靈體陰道</GhostVagina.label>
+  <GhostVagina.description>一個半透明的、幾乎無形的陰道。插入它們會讓人脊背發涼。</GhostVagina.description>
+  <GhostAnus.label>靈體肛門</GhostAnus.label>
+  <GhostAnus.description>一個半透明的、幾乎無形的肛門。插入它們會讓人脊背發涼。</GhostAnus.description>
+
+  <NecroBreasts.label>死靈乳房</NecroBreasts.label>
+  <NecroBreasts.description>一對令人噁心、腐爛的乳房。</NecroBreasts.description>
+  <NecroPenis.label>死靈陰莖</NecroPenis.label>
+  <NecroPenis.description>一根令人噁心、腐爛的陰莖，但不知為何還能正常運作。</NecroPenis.description>
+  <NecroVagina.label>死靈陰道</NecroVagina.label>
+  <NecroVagina.description>一個令人噁心、腐爛的陰道。它的內部就像墳墓一樣冰冷。</NecroVagina.description>
+  <NecroAnus.label>死靈肛門</NecroAnus.label>
+  <NecroAnus.description>一個令人噁心、腐爛的肛門。它的內部就像墳墓一樣冰冷。</NecroAnus.description>
+
+  <GhoulBreasts.label>食屍鬼乳房</GhoulBreasts.label>
+  <GhoulBreasts.description>一對像人類一樣，微微發光的乳房。它們摸起來很燙。</GhoulBreasts.description>
+  <GhoulPenis.label>食屍鬼陰莖</GhoulPenis.label>
+  <GhoulPenis.description>一根像人類一樣，微微發光的陰莖。它們摸起來很燙。</GhoulPenis.description>
+  <GhoulVagina.label>食屍鬼陰道</GhoulVagina.label>
+  <GhoulVagina.description>一個像人類一樣，微微發光的陰道。裡面燙得讓人不舒服。</GhoulVagina.description>
+  <GhoulAnus.label>食屍鬼肛門</GhoulAnus.label>
+  <GhoulAnus.description>一個像人類一樣，微微發光的肛門。裡面燙得讓人不舒服。</GhoulAnus.description>
+</LanguageData>

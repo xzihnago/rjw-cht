@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SocialAffection_Normal.label>正常（原版）</SocialAffection_Normal.label>
+  <SocialAffection_Normal.description>具有社會性就是具有人性，這很好。</SocialAffection_Normal.description>
+
+  <SocialAffection_Small.label>僅直系親屬</SocialAffection_Small.label>
+  <SocialAffection_Small.description>社交意味著脆弱，只有你的家人才能看到這一點。</SocialAffection_Small.description>
+
+  <SocialAffection_OnlyFamily.label>僅家族</SocialAffection_OnlyFamily.label>
+  <SocialAffection_OnlyFamily.description>為他人親人哭泣是道德上的軟弱與恥辱。</SocialAffection_OnlyFamily.description>
+
+  <SocialAffection_Dry.label>非家族</SocialAffection_Dry.label>
+  <SocialAffection_Dry.description>關心家族其他成員的悲劇是性格軟弱的表現。</SocialAffection_Dry.description>
+
+  <SocialAffection_Psychopath.label>精神病</SocialAffection_Psychopath.label>
+  <SocialAffection_Psychopath.description>這個宇宙只有一個人重要，那就是你自己。</SocialAffection_Psychopath.description>
+</LanguageData>

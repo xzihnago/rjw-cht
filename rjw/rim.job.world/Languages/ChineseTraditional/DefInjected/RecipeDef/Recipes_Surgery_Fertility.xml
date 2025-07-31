@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sterilization.label>結紮</Sterilization.label>
+  <Sterilization.description>在不移除生殖器的情況下阻止生育。</Sterilization.description>
+  <Sterilization.jobString>結紮</Sterilization.jobString>
+
+  <RJW_InstallIUD.label>安裝子宮環</RJW_InstallIUD.label>
+  <RJW_InstallIUD.description>大幅降低懷孕的機會。可隨時移除。</RJW_InstallIUD.description>
+  <RJW_InstallIUD.jobString>安裝子宮環</RJW_InstallIUD.jobString>
+
+  <RJW_RemovelIUD.label>移除子宮環</RJW_RemovelIUD.label>
+  <RJW_RemovelIUD.description>取出已安裝的子宮環，恢復生育能力。</RJW_RemovelIUD.description>
+  <RJW_RemovelIUD.jobString>移除子宮環</RJW_RemovelIUD.jobString>
+</LanguageData>

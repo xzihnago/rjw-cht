@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_Lecithin.label>卵磷脂</Cumpilation_Lecithin.label>
+  <Cumpilation_Lecithin.description>這種（非處方）補充劑可暫時增加尿道球腺的活力，從而增加陰莖液體量。</Cumpilation_Lecithin.description>
+  <Cumpilation_Lecithin.ingestible.ingestCommandString>服用{0}</Cumpilation_Lecithin.ingestible.ingestCommandString>
+  <Cumpilation_Lecithin.ingestible.ingestReportString>服用{0}</Cumpilation_Lecithin.ingestible.ingestReportString>
+
+  <Cumpilation_Galactogogues.label>催乳劑</Cumpilation_Galactogogues.label>
+  <Cumpilation_Galactogogues.description>這種（非處方）補充劑可暫時增加乳腺的活力，從而增加乳汁產量。</Cumpilation_Galactogogues.description>
+  <Cumpilation_Galactogogues.ingestible.ingestCommandString>服用{0}</Cumpilation_Galactogogues.ingestible.ingestCommandString>
+  <Cumpilation_Galactogogues.ingestible.ingestReportString>服用{0}</Cumpilation_Galactogogues.ingestible.ingestReportString>
+</LanguageData>

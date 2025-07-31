@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Syphilis.label>梅毒</Syphilis.label>
+  <Syphilis.description>一種經由性接觸傳播的病毒感染。</Syphilis.description>
+  <Syphilis.stages.0.label>輕度</Syphilis.stages.0.label>
+  <Syphilis.stages.1.label>中度</Syphilis.stages.1.label>
+  <Syphilis.stages.2.label>重度</Syphilis.stages.2.label>
+  <Syphilis.stages.3.label>極重度</Syphilis.stages.3.label>
+  <Syphilis.stages.4.label>極重度</Syphilis.stages.4.label>
+  <Syphilis.stages.5.label>極重度</Syphilis.stages.5.label>
+</LanguageData>

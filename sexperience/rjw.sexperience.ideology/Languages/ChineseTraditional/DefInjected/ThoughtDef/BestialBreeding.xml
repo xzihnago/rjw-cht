@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialBreeding_Respected.stages.0.label>讓動物懷孕</BestialBreeding_Respected.stages.0.label>
+  <BestialBreeding_Respected.stages.0.description>我讓一隻動物懷孕了。這確保了群體的生存並增強了其遺傳潛力。我所感受到的快樂與我們的未來相比是次要的。</BestialBreeding_Respected.stages.0.description>
+  <BestialBreeding_Respected_Social.stages.0.label>讓動物懷孕</BestialBreeding_Respected_Social.stages.0.label>
+
+  <BestialBreeding_Liked.stages.0.label>讓動物懷孕</BestialBreeding_Liked.stages.0.label>
+  <BestialBreeding_Liked.stages.0.description>我讓一隻動物懷孕了。感覺很好，而且有助於動物種群的增加。</BestialBreeding_Liked.stages.0.description>
+  <BestialBreeding_Liked_Social.stages.0.label>讓動物懷孕</BestialBreeding_Liked_Social.stages.0.label>
+
+  <BestialBreeding_Horrible.stages.0.label>讓動物懷孕</BestialBreeding_Horrible.stages.0.label>
+  <BestialBreeding_Horrible.stages.0.description>我讓一隻動物懷孕了。這感覺真噁心…</BestialBreeding_Horrible.stages.0.description>
+  <BestialBreeding_Horrible_Social.stages.0.label>讓動物懷孕</BestialBreeding_Horrible_Social.stages.0.label>
+
+  <BestialBreeding_Disliked.stages.0.label>讓動物懷孕</BestialBreeding_Disliked.stages.0.label>
+  <BestialBreeding_Disliked.stages.0.description>我讓一隻動物懷孕了。雖然感覺不對，但其中也有一些樂趣。</BestialBreeding_Disliked.stages.0.description>
+  <BestialBreeding_Disliked_Social.stages.0.label>讓動物懷孕</BestialBreeding_Disliked_Social.stages.0.label>
+</LanguageData>

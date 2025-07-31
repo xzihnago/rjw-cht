@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Sexuality card-->
+  <SexcardTooltip>展示性能力</SexcardTooltip>
+  <Quirks>怪癖：</Quirks>
+  <NoQuirks>沒有怪癖，原版。</NoQuirks>
+  <MessyQuirk><![CDATA[
+{pawn}不僅在性交過程中產生大量體液，而且{pawn_pronoun}事後很少清理{pawn_possessive}自己。
+]]></MessyQuirk>
+  <PodophileQuirk><![CDATA[
+{pawn}非常喜歡腳，並且喜歡與腳有關的性行為。
+]]></PodophileQuirk>
+  <CumslutQuirk><![CDATA[
+{pawn}非常喜歡精液，並且喜歡口腔性行為。
+]]></CumslutQuirk>
+  <ButtslutQuirk><![CDATA[
+{pawn}非常喜歡被操屁股，並且喜歡肛門性行為。
+]]></ButtslutQuirk>
+  <TeratophileQuirk><![CDATA[
+{pawn}喜歡醜陋的伴侶。假如{pawn_pronoun}「喜歡」動物，那麼{pawn_pronoun}也更會選擇大而狂野的品種。
+]]></TeratophileQuirk>
+  <EndytophileQuirk><![CDATA[
+{pawn}傾向於穿著{pawn_possessive}的衣服「辦事」。
+]]></EndytophileQuirk>
+  <ExhibitionistQuirk><![CDATA[
+{pawn}喜歡在做愛的時候被別人看著。
+]]></ExhibitionistQuirk>
+  <GerontophileQuirk><![CDATA[
+{pawn}喜歡年齡較大的伴侶（55 歲以上，人類比例）。
+]]></GerontophileQuirk>
+  <SomnophileQuirk><![CDATA[
+{pawn}喜歡{pawn_possessive}的伴侶睡著再來。
+]]></SomnophileQuirk>
+  <SapiosexualQuirk><![CDATA[
+{pawn}喜歡聰明的伴侶。
+]]></SapiosexualQuirk>
+  <FertileQuirk><![CDATA[
+{pawn}的生育力高的異常，因此更有可能生育孩子。
+]]></FertileQuirk>
+  <InfertileQuirk><![CDATA[
+{pawn}的生育力低的異常，因此不太可能生育孩子。
+]]></InfertileQuirk>
+  <ImpregnationFetishQuirk><![CDATA[
+{pawn}非常喜歡強迫別人懷孕。{pawn_pronoun}喜歡選擇讓對方容易懷孕的體位。{pawn_pronoun}不在乎是{pawn_pronoun}或{pawn_possessive}的伴侶懷孕，只要有人懷孕了就行。
+]]></ImpregnationFetishQuirk>
+  <PregnancyFetishQuirk><![CDATA[
+{pawn}喜歡明顯懷孕的伴侶。
+]]></PregnancyFetishQuirk>
+  <IncubatorQuirk><![CDATA[
+{pawn}產下了太多的卵以至於{pawn_possessive}的身體逐漸適應了這種生產方式。{pawn_possessive}卵孵化速度加快。
+]]></IncubatorQuirk>
+  <BreederQuirk><![CDATA[
+{pawn}生了太多寶寶以至於{pawn_possessive}的身體逐漸適應了連續生育。{pawn_possessive}的子宮可以讓胎兒加速成長並在一次妊娠中生下更多孩子。
+]]></BreederQuirk>
+  <VigorousQuirk><![CDATA[
+{pawn}在每次性交之後顯得容光滿面。{pawn_pronoun}在性交活動中不容易產生疲勞。
+]]></VigorousQuirk>
+  <ChitinLoverQuirk><![CDATA[
+{pawn}喜歡甲殼外骨骼的光滑與強度。{pawn_pronoun}偏好與蜘蛛或昆蟲成為伴侶。
+]]></ChitinLoverQuirk>
+  <DemonLoverQuirk><![CDATA[
+{pawn}在追那些搗蛋鬼。{pawn_pronoun}偏好{pawn_possessive}的伴侶來自真正的地獄深處，或至少看起來像是地獄的一部分。
+]]></DemonLoverQuirk>
+  <FeatherLoverQuirk><![CDATA[
+{pawn}喜歡那種柔軟的羽毛。{pawn_pronoun}偏好與鳥類或恐龍成為伴侶。因為恐龍是鳥類，有羽毛，如果有機會，{pawn_pronoun}會給出冗長的詳細解釋。
+]]></FeatherLoverQuirk>
+  <FurLoverQuirk><![CDATA[
+{pawn}更喜歡擁有厚實、奢華、柔軟皮毛的伴侶。
+]]></FurLoverQuirk>
+  <PlantLoverQuirk><![CDATA[
+{pawn}喜歡給植物澆水。你懂我的意思。
+]]></PlantLoverQuirk>
+  <RobotLoverQuirk><![CDATA[
+紙片人好還是真人好？{pawn}知道 3D 列印可以帶來兩全其美的效果。
+]]></RobotLoverQuirk>
+  <ScaleLoverQuirk><![CDATA[
+誰不想要肏龍？絕對不是{pawn}。{pawn}想要跟一條龍做愛。
+]]></ScaleLoverQuirk>
+  <SkinLoverQuirk><![CDATA[
+{pawn}希望{pawn_possessive}的伴侶有光滑敏感的皮膚，且沒有毛髮或鱗片阻礙。{pawn_objective}很幸運，因為人類遍布各地。
+]]></SkinLoverQuirk>
+  <SlimeLoverQuirk><![CDATA[
+「史萊姆滑溜溜、可塑性強的身體真乃宇宙第一適合做愛的種族！」如果你長時間聽{pawn}講話，你會一遍又一遍地聽到這個。
+]]></SlimeLoverQuirk>
+  <SexPartWants>想要成為：</SexPartWants>
+  <PartsEditLabel>編輯{0}</PartsEditLabel>
+  <PartsEditFluidMultiplierLabel>液體量倍率</PartsEditFluidMultiplierLabel>
+  <PartsEditDevEntry>RJW：編輯部位</PartsEditDevEntry>
+</LanguageData>

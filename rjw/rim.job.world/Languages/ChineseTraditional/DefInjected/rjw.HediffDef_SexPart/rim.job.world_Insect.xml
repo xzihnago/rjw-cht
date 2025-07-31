@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OvipositorM.label>產卵管（雄性）</OvipositorM.label>
+  <OvipositorM.labelNoun>產卵管（雄性）</OvipositorM.labelNoun>
+  <OvipositorM.description>一個產卵管。可使宿主體內的卵受精。</OvipositorM.description>
+  <OvipositorM.stages.0.label>微小</OvipositorM.stages.0.label>
+  <OvipositorM.stages.1.label>小</OvipositorM.stages.1.label>
+  <OvipositorM.stages.2.label>普通</OvipositorM.stages.2.label>
+  <OvipositorM.stages.3.label>大</OvipositorM.stages.3.label>
+  <OvipositorM.stages.4.label>巨大</OvipositorM.stages.4.label>
+  <OvipositorM.stages.5.label>參天</OvipositorM.stages.5.label>
+
+  <OvipositorF.label>產卵管（雌性）</OvipositorF.label>
+  <OvipositorF.labelNoun>產卵管（雌性）</OvipositorF.labelNoun>
+  <OvipositorF.description>一個產卵管。可在宿主體內產卵。</OvipositorF.description>
+  <OvipositorF.stages.0.label>過窄</OvipositorF.stages.0.label>
+  <OvipositorF.stages.1.label>緊</OvipositorF.stages.1.label>
+  <OvipositorF.stages.2.label>普通</OvipositorF.stages.2.label>
+  <OvipositorF.stages.3.label>鬆</OvipositorF.stages.3.label>
+  <OvipositorF.stages.4.label>過鬆</OvipositorF.stages.4.label>
+  <OvipositorF.stages.5.label>深淵</OvipositorF.stages.5.label>
+
+  <InsectAnus.label>蟲肛門</InsectAnus.label>
+  <InsectAnus.labelNoun>蟲肛門</InsectAnus.labelNoun>
+  <InsectAnus.description>一個蟲的肛門。</InsectAnus.description>
+  <InsectAnus.stages.0.label>過窄</InsectAnus.stages.0.label>
+  <InsectAnus.stages.1.label>緊</InsectAnus.stages.1.label>
+  <InsectAnus.stages.2.label>普通</InsectAnus.stages.2.label>
+  <InsectAnus.stages.3.label>鬆</InsectAnus.stages.3.label>
+  <InsectAnus.stages.4.label>過鬆</InsectAnus.stages.4.label>
+  <InsectAnus.stages.5.label>深淵</InsectAnus.stages.5.label>
+</LanguageData>

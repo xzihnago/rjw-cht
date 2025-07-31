@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_mytosis_shock_hediff.label>分裂休克</rjw_genes_mytosis_shock_hediff.label>
+  <rjw_genes_mytosis_shock_hediff.description>最近經歷了（成功的）分裂。由於這是一個繁重的流程，因此需要一些時間進行再生。再生時，不會開始新的分裂。</rjw_genes_mytosis_shock_hediff.description>
+  <rjw_genes_mytosis_shock_hediff.stages.0.label>逐漸消失</rjw_genes_mytosis_shock_hediff.stages.0.label>
+  <rjw_genes_mytosis_shock_hediff.stages.1.label>新</rjw_genes_mytosis_shock_hediff.stages.1.label>
+</LanguageData>

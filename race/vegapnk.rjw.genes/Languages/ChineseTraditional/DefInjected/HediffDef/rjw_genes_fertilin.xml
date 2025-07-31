@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_fertilin_lost.label>失去育原</rjw_genes_fertilin_lost.label>
+  <rjw_genes_fertilin_lost.description>失去育原的百分比。</rjw_genes_fertilin_lost.description>
+
+  <rjw_genes_fertilin_craving.label>育原渴求</rjw_genes_fertilin_craving.label>
+  <rjw_genes_fertilin_craving.description>由於育原耗盡而衰弱。</rjw_genes_fertilin_craving.description>
+  <rjw_genes_fertilin_craving.stages.0.label>輕度</rjw_genes_fertilin_craving.stages.0.label>
+  <rjw_genes_fertilin_craving.stages.1.label>中度</rjw_genes_fertilin_craving.stages.1.label>
+  <rjw_genes_fertilin_craving.stages.2.label>重度</rjw_genes_fertilin_craving.stages.2.label>
+</LanguageData>

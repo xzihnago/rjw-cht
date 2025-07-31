@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mod_Title>RJW - 經期</Mod_Title>
+
+  <Menstrual_Blood>經血</Menstrual_Blood>
+  <Info_noCum>空</Info_noCum>
+  <Stage_Follicular>卵泡期</Stage_Follicular>
+  <Stage_Ovulatory>排卵</Stage_Ovulatory>
+  <Stage_Luteal>黃體期</Stage_Luteal>
+  <Stage_Bleeding>月經來潮</Stage_Bleeding>
+  <Stage_Pregnant>妊娠</Stage_Pregnant>
+  <Stage_Recover>從生產中恢復</Stage_Recover>
+  <Stage_None>無</Stage_None>
+  <Stage_Climacteric>更年期</Stage_Climacteric>
+  <Stage_Menopause>絕經</Stage_Menopause>
+  <Stage_Anestrus>乏情期</Stage_Anestrus>
+  <Stage_Follicular_Desc>卵巢正準備釋放卵子。排卵將在這個階段結束時發生。</Stage_Follicular_Desc>
+  <Stage_Follicular_Induced_Desc>卵巢正準備釋放卵子。如果精液進入子宮就會發生排卵。</Stage_Follicular_Induced_Desc>
+  <Stage_Ovulatory_Desc>卵巢正在將卵子釋放到子宮內。</Stage_Ovulatory_Desc>
+  <Stage_Luteal_Desc>子宮已準備好接受受精卵。如果在該階段結束前有受精卵著床，就會懷孕。</Stage_Luteal_Desc>
+  <Stage_Bleeding_Desc>子宮內膜正在脫落，未能著床的卵子也隨之脫落。</Stage_Bleeding_Desc>
+  <Stage_Pregnant_Desc>嬰兒正在子宮內成長。隨著時間的推移與精心照料，它將成為這個世界的新居民。</Stage_Pregnant_Desc>
+  <Stage_Recover_Desc>子宮正在從最近的妊娠中恢復。</Stage_Recover_Desc>
+  <Stage_None_Desc>子宮不具備生育能力，無法懷孕。</Stage_None_Desc>
+  <Stage_Climacteric_Desc>卵巢已接近衰竭，經期變得不規則。</Stage_Climacteric_Desc>
+  <Stage_Menopause_Desc>卵巢已經衰竭，子宮不再能產生卵子。</Stage_Menopause_Desc>
+  <Stage_Anestrus_Desc>子宮不再處於繁殖季。經期將在時機到來時恢復。</Stage_Anestrus_Desc>
+  <Stage_Anestrus_Periodic_Desc>子宮處於週期之間。經過足夠的時間後，經期將重新開始。</Stage_Anestrus_Periodic_Desc>
+  <Button_HealthTab>狀態</Button_HealthTab>
+  <Button_MilkTooltip>自行擠奶</Button_MilkTooltip>
+  <Dialog_WombInfo01>狀態</Dialog_WombInfo01>
+  <Dialog_WombInfo02>胚胎</Dialog_WombInfo02>
+  <Dialog_WombInfo03>父親</Dialog_WombInfo03>
+  <Dialog_WombInfo04>精液列表</Dialog_WombInfo04>
+  <Dialog_WombInfo05>已受精</Dialog_WombInfo05>
+  <Dialog_WombInfo06>受精中</Dialog_WombInfo06>
+  <Dialog_WombInfo07>排卵</Dialog_WombInfo07>
+  <Dialog_WombInfo08></Dialog_WombInfo08>
+  <Dialog_WombInfo09></Dialog_WombInfo09>
+  <Dialog_FatherUnknown>不明</Dialog_FatherUnknown>
+  <Description_Absorbed>已吸收</Description_Absorbed>
+
+
+  <Option1_Label_1>啟用子宮圖示</Option1_Label_1>
+  <Option1_Label_2>啟用健康面板中的按鈕</Option1_Label_2>
+  <Option2_Label>啟用動物經期</Option2_Label>
+  <Option2_Desc>模擬動物經期。&#10;不推薦。</Option2_Desc>
+  <Option3_Label>著床機率</Option3_Label>
+  <Option3_Desc>基本受精卵著床機率&#10;該值影響受孕機率。</Option3_Desc>
+  <Option4_Label>受精機率</Option4_Label>
+  <Option4_Desc>每小時每毫升精子的受精機率&#10;該值影響受孕機率。</Option4_Desc>
+  <Option5_Label>每小時精液衰減率</Option5_Label>
+  <Option5_Desc>子宮內的精液量每小時會以這個比率減少&#10;該值影響受孕機率。</Option5_Desc>
+  <Option6_Label>每小時精液生育力衰減率</Option6_Label>
+  <Option6_Desc>每小時精液的生育力會以這個比率減少&#10;該值間接影響受精機率。</Option6_Desc>
+  <Option7_Label>經期加速</Option7_Label>
+  <Option7_Desc>加速經期&#10;這會導致過早停經與不孕。&#10;建議將其設為低於 x12。&#10;Rimworld 的時間尺度：x6（預設）</Option7_Desc>
+  <Option_ColonistUpdateInterval_Label>居民更新間隔</Option_ColonistUpdateInterval_Label>
+  <Option_ColonistUpdateInterval_Desc>每個殖民者、俘虜與奴隸的子宮更新頻率。&#10;降低該值可以更精確地模擬子宮，增加該值可以提升遊戲流暢度。</Option_ColonistUpdateInterval_Desc>
+  <Option_NonColonistUpdateInterval_Label>非居民更新間隔</Option_NonColonistUpdateInterval_Label>
+  <Option_NonColonistUpdateInterval_Desc>無法操控的角色的子宮更新頻率。&#10;降低該值可以更精確地模擬子宮，增加該值可以提升遊戲流暢度。</Option_NonColonistUpdateInterval_Desc>
+  <Option_AnimalUpdateInterval_Label>動物更新間隔</Option_AnimalUpdateInterval_Label>
+  <Option_AnimalUpdateInterval_Desc>動物的子宮更新頻率。&#10;降低該值可以更精確地模擬子宮，增加該值可以提升遊戲流暢度。</Option_AnimalUpdateInterval_Desc>
+  <Option8_Label>除錯</Option8_Label>
+  <Option8_Desc>顯示除錯資訊</Option8_Desc>
+  <Option9_Label>子宮狀態</Option9_Label>
+  <Option9_Desc>在狀態視窗中繪製子宮圖示。</Option9_Desc>
+  <Option10_Label>陰道與胸部狀態</Option10_Label>
+  <Option10_Desc>在狀態視窗中繪製陰道、肛門與乳房圖示。</Option10_Desc>
+  <Option11_Label>胎兒資訊級別</Option11_Label>
+  <Option11_Desc_1>顯示有​​關胎兒的所有資訊。</Option11_Desc_1>
+  <Option11_Desc_2>顯示發現懷孕後有關胎兒的所有資訊。</Option11_Desc_2>
+  <Option11_Desc_3>僅顯示發現懷孕後的胎兒影像。</Option11_Desc_3>
+  <Option11_Desc_4>不顯示任何有關胎兒的資訊。</Option11_Desc_4>
+  <Option12_Label>啟用更年期</Option12_Label>
+  <Option12_Desc>啟用更年期效果，當卵子耗盡時，會使人物不育。&#10;如果您在長壽種族中遇到問題，請關閉此選項。</Option12_Desc>
+  <Option_EnablePheromones_Label>啟用費洛蒙</Option_EnablePheromones_Label>
+  <Option_EnablePheromones_Desc>允許類人生物處於顯性發情期以增加附近類人生物男性的性慾。</Option_EnablePheromones_Desc>
+  <Option_AnimalPheromoneEffect_Label>動物費洛蒙效果</Option_AnimalPheromoneEffect_Label>
+  <Option_AnimalPheromoneEffect_Desc>設定顯性發情期的動物對類人生物的影響。</Option_AnimalPheromoneEffect_Desc>
+  <Option13_Label>啟用多胎妊娠</Option13_Label>
+  <Option13_Desc>使用多胎妊娠代替 RJW 的預設妊娠&#10;如果您在受孕遇到問題，請停用此選項&#10;RJW 妊娠應該開啟。</Option13_Desc>
+  <Option14_Label>啟用異卵雙胞胎</Option14_Label>
+  <Option14_Desc>允許多個卵子同時受孕。</Option14_Desc>
+  <Option15_Label>啟用同卵雙胞胎</Option15_Label>
+  <Option15_Desc>允許單一卵子產生多個相同的後代。</Option15_Desc>
+  <Option16_Label>同卵雙胞胎機率</Option16_Label>
+  <Option16_Desc>同卵雙胞胎的機率。</Option16_Desc>
+  <Option17_Label>同卵雙胞胎上限</Option17_Label>
+  <Option17_Desc>同卵兄弟姊妹的最大數量。</Option17_Desc>
+  <Option18_Label>啟用卵細胞覆蓋層</Option18_Label>
+  <Option18_Desc>在子宮圖示上顯示卵細胞。</Option18_Desc>
+  <Option19_Label_1>經血量</Option19_Label_1>
+  <Option19_Label_2>預計總經血量</Option19_Label_2>
+  <Option19_Desc>大約的經血量。&#10;人類正常的經血量大約是每週期 20~80mL。</Option19_Desc>
+  <Option20_Label_1>殖民者</Option20_Label_1>
+  <Option20_Label_2>俘虜</Option20_Label_2>
+  <Option20_Label_3>同盟派系</Option20_Label_3>
+  <Option20_Label_4>中立</Option20_Label_4>
+  <Option20_Label_5>敵對派系</Option20_Label_5>
+  <Option21_Label>目標人物：</Option21_Label>
+  <Option21_Desc>這些人物上會出現小工具與按鈕</Option21_Desc>
+  <Option22_Label>使用雜交擴展</Option22_Label>
+  <Option22_Desc>覆蓋 RJW 與 RaceSupport 的雜交定義。&#10;主導雜交擴展決定先使用哪個模組的定義。不建議更改此項。</Option22_Desc>
+  <Option23_Label>主導雜交擴展</Option23_Label>
+  <Option23_Label_1>母親</Option23_Label_1>
+  <Option23_Label_2>父親</Option23_Label_2>
+  <Option_MaxBreastIncrementFactor_Label>懷孕期間乳房發育</Option_MaxBreastIncrementFactor_Label>
+  <Option_MaxBreastIncrementFactor_Desc>改變懷孕人物的乳房在懷孕時的增長量。有些人物會比其他人物長得更快。</Option_MaxBreastIncrementFactor_Desc>
+  <Option_MaxNippleIncrementFactor_Label>懷孕期間乳頭變化</Option_MaxNippleIncrementFactor_Label>
+  <Option_MaxNippleIncrementFactor_Desc>改變懷孕人物的乳頭在懷孕期間的變化程度。</Option_MaxNippleIncrementFactor_Desc>
+  <Option_PermanentNippleChange_Label>懷孕後乳頭永久性變化</Option_PermanentNippleChange_Label>
+  <Option_PermanentNippleChange_Desc>調整懷孕人物在懷孕結束後乳頭維持的變化程度。</Option_PermanentNippleChange_Desc>
+  <Option28_Label>自訂雜交細節</Option28_Label>
+  <Option28_Tooltip>開啟自訂雜交編輯器&#10;這將覆蓋 XML 檔案中的雜交定義。</Option28_Tooltip>
+  <Option29_Label>允許縮小圖示</Option29_Label>
+  <Option29_Desc>如果需要的話，讓圖示變小。</Option29_Desc>
+  <Option30_Label>卵子壽命倍率</Option30_Label>
+  <Option30_Desc>延長卵細胞的壽命。&#10;無論此設定如何，所有未著床的卵子都會在黃體期結束時死亡。</Option30_Desc>
+  <Option31_Label>啟用產後陰道變形</Option31_Label>
+  <Option31_Desc>使陰道在產後永久擴張。&#10;如果您正在使用另一個模組處理此問題，請關閉此選項。</Option31_Desc>
+  <Option32_Label>變形量</Option32_Label>
+  <Option32_Desc>設定變形量。</Option32_Desc>
+  <Option_EstrusOverride_Label>發情期覆蓋 RJW 爬床設定</Option_EstrusOverride_Label>
+  <Option_EstrusOverride_Desc>如果啟用，顯性發情期的人物將使用這些設定進行爬床，而不是 RJW 設定。&#10;所有設定均預設為 RJW 對應設定。</Option_EstrusOverride_Desc>
+  <Option_EstrusFuckability_Label>發情期性能力下限</Option_EstrusFuckability_Label>
+  <Option_EstrusAttractability_Label>發情期吸引力下限</Option_EstrusAttractability_Label>
+  <Option_EstrusRelationship_Label>發情期好感度下限</Option_EstrusRelationship_Label>
+  <EstimatedCumLifespan>預計精子壽命</EstimatedCumLifespan>
+  <EstimatedEggLifespan>預計卵子壽命</EstimatedEggLifespan>
+  <OvulationChanceLabel>排卵機率：{0}</OvulationChanceLabel>
+  <OvulationChanceDesc>排卵期間每個卵子的獨立排卵機率。</OvulationChanceDesc>
+  <FertilityDesc>受精卵的著床機率。&#10;本小時內受精機率：{0}%</FertilityDesc>
+  <Option_PregnancyFromBaseRJW_Label>使用 RJW 基本妊娠</Option_PregnancyFromBaseRJW_Label>
+  <Option_PregnancyFromMultiplePregnancy_Label>使用本模組多胎妊娠</Option_PregnancyFromMultiplePregnancy_Label>
+  <Option_PregnancyFromBiotech_Label>使用 Biotech 妊娠</Option_PregnancyFromBiotech_Label>
+  <Option_EnableBiotechTwins_Label>啟用單一 Biotech 妊娠產出多胞胎/雙胞胎。</Option_EnableBiotechTwins_Label>
+  <Option_EnableBiotechTwins_Desc>啟用此選項將允許使用 Biotech 妊娠生產同卵與異卵雙胞胎。&#10;也會啟用雜交系統，但兩個類人生物不能產生動物。</Option_EnableBiotechTwins_Desc>
+  <Option_EnableDraftedIcon_Label>徵召時顯示子宮狀態</Option_EnableDraftedIcon_Label>
+  <Option_EnableDraftedIcon_Desc>人物處於徵召狀態時，繪製子宮圖示</Option_EnableDraftedIcon_Desc>
+  <Button_ResetToDefault>重設為預設值</Button_ResetToDefault>
+
+  <FloatMenu_CleanSelf>清理陰道</FloatMenu_CleanSelf>
+
+  <CustomHybrid_List_Title>自訂雜交編輯器</CustomHybrid_List_Title>
+  <CustomHybrid_Title>{0}的雜交</CustomHybrid_Title>
+  <CustomHybrid_Tooltip>當{0}與{1}繁殖時，生出{2}的機率為{3}。&#10;如果兩個種族對彼此都有雜交定義，則將使用父親的定義。</CustomHybrid_Tooltip>
+
+  <CannotNoEggs>沒有卵細胞</CannotNoEggs>
+  <CannotNoWomb>必須擁有子宮</CannotNoWomb>
+  <EggRestorationCompleted>{PAWN_labelShort}已完成{PAWN_possessive}卵巢復甦。</EggRestorationCompleted>
+</LanguageData>

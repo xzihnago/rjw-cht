@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_HumanMilkSmall.label>分離人乳</Make_HumanMilkSmall.label>
+  <Make_HumanMilkSmall.description>分離成小人乳瓶。</Make_HumanMilkSmall.description>
+  <Make_HumanMilkSmall.jobString>分離成小人乳瓶。</Make_HumanMilkSmall.jobString>
+
+  <Make_HumanoidMilkSmall.label>分離類人乳</Make_HumanoidMilkSmall.label>
+  <Make_HumanoidMilkSmall.description>分離成小類人乳瓶。</Make_HumanoidMilkSmall.description>
+  <Make_HumanoidMilkSmall.jobString>分離成小類人乳瓶。</Make_HumanoidMilkSmall.jobString>
+</LanguageData>

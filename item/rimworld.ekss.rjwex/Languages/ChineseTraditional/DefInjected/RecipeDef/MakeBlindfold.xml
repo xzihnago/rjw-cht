@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeBlindfold.label>製作眼罩</MakeBlindfold.label>
+  <MakeBlindfold.description>製作眼罩。</MakeBlindfold.description>
+  <MakeBlindfold.jobString>製作眼罩。</MakeBlindfold.jobString>
+
+  <UnlockedMakeBlindfold.label>製作未上鎖的眼罩</UnlockedMakeBlindfold.label>
+  <UnlockedMakeBlindfold.description>製作未上鎖的眼罩。</UnlockedMakeBlindfold.description>
+  <UnlockedMakeBlindfold.jobString>製作眼罩。</UnlockedMakeBlindfold.jobString>
+</LanguageData>

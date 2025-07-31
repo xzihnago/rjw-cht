@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_pregnancy.label>懷孕</RJW_pregnancy.label>
+  <RJW_pregnancy.description>小寶寶製作中。</RJW_pregnancy.description>
+  <RJW_pregnancy.stages.0.label>早期</RJW_pregnancy.stages.0.label>
+  <RJW_pregnancy.stages.1.label>中期</RJW_pregnancy.stages.1.label>
+  <RJW_pregnancy.stages.2.label>晚期</RJW_pregnancy.stages.2.label>
+  <RJW_pregnancy.stages.3.label>臨盆</RJW_pregnancy.stages.3.label>
+
+  <RJW_pregnancy_beast.label>懷孕</RJW_pregnancy_beast.label>
+  <RJW_pregnancy_beast.description>小寶寶製作中。</RJW_pregnancy_beast.description>
+  <RJW_pregnancy_beast.stages.0.label>早期</RJW_pregnancy_beast.stages.0.label>
+  <RJW_pregnancy_beast.stages.1.label>中期</RJW_pregnancy_beast.stages.1.label>
+  <RJW_pregnancy_beast.stages.2.label>晚期</RJW_pregnancy_beast.stages.2.label>
+  <RJW_pregnancy_beast.stages.3.label>臨盆</RJW_pregnancy_beast.stages.3.label>
+
+  <RJW_pregnancy_mech.label>懷孕</RJW_pregnancy_mech.label>
+  <RJW_pregnancy_mech.description>小寶寶製作中。</RJW_pregnancy_mech.description>
+  <RJW_pregnancy_mech.stages.0.label>早期</RJW_pregnancy_mech.stages.0.label>
+  <RJW_pregnancy_mech.stages.1.label>中期</RJW_pregnancy_mech.stages.1.label>
+  <RJW_pregnancy_mech.stages.2.label>晚期</RJW_pregnancy_mech.stages.2.label>
+  <RJW_pregnancy_mech.stages.3.label>臨盆</RJW_pregnancy_mech.stages.3.label>
+</LanguageData>

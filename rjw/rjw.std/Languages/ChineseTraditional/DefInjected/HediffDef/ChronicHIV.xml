@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChronicHIV.label>慢性 HIV 感染</ChronicHIV.label>
+  <ChronicHIV.description>一種經由性接觸傳播的免疫缺陷病毒。</ChronicHIV.description>
+  <ChronicHIV.stages.detectable.label>潛伏期</ChronicHIV.stages.detectable.label>
+  <ChronicHIV.stages.1.label>輕度</ChronicHIV.stages.1.label>
+  <ChronicHIV.stages.2.label>輕度</ChronicHIV.stages.2.label>
+  <ChronicHIV.stages.3.label>輕度</ChronicHIV.stages.3.label>
+  <ChronicHIV.stages.moderate.label>中度</ChronicHIV.stages.moderate.label>
+  <ChronicHIV.stages.5.label>重度</ChronicHIV.stages.5.label>
+  <ChronicHIV.stages.6.label>重度</ChronicHIV.stages.6.label>
+  <ChronicHIV.stages.7.label>重度</ChronicHIV.stages.7.label>
+  <ChronicHIV.stages.8.label>極重度</ChronicHIV.stages.8.label>
+  <ChronicHIV.stages.9.label>極重度</ChronicHIV.stages.9.label>
+</LanguageData>

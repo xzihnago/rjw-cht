@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexReassignmentPElfPenis.label>安裝精靈陰莖</SexReassignmentPElfPenis.label>
+  <SexReassignmentPElfPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPElfPenis.description>
+  <SexReassignmentPElfPenis.jobString>安裝陰莖</SexReassignmentPElfPenis.jobString>
+
+  <SexReassignmentVElfVagina.label>安裝精靈陰道</SexReassignmentVElfVagina.label>
+  <SexReassignmentVElfVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVElfVagina.description>
+  <SexReassignmentVElfVagina.jobString>安裝陰道</SexReassignmentVElfVagina.jobString>
+
+  <AnalSurgeryElfAnus.label>安裝精靈肛門</AnalSurgeryElfAnus.label>
+  <AnalSurgeryElfAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryElfAnus.description>
+  <AnalSurgeryElfAnus.jobString>安裝肛門</AnalSurgeryElfAnus.jobString>
+
+  <MultiPenisElfPenis.label>加裝精靈陰莖</MultiPenisElfPenis.label>
+  <MultiPenisElfPenis.description>加裝額外的陰莖。</MultiPenisElfPenis.description>
+  <MultiPenisElfPenis.jobString>加裝陰莖</MultiPenisElfPenis.jobString>
+
+  <MultiVaginaElfVagina.label>加裝精靈陰道</MultiVaginaElfVagina.label>
+  <MultiVaginaElfVagina.description>加裝額外的陰道。</MultiVaginaElfVagina.description>
+  <MultiVaginaElfVagina.jobString>加裝陰道</MultiVaginaElfVagina.jobString>
+
+  <MultiAnusElfAnus.label>加裝精靈肛門</MultiAnusElfAnus.label>
+  <MultiAnusElfAnus.description>加裝額外的肛門。</MultiAnusElfAnus.description>
+  <MultiAnusElfAnus.jobString>加裝肛門</MultiAnusElfAnus.jobString>
+
+
+  <BreastSurgeryOrcBreasts.label>安裝獸人乳房</BreastSurgeryOrcBreasts.label>
+  <BreastSurgeryOrcBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryOrcBreasts.description>
+  <BreastSurgeryOrcBreasts.jobString>安裝乳房</BreastSurgeryOrcBreasts.jobString>
+
+  <SexReassignmentPOrcPenis.label>安裝獸人陰莖</SexReassignmentPOrcPenis.label>
+  <SexReassignmentPOrcPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPOrcPenis.description>
+  <SexReassignmentPOrcPenis.jobString>安裝陰莖</SexReassignmentPOrcPenis.jobString>
+
+  <SexReassignmentVOrcVagina.label>安裝獸人陰道</SexReassignmentVOrcVagina.label>
+  <SexReassignmentVOrcVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVOrcVagina.description>
+  <SexReassignmentVOrcVagina.jobString>安裝陰道</SexReassignmentVOrcVagina.jobString>
+
+  <AnalSurgeryOrcAnus.label>安裝獸人肛門</AnalSurgeryOrcAnus.label>
+  <AnalSurgeryOrcAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryOrcAnus.description>
+  <AnalSurgeryOrcAnus.jobString>安裝肛門</AnalSurgeryOrcAnus.jobString>
+
+  <MultiBreastOrcBreasts.label>加裝獸人乳房</MultiBreastOrcBreasts.label>
+  <MultiBreastOrcBreasts.description>加裝額外的乳房。</MultiBreastOrcBreasts.description>
+  <MultiBreastOrcBreasts.jobString>加裝乳房</MultiBreastOrcBreasts.jobString>
+
+  <MultiPenisOrcPenis.label>加裝獸人陰莖</MultiPenisOrcPenis.label>
+  <MultiPenisOrcPenis.description>加裝額外的陰莖。</MultiPenisOrcPenis.description>
+  <MultiPenisOrcPenis.jobString>加裝陰莖</MultiPenisOrcPenis.jobString>
+
+  <MultiVaginaOrcVagina.label>加裝獸人陰道</MultiVaginaOrcVagina.label>
+  <MultiVaginaOrcVagina.description>加裝額外的陰道。</MultiVaginaOrcVagina.description>
+  <MultiVaginaOrcVagina.jobString>加裝陰道</MultiVaginaOrcVagina.jobString>
+
+  <MultiAnusOrcAnus.label>加裝獸人肛門</MultiAnusOrcAnus.label>
+  <MultiAnusOrcAnus.description>加裝額外的肛門。</MultiAnusOrcAnus.description>
+  <MultiAnusOrcAnus.jobString>加裝肛門</MultiAnusOrcAnus.jobString>
+</LanguageData>

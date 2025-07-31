@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InviteVoyeurism.label>邀請觀看</InviteVoyeurism.label>
+  <InviteVoyeurism.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]吩咐[RECIPIENT_nameDef]靠近一點，仔細看看[INITIATOR_pronoun]正在做什麼。</li>
+    <li>r_logentry->[INITIATOR_nameDef]為[RECIPIENT_nameDef]做出猥褻的表現。</li>
+    <li>r_logentry->[INITIATOR_nameDef]讓[RECIPIENT_nameDef]知道[INITIATOR_pronoun]不介意[RECIPIENT_pronoun]是否看著[INITIATOR_objective]。</li>
+  </InviteVoyeurism.logRulesInitiator.rulesStrings>
+</LanguageData>

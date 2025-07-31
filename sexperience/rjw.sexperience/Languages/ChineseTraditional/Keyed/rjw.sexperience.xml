@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RS_Mod_Title>RJW - 性經驗</RS_Mod_Title>
+
+  <!-- Sex status screen -->
+  <RSTotalGatheredCum>接收精液總量：</RSTotalGatheredCum>
+  <RS_LostVirgin>{1}奪走{0}的貞操</RS_LostVirgin>
+  <RS_Best_Sextype>最合適的性行為類型</RS_Best_Sextype>
+  <RS_Recent_Sextype>最近的性行為類型</RS_Recent_Sextype>
+  <RS_Sex_Partners>性伴侶</RS_Sex_Partners>
+  <RS_Cum_Swallowed>吞精量</RS_Cum_Swallowed>
+  <RS_Selected_Partner>選擇的性伴侶資訊</RS_Selected_Partner>
+  <RS_Sex_Info>{0}：{1}次</RS_Sex_Info>
+  <RS_SAT_AVG>平均：{0}</RS_SAT_AVG>
+  <RS_Sex_Count>性行為次數：</RS_Sex_Count>
+  <RS_Orgasms>高潮：</RS_Orgasms>
+  <RS_Recent_Sex_Partner>最近的性伴侶</RS_Recent_Sex_Partner>
+  <RS_Recent_Sex_Partner_ToolTip>最近一次的性伴侶。</RS_Recent_Sex_Partner_ToolTip>
+  <RS_First_Sex_Partner>第一位性伴侶</RS_First_Sex_Partner>
+  <RS_First_Sex_Partner_ToolTip>第一次的性伴侶。</RS_First_Sex_Partner_ToolTip>
+  <RS_Most_Sex_Partner>最常的性伴侶</RS_Most_Sex_Partner>
+  <RS_Most_Sex_Partner_ToolTip>最常的性伴侶。</RS_Most_Sex_Partner_ToolTip>
+  <RS_Best_Sex_Partner>最合適的性伴侶</RS_Best_Sex_Partner>
+  <RS_Best_Sex_Partner_ToolTip>最多滿意性行為的伴侶。</RS_Best_Sex_Partner_ToolTip>
+  <RS_VirginsTaken>奪走貞操次數</RS_VirginsTaken>
+  <RS_TotalSexHad>性行為總數</RS_TotalSexHad>
+  <RS_TotalSexHad_ToolTip>性行為總數。</RS_TotalSexHad_ToolTip>
+  <RS_Raped>強暴過：</RS_Raped>
+  <RS_RapedMe>曾強暴我：</RS_RapedMe>
+  <RS_Sex_History>性經歷</RS_Sex_History>
+  <RS_Statistics>性行為統計</RS_Statistics>
+  <RS_PartnerList>性伴侶清單</RS_PartnerList>
+  <RS_Sexuality>性取向</RS_Sexuality>
+  <RS_BeenRaped>被強暴過</RS_BeenRaped>
+  <RS_RapedSomeone>強暴過</RS_RapedSomeone>
+  <RS_PreferRace>喜好種族</RS_PreferRace>
+  <RS_Bestiality>獸交</RS_Bestiality>
+  <RS_Interspecies>種族</RS_Interspecies>
+  <RS_Normal>普通</RS_Normal>
+  <RS_Necrophile>戀屍</RS_Necrophile>
+  <RS_SexSkill>性技巧</RS_SexSkill>
+  <RS_NumofTimes>次</RS_NumofTimes>
+  <RS_Ago>天前</RS_Ago>
+  <RS_LastSex>最後一次性交</RS_LastSex>
+  <RS_HadBestSexDaysAgo>最好的性交在{0}</RS_HadBestSexDaysAgo>
+  <RS_PawnLockDesc>鎖定顯示的人物。\n\n解鎖後，窗口將自動切換到當前選定的人物。</RS_PawnLockDesc>
+
+  <!-- Settings tab labels -->
+  <RSTabLabelMain>主要</RSTabLabelMain>
+  <RSTabLabelHistory>性紀錄</RSTabLabelHistory>
+  <RSTabLabelColors>色彩</RSTabLabelColors>
+  <RSTabLabelDebug>除錯</RSTabLabelDebug>
+
+  <!-- Mod settings: Main -->
+  <RSOption_2_Label>色慾值的影響</RSOption_2_Label>
+  <RSOption_2_Desc>設定色慾值對性衝動的影響。</RSOption_2_Desc>
+  <RSOption_8_Label>慾望上限</RSOption_8_Label>
+  <RSOption_8_Desc>設定慾望的上限值。\n如果慾望的絕對值接近或大於這個值，慾望將不太可能改變。</RSOption_8_Desc>
+  <RSOption_MaxSingleLustChange_Label>慾望上限隨性愛變化</RSOption_MaxSingleLustChange_Label>
+  <RSOption_MaxSingleLustChange_Desc>設定慾望上限會如何依性愛而變化</RSOption_MaxSingleLustChange_Desc>
+  <RSOption_SexCanFillBuckets_Label>性行為可填充精液收集桶</RSOption_SexCanFillBuckets_Label>
+  <RSOption_SexCanFillBuckets_Desc>當啟用時，發生在精液收集桶附近的手交、足交、乳交行為將會填充收集筒</RSOption_SexCanFillBuckets_Desc>
+
+  <!-- Mod settings: Sex records -->
+  <RSOption_1_Label>開啟隨機性記錄</RSOption_1_Label>
+  <RSOption_1_Desc>隨機化小人的性記錄。</RSOption_1_Desc>
+  <RSOption_3_Label>最大色慾值偏差</RSOption_3_Label>
+  <RSOption_3_Desc>設定色慾的最大偏差。\n根據平均值的不同，色慾值可能為負。</RSOption_3_Desc>
+  <RSOption_4_Label>平均色慾值</RSOption_4_Label>
+  <RSOption_4_Desc>設定色慾值的均值。</RSOption_4_Desc>
+  <RSOption_5_Label>最大性交次數偏差</RSOption_5_Label>
+  <RSOption_5_Desc>設定性交次數的最大偏差。</RSOption_5_Desc>
+  <RSOption_6_Label>平均每年性交次數</RSOption_6_Label>
+  <RSOption_6_Desc>設定每年的平均性交次數</RSOption_6_Desc>
+  <RSOption_7_Label>允許奴隸被強姦獲得性經驗</RSOption_7_Label>
+  <RSOption_7_Desc>奴隸被強姦獲得性經驗</RSOption_7_Desc>
+  <RSOption_9_Label>性愛的最低年齡</RSOption_9_Label>
+  <RSOption_9_Desc>設定性愛的最低年齡。\n這個數值不影響 RJW 本體的可性愛年齡，單純用於產生性經驗紀錄。</RSOption_9_Desc>
+  <RSOption_10_Label>保有貞操頻率</RSOption_10_Label>
+  <RSOption_10_Desc>設定保有貞操的機率而非取決於年齡</RSOption_10_Desc>
+  <RSOption_MinSexableFromLifestage_Label>依生命週期設定性愛最低年齡</RSOption_MinSexableFromLifestage_Label>
+  <RSOption_MinSexableFromLifestage_Desc>僅用於生成記錄。從第一個自然生命階段開始計算最低性交年齡。更適合壽命長的遊戲。</RSOption_MinSexableFromLifestage_Desc>
+  <RSOption_EnableBastardRelation_Label>啟用雜種關係</RSOption_EnableBastardRelation_Label>
+  <RSOption_EnableBastardRelation_Desc>如果是單親或是父母未結婚，小孩會被標記為雜種。</RSOption_EnableBastardRelation_Desc>
+  <RSOption_EnableSexHistory_Label>[重大] 啟用性經歷</RSOption_EnableSexHistory_Label>
+  <RSOption_EnableSexHistory_Desc>* 需要重新啟動遊戲\n\n啟用性經歷窗口，啟用該窗口的訊息收集與訊息的保存 / 加載。還會在人物的記錄中啟用性伴侶計數。\n\n[警告] 在中途存檔禁用此選項將導致以前收集的歷史記錄丟失。</RSOption_EnableSexHistory_Desc>
+  <RSOption_HideGizmoWhenDrafted_Label>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Label>
+  <RSOption_HideGizmoWhenDrafted_Desc>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Desc>
+  <RSOption_VirginityCheck_M2M_Label>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Label>
+  <RSOption_VirginityCheck_M2M_Desc>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Desc>
+  <RSOption_VirginityCheck_F2F_Label>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Label>
+  <RSOption_VirginityCheck_F2F_Desc>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Desc>
+
+  <!-- Mod settings: Sex records -->
+  <RsDialog_ChooseColor_Title>選擇{0}的色彩</RsDialog_ChooseColor_Title>
+
+  <!-- Mod settings: Debug -->
+  <RSOption_Debug_Label>除錯功能</RSOption_Debug_Label>
+  <RSOption_Debug_Desc>啟用除錯紀錄</RSOption_Debug_Desc>
+  <RSOption_LogInjection_Label>記錄性經歷 comp 注入</RSOption_LogInjection_Label>
+  <RSOption_LogInjection_Desc>遊戲啟動時，顯示所有包含 SexHistoryComp 注入的 def</RSOption_LogInjection_Desc>
+
+  <Button_ResetToDefault>重設為預設值</Button_ResetToDefault>
+
+  <!-- Sex types -->
+  <Vaginal>性交</Vaginal>
+  <Anal>肛交</Anal>
+  <Oral>口交</Oral>
+  <Masturbation>自慰</Masturbation>
+  <DoublePenetration>兩穴齊插</DoublePenetration>
+  <Boobjob>乳交</Boobjob>
+  <Handjob>手交</Handjob>
+  <Footjob>足交</Footjob>
+  <Fingering>指交</Fingering>
+  <Scissoring>剪刀式</Scissoring>
+  <MutualMasturbation>相互手淫</MutualMasturbation>
+  <Fisting>拳交</Fisting>
+  <MechImplant>機械注入</MechImplant>
+  <Rimming>舔肛</Rimming>
+  <Fellatio>吮陽</Fellatio>
+  <Cunnilingus>舔陰</Cunnilingus>
+  <Sixtynine>互相69</Sixtynine>
+
+  <!-- Sexuality -->
+  <None>無</None>
+  <Asexual>無性戀</Asexual>
+  <Pansexual>泛性戀</Pansexual>
+  <Heterosexual>異性戀</Heterosexual>
+  <MostlyHeterosexual>大致是異性戀</MostlyHeterosexual>
+  <LeaningHeterosexual>雙性戀，偏向異性戀</LeaningHeterosexual>
+  <Bisexual>雙性戀</Bisexual>
+  <LeaningHomosexual>雙性戀，偏向同性戀</LeaningHomosexual>
+  <MostlyHomosexual>大致是同性戀</MostlyHomosexual>
+  <Homosexual>同性戀</Homosexual>
+
+  <!-- Misc -->
+  <Lust>情慾</Lust>
+  <Unknown>未知</Unknown>
+  <Incest>近親</Incest>
+
+  <!-- Order mode -->
+  <RS_PONormal>無序</RS_PONormal>
+  <RS_PoRecent>最近的</RS_PoRecent>
+  <RS_PoMost>最常</RS_PoMost>
+  <RS_PoName>名稱</RS_PoName>
+</LanguageData>

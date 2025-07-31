@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenitalSize_Approved.stages.0.label>被鄙視的生殖器尺寸</GenitalSize_Approved.stages.0.label>
+  <GenitalSize_Approved.stages.0.description>我必須接受自己的現狀，我知道其他人也接受不了。</GenitalSize_Approved.stages.0.description>
+  <GenitalSize_Approved.stages.1.label>不需要的生殖器尺寸</GenitalSize_Approved.stages.1.label>
+  <GenitalSize_Approved.stages.1.description>我想我小於平均值。</GenitalSize_Approved.stages.1.description>
+  <GenitalSize_Approved.stages.2.label>正常的生殖器尺寸</GenitalSize_Approved.stages.2.label>
+  <GenitalSize_Approved.stages.2.description>我想我是平均值。</GenitalSize_Approved.stages.2.description>
+  <GenitalSize_Approved.stages.3.label>被欣賞的生殖器尺寸</GenitalSize_Approved.stages.3.label>
+  <GenitalSize_Approved.stages.3.description>我想我大於平均值。</GenitalSize_Approved.stages.3.description>
+  <GenitalSize_Approved.stages.4.label>神聖的生殖器尺寸</GenitalSize_Approved.stages.4.label>
+  <GenitalSize_Approved.stages.4.description>我的生殖器尺寸理想，健康，我是完美的範例。</GenitalSize_Approved.stages.4.description>
+  <GenitalSize_Approved_Social.stages.0.label>無用的生殖器</GenitalSize_Approved_Social.stages.0.label>
+  <GenitalSize_Approved_Social.stages.1.label>正常的生殖器</GenitalSize_Approved_Social.stages.1.label>
+  <GenitalSize_Approved_Social.stages.2.label>有利的生殖器</GenitalSize_Approved_Social.stages.2.label>
+
+  <GenitalSize_Disapproved.stages.0.label>神聖的生殖器尺寸</GenitalSize_Disapproved.stages.0.label>
+  <GenitalSize_Disapproved.stages.0.description>我不需要巨大的生殖器，因為我是一個智慧且優雅的人。</GenitalSize_Disapproved.stages.0.description>
+  <GenitalSize_Disapproved.stages.1.label>被欣賞的生殖器尺寸</GenitalSize_Disapproved.stages.1.label>
+  <GenitalSize_Disapproved.stages.1.description>我想我小於平均值。</GenitalSize_Disapproved.stages.1.description>
+  <GenitalSize_Disapproved.stages.2.label>正常的生殖器尺寸</GenitalSize_Disapproved.stages.2.label>
+  <GenitalSize_Disapproved.stages.2.description>我想我是平均值。</GenitalSize_Disapproved.stages.2.description>
+  <GenitalSize_Disapproved.stages.3.label>不需要的生殖器尺寸</GenitalSize_Disapproved.stages.3.label>
+  <GenitalSize_Disapproved.stages.3.description>我想我大於平均值。</GenitalSize_Disapproved.stages.3.description>
+  <GenitalSize_Disapproved.stages.4.label>被鄙視的生殖器尺寸</GenitalSize_Disapproved.stages.4.label>
+  <GenitalSize_Disapproved.stages.4.description>比起人類，我更接近野獸。為何我生來如此？</GenitalSize_Disapproved.stages.4.description>
+  <GenitalSize_Disapproved_Social.stages.0.label>有利的生殖器</GenitalSize_Disapproved_Social.stages.0.label>
+  <GenitalSize_Disapproved_Social.stages.1.label>正常的生殖器</GenitalSize_Disapproved_Social.stages.1.label>
+  <GenitalSize_Disapproved_Social.stages.2.label>無用的生殖器</GenitalSize_Disapproved_Social.stages.2.label>
+</LanguageData>

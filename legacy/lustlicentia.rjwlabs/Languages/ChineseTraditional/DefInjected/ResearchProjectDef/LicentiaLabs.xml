@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HormonalSerums.label>荷爾蒙血清</HormonalSerums.label>
+  <HormonalSerums.description>學習如何將駝峰菇和迷幻草製作為改變身體的荷爾蒙血清。</HormonalSerums.description>
+
+  <BasicSerums.label>基礎血清</BasicSerums.label>
+  <BasicSerums.description>學習如何製作能夠改變身體的基礎血清。</BasicSerums.description>
+
+  <MutagenicSerums.label>變異血清</MutagenicSerums.label>
+  <MutagenicSerums.description>學習製作能夠將身體部位轉變成其他物種部位的先進血清。</MutagenicSerums.description>
+
+  <GenderChangeSerums.label>變性血清</GenderChangeSerums.label>
+  <GenderChangeSerums.description>學習製作能夠改變性別的先進血清。</GenderChangeSerums.description>
+
+  <PsycheSerums.label>心靈血清</PsycheSerums.label>
+  <PsycheSerums.description>學習製作能夠改變使用者的性格特質的血清。</PsycheSerums.description>
+
+  <ReverterSerum.label>還原血清</ReverterSerum.label>
+  <ReverterSerum.description>學習製作用於恢復變異的身體部位的還原血清。</ReverterSerum.description>
+
+  <ProducingSerum.label>生產血清</ProducingSerum.label>
+  <ProducingSerum.description>學習製作用於改變身體以製造荷爾蒙血清的生產血清。</ProducingSerum.description>
+</LanguageData>

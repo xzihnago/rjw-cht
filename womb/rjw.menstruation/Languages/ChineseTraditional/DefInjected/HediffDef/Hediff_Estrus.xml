@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_Estrus.label>發情</Hediff_Estrus.label>
+  <Hediff_Estrus.labelNoun>發情</Hediff_Estrus.labelNoun>
+  <Hediff_Estrus.description>子宮進入月經週期最易受孕階段所引起的狀況。隨著身體渴望懷孕，性喚起與性慾急劇增加。&#10;陰道性交的機率增加，並可能降低伴侶選擇的標準。</Hediff_Estrus.description>
+
+  <Hediff_Estrus_Concealed.label>發情（隱藏）</Hediff_Estrus_Concealed.label>
+  <Hediff_Estrus_Concealed.labelNoun>發情</Hediff_Estrus_Concealed.labelNoun>
+  <Hediff_Estrus_Concealed.description>子宮在月經週期最易受孕階段所引起的狀況。性喚起與性慾略有增加。&#10;陰道性交的機率略為增加。</Hediff_Estrus_Concealed.description>
+
+  <Hediff_AffectedByPheromones.label>受費洛蒙影響</Hediff_AffectedByPheromones.label>
+  <Hediff_AffectedByPheromones.description>由於周圍有人發情而引起的一種狀況。溫熱的香氣會增加性慾與性滿足感。</Hediff_AffectedByPheromones.description>
+  <Hediff_AffectedByPheromones.stages.0.label>弱</Hediff_AffectedByPheromones.stages.0.label>
+  <Hediff_AffectedByPheromones.stages.1.label>中</Hediff_AffectedByPheromones.stages.1.label>
+  <Hediff_AffectedByPheromones.stages.2.label>強</Hediff_AffectedByPheromones.stages.2.label>
+</LanguageData>

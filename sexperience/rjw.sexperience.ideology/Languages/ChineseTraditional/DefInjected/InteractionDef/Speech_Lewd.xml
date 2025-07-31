@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Speech_Lewd.label>淫亂演講</Speech_Lewd.label>
+  <Speech_Lewd.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+
+    <li>speechtopic->性愛的含義和真諦</li>
+    <li>speechtopic->性愛的表達方式</li>
+    <li>speechtopic->不受控的淫慾</li>
+    <li>speechtopic->陰道的溫暖</li>
+    <li>speechtopic->精液的意義</li>
+    <li>speechtopic->亂倫與愛情</li>
+    <li>speechtopic->抽象化的強暴</li>
+    <li>speechtopic->陰莖和陰道</li>
+    <li>speechtopic->性愛的藝術</li>
+    <li>speechtopic->[spokeof]的誘惑</li>
+    <li>speechtopic->呻吟的樂曲</li>
+    <li>speechtopic->射在地上的精液</li>
+
+    <li>crazy->瘋狂地呻吟著</li>
+    <li>crazy->扔了一個假陽具</li>
+    <li>crazy->仍了一個自慰器</li>
+    <li>crazy->讚頌天堂</li>
+    <li>crazy->呻吟</li>
+    <li>crazy->揮舞著假陽具</li>
+    <li>crazy->自慰時反復喃喃自語</li>
+  </Speech_Lewd.logRulesInitiator.rulesStrings>
+</LanguageData>

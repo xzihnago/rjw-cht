@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Menstruation_ShortEggLifetime.label>較短卵細胞壽命</Menstruation_ShortEggLifetime.label>
+  <Menstruation_ShortEggLifetime.description>基因擁有者的未受精卵細胞壽命為原先的四分之三。</Menstruation_ShortEggLifetime.description>
+
+  <Menstruation_DoubleEggLifetime.label>雙倍卵細胞壽命</Menstruation_DoubleEggLifetime.label>
+  <Menstruation_DoubleEggLifetime.description>基因擁有者的未受精卵細胞壽命為原先的兩倍。</Menstruation_DoubleEggLifetime.description>
+
+  <Menstruation_QuadEggLifetime.label>四倍卵細胞壽命</Menstruation_QuadEggLifetime.label>
+  <Menstruation_QuadEggLifetime.description>基因擁有者的未受精卵細胞壽命為原先的四倍。</Menstruation_QuadEggLifetime.description>
+
+  <Menstruation_NeverEstrus.label>永不發情</Menstruation_NeverEstrus.label>
+  <Menstruation_NeverEstrus.description>基因擁有者永遠不會發情。</Menstruation_NeverEstrus.description>
+
+  <Menstruation_FullEstrus.label>始終發情</Menstruation_FullEstrus.label>
+  <Menstruation_FullEstrus.description>基因擁有者會在每次月經週期發情，無論陰道類型為何。</Menstruation_FullEstrus.description>
+
+  <Menstruation_DoubleOvulation.label>雙倍排卵</Menstruation_DoubleOvulation.label>
+  <Menstruation_DoubleOvulation.description>基因擁有者會排出兩倍數量的卵子。</Menstruation_DoubleOvulation.description>
+
+  <Menstruation_QuadOvulation.label>四倍排卵</Menstruation_QuadOvulation.label>
+  <Menstruation_QuadOvulation.description>基因擁有者會排出四倍數量的卵子。</Menstruation_QuadOvulation.description>
+
+  <Menstruation_NoBleeding.label>無經血</Menstruation_NoBleeding.label>
+  <Menstruation_NoBleeding.description>基因擁有者在月經週期結束時不會出血。</Menstruation_NoBleeding.description>
+</LanguageData>

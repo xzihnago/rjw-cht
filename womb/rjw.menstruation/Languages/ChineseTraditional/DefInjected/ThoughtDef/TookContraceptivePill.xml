@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TookContraceptivePill.stages.took_contraceptive_pill.label>服用避孕藥</TookContraceptivePill.stages.took_contraceptive_pill.label>
+  <TookContraceptivePill.stages.took_contraceptive_pill.description>一切都會好起來的。</TookContraceptivePill.stages.took_contraceptive_pill.description>
+
+  <HateTookContraceptivePill.stages.took_contraceptive_pill.label>服用避孕藥</HateTookContraceptivePill.stages.took_contraceptive_pill.label>
+  <HateTookContraceptivePill.stages.took_contraceptive_pill.description>我想要懷孕。</HateTookContraceptivePill.stages.took_contraceptive_pill.description>
+
+  <HateTookContraceptivePillIdeo.stages.took_contraceptive_pill.label>服用避孕藥</HateTookContraceptivePillIdeo.stages.took_contraceptive_pill.label>
+  <HateTookContraceptivePillIdeo.stages.took_contraceptive_pill.description>我的信仰要求我懷孕。</HateTookContraceptivePillIdeo.stages.took_contraceptive_pill.description>
+</LanguageData>

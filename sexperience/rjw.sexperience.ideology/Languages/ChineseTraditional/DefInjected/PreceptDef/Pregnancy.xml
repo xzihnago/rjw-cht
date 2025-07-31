@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Pregnancy_Holy.label>神聖的</Pregnancy_Holy.label>
+  <Pregnancy_Holy.description>懷孕是一項值得尊重的義務。婦女將我們的社會帶入下一代。</Pregnancy_Holy.description>
+
+  <Pregnancy_Elevated.label>高貴的</Pregnancy_Elevated.label>
+  <Pregnancy_Elevated.description>懷孕被認為是高貴的。</Pregnancy_Elevated.description>
+
+  <Pregnancy_NoRules.label>中立的</Pregnancy_NoRules.label>
+  <Pregnancy_NoRules.description>懷孕是生活中正常的，不可磨滅的一部分。</Pregnancy_NoRules.description>
+
+  <Pregnancy_Required.label>需要的</Pregnancy_Required.label>
+  <Pregnancy_Required.description>女人應該懷孕—未懷孕的人會被視為沒有價值。</Pregnancy_Required.description>
+
+  <Pregnancy_Horrible.label>可怕的</Pregnancy_Horrible.label>
+  <Pregnancy_Horrible.description>懷孕是不潔淨的。注意並保持純潔。</Pregnancy_Horrible.description>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InviteToHaveSex.label>邀請做愛</InviteToHaveSex.label>
+  <InviteToHaveSex.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]害羞地邀請[RECIPIENT_nameDef]與[INITIATOR_objective]做愛。</li>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef]揮手，加入[INITIATOR_objective]的樂子。</li>
+    <li>r_logentry->[INITIATOR_nameDef]誘惑[RECIPIENT_nameDef]到[INITIATOR_objective]旁邊。</li>
+  </InviteToHaveSex.logRulesInitiator.rulesStrings>
+
+  <InviteToHaveGroupSex.label>邀請群交</InviteToHaveGroupSex.label>
+  <InviteToHaveGroupSex.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]沙啞地邀請[RECIPIENT_nameDef]加入[INITIATOR_objective]三人行。</li>
+    <li>r_logentry->[INITIATOR_nameDef]開玩笑地詢問[RECIPIENT_nameDef]是否想一起進行「群組活動」。</li>
+    <li>r_logentry->[INITIATOR_nameDef]狡猾地問[RECIPIENT_nameDef]是否願意加入[INITIATOR_objective]找點樂子。</li>
+  </InviteToHaveGroupSex.logRulesInitiator.rulesStrings>
+</LanguageData>

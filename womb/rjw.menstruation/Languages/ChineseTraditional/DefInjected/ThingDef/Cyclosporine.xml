@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cyclosporine.label>環孢素</Cyclosporine.label>
+  <Cyclosporine.description>一種免疫抑制劑。&#10;可以治療精子抗體，但會在 24 小時內降低對感染與疾病的抵抗力。</Cyclosporine.description>
+  <Cyclosporine.ingestible.ingestCommandString>服用{0}</Cyclosporine.ingestible.ingestCommandString>
+  <Cyclosporine.ingestible.ingestReportString>服用{0}</Cyclosporine.ingestible.ingestReportString>
+</LanguageData>

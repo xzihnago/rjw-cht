@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FortunateGaveVirginity.stages.0.label>獻出純潔</FortunateGaveVirginity.stages.0.label>
+  <FortunateGaveVirginity.stages.0.description>我獻出了我的純潔。</FortunateGaveVirginity.stages.0.description>
+
+  <UnfortunateLostVirginity.stages.0.label>失去純潔</UnfortunateLostVirginity.stages.0.label>
+  <UnfortunateLostVirginity.stages.0.description>我失去了純潔而且再也無法找回。</UnfortunateLostVirginity.stages.0.description>
+
+  <TookVirginity.stages.0.label>奪走純潔</TookVirginity.stages.0.label>
+  <TookVirginity.stages.0.description>我奪走了某人的純潔。</TookVirginity.stages.0.description>
+</LanguageData>

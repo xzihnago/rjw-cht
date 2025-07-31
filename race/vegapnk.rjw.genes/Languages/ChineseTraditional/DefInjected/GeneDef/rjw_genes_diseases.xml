@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_genetic_disease_immunity.label>遺傳疾病免疫</rjw_genes_genetic_disease_immunity.label>
+  <rjw_genes_genetic_disease_immunity.description>基因擁有者對遺傳性性病與其他一些可能產生負面影響的基因具有免疫力。</rjw_genes_genetic_disease_immunity.description>
+
+  <rjw_genes_disease_carrier.label>疾病帶原者</rjw_genes_disease_carrier.label>
+  <rjw_genes_disease_carrier.description>基因擁有者沒有遺傳性性病的症狀，但他們能夠透過性交傳播這些疾病。</rjw_genes_disease_carrier.description>
+
+  <rjw_genes_minor_vulnerability.label>脆弱</rjw_genes_minor_vulnerability.label>
+  <rjw_genes_minor_vulnerability.description>基因擁有者有些脆弱，也是有吸引力的強姦目標。</rjw_genes_minor_vulnerability.description>
+
+  <rjw_genes_major_vulnerability.label>非常脆弱</rjw_genes_major_vulnerability.label>
+  <rjw_genes_major_vulnerability.description>基因擁有者更加脆弱，也更容易成為強姦目標。</rjw_genes_major_vulnerability.description>
+
+  <rjw_genes_infectious_blocked_masturbation.label>自慰障礙</rjw_genes_infectious_blocked_masturbation.label>
+  <rjw_genes_infectious_blocked_masturbation.description>基因擁有者無法自慰 - 他們需要伴侶或設備。</rjw_genes_infectious_blocked_masturbation.description>
+
+  <rjw_genes_infectious_low_fertility.label>低生育率</rjw_genes_infectious_low_fertility.label>
+  <rjw_genes_infectious_low_fertility.description>基因擁有者的生育能力較低。</rjw_genes_infectious_low_fertility.description>
+
+  <rjw_genes_infectious_increased_sex_need.label>性需求增加</rjw_genes_infectious_increased_sex_need.label>
+  <rjw_genes_infectious_increased_sex_need.description>基因擁有者需要更多的性愛。</rjw_genes_infectious_increased_sex_need.description>
+
+  <rjw_genes_infectious_major_increased_sex_need.label>超級性需求增加</rjw_genes_infectious_major_increased_sex_need.label>
+  <rjw_genes_infectious_major_increased_sex_need.description>基因擁有者需要非常多的性愛。</rjw_genes_infectious_major_increased_sex_need.description>
+
+  <rjw_genes_infectious_hypersexuality.label>性愛成癮</rjw_genes_infectious_hypersexuality.label>
+  <rjw_genes_infectious_hypersexuality.description>基因擁有者性愛成癮，並且有機會在性交過程中傳播這種基因。</rjw_genes_infectious_hypersexuality.description>
+
+  <rjw_genes_infectious_bisexuality.label>雙性戀</rjw_genes_infectious_bisexuality.label>
+  <rjw_genes_infectious_bisexuality.description>基因擁有者是雙性戀，並且有機會在性交過程中傳播這種基因。</rjw_genes_infectious_bisexuality.description>
+
+  <rjw_genes_infectious_homosexuality.label>同性戀</rjw_genes_infectious_homosexuality.label>
+  <rjw_genes_infectious_homosexuality.description>基因擁有者是同性戀，並且有機會在性交過程中傳播這種基因。</rjw_genes_infectious_homosexuality.description>
+
+  <rjw_genes_fluctual_sexual_needs.label>性需求波動</rjw_genes_fluctual_sexual_needs.label>
+  <rjw_genes_fluctual_sexual_needs.description>基因擁有者有機會突然需要性愛，獲得一點能量來緩解症狀。</rjw_genes_fluctual_sexual_needs.description>
+
+  <rjw_genes_size_blinded.label>尺寸盲目</rjw_genes_size_blinded.label>
+  <rjw_genes_size_blinded.description>基因擁有者更容易被擁有大陰莖的人物吸引。</rjw_genes_size_blinded.description>
+
+  <rjw_genes_stretcher.label>肉棒注入</rjw_genes_stretcher.label>
+  <rjw_genes_stretcher.description>基因擁有者有機會改變其性伴侶的基因，使其更喜歡大陰莖。</rjw_genes_stretcher.description>
+
+  <rjw_genes_infectious_rut.label>發情</rjw_genes_infectious_rut.label>
+  <rjw_genes_infectious_rut.description>基因擁有者可以進入發情狀態，使性活動急劇增加。</rjw_genes_infectious_rut.description>
+</LanguageData>

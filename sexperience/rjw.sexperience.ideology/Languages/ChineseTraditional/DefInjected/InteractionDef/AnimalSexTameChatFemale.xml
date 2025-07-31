@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalSexTameChatFemale.label>雌性動物獸交演講</AnimalSexTameChatFemale.label>
+  <AnimalSexTameChatFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]向[RECIPIENT_nameDef][zooact]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]試圖讓[RECIPIENT_nameDef]在[genplan][RECIPIENT_nameDef]的生殖器時坐下。</li>
+    <li>r_logentry->[INITIATOR_nameDef]試圖讓[RECIPIENT_nameDef]在[genplan][RECIPIENT_nameDef]的生殖器時抓著。</li>
+    <li>r_logentry->[INITIATOR_nameDef][genact][RECIPIENT_nameDef]的生殖器。</li>
+    <li>r_logentry->[INITIATOR_nameDef]允許[RECIPIENT_nameDef][zooplan][INITIATOR_possessive]生殖器。</li>
+    <li>r_logentry->[INITIATOR_nameDef]鼓勵[RECIPIENT_nameDef][zooplan][INITIATOR_possessive]生殖器。</li>
+
+    <li>genact->輕輕觸碰</li>
+    <li>genact->輕輕撫摸</li>
+    <li>genact->嘗試親吻</li>
+    <li>genact->嘗試舔拭</li>
+    <li>genplan->嘗試舔拭</li>
+    <li>genplan->嘗試觸碰</li>
+    <li>genplan->嘗試撫摸</li>
+    <li>zooplan->舔拭</li>
+    <li>zooplan->品嘗</li>
+    <li>zooplan->嗅聞</li>
+    <li>zooact->展示[INITIATOR_possessive]生殖器</li>
+    <li>zooact->呈現[INITIATOR_possessive]生殖器</li>
+  </AnimalSexTameChatFemale.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSI_Raped.label>強姦他人</RSI_Raped.label>
+  <RSI_RapedSlave.label>強姦奴隸</RSI_RapedSlave.label>
+  <RSI_RapedPrisoner.label>強姦囚犯</RSI_RapedPrisoner.label>
+
+  <RSI_WasRaped.label>被強姦</RSI_WasRaped.label>
+  <RSI_WasRapedSlave.label>被強姦</RSI_WasRapedSlave.label>
+  <RSI_WasRapedPrisoner.label>被強姦</RSI_WasRapedPrisoner.label>
+</LanguageData>

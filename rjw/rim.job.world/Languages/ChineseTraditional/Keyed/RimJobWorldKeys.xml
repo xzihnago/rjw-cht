@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod strings -->
+
+  <!-- Notifications on right-clicking CP -->
+  <PawnCantRapeCP>目標不健康或者處於無法到達的位置。</PawnCantRapeCP>
+  <PawnCantRapeCP0>人物無性需求、不健康、或不能強姦。</PawnCantRapeCP0>
+  <PawnCantRapeCP1>人物並非單身，或其伴侶在附近。</PawnCantRapeCP1>
+  <PawnCantRapeCP2>人物並非戀獸癖，所以不能強姦動物。</PawnCantRapeCP2>
+
+  <!--Submit button-->
+  <CommandSubmit>屈服</CommandSubmit>
+  <CommandSubmitDesc>躺下並屈服於一切即將到來的噩運。</CommandSubmitDesc>
+
+  <!--Pregnancy messages-->
+  <RJW_PregnantTitle>{0}懷孕了</RJW_PregnantTitle>
+  <RJW_PregnantText>{0}懷孕了，很快就要成為媽媽了。注意，飢餓或受傷可能會導致流產。</RJW_PregnantText>
+  <RJW_Contractions>{0}正在宮縮！寶寶即將誕生！</RJW_Contractions>
+  <RJW_GaveBirthTitle>孩子出生了</RJW_GaveBirthTitle>
+  <RJW_GaveBirthText>{0}順利產下了</RJW_GaveBirthText>
+  <RJW_ABaby>她的寶寶</RJW_ABaby>
+  <RJW_NBabies>她的 {0} 個寶寶們</RJW_NBabies>
+  <RJW_PregnantNormal>寶寶很健康…</RJW_PregnantNormal>
+  <RJW_PregnantStrange>這個寶寶有點怪…</RJW_PregnantStrange>
+  <RJW_PregnantMechStrange>這個寶寶非常奇怪…</RJW_PregnantMechStrange>
+  <RJW_GaveBirthEggTitle>產卵</RJW_GaveBirthEggTitle>
+  <RJW_GaveBirthEggText>{0}產出了卵。</RJW_GaveBirthEggText>
+  <RJW_EggContractions>{0}正在宮縮！快要產卵了！</RJW_EggContractions>
+
+  <!--Rape alerts-->
+  <RJW_AlertRape>{RAPIST}正試圖強姦{TARGET}。</RJW_AlertRape>
+  <RJW_AlertAssault>{RAPIST}正試圖襲擊{TARGET}。</RJW_AlertAssault>
+  <RJW_AlertBreed>{RAPIST}正試圖配種{TARGET}。</RJW_AlertBreed>
+  <RJW_AlertRapeRelated>{RAPIST}正試圖強姦{TARGET}，{RAPIST_possessive}{RELATION}。</RJW_AlertRapeRelated>
+  <RJW_AlertAssaultRelated>{RAPIST}正試圖襲擊{TARGET}，{RAPIST_possessive}{RELATION}。</RJW_AlertAssaultRelated>
+  <RJW_AlertBreedRelated>{RAPIST}正試圖配種{TARGET}，{RAPIST_possessive}{RELATION}。</RJW_AlertBreedRelated>
+  <RJW_AlertBeeingRaped>{TARGET}正在被強姦。</RJW_AlertBeeingRaped>
+
+  <GoToModSettings>這個空間預留給可選的 RJW 功能，但目前因為已關閉或該人物 / 動物無法使用而無效。\n檢查他媽的模組選項並停止詢問「這是不是正常的」了。</GoToModSettings>
+
+  <!--Comfort designation-->
+  <ForComfort>設為慰安者</ForComfort>
+  <ForComfortDesc>設為洩慾對象</ForComfortDesc>
+  <ForComfortRefuseDesc>拒絕成為慰安者。\n需要特性：被虐狂</ForComfortRefuseDesc>
+
+  <!--Whore-->
+  <ForService>設為賣淫者</ForService> <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[設為賣淫者：
+- 會嘗試勾搭訪客。
+- 如果不忙，會取悅其他殖民者。
+- 在工作中儘量避免自慰，可能會導致性飢渴。
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>不會同意賣淫</ForServiceRefuseDesc>
+
+  <!--Breeding designations-->
+  <ForBreeding>設為動物苗床</ForBreeding>
+  <ForBreedingDesc>設為動物交配對象</ForBreedingDesc>
+  <ForBreedingRefuseDesc>拒絕成為動物苗床。\n需要特性：戀獸癖</ForBreedingRefuseDesc>
+
+  <ForBreedingAnimalDesc>允許此動物對動物苗床交配。</ForBreedingAnimalDesc>
+
+  <BreedMessage>正試圖交配</BreedMessage>
+
+  <!--Milking-->
+  <ForMilking>設為乳汁提供者</ForMilking>
+  <ForMilkingDesc>從該生物獲取乳汁</ForMilkingDesc>
+
+  <!--Hero-->
+  <ForHero>設為主角</ForHero>
+  <ForHeroDesc><![CDATA[指定此人為主角
+- 只能指定一次
+- 無法取消
+]]></ForHeroDesc>
+  <ForHeroRefuse1Desc>這是其他玩家的主角</ForHeroRefuse1Desc>
+  <ForHeroRefuse2Desc>你無法變更此決定</ForHeroRefuse2Desc>
+  <ForHeroRefuseHCDesc>硬核模式下的非主角殖民者</ForHeroRefuseHCDesc>
+
+  <!-- Hediff tooltips -->
+  <RJW_PartInfo_braCup>罩杯：{0}</RJW_PartInfo_braCup>
+  <RJW_PartInfo_braSizeNone>胸罩尺寸：-</RJW_PartInfo_braSizeNone>
+  <RJW_PartInfo_eggs>卵：{0}</RJW_PartInfo_eggs>
+  <RJW_PartInfo_fluidTypeFluidAmount>{0}：{1}</RJW_PartInfo_fluidTypeFluidAmount>
+  <RJW_PartInfo_braSize>胸罩尺寸：{0}:{1}</RJW_PartInfo_braSize>
+  <RJW_PartInfo_overbust>上胸圍：{0}</RJW_PartInfo_overbust>
+  <RJW_PartInfo_underbust>下胸圍：{0}</RJW_PartInfo_underbust>
+  <RJW_PartInfo_weight>重量：{0}</RJW_PartInfo_weight>
+  <RJW_PartInfo_properties>屬性：{0}</RJW_PartInfo_properties>
+
+  <RJW_PartInfo_severity>嚴重性：{0}</RJW_PartInfo_severity>
+  <RJW_PartInfo_fluidMultiplier>液體倍率：{0}</RJW_PartInfo_fluidMultiplier>
+
+  <!-- Shared between hediff tooltip and inspect pane for installable parts-->
+  <RJW_PartInfo_girth>周長：{0}</RJW_PartInfo_girth>
+  <RJW_PartInfo_length>長度：{0}</RJW_PartInfo_length>
+  <RJW_PartInfo_depth>深度：{0}</RJW_PartInfo_depth>
+  <RJW_PartInfo_maxGirth>最大周長：{0}</RJW_PartInfo_maxGirth>
+  <RJW_PartInfo_maxLength>最大長度：{0}</RJW_PartInfo_maxLength>
+
+  <!-- Part inspect pane-->
+  <RJW_PartInfo_fluidTypeFluidAmountHeading>液體：{0} ({1}mL)</RJW_PartInfo_fluidTypeFluidAmountHeading>
+
+  <!-- Part stats & descriptions -->
+  <RJW_PartInfo_unknownSpecies>未知物種</RJW_PartInfo_unknownSpecies>
+  <RJW_PartInfo_unknownOwner>未知</RJW_PartInfo_unknownOwner>
+  <RJW_StatEntry_PreviousOwner>前一個擁有者</RJW_StatEntry_PreviousOwner>
+  <RJW_StatEntry_OriginalOwnerRace>原始種族</RJW_StatEntry_OriginalOwnerRace>
+  <RJW_StatEntry_OriginalOwnerSize>原始尺寸</RJW_StatEntry_OriginalOwnerSize>
+  <RJW_StatEntry_PartSize>尺寸</RJW_StatEntry_PartSize>
+  <RJW_StatEntry_PartCupSize>罩杯大小</RJW_StatEntry_PartCupSize>
+  <RJW_StatEntry_PartLength>長度</RJW_StatEntry_PartLength>
+  <RJW_StatEntry_PartGirth>周長</RJW_StatEntry_PartGirth>
+  <RJW_StatEntry_PartMaxGirth>最大周長</RJW_StatEntry_PartMaxGirth>
+  <RJW_StatEntry_PartDepth>深度</RJW_StatEntry_PartDepth>
+  <RJW_StatEntry_PartWeight>重量</RJW_StatEntry_PartWeight>
+  <RJW_StatEntry_PartTags>屬性</RJW_StatEntry_PartTags>
+  <RJW_StatEntry_Fluid>液體</RJW_StatEntry_Fluid>
+  <RJW_StatEntry_FluidAmount>液體量</RJW_StatEntry_FluidAmount>
+  <RJW_StatEntry_FluidAmount_ejaculation>射精量</RJW_StatEntry_FluidAmount_ejaculation>
+  <RJW_StatEntry_FluidAmount_wetness>濕度</RJW_StatEntry_FluidAmount_wetness>
+
+  <!-- RJW fertility tooltip -->
+  <AgeImpactor>年齡：</AgeImpactor>
+  <VanillaFertilityImpactor>生育力：{VALUE}%</VanillaFertilityImpactor>
+
+  <!-- Nymphs!!! -->
+  <RJW_nymph_incident_raid_title>流鶯！！！</RJW_nymph_incident_raid_title>
+  <RJW_nymph_incident_raid_description>一群遊蕩的流鶯闖入了你的基地！</RJW_nymph_incident_raid_description>
+  <RJW_nymph_incident_wander_title>流鶯！</RJW_nymph_incident_wander_title>
+  <RJW_nymph_incident_wander_description>一名遊蕩的流鶯前來拜訪你的基地。</RJW_nymph_incident_wander_description>
+  <RJW_nymph_incident_join_title>流鶯加入</RJW_nymph_incident_join_title>
+  <RJW_nymph_incident_join_description>一名遊蕩的流鶯決定加入你的基地。</RJW_nymph_incident_join_description>
+
+  <!-- Biotech integration -->
+  <PawnLacksFunctionalGenitals>{PAWN}沒有功能正常的生殖器。</PawnLacksFunctionalGenitals>
+  <PawnLacksVagina>{PAWN}沒有陰道。</PawnLacksVagina>
+  <PawnLacksFunctionalPenis>{PAWN}沒有功能正常的陰莖。</PawnLacksFunctionalPenis>
+  <VaginalWeight>性交的機率</VaginalWeight>
+
+  <!-- Trait gain -->
+  <!-- Tip: You can easily add trait-specific versions of these two by appending the trait's defname and optionally its degree -->
+  <LetterLabelGainedTraitFromSex>獲得特性：{PAWN}</LetterLabelGainedTraitFromSex>
+  <GainedTraitFromSex>某次性經驗令{PAWN}獲得了{TRAIT}特性。</GainedTraitFromSex>
+
+  <GainedTraitFromSexNymphomaniac>催情藥誘發的過度刺激永久的重塑了{PAWN}的大腦。{PAWN_pronoun}獲得了{TRAIT}特性。</GainedTraitFromSexNymphomaniac>
+  <GainedTraitFromSexFootSlut>享受雙腳觸感的刺激正在{PAWN}的心中滋養一種惡魔般的新癖好。{PAWN}成為了{TRAIT}。</GainedTraitFromSexFootSlut>
+  <LetterLabelGainedMultipleTraitsFromSex>獲得特性：{PAWN}</LetterLabelGainedMultipleTraitsFromSex>
+  <GainedMultipleTraitsFromSex>強烈的性經驗令{PAWN}獲得了以下特性：</GainedMultipleTraitsFromSex>
+  <GainedMultipleTraitsFromSexListItem> - {0}</GainedMultipleTraitsFromSexListItem>
+</LanguageData>

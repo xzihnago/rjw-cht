@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_cumflation_counter.label>反精液腹</rjw_genes_cumflation_counter.label>
+  <rjw_genes_cumflation_counter.labelNoun>反精液腹</rjw_genes_cumflation_counter.labelNoun>
+  <rjw_genes_cumflation_counter.description>消除通常因精液腹而造成的負面影響。</rjw_genes_cumflation_counter.description>
+  <rjw_genes_cumflation_counter.stages.a_little.label>些許</rjw_genes_cumflation_counter.stages.a_little.label>
+  <rjw_genes_cumflation_counter.stages.slight.label>稍微</rjw_genes_cumflation_counter.stages.slight.label>
+  <rjw_genes_cumflation_counter.stages.moderate.label>適度</rjw_genes_cumflation_counter.stages.moderate.label>
+  <rjw_genes_cumflation_counter.stages.intense.label>過度</rjw_genes_cumflation_counter.stages.intense.label>
+  <rjw_genes_cumflation_counter.stages.extreme.label>極端</rjw_genes_cumflation_counter.stages.extreme.label>
+</LanguageData>

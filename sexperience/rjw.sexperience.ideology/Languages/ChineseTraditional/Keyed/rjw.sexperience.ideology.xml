@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSI_Mod_Title>RJW - 性經驗理念</RSI_Mod_Title>
+
+  <MemeStatFactor>模因</MemeStatFactor>
+  <RSVictimCondition>僅適用於奴隸、囚犯、服從的性別</RSVictimCondition>
+  <RSBreederCondition>不適當的動物：無法繁殖或被戒律禁止</RSBreederCondition>
+  <RSNotHuman>非人類</RSNotHuman>
+  <RSNotAnimal>非動物</RSNotAnimal>
+  <RSShouldCanFuck>需要有性能力</RSShouldCanFuck>
+
+  <RSI_PatchRomanceChanceFactor>啟用亂倫戒律的約會機率修正</RSI_PatchRomanceChanceFactor>
+  <RSI_PatchRomanceChanceFactorTip>影響 RomanceChanceFactor 的亂倫戒律修正。可能與其他社交模組衝突。\n\n* 需要重新啟動遊戲才能應用更改</RSI_PatchRomanceChanceFactorTip>
+  <RSI_PatchIncestuousManualRomance>啟用亂倫戒律的手動約會機率修正</RSI_PatchIncestuousManualRomance>
+  <RSI_PatchIncestuousManualRomanceTip>亂倫戒律修正會影響手動約會選項。\n\n* 需要重新啟動遊戲才能應用更改</RSI_PatchIncestuousManualRomanceTip>
+
+  <RSI_PreceptTipModifyBestialityMtb>嘗試人獸交的間隔時間 x{0}</RSI_PreceptTipModifyBestialityMtb>
+  <RSI_PreceptTipModifyFappinMtb>嘗試自慰的間隔時間 x{0}</RSI_PreceptTipModifyFappinMtb>
+  <RSI_PreceptTipModifyNecroMtb>嘗試姦屍的間隔時間 x{0}</RSI_PreceptTipModifyNecroMtb>
+  <RSI_PreceptTipModifyRapeCPMtb>嘗試強暴的間隔時間 x{0}</RSI_PreceptTipModifyRapeCPMtb>
+</LanguageData>

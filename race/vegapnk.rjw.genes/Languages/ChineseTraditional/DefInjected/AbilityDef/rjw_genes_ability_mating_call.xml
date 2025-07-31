@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_ability_mating_call.label>交配呼喚</rjw_genes_ability_mating_call.label>
+  <rjw_genes_ability_mating_call.description>呼叫附近的動物與我繁殖。</rjw_genes_ability_mating_call.description>
+  <rjw_genes_ability_mating_call.confirmationDialogText>繁殖並不是一件容易的事情。\n這可能會導致人物壞掉、生殖器撕裂與混合懷孕。\n也許這就是你想要的。\n人物將「屈服」，並且昆蟲可能會把他裹住。\n\n確定要繼續嗎？</rjw_genes_ability_mating_call.confirmationDialogText>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IncestuosMarriage_Forbidden.stages.0.label>被社會譴責</IncestuosMarriage_Forbidden.stages.0.label>
+  <IncestuosMarriage_Forbidden.stages.0.description>沒人會祝福我們的婚事。</IncestuosMarriage_Forbidden.stages.0.description>
+  <Sex_Know_Incest_Forbidden.stages.0.label>近親相姦</Sex_Know_Incest_Forbidden.stages.0.label>
+  <Sex_Know_IncestMarriage_Forbidden.stages.0.label>亂倫</Sex_Know_IncestMarriage_Forbidden.stages.0.label>
+
+  <IncestuosMarriage_Disapproved.stages.0.label>被人八卦</IncestuosMarriage_Disapproved.stages.0.label>
+  <IncestuosMarriage_Disapproved.stages.0.description>他們在我們背後議論紛紛。</IncestuosMarriage_Disapproved.stages.0.description>
+  <Sex_Know_Incest_Disapproved.stages.0.label>近親相姦</Sex_Know_Incest_Disapproved.stages.0.label>
+  <Sex_Know_IncestMarriage_Disapproved.stages.0.label>亂倫</Sex_Know_IncestMarriage_Disapproved.stages.0.label>
+
+  <Sex_Know_Incest_Violated.stages.0.label>與非親族做愛</Sex_Know_Incest_Violated.stages.0.label>
+  <Sex_Know_IncestMarriage_Violated.stages.0.label>敗壞了血統</Sex_Know_IncestMarriage_Violated.stages.0.label>
+</LanguageData>

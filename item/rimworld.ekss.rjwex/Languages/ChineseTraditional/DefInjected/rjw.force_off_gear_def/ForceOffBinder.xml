@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForceOffArmbinder.label>強行移除束手器</ForceOffArmbinder.label>
+  <ForceOffArmbinder.description>在沒有鑰匙的情況下強行取下束手器，會對穿戴者造成重大傷害。</ForceOffArmbinder.description>
+  <ForceOffArmbinder.jobString>強行移除束手套。</ForceOffArmbinder.jobString>
+
+  <ForceOffLegbinder.label>強行移除束腿器</ForceOffLegbinder.label>
+  <ForceOffLegbinder.description>在沒有鑰匙的情況下強行取下束腿器，會對穿戴者造成重大傷害。</ForceOffLegbinder.description>
+  <ForceOffLegbinder.jobString>強行移除束腿器。</ForceOffLegbinder.jobString>
+</LanguageData>

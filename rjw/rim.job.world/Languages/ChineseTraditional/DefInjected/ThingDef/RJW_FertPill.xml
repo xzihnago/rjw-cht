@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_FertPill.label>助孕藥</RJW_FertPill.label>
+  <RJW_FertPill.description>在 48 小時內提高生育能力，也能作為一種溫和的催情藥使用。</RJW_FertPill.description>
+  <RJW_FertPill.ingestible.ingestCommandString>服用{0}</RJW_FertPill.ingestible.ingestCommandString>
+  <RJW_FertPill.ingestible.ingestReportString>服用{0}</RJW_FertPill.ingestible.ingestReportString>
+</LanguageData>

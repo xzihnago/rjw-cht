@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bound.stages.0.label>受束縛</Bound.stages.0.label>
+  <Bound.stages.0.description>這東西真的非常煩人。我希望我能把它摘下來。</Bound.stages.0.description>
+  <Bound.stages.1.label>被堵嘴</Bound.stages.1.label>
+  <Bound.stages.1.description>嗚嗯嗯嗯嗯嗯…嗯咕嗯嗚嗯嗚嗯…嗯咕</Bound.stages.1.description>
+  <Bound.stages.2.label>受束縛且被堵嘴</Bound.stages.2.label>
+  <Bound.stages.2.description>咕嗚嗯嗯嗯嗯咕嗯…嗯嗯嗚咕嗯嗚嗯…咕嗯！</Bound.stages.2.description>
+
+  <MasochistBound.stages.0.label>受束縛</MasochistBound.stages.0.label>
+  <MasochistBound.stages.0.description>啊…啊哈…啊…</MasochistBound.stages.0.description>
+  <MasochistBound.stages.1.label>被堵嘴</MasochistBound.stages.1.label>
+  <MasochistBound.stages.1.description>嗚嗯嗯呵嗯嗯嗯…嗯嗯呵呵嗚嗯…嗯</MasochistBound.stages.1.description>
+  <MasochistBound.stages.2.label>受束縛且被堵嘴</MasochistBound.stages.2.label>
+  <MasochistBound.stages.2.description>嗚嗯嗯呵嗯嗯嗯…嗯嗯呵呵嗚嗯…嗯～！</MasochistBound.stages.2.description>
+</LanguageData>

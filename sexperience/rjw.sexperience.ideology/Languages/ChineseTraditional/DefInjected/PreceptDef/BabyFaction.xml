@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabyFaction_AlwaysMother.label>總是與母親相同（預設）</BabyFaction_AlwaysMother.label>
+  <BabyFaction_AlwaysMother.description>新生兒總是與母親派系及意識型態相同。</BabyFaction_AlwaysMother.description>
+
+  <BabyFaction_AlwaysFather.label>總是與父親相同</BabyFaction_AlwaysFather.label>
+  <BabyFaction_AlwaysFather.description>新生兒總是與父親派系及意識型態相同（如果存在）。</BabyFaction_AlwaysFather.description>
+
+  <BabyFaction_AlwaysColony.label>總是與殖民地相同</BabyFaction_AlwaysColony.label>
+  <BabyFaction_AlwaysColony.description>新生兒總是與殖民地派系及意識型態相同。</BabyFaction_AlwaysColony.description>
+</LanguageData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <hediff_male2trap.label>變性（男轉偽娘）</hediff_male2trap.label>
+  <hediff_male2trap.description>曾是男性。</hediff_male2trap.description>
+  <hediff_male2trap.stages.0.label>忽略</hediff_male2trap.stages.0.label>
+  <hediff_male2trap.stages.1.label>接受</hediff_male2trap.stages.1.label>
+  <hediff_male2trap.stages.2.label>悲傷</hediff_male2trap.stages.2.label>
+  <hediff_male2trap.stages.3.label>憤怒</hediff_male2trap.stages.3.label>
+  <hediff_male2trap.stages.4.label>抗拒</hediff_male2trap.stages.4.label>
+
+  <hediff_male2female.label>變性（男轉女）</hediff_male2female.label>
+  <hediff_male2female.description>曾是男性。</hediff_male2female.description>
+  <hediff_male2female.stages.0.label>忽略</hediff_male2female.stages.0.label>
+  <hediff_male2female.stages.1.label>接受</hediff_male2female.stages.1.label>
+  <hediff_male2female.stages.2.label>悲傷</hediff_male2female.stages.2.label>
+  <hediff_male2female.stages.3.label>憤怒</hediff_male2female.stages.3.label>
+  <hediff_male2female.stages.4.label>抗拒</hediff_male2female.stages.4.label>
+
+  <hediff_male2futa.label>變性（男轉扶她）</hediff_male2futa.label>
+  <hediff_male2futa.description>曾是男性。</hediff_male2futa.description>
+  <hediff_male2futa.stages.0.label>忽略</hediff_male2futa.stages.0.label>
+  <hediff_male2futa.stages.1.label>接受</hediff_male2futa.stages.1.label>
+  <hediff_male2futa.stages.2.label>悲傷</hediff_male2futa.stages.2.label>
+  <hediff_male2futa.stages.3.label>憤怒</hediff_male2futa.stages.3.label>
+  <hediff_male2futa.stages.4.label>抗拒</hediff_male2futa.stages.4.label>
+
+
+  <hediff_female2trap.label>變性（女轉偽娘）</hediff_female2trap.label>
+  <hediff_female2trap.description>曾是女性。</hediff_female2trap.description>
+  <hediff_female2trap.stages.0.label>忽略</hediff_female2trap.stages.0.label>
+  <hediff_female2trap.stages.1.label>接受</hediff_female2trap.stages.1.label>
+  <hediff_female2trap.stages.2.label>悲傷</hediff_female2trap.stages.2.label>
+  <hediff_female2trap.stages.3.label>憤怒</hediff_female2trap.stages.3.label>
+  <hediff_female2trap.stages.4.label>抗拒</hediff_female2trap.stages.4.label>
+
+  <hediff_female2male.label>變性（女轉男）</hediff_female2male.label>
+  <hediff_female2male.description>曾是女性。</hediff_female2male.description>
+  <hediff_female2male.stages.0.label>忽略</hediff_female2male.stages.0.label>
+  <hediff_female2male.stages.1.label>接受</hediff_female2male.stages.1.label>
+  <hediff_female2male.stages.2.label>悲傷</hediff_female2male.stages.2.label>
+  <hediff_female2male.stages.3.label>憤怒</hediff_female2male.stages.3.label>
+  <hediff_female2male.stages.4.label>抗拒</hediff_female2male.stages.4.label>
+
+  <hediff_female2futa.label>變性（女轉扶她）</hediff_female2futa.label>
+  <hediff_female2futa.description>曾是女性。</hediff_female2futa.description>
+  <hediff_female2futa.stages.0.label>忽略</hediff_female2futa.stages.0.label>
+  <hediff_female2futa.stages.1.label>接受</hediff_female2futa.stages.1.label>
+  <hediff_female2futa.stages.2.label>悲傷</hediff_female2futa.stages.2.label>
+  <hediff_female2futa.stages.3.label>憤怒</hediff_female2futa.stages.3.label>
+  <hediff_female2futa.stages.4.label>抗拒</hediff_female2futa.stages.4.label>
+
+
+  <hediff_futa2trap.label>變性（扶她轉偽娘）</hediff_futa2trap.label>
+  <hediff_futa2trap.description>曾是扶她。</hediff_futa2trap.description>
+  <hediff_futa2trap.stages.0.label>忽略</hediff_futa2trap.stages.0.label>
+  <hediff_futa2trap.stages.1.label>接受</hediff_futa2trap.stages.1.label>
+  <hediff_futa2trap.stages.2.label>悲傷</hediff_futa2trap.stages.2.label>
+  <hediff_futa2trap.stages.3.label>憤怒</hediff_futa2trap.stages.3.label>
+  <hediff_futa2trap.stages.4.label>抗拒</hediff_futa2trap.stages.4.label>
+
+  <hediff_futa2male.label>變性（扶她轉男）</hediff_futa2male.label>
+  <hediff_futa2male.description>曾是扶她。</hediff_futa2male.description>
+  <hediff_futa2male.stages.0.label>忽略</hediff_futa2male.stages.0.label>
+  <hediff_futa2male.stages.1.label>接受</hediff_futa2male.stages.1.label>
+  <hediff_futa2male.stages.2.label>悲傷</hediff_futa2male.stages.2.label>
+  <hediff_futa2male.stages.3.label>憤怒</hediff_futa2male.stages.3.label>
+  <hediff_futa2male.stages.4.label>抗拒</hediff_futa2male.stages.4.label>
+
+  <hediff_futa2female.label>變性（扶她轉女）</hediff_futa2female.label>
+  <hediff_futa2female.description>曾是扶她。</hediff_futa2female.description>
+  <hediff_futa2female.stages.0.label>忽略</hediff_futa2female.stages.0.label>
+  <hediff_futa2female.stages.1.label>接受</hediff_futa2female.stages.1.label>
+  <hediff_futa2female.stages.2.label>悲傷</hediff_futa2female.stages.2.label>
+  <hediff_futa2female.stages.3.label>憤怒</hediff_futa2female.stages.3.label>
+  <hediff_futa2female.stages.4.label>抗拒</hediff_futa2female.stages.4.label>
+
+
+  <hediff_trap2futa.label>變性（偽娘轉扶她）</hediff_trap2futa.label>
+  <hediff_trap2futa.description>曾是偽娘。</hediff_trap2futa.description>
+  <hediff_trap2futa.stages.0.label>忽略</hediff_trap2futa.stages.0.label>
+  <hediff_trap2futa.stages.1.label>接受</hediff_trap2futa.stages.1.label>
+  <hediff_trap2futa.stages.2.label>悲傷</hediff_trap2futa.stages.2.label>
+  <hediff_trap2futa.stages.3.label>憤怒</hediff_trap2futa.stages.3.label>
+  <hediff_trap2futa.stages.4.label>抗拒</hediff_trap2futa.stages.4.label>
+
+  <hediff_trap2male.label>變性（偽娘轉男）</hediff_trap2male.label>
+  <hediff_trap2male.description>曾是偽娘。</hediff_trap2male.description>
+  <hediff_trap2male.stages.0.label>忽略</hediff_trap2male.stages.0.label>
+  <hediff_trap2male.stages.1.label>接受</hediff_trap2male.stages.1.label>
+  <hediff_trap2male.stages.2.label>悲傷</hediff_trap2male.stages.2.label>
+  <hediff_trap2male.stages.3.label>憤怒</hediff_trap2male.stages.3.label>
+  <hediff_trap2male.stages.4.label>抗拒</hediff_trap2male.stages.4.label>
+
+  <hediff_trap2female.label>變性（偽娘轉女）</hediff_trap2female.label>
+  <hediff_trap2female.description>曾是偽娘。</hediff_trap2female.description>
+  <hediff_trap2female.stages.0.label>忽略</hediff_trap2female.stages.0.label>
+  <hediff_trap2female.stages.1.label>接受</hediff_trap2female.stages.1.label>
+  <hediff_trap2female.stages.2.label>悲傷</hediff_trap2female.stages.2.label>
+  <hediff_trap2female.stages.3.label>憤怒</hediff_trap2female.stages.3.label>
+  <hediff_trap2female.stages.4.label>抗拒</hediff_trap2female.stages.4.label>
+
+
+  <hediff_was_boy.label>曾是男性</hediff_was_boy.label>
+  <hediff_was_boy.description>性轉。</hediff_was_boy.description>
+
+  <hediff_was_girl.label>曾是女性</hediff_was_girl.label>
+  <hediff_was_girl.description>性轉。</hediff_was_girl.description>
+
+
+  <hediff_was_futa.label>曾是扶她</hediff_was_futa.label>
+  <hediff_was_futa.description>性轉。</hediff_was_futa.description>
+
+  <hediff_was_trap.label>曾是偽娘</hediff_was_trap.label>
+  <hediff_was_trap.description>性轉。</hediff_was_trap.description>
+</LanguageData>

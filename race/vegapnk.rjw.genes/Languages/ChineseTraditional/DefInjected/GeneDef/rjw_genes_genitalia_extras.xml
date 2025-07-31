@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_extra_penis.label>額外陰莖</rjw_genes_extra_penis.label>
+  <rjw_genes_extra_penis.description>基因擁有者的男性會長出額外的陰莖。</rjw_genes_extra_penis.description>
+
+  <rjw_genes_no_penis.label>無陰莖</rjw_genes_no_penis.label>
+  <rjw_genes_no_penis.description>基因擁有者的男性沒有陰莖。</rjw_genes_no_penis.description>
+
+  <rjw_genes_extra_vagina.label>額外陰道</rjw_genes_extra_vagina.label>
+  <rjw_genes_extra_vagina.description>基因擁有者的女性會長出額外的陰道。</rjw_genes_extra_vagina.description>
+
+  <rjw_genes_no_vagina.label>無陰道</rjw_genes_no_vagina.label>
+  <rjw_genes_no_vagina.description>基因擁有者的女性沒有陰道。</rjw_genes_no_vagina.description>
+
+  <rjw_genes_extra_breasts.label>額外乳房</rjw_genes_extra_breasts.label>
+  <rjw_genes_extra_breasts.description>基因擁有者的女性會長出一對額外的乳房。</rjw_genes_extra_breasts.description>
+
+  <rjw_genes_no_breasts.label>沒有乳房</rjw_genes_no_breasts.label>
+  <rjw_genes_no_breasts.description>基因擁有者的女性沒有乳房，只有乳頭。</rjw_genes_no_breasts.description>
+
+  <rjw_genes_extra_anus.label>額外肛門</rjw_genes_extra_anus.label>
+  <rjw_genes_extra_anus.description>基因擁有者有額外的肛門。</rjw_genes_extra_anus.description>
+
+  <rjw_genes_no_anus.label>無肛門</rjw_genes_no_anus.label>
+  <rjw_genes_no_anus.description>基因擁有者沒有肛門。</rjw_genes_no_anus.description>
+
+  <rjw_genes_featureless_chest.label>無特徵胸部</rjw_genes_featureless_chest.label>
+  <rjw_genes_featureless_chest.description>基因擁有者沒有乳房或乳頭。</rjw_genes_featureless_chest.description>
+
+  <rjw_genes_udder.label>乳袋</rjw_genes_udder.label>
+  <rjw_genes_udder.description>基因擁有者有乳袋與乳房。</rjw_genes_udder.description>
+</LanguageData>

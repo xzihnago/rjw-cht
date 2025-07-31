@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InducingLactation.label>誘導泌乳</InducingLactation.label>
+  <InducingLactation.description>正在刺激此人的乳房泌乳。這是一個漫長而艱鉅的乳房與乳頭刺激過程。</InducingLactation.description>
+
+  <InducingLactationCooldown.label>誘導泌乳冷卻</InducingLactationCooldown.label>
+  <InducingLactationCooldown.description>此人的乳房最近已被刺激泌乳。這會導致酸痛、腫脹和不適的感覺。</InducingLactationCooldown.description>
+</LanguageData>

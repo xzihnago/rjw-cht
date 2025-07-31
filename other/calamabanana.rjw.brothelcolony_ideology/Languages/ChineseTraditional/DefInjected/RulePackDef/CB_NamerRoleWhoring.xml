@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_NamerRoleWhoring.rulePack.rulesStrings>
+    <li>r_roleName(p=4)->[nounInsert]</li>
+    <li>r_roleName(p=2)->[memeAdjective][nounInsert]</li>
+    <li>r_roleName->[chosenTheme]的[nounInsert]</li>
+    <li>r_roleName->[keyDeity]的[nounInsert]</li>
+    <li>r_roleName->[memeConcept]的[nounInsert]</li>
+    <li>r_roleName->[chosenIdeoName]的[nounInsert]</li>
+    <li>r_roleName->[chosenAdjective][nounInsert]</li>
+    <li>r_roleName->[keyDeity]的[nounInsert]</li>
+  </CB_NamerRoleWhoring.rulePack.rulesStrings>
+</LanguageData>

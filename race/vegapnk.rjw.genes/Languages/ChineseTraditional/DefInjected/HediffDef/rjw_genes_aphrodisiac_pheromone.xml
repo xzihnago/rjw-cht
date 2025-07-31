@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_aphrodisiac_pheromone.label>性慾誘發</rjw_genes_aphrodisiac_pheromone.label>
+  <rjw_genes_aphrodisiac_pheromone.description>由於聞到催情費洛蒙，性慾增強。</rjw_genes_aphrodisiac_pheromone.description>
+  <rjw_genes_aphrodisiac_pheromone.stages.0.label>逐漸消失</rjw_genes_aphrodisiac_pheromone.stages.0.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.1.label>中度</rjw_genes_aphrodisiac_pheromone.stages.1.label>
+  <rjw_genes_aphrodisiac_pheromone.stages.2.label>強烈</rjw_genes_aphrodisiac_pheromone.stages.2.label>
+</LanguageData>

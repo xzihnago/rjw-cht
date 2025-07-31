@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowWithCum.label>允許含有精液的食物</AllowWithCum.label>
+  <AllowWithCum.description>允許添加精液調味的食物。</AllowWithCum.description>
+
+  <AllowWithoutCum.label>允許不含精液的食物</AllowWithoutCum.label>
+  <AllowWithoutCum.description>允許一般正常食物。</AllowWithoutCum.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnalPlugExpandable.label>可擴張肛塞（可鎖）</AnalPlugExpandable.label>
+  <AnalPlugExpandable.description>可擴展的肛塞。配備全息鎖。</AnalPlugExpandable.description>
+  <AnalPlugExpandable.comps.0.useLabel>穿戴</AnalPlugExpandable.comps.0.useLabel>
+
+  <AnalPlugExpandableUL.label>可擴張肛塞</AnalPlugExpandableUL.label>
+  <AnalPlugExpandableUL.description>可擴展的肛塞。</AnalPlugExpandableUL.description>
+  <AnalPlugExpandableUL.comps.0.useLabel>穿戴</AnalPlugExpandableUL.comps.0.useLabel>
+</LanguageData>

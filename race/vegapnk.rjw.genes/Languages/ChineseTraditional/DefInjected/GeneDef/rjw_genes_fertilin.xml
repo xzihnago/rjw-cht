@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_lifeforce.label>育原性</rjw_genes_lifeforce.label>
+  <rjw_genes_lifeforce.description>基因擁有者含有一種生物力量儲備，育原。此資源可以透過多種方式獲得和使用，其中一些需由其他基因解鎖。\n\n擁有者每天因生物熵而損失 5 點育原。\n\n基因在擁有者能夠發生性行為前處於非活躍狀態。</rjw_genes_lifeforce.description>
+  <rjw_genes_lifeforce.resourceLabel>育原</rjw_genes_lifeforce.resourceLabel>
+  <rjw_genes_lifeforce.resourceDescription>一種生物力量儲備，可以透過多種方式獲得和使用。\n\n育原可以透過吸收精液來補充，通常是透過口交或儲存精液。\n\n如果育原降至零，{PAWN_nameDef}會變得非常不高興，並可能會嘗試強行獲取一些。</rjw_genes_lifeforce.resourceDescription>
+  <rjw_genes_lifeforce.customEffectDescriptions.0>解鎖育原供應。</rjw_genes_lifeforce.customEffectDescriptions.0>
+  <rjw_genes_lifeforce.symbolPack.prefixSymbols.0.symbol>育</rjw_genes_lifeforce.symbolPack.prefixSymbols.0.symbol>
+
+  <rjw_genes_lifeforce_drain.label>育原流失</rjw_genes_lifeforce_drain.label>
+  <rjw_genes_lifeforce_drain.labelShortAdj>流失</rjw_genes_lifeforce_drain.labelShortAdj>
+  <rjw_genes_lifeforce_drain.description>基因擁有者每天會因生物熵而損失額外的 7.5 點血原。</rjw_genes_lifeforce_drain.description>
+  <rjw_genes_lifeforce_drain.resourceLabel>育原</rjw_genes_lifeforce_drain.resourceLabel>
+
+  <rjw_genes_pussyhealing.label>肉穴治療</rjw_genes_pussyhealing.label>
+  <rjw_genes_pussyhealing.labelShortAdj>肉穴治療</rjw_genes_pussyhealing.labelShortAdj>
+  <rjw_genes_pussyhealing.description>基因擁有者能夠透過陰道性交來治療他人的傷口。</rjw_genes_pussyhealing.description>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.0.symbol>生命</rjw_genes_pussyhealing.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.1.symbol>肉穴</rjw_genes_pussyhealing.symbolPack.suffixSymbols.1.symbol>
+  <rjw_genes_pussyhealing.symbolPack.suffixSymbols.2.symbol>治療</rjw_genes_pussyhealing.symbolPack.suffixSymbols.2.symbol>
+
+  <rjw_genes_cockeater.label>肉棒吞噬者</rjw_genes_cockeater.label>
+  <rjw_genes_cockeater.labelShortAdj>肉棒吞噬者</rjw_genes_cockeater.labelShortAdj>
+  <rjw_genes_cockeater.description>基因擁有者能夠吞食肉棒來恢復其育原。肉棒在這個過程中被消耗掉。</rjw_genes_cockeater.description>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.0.symbol>生命</rjw_genes_cockeater.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.1.symbol>肉棒</rjw_genes_cockeater.symbolPack.suffixSymbols.1.symbol>
+  <rjw_genes_cockeater.symbolPack.suffixSymbols.2.symbol>吞噬</rjw_genes_cockeater.symbolPack.suffixSymbols.2.symbol>
+
+  <rjw_genes_paralysingkiss.label>麻痺之吻</rjw_genes_paralysingkiss.label>
+  <rjw_genes_paralysingkiss.labelShortAdj>麻痺之吻</rjw_genes_paralysingkiss.labelShortAdj>
+  <rjw_genes_paralysingkiss.description>基因擁有者能夠透過親吻短暫地擊暈敵人。</rjw_genes_paralysingkiss.description>
+  <rjw_genes_paralysingkiss.symbolPack.suffixSymbols.0.symbol>擊暈</rjw_genes_paralysingkiss.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_paralysingkiss.symbolPack.suffixSymbols.1.symbol>親吻</rjw_genes_paralysingkiss.symbolPack.suffixSymbols.1.symbol>
+
+  <rjw_genes_seduce.label>誘惑</rjw_genes_seduce.label>
+  <rjw_genes_seduce.labelShortAdj>誘惑</rjw_genes_seduce.labelShortAdj>
+  <rjw_genes_seduce.description>基因擁有者能夠引誘人物與他們發生性關係。</rjw_genes_seduce.description>
+  <rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>擊暈</rjw_genes_seduce.symbolPack.suffixSymbols.0.symbol>
+  <rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>親吻</rjw_genes_seduce.symbolPack.suffixSymbols.1.symbol>
+
+  <rjw_genes_naked_prowess.label>裸體之力</rjw_genes_naked_prowess.label>
+  <rjw_genes_naked_prowess.description>基因擁有者能夠在裸體的情況下暫時增強力量與恢復力。</rjw_genes_naked_prowess.description>
+
+  <rjw_genes_cum_eater.label>精液吞噬者</rjw_genes_cum_eater.label>
+  <rjw_genes_cum_eater.description>基因擁有者能夠透過吞食精液吸收育原。這包括口交、吞食精液或吸出其他人物腹中的精液。</rjw_genes_cum_eater.description>
+
+  <rjw_genes_fertilin_absorber.label>育原吸收</rjw_genes_fertilin_absorber.label>
+  <rjw_genes_fertilin_absorber.description>基因擁有者能夠透過陰道與肛門吸收精子中的育原。</rjw_genes_fertilin_absorber.description>
+
+  <rjw_genes_lifeforce_empath.label>育原共鳴</rjw_genes_lifeforce_empath.label>
+  <rjw_genes_lifeforce_empath.description>基因擁有者在附近人物獲得性滿足時會吸收育原。小心：性飢渴的人物會讓你的共鳴失去育原！</rjw_genes_lifeforce_empath.description>
+
+  <rjw_genes_drainer.label>活力消耗者</rjw_genes_drainer.label>
+  <rjw_genes_drainer.description>基因擁有者能夠透過消耗伴侶的活力來吸收大量的育原。這是透過與不具有該基因的尚未被榨乾的人物發生性關係來被動完成的。</rjw_genes_drainer.description>
+</LanguageData>

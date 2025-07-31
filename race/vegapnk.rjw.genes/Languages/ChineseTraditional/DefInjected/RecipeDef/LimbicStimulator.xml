@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallLimbicStimulator.label>安裝邊緣系統刺激器</InstallLimbicStimulator.label>
+  <InstallLimbicStimulator.description>安裝邊緣系統刺激器。</InstallLimbicStimulator.description>
+  <InstallLimbicStimulator.jobString>安裝邊緣系統刺激器。</InstallLimbicStimulator.jobString>
+
+  <RemoveLimbicStimulator.label>移除邊緣系統刺激器</RemoveLimbicStimulator.label>
+  <RemoveLimbicStimulator.description>移除邊緣系統刺激器。</RemoveLimbicStimulator.description>
+  <RemoveLimbicStimulator.jobString>移除邊緣系統刺激器。</RemoveLimbicStimulator.jobString>
+</LanguageData>

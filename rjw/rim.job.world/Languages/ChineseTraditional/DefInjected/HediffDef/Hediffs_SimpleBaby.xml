@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_BabyState.label>兒童成長中</RJW_BabyState.label>
+  <RJW_BabyState.description>成長中的兒童。</RJW_BabyState.description>
+  <RJW_BabyState.stages.0.label>嬰兒</RJW_BabyState.stages.0.label>
+  <RJW_BabyState.stages.1.label>幼兒</RJW_BabyState.stages.1.label>
+  <RJW_BabyState.stages.2.label>兒童</RJW_BabyState.stages.2.label>
+
+  <RJW_NoManipulationFlag.label>太年輕無法工作</RJW_NoManipulationFlag.label>
+  <RJW_NoManipulationFlag.description>太年輕無法工作。</RJW_NoManipulationFlag.description>
+</LanguageData>

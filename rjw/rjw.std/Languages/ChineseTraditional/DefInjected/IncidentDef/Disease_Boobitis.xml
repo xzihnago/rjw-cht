@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Disease_Boobitis.label>乳房機械化</Disease_Boobitis.label>
+  <Disease_Boobitis.letterLabel>疾病（乳房機械化）</Disease_Boobitis.letterLabel>
+  <Disease_Boobitis.letterText>你的{0}名{1}感染了{2}。\n\n確保你有醫療床、醫生。盡可能提供他們適當的醫療、休養。\n\n下列{1}生病了</Disease_Boobitis.letterText>
+</LanguageData>

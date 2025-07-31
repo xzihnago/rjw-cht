@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialBreeding_Neutral.label>中立的</BestialBreeding_Neutral.label>
+  <BestialBreeding_Neutral.description>讓動物受孕只是生命中自然而平凡的現象。</BestialBreeding_Neutral.description>
+
+  <BestialBreeding_Encouraged.label>鼓勵的</BestialBreeding_Encouraged.label>
+  <BestialBreeding_Encouraged.description>動物配種的價值在於維持其族群數量，同時也能享受由此帶來的共同肉體愉悅。</BestialBreeding_Encouraged.description>
+
+  <BestialBreeding_Required.label>需要的</BestialBreeding_Required.label>
+  <BestialBreeding_Required.description>動物配種不僅僅是受到鼓勵，這也是維持其種群數量、透過雜交增強群體遺傳潛力以及享受繁殖帶來的肉體愉悅的重要做法。</BestialBreeding_Required.description>
+
+  <BestialBreeding_Horrible.label>駭人聽聞的</BestialBreeding_Horrible.label>
+  <BestialBreeding_Horrible.description>動物配種是一種違反自然、卑劣的行為，對動物與參與者都是一種侮辱。它除了造成腐敗和玷污之外，沒有其他用途。</BestialBreeding_Horrible.description>
+
+  <BestialBreeding_Disliked.label>討厭的</BestialBreeding_Disliked.label>
+  <BestialBreeding_Disliked.description>動物配種雖然不完全令人厭惡，但通常不受歡迎。應盡可能避免這種情況，因為有更多可接受的替代方案。</BestialBreeding_Disliked.description>
+</LanguageData>

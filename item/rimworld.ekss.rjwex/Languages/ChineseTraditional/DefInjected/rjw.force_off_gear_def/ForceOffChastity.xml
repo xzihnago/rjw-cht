@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForceOffChastityBelt.label>強行移除貞操帶</ForceOffChastityBelt.label>
+  <ForceOffChastityBelt.description>在沒有鑰匙的情況下強行取下貞操帶，會對穿戴者造成重大傷害。</ForceOffChastityBelt.description>
+  <ForceOffChastityBelt.jobString>強行移除貞操帶。</ForceOffChastityBelt.jobString>
+
+  <ForceOffChastityBeltOpen.label>強行移除貞操帶</ForceOffChastityBeltOpen.label>
+  <ForceOffChastityBeltOpen.description>在沒有鑰匙的情況下強行取下貞操帶，會對穿戴者造成重大傷害。</ForceOffChastityBeltOpen.description>
+  <ForceOffChastityBeltOpen.jobString>強行移除貞操帶。</ForceOffChastityBeltOpen.jobString>
+
+  <ForceOffChastityCage.label>強行移除貞操籠</ForceOffChastityCage.label>
+  <ForceOffChastityCage.description>在沒有鑰匙的情況下強行取下貞操籠，會對穿戴者造成重大傷害。</ForceOffChastityCage.description>
+  <ForceOffChastityCage.jobString>強行移除貞操籠</ForceOffChastityCage.jobString>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MaxSpawnAge.label>最大生成年齡</MaxSpawnAge.label>
+  <MaxSpawnAge.description>當生成幻想種族異種人物時，她們的年齡永遠不會大於這個值。\n\n預設值是當不老基因完全停止成長時。</MaxSpawnAge.description>
+  <MaxSpawnAge.valueLabel>{VALUE} 歲</MaxSpawnAge.valueLabel>
+  <MaxSpawnAge.maxValueLabel>無</MaxSpawnAge.maxValueLabel>
+  <MaxSpawnAge.oneValueLabel>{VALUE} 歲</MaxSpawnAge.oneValueLabel>
+</LanguageData>

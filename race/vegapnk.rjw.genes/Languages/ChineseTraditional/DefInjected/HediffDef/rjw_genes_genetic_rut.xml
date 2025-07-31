@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_genetic_rut.label>發情</rjw_genes_genetic_rut.label>
+  <rjw_genes_genetic_rut.description>基於基因，這個人物正在發情。</rjw_genes_genetic_rut.description>
+  <rjw_genes_genetic_rut.stages.0.label>冷靜中</rjw_genes_genetic_rut.stages.0.label>
+  <rjw_genes_genetic_rut.stages.1.label>燥熱</rjw_genes_genetic_rut.stages.1.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityAcceptance.label>獸交接受度</BestialityAcceptance.label>
+  <BestialityAcceptance.labelNoun>獸交接受度</BestialityAcceptance.labelNoun>
+  <BestialityAcceptance.description>對於獸交的舒適度與接受度。</BestialityAcceptance.description>
+  <BestialityAcceptance.stages.Unaware.label>未覺察</BestialityAcceptance.stages.Unaware.label>
+  <BestialityAcceptance.stages.Curious.label>好奇</BestialityAcceptance.stages.Curious.label>
+  <BestialityAcceptance.stages.Neutral.label>中立</BestialityAcceptance.stages.Neutral.label>
+  <BestialityAcceptance.stages.Accepting.label>接受</BestialityAcceptance.stages.Accepting.label>
+  <BestialityAcceptance.stages.Fully_Embracing.label>完全擁載</BestialityAcceptance.stages.Fully_Embracing.label>
+</LanguageData>

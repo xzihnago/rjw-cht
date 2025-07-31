@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_female_only.label>女性</rjw_genes_female_only.label>
+  <rjw_genes_female_only.description>基因擁有者只有女性。</rjw_genes_female_only.description>
+
+  <rjw_genes_male_only.label>男性</rjw_genes_male_only.label>
+  <rjw_genes_male_only.description>基因擁有者只有男性。</rjw_genes_male_only.description>
+
+  <rjw_genes_gender_fluid.label>流動性別</rjw_genes_gender_fluid.label>
+  <rjw_genes_gender_fluid.description>基因擁有者可能每天都會改變他們的生理性別。</rjw_genes_gender_fluid.description>
+
+  <rjw_genes_futa.label>扶他</rjw_genes_futa.label>
+  <rjw_genes_futa.description>基因擁有者的男性會長出額外的女性生殖器，女性會長出額外的男性生殖器。</rjw_genes_futa.description>
+
+  <rjw_genes_femboy.label>男娘</rjw_genes_femboy.label>
+  <rjw_genes_femboy.description>基因擁有者的男性儘管擁有陰莖仍被認為是女性。</rjw_genes_femboy.description>
+</LanguageData>

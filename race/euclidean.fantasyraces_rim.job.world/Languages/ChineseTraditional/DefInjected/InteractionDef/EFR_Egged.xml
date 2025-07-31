@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_Egged.label>討論獸交</EFR_Egged.label>
+  <EFR_Egged.logRulesInitiator.rulesStrings>
+    <li>r_logentry(EGG_count==1)->[INITIATOR_nameDef]植入[EGG_labelNoun]到[RECIPIENT_nameDef]的[PART_label]裡。</li>
+    <li>r_logentry(EGG_count!=1)->[INITIATOR_nameDef]植入[EGG_count]顆[EGG_labelPlural]到[RECIPIENT_nameDef]的[PART_label]裡。</li>
+  </EFR_Egged.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_HumanMilkBulk.label>合併人乳</Make_HumanMilkBulk.label>
+  <Make_HumanMilkBulk.description>合併小人乳瓶。</Make_HumanMilkBulk.description>
+  <Make_HumanMilkBulk.jobString>合併小人乳瓶。</Make_HumanMilkBulk.jobString>
+
+  <Make_HumanoidMilkBulk.label>合併類人乳</Make_HumanoidMilkBulk.label>
+  <Make_HumanoidMilkBulk.description>合併小類人乳瓶。</Make_HumanoidMilkBulk.description>
+  <Make_HumanoidMilkBulk.jobString>合併小類人乳瓶。</Make_HumanoidMilkBulk.jobString>
+</LanguageData>

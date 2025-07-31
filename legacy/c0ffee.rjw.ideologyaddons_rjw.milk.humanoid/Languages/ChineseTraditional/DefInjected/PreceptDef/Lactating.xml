@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lactating_Essential.label>必要</Lactating_Essential.label>
+  <Lactating_Essential.description>來自乳房的乳汁細膩可口。它應該定期生產和消費。泌乳中殖民者可以轉化為乳人，其產生的乳汁量是正常量的兩倍。</Lactating_Essential.description>
+  <Lactating_Essential.comps.1.description>大乳房必須產奶</Lactating_Essential.comps.1.description>
+
+  <Lactating_MandatoryHucow.label>需要（強制乳人）</Lactating_MandatoryHucow.label>
+  <Lactating_MandatoryHucow.description>母乳是最天然的食糧。對於所有大胸部來說，最大限度的泌乳和成為乳人是一種責任。不生產母乳或不吃包含母乳的餐點是不可想像的。</Lactating_MandatoryHucow.description>
+  <Lactating_MandatoryHucow.comps.1.description>擁有大乳房的殖民者必須成為乳人</Lactating_MandatoryHucow.comps.1.description>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lactating_MandatoryHucow.stages.0.label>生產乳汁（乳人）</Lactating_MandatoryHucow.stages.0.label>
+  <Lactating_MandatoryHucow.stages.0.description>看著人們滿意的表情喝下我的母乳，讓我有一種母親般的自豪感。我是殖民地的乳牛。哞！</Lactating_MandatoryHucow.stages.0.description>
+  <Lactating_MandatoryHucow.stages.1.label>生產乳汁</Lactating_MandatoryHucow.stages.1.label>
+  <Lactating_MandatoryHucow.stages.1.description>我正在產奶，但我還不是一頭乳牛。</Lactating_MandatoryHucow.stages.1.description>
+  <Lactating_MandatoryHucow.stages.2.label>未生產乳汁</Lactating_MandatoryHucow.stages.2.label>
+  <Lactating_MandatoryHucow.stages.2.description>想到我的乳房在我們最需要的時候卻無法分泌乳汁，我感到很痛苦。</Lactating_MandatoryHucow.stages.2.description>
+  <Lactating_MandatoryHucow.stages.3.label>未生產乳汁</Lactating_MandatoryHucow.stages.3.label>
+  <Lactating_MandatoryHucow.stages.3.description>我的奶水已經乾了。我很尷尬，我想我無法在公共場合露面。</Lactating_MandatoryHucow.stages.3.description>
+  <Lactating_MandatoryHucow.stages.4.label>未生產乳汁</Lactating_MandatoryHucow.stages.4.label>
+  <Lactating_MandatoryHucow.stages.4.description>如果我有乳房但無法擠出乳汁，我的意義是什麼？我太沒用了！</Lactating_MandatoryHucow.stages.4.description>
+
+  <Lactating_MandatoryHucow_Social.stages.0.label>乳人</Lactating_MandatoryHucow_Social.stages.0.label>
+  <Lactating_MandatoryHucow_Social.stages.1.label>生產乳汁</Lactating_MandatoryHucow_Social.stages.1.label>
+  <Lactating_MandatoryHucow_Social.stages.2.label>未生產乳汁（低期望）</Lactating_MandatoryHucow_Social.stages.2.label>
+  <Lactating_MandatoryHucow_Social.stages.3.label>未生產乳汁（中期望）</Lactating_MandatoryHucow_Social.stages.3.label>
+  <Lactating_MandatoryHucow_Social.stages.4.label>未生產乳汁（高期望）</Lactating_MandatoryHucow_Social.stages.4.label>
+</LanguageData>

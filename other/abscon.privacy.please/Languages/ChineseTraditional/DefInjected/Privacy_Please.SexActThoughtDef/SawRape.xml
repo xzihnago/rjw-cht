@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SawRape_Abhorrent.stages.0.label>被強姦嚇壞了</SawRape_Abhorrent.stages.0.label>
+  <SawRape_Abhorrent.stages.0.description>天啊…這不可能真的發生…</SawRape_Abhorrent.stages.0.description>
+
+  <SawRape_Horrible.stages.0.label>受到強姦的困擾</SawRape_Horrible.stages.0.label>
+  <SawRape_Horrible.stages.0.description>怎麼…他們怎麼可以這樣侵犯一個人？</SawRape_Horrible.stages.0.description>
+
+  <SawRape_Disapproved.stages.0.label>對強姦失望</SawRape_Disapproved.stages.0.label>
+  <SawRape_Disapproved.stages.0.description>這真的是這裡的生活嗎？</SawRape_Disapproved.stages.0.description>
+
+  <SawRape_Acceptable.stages.0.label>目擊強姦</SawRape_Acceptable.stages.0.label>
+  <SawRape_Acceptable.stages.0.description>哦。嗯。繼續…？</SawRape_Acceptable.stages.0.description>
+
+  <SawRape_Honorable.stages.0.label>核准強姦</SawRape_Honorable.stages.0.label>
+  <SawRape_Honorable.stages.0.description>強者將蹂躪弱者。</SawRape_Honorable.stages.0.description>
+</LanguageData>

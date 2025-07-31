@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stargar.label>星之守護者</Stargar.label>
+  <Stargar.description>這些服裝曾經是星之守護者的象徵，現在卻只是菁英妓女的象徵。</Stargar.description>
+
+  <SSA_HeavyCombatArmor.label>重型戰鬥裝甲</SSA_HeavyCombatArmor.label>
+  <SSA_HeavyCombatArmor.description>全套戰鬥裝甲。世界大戰期間，舊世界武裝部隊發放了戰鬥裝甲。現在它服務於 Rimworld 中所有類型的士兵。</SSA_HeavyCombatArmor.description>
+
+  <Fallarmory_MediumCombatArmor.label>中型戰鬥裝甲</Fallarmory_MediumCombatArmor.label>
+  <Fallarmory_MediumCombatArmor.description>中型版戰鬥裝甲。世界大戰期間，舊世界武裝部隊發放了戰鬥裝甲。現在它服務於 Rimworld 中所有類型的士兵。</Fallarmory_MediumCombatArmor.description>
+</LanguageData>

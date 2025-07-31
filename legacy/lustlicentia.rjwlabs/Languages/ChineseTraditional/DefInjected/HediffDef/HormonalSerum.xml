@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HormonalSerumAddiction.label>荷爾蒙血清成癮</HormonalSerumAddiction.label>
+  <HormonalSerumAddiction.description>長期服用荷爾蒙血清會造成細胞內的神經適應荷爾蒙血清，導致大腦沒有荷爾蒙血清的話就無法運作。\n\n如果沒有定期服用荷爾蒙血清，戒斷反應就會開始。然而，長時間的戒斷會迫使大腦恢復正常狀態，解決成癮問題。</HormonalSerumAddiction.description>
+  <HormonalSerumAddiction.stages.withdrawal.label>戒斷</HormonalSerumAddiction.stages.withdrawal.label>
+
+  <HormonalSerumHigh.label>荷爾蒙扭曲</HormonalSerumHigh.label>
+  <HormonalSerumHigh.labelNoun>荷爾蒙之熱</HormonalSerumHigh.labelNoun>
+  <HormonalSerumHigh.description>荷爾蒙扭曲</HormonalSerumHigh.description>
+
+  <HormonalSerumTolerance.label>荷爾蒙血清耐受</HormonalSerumTolerance.label>
+  <HormonalSerumTolerance.description>對荷爾蒙血清的耐受性。耐受性越嚴重，達到同樣效果所需要的荷爾蒙血清也就越多。</HormonalSerumTolerance.description>
+</LanguageData>

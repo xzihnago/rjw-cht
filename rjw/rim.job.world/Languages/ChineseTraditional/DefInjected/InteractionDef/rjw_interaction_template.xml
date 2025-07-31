@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_interaction_template.label>RJW交互模板</rjw_interaction_template.label>
+  <rjw_interaction_template.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</rjw_interaction_template.logRulesInitiator.rulesStrings.0>
+  <rjw_interaction_template.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</rjw_interaction_template.logRulesRecipient.rulesStrings.0>
+</LanguageData>

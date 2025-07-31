@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_IsWhore.headerTip>性工作者</RJW_IsWhore.headerTip>
+
+  <RJW_PriceRangeOfWhore.label>價格</RJW_PriceRangeOfWhore.label>
+  <RJW_PriceRangeOfWhore.headerTip>性交易價格區間</RJW_PriceRangeOfWhore.headerTip>
+
+  <RJW_EarnedMoneyByWhore.label>收入</RJW_EarnedMoneyByWhore.label>
+  <RJW_EarnedMoneyByWhore.headerTip>收入（總計）</RJW_EarnedMoneyByWhore.headerTip>
+
+  <RJW_CountOfWhore.label>顧客</RJW_CountOfWhore.label>
+  <RJW_CountOfWhore.headerTip>服務過的顧客</RJW_CountOfWhore.headerTip>
+
+  <RJW_AverageMoneyByWhore.label>平均</RJW_AverageMoneyByWhore.label>
+  <RJW_AverageMoneyByWhore.headerTip>收入（平均）</RJW_AverageMoneyByWhore.headerTip>
+
+  <RJW_WhoreMood.label>心情</RJW_WhoreMood.label>
+  <RJW_WhoreMood.headerTip>人物心情</RJW_WhoreMood.headerTip>
+
+  <RJW_WhoringPregnancy.label>懷孕</RJW_WhoringPregnancy.label>
+  <RJW_WhoringPregnancy.headerTip>嘗試：避免陰道性交以外的任何行為\n\n正常：無偏好\n\n避免：如果手邊沒有保險套，請避免陰道性交</RJW_WhoringPregnancy.headerTip>
+
+  <RJW_WhoringCondom.label>避孕套</RJW_WhoringCondom.label>
+  <RJW_WhoringCondom.headerTip>總是：沒有保險套就不能賣淫，至少攜帶 5 個。\n\n正常：如果有手邊就使用\n\n從不：不會在賣淫時使用，不會攜帶保險套</RJW_WhoringCondom.headerTip>
+
+  <RJW_WhoringPayment.label>付款方式</RJW_WhoringPayment.label>
+  <RJW_WhoringPayment.headerTip>用性換取利益</RJW_WhoringPayment.headerTip>
+</LanguageData>

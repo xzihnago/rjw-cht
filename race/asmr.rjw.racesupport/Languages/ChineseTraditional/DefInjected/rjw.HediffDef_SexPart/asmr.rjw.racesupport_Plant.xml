@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CactoidBreasts.label>仙人掌乳房</CactoidBreasts.label>
+  <CactoidBreasts.labelNoun>仙人掌乳房</CactoidBreasts.labelNoun>
+  <CactoidBreasts.description>一對粗糙如植物般的乳房，周圍佈滿荊棘，以及如花朵般的乳頭。</CactoidBreasts.description>
+  <CactoidBreasts.stages.0.label>平坦</CactoidBreasts.stages.0.label>
+  <CactoidBreasts.stages.1.label>微隆</CactoidBreasts.stages.1.label>
+  <CactoidBreasts.stages.2.label>小巧</CactoidBreasts.stages.2.label>
+  <CactoidBreasts.stages.3.label>普通</CactoidBreasts.stages.3.label>
+  <CactoidBreasts.stages.4.label>較大</CactoidBreasts.stages.4.label>
+  <CactoidBreasts.stages.5.label>巨大</CactoidBreasts.stages.5.label>
+  <CactoidBreasts.stages.6.label>龐大</CactoidBreasts.stages.6.label>
+  <CactoidBreasts.stages.7.label>極大</CactoidBreasts.stages.7.label>
+  <CactoidBreasts.stages.8.label>巨人</CactoidBreasts.stages.8.label>
+  <CactoidBreasts.stages.9.label>巨像</CactoidBreasts.stages.9.label>
+  <CactoidBreasts.stages.10.label>泰坦</CactoidBreasts.stages.10.label>
+  <CactoidBreasts.stages.11.label>天體</CactoidBreasts.stages.11.label>
+
+  <CactoidPenis.label>仙人掌陰莖</CactoidPenis.label>
+  <CactoidPenis.labelNoun>仙人掌陰莖</CactoidPenis.labelNoun>
+  <CactoidPenis.description>一根粗糙的植物狀陰莖，陰莖上有刺。</CactoidPenis.description>
+  <CactoidPenis.stages.0.label>微小</CactoidPenis.stages.0.label>
+  <CactoidPenis.stages.1.label>小</CactoidPenis.stages.1.label>
+  <CactoidPenis.stages.2.label>普通</CactoidPenis.stages.2.label>
+  <CactoidPenis.stages.3.label>大</CactoidPenis.stages.3.label>
+  <CactoidPenis.stages.4.label>巨大</CactoidPenis.stages.4.label>
+  <CactoidPenis.stages.5.label>參天</CactoidPenis.stages.5.label>
+
+  <CactoidVagina.label>仙人掌陰道</CactoidVagina.label>
+  <CactoidVagina.labelNoun>仙人掌陰道</CactoidVagina.labelNoun>
+  <CactoidVagina.description>一個粗糙的植物狀陰道，內壁佈滿刺。在性交過程中，荊棘會刺住男性生殖器。</CactoidVagina.description>
+  <CactoidVagina.stages.0.label>過窄</CactoidVagina.stages.0.label>
+  <CactoidVagina.stages.1.label>緊</CactoidVagina.stages.1.label>
+  <CactoidVagina.stages.2.label>普通</CactoidVagina.stages.2.label>
+  <CactoidVagina.stages.3.label>鬆</CactoidVagina.stages.3.label>
+  <CactoidVagina.stages.4.label>過鬆</CactoidVagina.stages.4.label>
+  <CactoidVagina.stages.5.label>深淵</CactoidVagina.stages.5.label>
+
+  <CactoidAnus.label>仙人掌肛門</CactoidAnus.label>
+  <CactoidAnus.labelNoun>仙人掌肛門</CactoidAnus.labelNoun>
+  <CactoidAnus.description>一個粗糙的植物狀肛門。這次沒有刺。</CactoidAnus.description>
+  <CactoidAnus.stages.0.label>過窄</CactoidAnus.stages.0.label>
+  <CactoidAnus.stages.1.label>緊</CactoidAnus.stages.1.label>
+  <CactoidAnus.stages.2.label>普通</CactoidAnus.stages.2.label>
+  <CactoidAnus.stages.3.label>鬆</CactoidAnus.stages.3.label>
+  <CactoidAnus.stages.4.label>過鬆</CactoidAnus.stages.4.label>
+  <CactoidAnus.stages.5.label>深淵</CactoidAnus.stages.5.label>
+
+
+  <AntherPenis.label>花藥</AntherPenis.label>
+  <AntherPenis.labelNoun>花藥</AntherPenis.labelNoun>
+  <AntherPenis.description>一個花的雄性生殖器官。細長的花絲，頂端有一個大的花粉產生頭。</AntherPenis.description>
+  <AntherPenis.stages.0.label>微小</AntherPenis.stages.0.label>
+  <AntherPenis.stages.1.label>小</AntherPenis.stages.1.label>
+  <AntherPenis.stages.2.label>普通</AntherPenis.stages.2.label>
+  <AntherPenis.stages.3.label>大</AntherPenis.stages.3.label>
+  <AntherPenis.stages.4.label>巨大</AntherPenis.stages.4.label>
+  <AntherPenis.stages.5.label>參天</AntherPenis.stages.5.label>
+
+  <PistilVagina.label>雌蕊</PistilVagina.label>
+  <PistilVagina.labelNoun>雌蕊</PistilVagina.labelNoun>
+  <PistilVagina.description>一個花的雌性生殖器官。黏性入口透過長管狀結構與子房相連。</PistilVagina.description>
+  <PistilVagina.stages.0.label>過窄</PistilVagina.stages.0.label>
+  <PistilVagina.stages.1.label>緊</PistilVagina.stages.1.label>
+  <PistilVagina.stages.2.label>普通</PistilVagina.stages.2.label>
+  <PistilVagina.stages.3.label>鬆</PistilVagina.stages.3.label>
+  <PistilVagina.stages.4.label>過鬆</PistilVagina.stages.4.label>
+  <PistilVagina.stages.5.label>深淵</PistilVagina.stages.5.label>
+
+
+  <VinePenis.label>藤蔓</VinePenis.label>
+  <VinePenis.labelNoun>藤蔓</VinePenis.labelNoun>
+  <VinePenis.description>一團藤蔓，應該是陰莖。</VinePenis.description>
+  <VinePenis.stages.0.label>微小</VinePenis.stages.0.label>
+  <VinePenis.stages.1.label>小</VinePenis.stages.1.label>
+  <VinePenis.stages.2.label>普通</VinePenis.stages.2.label>
+  <VinePenis.stages.3.label>大</VinePenis.stages.3.label>
+  <VinePenis.stages.4.label>巨大</VinePenis.stages.4.label>
+  <VinePenis.stages.5.label>參天</VinePenis.stages.5.label>
+
+
+  <TreeBreasts.label>樹皮乳房</TreeBreasts.label>
+  <TreeBreasts.labelNoun>樹皮乳房</TreeBreasts.labelNoun>
+  <TreeBreasts.description>一對自然生長的木質乳房。堅硬的樹皮覆蓋了整個外部，而乳頭則暴露在外。</TreeBreasts.description>
+  <TreeBreasts.stages.0.label>平坦</TreeBreasts.stages.0.label>
+  <TreeBreasts.stages.1.label>微隆</TreeBreasts.stages.1.label>
+  <TreeBreasts.stages.2.label>小巧</TreeBreasts.stages.2.label>
+  <TreeBreasts.stages.3.label>普通</TreeBreasts.stages.3.label>
+  <TreeBreasts.stages.4.label>較大</TreeBreasts.stages.4.label>
+  <TreeBreasts.stages.5.label>巨大</TreeBreasts.stages.5.label>
+  <TreeBreasts.stages.6.label>龐大</TreeBreasts.stages.6.label>
+  <TreeBreasts.stages.7.label>極大</TreeBreasts.stages.7.label>
+  <TreeBreasts.stages.8.label>巨人</TreeBreasts.stages.8.label>
+  <TreeBreasts.stages.9.label>巨像</TreeBreasts.stages.9.label>
+  <TreeBreasts.stages.10.label>泰坦</TreeBreasts.stages.10.label>
+  <TreeBreasts.stages.11.label>天體</TreeBreasts.stages.11.label>
+
+  <TreePenis.label>樹皮陰莖</TreePenis.label>
+  <TreePenis.labelNoun>樹皮陰莖</TreePenis.labelNoun>
+  <TreePenis.description>一根自然生長的木質陰莖。睪丸完全被堅硬的木質樹皮覆蓋，而陰莖柱的質感較軟，尖端未被覆蓋。</TreePenis.description>
+  <TreePenis.stages.0.label>微小</TreePenis.stages.0.label>
+  <TreePenis.stages.1.label>小</TreePenis.stages.1.label>
+  <TreePenis.stages.2.label>普通</TreePenis.stages.2.label>
+  <TreePenis.stages.3.label>大</TreePenis.stages.3.label>
+  <TreePenis.stages.4.label>巨大</TreePenis.stages.4.label>
+  <TreePenis.stages.5.label>參天</TreePenis.stages.5.label>
+
+  <TreeVagina.label>樹皮陰道</TreeVagina.label>
+  <TreeVagina.labelNoun>樹皮陰道</TreeVagina.labelNoun>
+  <TreeVagina.description>一個自然生長的木質陰道。雖然外表看起來像樹皮，但裡面卻很柔軟。</TreeVagina.description>
+  <TreeVagina.stages.0.label>過窄</TreeVagina.stages.0.label>
+  <TreeVagina.stages.1.label>緊</TreeVagina.stages.1.label>
+  <TreeVagina.stages.2.label>普通</TreeVagina.stages.2.label>
+  <TreeVagina.stages.3.label>鬆</TreeVagina.stages.3.label>
+  <TreeVagina.stages.4.label>過鬆</TreeVagina.stages.4.label>
+  <TreeVagina.stages.5.label>深淵</TreeVagina.stages.5.label>
+
+  <TreeAnus.label>樹皮肛門</TreeAnus.label>
+  <TreeAnus.labelNoun>樹皮肛門</TreeAnus.labelNoun>
+  <TreeAnus.description>一個自然生長的木質肛門。雖然外表看起來像樹皮，但裡面卻很柔軟。</TreeAnus.description>
+  <TreeAnus.stages.0.label>過窄</TreeAnus.stages.0.label>
+  <TreeAnus.stages.1.label>緊</TreeAnus.stages.1.label>
+  <TreeAnus.stages.2.label>普通</TreeAnus.stages.2.label>
+  <TreeAnus.stages.3.label>鬆</TreeAnus.stages.3.label>
+  <TreeAnus.stages.4.label>過鬆</TreeAnus.stages.4.label>
+  <TreeAnus.stages.5.label>深淵</TreeAnus.stages.5.label>
+</LanguageData>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings-->
+  <RJWSettingsOne>RJW - 基礎設定</RJWSettingsOne>
+  <NymphTamed>流鶯加入</NymphTamed>
+  <NymphTamed_desc>生成帶有「性愛成癮」特性的角色加入殖民地。</NymphTamed_desc>
+  <NymphWild>流鶯襲擊</NymphWild>
+  <NymphWild_desc>生成帶有「性愛成癮」特性的角色襲擊殖民地。</NymphWild_desc>
+  <NymphRaidEasy>流鶯襲擊（簡單）</NymphRaidEasy>
+  <NymphRaidEasy_desc>流鶯決定去你的地盤「參觀」一番。\n基礎機率為 10%</NymphRaidEasy_desc>
+  <NymphRaidHard>流鶯襲擊（困難）</NymphRaidHard>
+  <NymphRaidHard_desc>流鶯認定這裡現在是她們的地盤了。\n（遊戲結束）\n基礎機率為 1%</NymphRaidHard_desc>
+  <NymphRaidRP>貧弱的流鶯襲擊</NymphRaidRP>
+  <NymphRaidRP_desc>流鶯襲擊將切換為使用襲擊點數，以幫助那些認為流鶯襲擊過於困難的人。</NymphRaidRP_desc>
+  <NymphPermanentManhunter>流鶯永久獵殺狀態</NymphPermanentManhunter>
+  <NymphPermanentManhunter_desc>流鶯襲擊時帶有永久的獵殺狀態。</NymphPermanentManhunter_desc>
+  <NymphSappers>流鶯工兵</NymphSappers>
+  <NymphSappers_desc>咚咚咚！我能聞到你在門後的發情氣味！你可以跑，但你無處可躲！</NymphSappers_desc>
+  <NymphFrustratedRape>流鶯性飢渴時強暴。</NymphFrustratedRape>
+  <NymphFrustratedRape_desc>當流鶯感到性飢渴並且沒有伴侶時，她們會隨機強暴某人/某物。</NymphFrustratedRape_desc>
+
+  <FemaleFuta>允許扶他</FemaleFuta>
+  <FemaleFuta_desc>生成女性時帶有陰莖。</FemaleFuta_desc>
+  <MaleTrap>允許偽娘</MaleTrap>
+  <MaleTrap_desc>生成男性時帶有乳房。</MaleTrap_desc>
+  <male_nymph_chance>男性流鶯出現頻率</male_nymph_chance>
+  <male_nymph_chance_desc>男性流鶯出現頻率\n有效範圍：0-100\n預設值：0。</male_nymph_chance_desc>
+  <futa_nymph_chance>扶他 / 偽娘流鶯出現頻率</futa_nymph_chance>
+  <futa_nymph_chance_desc>扶他 / 偽娘流鶯出現頻率\n有效範圍：0-100\n預設值：0。</futa_nymph_chance_desc>
+  <futa_natives_chance>扶他 / 偽娘土著出現頻率</futa_natives_chance>
+  <futa_natives_chance_desc>扶他 / 偽娘土著（工業時代及以下）出現頻率\n有效範圍：0-100\n預設值：0。</futa_natives_chance_desc>
+  <futa_spacers_chance>扶他 / 偽娘太空民出現頻率</futa_spacers_chance>
+  <futa_spacers_chance_desc>扶他 / 偽娘太空民出現頻率\n有效範圍：0-100\n預設值：5。</futa_spacers_chance_desc>
+
+  <sexneed_decay_rate_name>性需求衰減倍率</sexneed_decay_rate_name>
+  <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。\n建議範圍：50% 至 200%</sexneed_decay_rate_desc>
+  <sexneed_fix_name>性需求修正</sexneed_fix_name>
+  <sexneed_fix_desc>修正不正確的性需求閾值，顯著減少性愛與強姦的觸發。</sexneed_fix_desc>
+  <Animal_mating_cooldown>動物交配冷卻時間</Animal_mating_cooldown>
+  <Animal_mating_cooldown_desc>動物在交配間的間隔時長。\n0 - 由性需求主導</Animal_mating_cooldown_desc>
+  <AllowYouthSex>允許青少年性愛</AllowYouthSex>
+  <AllowYouthSex_desc>人物在進入可生殖年齡後便可性交，無須等待其成長值達到 100%</AllowYouthSex_desc>
+  <!-- obsolete -->
+  <sex_age_legacymode>舊版性愛年齡限制</sex_age_legacymode>
+  <sex_age_legacymode_desc>舊版性愛年齡限制專為人類設計，對預期壽命與人類不同的種族容易造成問題。但是 ppl 希望保留這個選項，所以它在這。\n停用此選項時，種族的可生殖年齡將會作為青少年的界線，成長值達到 100% 時為成年。</sex_age_legacymode_desc>
+  <SexMinimumAge>最低性愛年齡</SexMinimumAge>
+  <SexMinimumAge_desc>未達到該年齡的人物將不會進行任何性行為。</SexMinimumAge_desc>
+  <SexFreeForAllAge>自由性愛年齡</SexFreeForAllAge>
+  <SexFreeForAllAge_desc>未達到該年齡的人物只會與年齡相差２歲以內的人物發生性關係。</SexFreeForAllAge_desc>
+
+  <bestiality_enabled>啟用獸交</bestiality_enabled>
+  <bestiality_enabled_desc>啟用獸交行為。性慾使然。</bestiality_enabled_desc>
+  <animal_on_animal_enabled>啟用動物間性行為</animal_on_animal_enabled>
+  <animal_on_animal_enabled_desc>啟用野生動物交配。無論此設定如何，馴服的動物仍會在自己的物種內交配（原版行為）。\n啟用異種姦可以令某些動物依照你的設定懷孕。</animal_on_animal_enabled_desc>
+  <animal_on_human_enabled>啟用人獸間性行為</animal_on_human_enabled>
+  <animal_on_human_enabled_desc>允許殖民地動物發起獸交行為與人類交配。</animal_on_human_enabled_desc>
+  <necrophilia_enabled>啟用姦屍</necrophilia_enabled>
+  <necrophilia_enabled_desc>允許人物姦屍。通常只有戀屍癖的角色會這麼做，但在極端情況下總會有人飢不擇食。</necrophilia_enabled_desc>
+  <sounds_enabled>啟用 RJW 音效</sounds_enabled>
+  <sounds_enabled_desc>啟用 RJW 特定音效。\n此選項與遊戲本身的音效無關。如果遊戲被靜音，該選項不會發揮作用。</sounds_enabled_desc>
+  <sounds_sex_volume>性交音量</sounds_sex_volume>
+  <sounds_sex_volume_desc>改變性交音量。</sounds_sex_volume_desc>
+  <sounds_cum_volume>射精音量</sounds_cum_volume>
+  <sounds_cum_volume_desc>改變射精音量。</sounds_cum_volume_desc>
+  <sounds_voice_volume>語音音量</sounds_voice_volume>
+  <sounds_voice_volume_desc>改變語音音量。</sounds_voice_volume_desc>
+  <sounds_orgasm_volume>高潮音量</sounds_orgasm_volume>
+  <sounds_orgasm_volume_desc>改變高潮音量。</sounds_orgasm_volume_desc>
+  <sounds_animal_on_animal_volume>動物交配音量</sounds_animal_on_animal_volume>
+  <sounds_animal_on_animal_volume_desc>動物交配音量的額外選項。</sounds_animal_on_animal_volume_desc>
+
+  <cum_filth>啟用精液髒污</cum_filth>
+  <cum_filth_desc>性交後會產生髒污。停用該選項將降低遊戲難度，因為省去了打掃髒污的需求。</cum_filth_desc>
+
+  <RPG_hero_control_name>主角模式</RPG_hero_control_name>
+  <RPG_hero_control_desc>允許玩家設定一位人物作為自己的分身並無條件直接控制。</RPG_hero_control_desc>
+  <RPG_hero_control_HC_name>主角模式（硬核）</RPG_hero_control_HC_name>
+  <RPG_hero_control_HC_desc>硬核：玩家只能控制主角，準備些潤滑油吧，你會需要很多的。\n（適用於多人遊戲）</RPG_hero_control_HC_desc>
+  <RPG_hero_control_Ironman_name>主角模式（鐵人）</RPG_hero_control_Ironman_name>
+  <RPG_hero_control_Ironman_desc>硬核：只能設定一次主角。</RPG_hero_control_Ironman_desc>
+
+  <UseAdvancedAgeScaling>進階年齡比例</UseAdvancedAgeScaling>
+  <UseAdvancedAgeScaling_desc>對於非人類種族啟用進階年齡映射（更長或更短的生命週期）</UseAdvancedAgeScaling_desc>
+
+  <!-- Rape stuff-->
+  <designated_freewill>受制角色自由意志</designated_freewill>
+  <designated_freewill_desc>被指定為洩慾或配種的人物也可以發起性行為。</designated_freewill_desc>
+  <rape_enabled>啟用強姦</rape_enabled>
+  <rape_enabled_desc>看到喜歡的東西？盡力拿，以後你可以用它做綠帽子。</rape_enabled_desc>
+  <PrisonersBeating>爸爸揍我！</PrisonersBeating>
+  <PrisonersBeating_desc>人物會在強姦受害者時毆打他們。</PrisonersBeating_desc>
+  <GentlePrisonersBeating>前輩！請溫柔點！</GentlePrisonersBeating>
+  <GentlePrisonersBeating_desc>降低毆打傷害至 ~0-1。</GentlePrisonersBeating_desc>
+  <rape_stripping>扒光受害者</rape_stripping>
+  <rape_stripping_desc>扒光受害者（非慰安強姦 - 獸交、敵人等）</rape_stripping_desc>
+  <ColonistCanCP>允許殖民者強姦慰安者</ColonistCanCP>
+  <ColonistCanCP_desc>殖民者被允許強姦慰安者。</ColonistCanCP_desc>
+  <VisitorsCanCP>允許訪客強姦慰安者</VisitorsCanCP>
+  <VisitorsCanCP_desc>訪客可以強姦慰安者</VisitorsCanCP_desc>
+  <AnimalsCanCP>允許動物強姦慰安者</AnimalsCanCP>
+  <AnimalsCanCP_desc>允許動物強姦慰安者。需要同時啟用獸交功能。</AnimalsCanCP_desc>
+  <NonFutaWomenRaping_MaxVulnerability>女性強姦脆弱度上限</NonFutaWomenRaping_MaxVulnerability>
+  <NonFutaWomenRaping_MaxVulnerability_desc>只有脆弱度低於此值的女性才能強姦他人。\n動物的脆弱度總是 100%\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</NonFutaWomenRaping_MaxVulnerability_desc>
+  <Rapee_MinVulnerability_human>人類被強姦脆弱度下限</Rapee_MinVulnerability_human>
+  <Rapee_MinVulnerability_human_desc>脆弱度高於此值的人物將成為強姦目標。\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</Rapee_MinVulnerability_human_desc>
+  <Rapee_MinVulnerability_animals>動物被強姦脆弱度下限</Rapee_MinVulnerability_animals>
+  <Rapee_MinVulnerability_animals_desc>脆弱度高於此值的動物將成為戀獸癖的強姦目標。\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</Rapee_MinVulnerability_animals_desc>
+
+
+  <RJWSettingsFour>RJW - 約炮設定</RJWSettingsFour>
+  <SettingHookupsEnabled>啟用約炮（全體）</SettingHookupsEnabled>
+  <SettingHookupsEnabled_desc>控制單身居民是否可以與其他單身居民約炮。</SettingHookupsEnabled_desc>
+  <SettingQuickHookupsEnabled>啟用打野炮</SettingQuickHookupsEnabled>
+  <SettingQuickHookupsEnabled_desc>控制單身居民是否可以與其他單身居民打野炮。\n警告：這可能會打斷工作中的居民。</SettingQuickHookupsEnabled_desc>
+  <SettingNoHookupsDuringWorkHours>工作時間禁止約炮</SettingNoHookupsDuringWorkHours>
+  <SettingNoHookupsDuringWorkHours_desc>控制居民是否可以在工作時間約炮。\n性愛成癮特性不受此控制。</SettingNoHookupsDuringWorkHours_desc>
+  <SettingColonistsCanHookup>允許殖民者約炮</SettingColonistsCanHookup>
+  <SettingColonistsCanHookup_desc>控制是否允許殖民者約炮。</SettingColonistsCanHookup_desc>
+  <SettingColonistsCanHookupWithVisitor>殖民者可以與訪客約炮</SettingColonistsCanHookupWithVisitor>
+  <SettingColonistsCanHookupWithVisitor_desc>控制居民是否可以與來殖民地的訪客約炮。</SettingColonistsCanHookupWithVisitor_desc>
+  <SettingCanHookupWithPrisoner>非俘虜可以與俘虜約炮</SettingCanHookupWithPrisoner>
+  <SettingCanHookupWithPrisoner_desc>控制非俘虜是否可以與俘虜約炮。\n這不受慰安者的設定影響，雙方都是自願的。</SettingCanHookupWithPrisoner_desc>
+  <SettingVisitorsCanHookupWithColonists>訪客可以與殖民者約炮</SettingVisitorsCanHookupWithColonists>
+  <SettingVisitorsCanHookupWithColonists_desc>控制訪客是否可以與殖民者約炮。</SettingVisitorsCanHookupWithColonists_desc>
+  <SettingVisitorsCanHookupWithVisitors>訪客可以與其他訪客約炮</SettingVisitorsCanHookupWithVisitors>
+  <SettingVisitorsCanHookupWithVisitors_desc>控制訪客是否可以與其他訪客約炮。</SettingVisitorsCanHookupWithVisitors_desc>
+  <SettingPrisonersCanHookupWithNonPrisoner>俘虜可以與殖民者約炮</SettingPrisonersCanHookupWithNonPrisoner>
+  <SettingPrisonersCanHookupWithNonPrisoner_desc>控制俘虜是否可以與非俘虜約炮。\n所有居民包括俘虜只能與他們能接觸到的人發生性關係，所以如果俘虜不能離開他們的牢房，該選項沒有意義。</SettingPrisonersCanHookupWithNonPrisoner_desc>
+  <SettingPrisonersCanHookupWithPrisoner>俘虜可以與俘虜約炮</SettingPrisonersCanHookupWithPrisoner>
+  <SettingPrisonersCanHookupWithPrisoner_desc>控制俘虜是否可以與俘虜約炮。\n所有居民包括俘虜只能與他們能接觸到的人發生性關係，所以如果俘虜不能離開他們的牢房，該選項沒有意義。</SettingPrisonersCanHookupWithPrisoner_desc>
+  <SettingNymphosCanPickAnyone>性愛成癮不挑對象</SettingNymphosCanPickAnyone>
+  <SettingNymphosCanPickAnyone_desc>控制性愛成癮居民是否會挑選任何人作為對象。\n他們仍然遵守下方的出軌與偷吃設定。</SettingNymphosCanPickAnyone_desc>
+  <SettingNymphosCanCheat>性愛成癮可以出軌</SettingNymphosCanCheat>
+  <SettingNymphosCanCheat_desc>控制性愛成癮居民在性飢渴時是否會出軌。</SettingNymphosCanCheat_desc>
+  <SettingNymphosCanHomewreck>性愛成癮可以偷吃</SettingNymphosCanHomewreck>
+  <SettingNymphosCanHomewreck_desc>控制性愛成癮居民是否會向已有伴侶的人約炮。</SettingNymphosCanHomewreck_desc>
+  <SettingNymphosCanHomewreckReverse>性愛成癮可以偷吃（被動）</SettingNymphosCanHomewreckReverse>
+  <SettingNymphosCanHomewreckReverse_desc>控制性愛成癮居民是否會接受已有伴侶的人約炮。</SettingNymphosCanHomewreckReverse_desc>
+  <SettingHookupChanceForNonNymphos>每小時約炮機率</SettingHookupChanceForNonNymphos>
+  <SettingHookupChanceForNonNymphos_desc>一個性飢渴的人物約炮的機率。每小時只檢查一次，並且只有人物完成目前工作時才檢查。預設值為 30%</SettingHookupChanceForNonNymphos_desc>
+  <SettingMinimumFuckabilityToHookup>約炮性能力下限</SettingMinimumFuckabilityToHookup>
+  <SettingMinimumFuckabilityToHookup_desc>控制雙方人物約炮需要的最低性能力。\n預設值為 10%</SettingMinimumFuckabilityToHookup_desc>
+  <SettingMinimumAttractivenessToHookup>約炮吸引力下限</SettingMinimumAttractivenessToHookup>
+  <SettingMinimumAttractivenessToHookup_desc>控制雙方人物約炮需要的最低吸引力。\n預設值為 50%\n性愛成癮 > 0</SettingMinimumAttractivenessToHookup_desc>
+  <SettingMinimumRelationshipToHookup>約炮看法下限</SettingMinimumRelationshipToHookup>
+  <SettingMinimumRelationshipToHookup_desc>控制雙方人物約炮需要的最低看法。\n預設值為 20\n性愛成癮 > 0</SettingMinimumRelationshipToHookup_desc>
+
+
+  <RJWDebugSettings>RJW - 除錯設定</RJWDebugSettings>
+  <!-- debug stuff-->
+  <submit_button_enabled>啟用「屈服」按鈕</submit_button_enabled>
+  <submit_button_enabled_desc>按下「屈服」按鈕以允許你逃過更致命的傷害，放任自己被強姦。\n如果你認為榮耀大於生命，那就把它關了吧。\n記住，如果你改變了想法，你可以隨時更改此選項。</submit_button_enabled_desc>
+  <RJW_designation_box>顯示 RJW 按鈕</RJW_designation_box>
+  <RJW_designation_box_desc>是否在人物控制面板上顯示 RJW 按鈕。</RJW_designation_box_desc>
+  <StackRjwParts_name>RJW 器官堆疊顯示</StackRjwParts_name>
+  <StackRjwParts_desc>將 RJW 器官堆疊顯示在人物「健康」分頁中（器官名x數量）</StackRjwParts_desc>
+  <maxDistanceCellsCasual_name>性交距離（地圖格）</maxDistanceCellsCasual_name>
+  <maxDistanceCellsCasual_desc>到達目的地/目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsCasual_desc>
+  <maxDistanceCellsRape_name>強姦距離（地圖格）</maxDistanceCellsRape_name>
+  <maxDistanceCellsRape_desc>到達目的地/目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsRape_desc>
+  <maxDistancePathCost_name>性交距離（路徑）</maxDistancePathCost_name>
+  <maxDistancePathCost_desc>人物 AI 爲了到達性交目的地/目標而考慮的最大距離。對障礙物，人物速度與地形的影響進行緩慢複雜的計算。\n預設值為 1000\n0 - 停用檢查</maxDistancePathCost_desc>
+
+  <!-- cheat stuff-->
+  <override_RJW_designation_checks_name>忽略 RJW 按鈕限制</override_RJW_designation_checks_name>
+  <override_RJW_designation_checks_desc>可以忽略限制對所有殖民者設定。\n你作弊！</override_RJW_designation_checks_desc>
+  <override_control>直接控制</override_control>
+  <override_control_desc>玩家可以手動控制性活動。\n你作弊！</override_control_desc>
+  <AddTrait_Rapist>獲得強暴犯特性</AddTrait_Rapist>
+  <AddTrait_Rapist_desc>進行 10 次以上性行為的人物有機率獲得強暴犯特性，需要其中 >12% 的性行為是強姦。\n你作弊！</AddTrait_Rapist_desc>
+  <AddTrait_Masocist>獲得受虐狂特性</AddTrait_Masocist>
+  <AddTrait_Masocist_desc>被強姦的人物有機率獲得受虐狂特性。精神崩壞後被強姦有 5% 機率獲得。\n你作弊！</AddTrait_Masocist_desc>
+  <AddTrait_Nymphomaniac>獲得性愛成癮特性</AddTrait_Nymphomaniac>
+  <AddTrait_Nymphomaniac_desc>進行 10 次以上性行為的人物有機率獲得性愛成癮特性，需要駝峰菇成癮。\n你作弊！</AddTrait_Nymphomaniac_desc>
+  <AddTrait_Necrophiliac>獲得戀屍癖特性</AddTrait_Necrophiliac>
+  <AddTrait_Necrophiliac_desc>進行 10 次以上性行為的人物有機率獲得戀屍癖特性，需要其中 >50% 的性行為是姦屍。\n你作弊！</AddTrait_Necrophiliac_desc>
+  <AddTrait_Nerves>獲得緊張特性</AddTrait_Nerves>
+  <AddTrait_Nerves_desc>被強姦的人物有機率獲得緊張特性。\n你作弊！</AddTrait_Nerves_desc>
+  <AddTrait_Zoophiliac>獲得戀獸癖特性</AddTrait_Zoophiliac>
+  <AddTrait_Zoophiliac_desc>進行 10 次以上性行為的人物有機率獲得戀獸癖特性，需要其中 >50% 的性行為是獸交。\n你作弊！</AddTrait_Zoophiliac_desc>
+  <AddTrait_FootSlut>獲得戀足癖特性</AddTrait_FootSlut>
+  <AddTrait_FootSlut_desc>進行 10 次以上性行為的人物有機率獲得戀足癖特性，需要進行足交。\n你作弊！</AddTrait_FootSlut_desc>
+  <AddTrait_CumSlut>獲得口交癖特性</AddTrait_CumSlut>
+  <AddTrait_CumSlut_desc>進行 10 次以上性行為的人物有機率獲得口交癖特性，需要進行口交。\n你作弊！</AddTrait_CumSlut_desc>
+  <AddTrait_ButtSlut>獲得肛交癖特性</AddTrait_ButtSlut>
+  <AddTrait_ButtSlut_desc>進行 10 次以上性行為的人物有機率獲得肛交癖特性，需要進行肛交。\n你作弊！</AddTrait_ButtSlut_desc>
+  <Allow_RMB_DeepTalk>右鍵談話</Allow_RMB_DeepTalk>
+  <Allow_RMB_DeepTalk_desc>允許談話互動（+12 看法）\n你作弊！</Allow_RMB_DeepTalk_desc>
+  <Disable_bestiality_pregnancy_relations>停用獸交後代關係</Disable_bestiality_pregnancy_relations>
+  <Disable_bestiality_pregnancy_relations_desc>停用獸交懷孕的關係（母親 / 父親 / 兄弟姊妹）\n你作弊！</Disable_bestiality_pregnancy_relations_desc>
+  <Disable_egg_pregnancy_relations>停用蟲卵親戚關係</Disable_egg_pregnancy_relations>
+  <Disable_egg_pregnancy_relations_desc>停用蟲卵懷孕的關係（母親 / 父親 / 兄弟姊妹）\n你作弊！</Disable_egg_pregnancy_relations_desc>
+  <Disable_MeditationFocusDrain>停用精神力流失</Disable_MeditationFocusDrain>
+  <Disable_MeditationFocusDrain_desc>人物性飢渴時不會失去精神力。\n你作弊！</Disable_MeditationFocusDrain_desc>
+  <Disable_RecreationDrain>停用娛樂值下降</Disable_RecreationDrain>
+  <Disable_RecreationDrain_desc>當人物其癖好不被最近的性活動滿足時，娛樂值不會下降。\n你作弊！</Disable_RecreationDrain_desc>
+
+  <!-- debug stuff-->
+  <ForbidKidnap>禁止綁架</ForbidKidnap>
+  <ForbidKidnap_desc>不準綁架。</ForbidKidnap_desc>
+  <legacy_PartsAdder>舊版器官產生器</legacy_PartsAdder>
+  <legacy_PartsAdder_desc>內建器官分配器，它會嘗試根據名稱猜測原版與外星種族會使用哪些器官，如果你沒有種族支援模組，此選項可能仍然有用。</legacy_PartsAdder_desc>
+  <override_lovin>取代原版做愛</override_lovin>
+  <override_lovin_desc>用 RJW 約炮取代原版做愛。</override_lovin_desc>
+  <override_matin>取代原板交配</override_matin>
+  <override_matin_desc>用 RJW 交配取代原版交配。</override_matin_desc>
+  <matin_crossbreed>近似物種交配</matin_crossbreed>
+  <matin_crossbreed_desc>具有相同動物類型的動物（原版：犬科、樹精）將被視為同一物種並且可以互相交配。</matin_crossbreed_desc>
+  <WildMode_name>狂野模式</WildMode_name>
+  <WildMode_desc>實驗性 - 若啟用，請勿報告錯誤。\n\n無性交規則。所有的限制與前提條件都不復存在！享受最狂野的 RimWorld 吧！</WildMode_desc>
+  <HippieMode_name>嬉皮模式</HippieMode_name>
+  <HippieMode_desc>實驗性 - 若啟用，請勿報告錯誤。\n\n約炮忽略看法。</HippieMode_desc>
+  <GenderlessAsFuta_name>無性視為扶他</GenderlessAsFuta_name>
+  <GenderlessAsFuta_desc>自行承擔風險。無性人物將被設為女性，並擁有兩套生殖器。</GenderlessAsFuta_desc>
+  <DevMode_name>開發者模式</DevMode_name>
+  <DevMode_desc>啟用 RimJobWorld 日誌記錄與其他功能。您通常不會想要啟用此功能。</DevMode_desc>
+  <DebugLogJoinInBed>約炮除錯資訊</DebugLogJoinInBed>
+  <DebugLogJoinInBed_desc>啟用一些非常繁瑣的除錯日誌來協助尋找 JoinInBed 行為中的錯誤。\n只有開發人員（或幫助他們查找錯誤的人）才應該啟用此功能。</DebugLogJoinInBed_desc>
+  <DebugRape>強姦除錯資訊</DebugRape>
+  <DebugRape_desc>啟用一些非常繁瑣的除錯日誌來協助尋找強姦行為中的錯誤。\n只有開發人員（或幫助他們查找錯誤的人）才應該啟用此功能。</DebugRape_desc>
+  <DebugInteraction>互動除錯資訊</DebugInteraction>
+  <DebugInteraction_desc>互動子模組的詳細模式。</DebugInteraction_desc>
+  <DebugNymph>流鶯除錯資訊</DebugNymph>
+  <DebugNymph_desc>流鶯子模組的詳細模式。</DebugNymph_desc>
+
+
+  <!-- Pregnancy stuff-->
+  <RJWSettingsTwo>RJW - 妊娠設定</RJWSettingsTwo>
+  <UseVanillaPregnancy>生機 DLC 妊娠</UseVanillaPregnancy>
+  <UseVanillaPregnancy_desc>對於人類女性的懷孕，使用生機 DLC 妊娠。</UseVanillaPregnancy_desc>
+  <RJWH_pregnancy>啟用人型生物妊娠</RJWH_pregnancy>
+  <RJWH_pregnancy_desc>啟用人類間性交後懷孕。如果你沒有生機 DLC，RJW 會使用自己的妊娠機制。</RJWH_pregnancy_desc>
+  <PregnantCoeffecientForHuman>人類懷孕機率</PregnantCoeffecientForHuman>
+  <PregnantCoeffecientForHuman_desc>人類懷孕機率百分比。\n\n有效範圍：0-100%</PregnantCoeffecientForHuman_desc>
+  <RJWB_pregnancy>允許獸交懷孕</RJWB_pregnancy>
+  <RJWB_pregnancy_desc>使用 RJW 妊娠處理人獸懷孕。</RJWB_pregnancy_desc>
+  <PregnantCoeffecientForAnimals>動物懷孕機率</PregnantCoeffecientForAnimals>
+  <PregnantCoeffecientForAnimals_desc>動物懷孕機率百分比。\n\n有效範圍：0-100%</PregnantCoeffecientForAnimals_desc>
+  <InterspeciesImpregnantionModifier>跨種族受孕修正</InterspeciesImpregnantionModifier>
+  <InterspeciesImpregnantionModifier_desc>跨種族受孕修正百分比。20% 代表機率降至同種間的五分之一，依此類推。\n\n有效範圍：0-100%</InterspeciesImpregnantionModifier_desc>
+  <UseParentMethod>DNA 遺傳</UseParentMethod>
+  <UseParentMethod_desc>開啟：嬰兒獲得父母的隨機 DNA。\n關閉：嬰兒與母親一致。</UseParentMethod_desc>
+  <OffspringLookLikeTheirMother>人型生物 DNA 遺傳</OffspringLookLikeTheirMother>
+  <OffspringLookLikeTheirMother_desc>管理人型生物的妊娠。\n100% - 出生的嬰兒總是母親的種族\n0% - 出生的嬰兒總是父親的種族\n\n有效範圍：0-100%</OffspringLookLikeTheirMother_desc>
+  <OffspringIsHuman>獸交 DNA 遺傳（母親 / 父親）</OffspringIsHuman>
+  <OffspringIsHuman_desc>管理人獸與動物間的妊娠。\n100% - 出生的嬰兒總是母親的種族\n0% - 出生的嬰兒總是父親的種族\n\n有效範圍：0-100%</OffspringIsHuman_desc>
+  <OffspringIsHuman2>獸交 DNA 遺傳（人類 / 動物）</OffspringIsHuman2>
+  <OffspringIsHuman2_desc>管理人獸間的妊娠。\n\n左側 - 出生的嬰兒總是屬於動物\n\n右側 - 出生的嬰兒總是屬於人型生物\n\n任何其他值 - 使用（母親 / 父親）模式的設定</OffspringIsHuman2_desc>
+  <RJWA_pregnancy>啟用動物妊娠</RJWA_pregnancy>
+  <RJWA_pregnancy_desc>使用 RJW 妊娠處理動物懷孕。</RJWA_pregnancy_desc>
+  <RJWA_pregnancy_notifications>啟用動物懷孕通知</RJWA_pregnancy_notifications>
+  <RJWA_pregnancy_notifications_desc>當動物懷孕、開始宮縮與健康出生時，都會發送通知。\n\n這對於擁有大型牧場的殖民地來說可能會很吵，建議停用此設定。\n\n無論此設定如何，都會發送重要通知。</RJWA_pregnancy_notifications_desc>
+  <RJWI_pregnancy>啟用卵妊娠</RJWI_pregnancy>
+  <RJWI_pregnancy_desc>使用 RJW 妊娠處理卵懷孕。</RJWI_pregnancy_desc>
+  <egg_pregnancy_implant_anyone>蟲卵植入過濾</egg_pregnancy_implant_anyone>
+  <egg_pregnancy_implant_anyone_desc>開啟：任何有雌性產卵管者都可以植入蟲卵。\n關閉：只有預定義的父類型才能植入蟲卵。</egg_pregnancy_implant_anyone_desc>
+  <egg_pregnancy_fertilize_anyone>蟲卵受精過濾</egg_pregnancy_fertilize_anyone>
+  <egg_pregnancy_fertilize_anyone_desc>開啟：任何有雄性產卵管者都可以使蟲卵受精。\n關閉：只有預定義的父類型或與植入者產卵管相同的類型才能使蟲卵受精。</egg_pregnancy_fertilize_anyone_desc>
+  <egg_pregnancy_genes>蟲卵攜帶基因</egg_pregnancy_genes>
+  <egg_pregnancy_genes_desc>允許人類間使用產卵管產下的卵正常繼承基因。</egg_pregnancy_genes_desc>
+
+  <RJWI_analPregnancy>啟用肛交蟲卵受孕</RJWI_analPregnancy>
+  <RJWI_analPregnancy_desc>允許蟲族通過肛交使人物受孕。</RJWI_analPregnancy_desc>
+  <RJWI_oralPregnancy>啟用口交蟲卵受孕</RJWI_oralPregnancy>
+  <RJWI_oralPregnancy_desc>允許蟲族通過口交使人物受孕。</RJWI_oralPregnancy_desc>
+  <RJWI_FertilizationCheck>卵孔受精過濾</RJWI_FertilizationCheck>
+  <RJWI_FertilizationCheck_desc>僅在「性交」卵孔中使卵受精。</RJWI_FertilizationCheck_desc>
+
+  <egg_pregnancy_eggs_size>卵大小倍率</egg_pregnancy_eggs_size>
+  <egg_pregnancy_eggs_size_desc>0 - 可以植入無限量的卵。</egg_pregnancy_eggs_size_desc>
+  <egg_pregnancy_ovipositor_capacity_factor>產卵管容量倍率</egg_pregnancy_ovipositor_capacity_factor>
+  <egg_pregnancy_ovipositor_capacity_factor_desc>雌性產卵管的容量倍率。</egg_pregnancy_ovipositor_capacity_factor_desc>
+
+  <MechanoidImplanting>啟用機械族植入</MechanoidImplanting>
+  <MechanoidImplanting_desc>允許機械族勘探並植入子機。</MechanoidImplanting_desc>
+  <SaferMechanoidImplanting>安全的機械植入物</SaferMechanoidImplanting>
+  <SaferMechanoidImplanting_desc>機械植入物不會殺死人物（若已進行懷孕檢查），而是對軀幹內的每個身體器官造成 5 點傷害。出生的機械族仍然處於敵對狀態。</SaferMechanoidImplanting_desc>
+
+  <genetic_trait_filter>遺傳特性過濾</genetic_trait_filter>
+  <genetic_trait_filter_desc>若啟用，rjw/Defs/NonInheritedTraits.xml 中的特性將不會繼承給下一代。否則，人人生而平等。</genetic_trait_filter_desc>
+  <max_num_momtraits_inherited>從母親遺傳的最大特性數量</max_num_momtraits_inherited>
+  <max_num_poptraits_inherited>從父親遺傳的最大特性數量</max_num_poptraits_inherited>
+
+  <RJW_fertility_endAge_male>男性不育年齡</RJW_fertility_endAge_male>
+  <RJW_fertility_endAge_male_desc>外星種族會根據生命週期進行調整。同樣的比例也用於動物與人類。</RJW_fertility_endAge_male_desc>
+  <RJW_fertility_endAge_female_humanlike>女性不孕年齡（人型生物）</RJW_fertility_endAge_female_humanlike>
+  <RJW_fertility_endAge_female_humanlike_desc>相較於大多數動物，人類女性會在生命週期的較早階段便失去生育能力。爲了平衡，所有外星種族也使用此設定。</RJW_fertility_endAge_female_humanlike_desc>
+  <RJW_fertility_endAge_female_animal>女性不孕年齡（動物）</RJW_fertility_endAge_female_animal>
+  <RJW_fertility_endAge_female_animal_desc>相較於人類，大多數雌性動物直至死前都能保持生育能力。</RJW_fertility_endAge_female_animal_desc>
+  <In_human_years>以人類年齡計</In_human_years>
+  <XofLifeExpectancy>% 之於預期壽命</XofLifeExpectancy>
+
+  <InterspeciesDisabled>跨種族已停用。</InterspeciesDisabled>
+  <InterspeciesMaximum>與同種族相同。</InterspeciesMaximum>
+  <AlwaysMother>總是母親種族。</AlwaysMother>
+  <AlwaysFather>總是父親種族。</AlwaysFather>
+  <AlwaysBeast>總是動物種族。</AlwaysBeast>
+  <AlwaysHumanlike>總是人型生物。</AlwaysHumanlike>
+  <UsesOffspringIsHuman>使用（母親 / 父親）</UsesOffspringIsHuman>
+  <ComplexImpregnation>啟用複雜跨種族懷孕計算</ComplexImpregnation>
+  <ComplexImpregnation_desc><![CDATA[啟用后，物種間的受孕機率取決於身體結構與大小的差異。
+舉例：
+  人類 / 有翼人：~95%
+  人類 / 鳥妖：~75%
+  人類 / 狗：~30%
+  人類 / 雞：~5%
+  狼 / 狗：~95%
+  狼 / 雞：~5%
+  公雞 / 鳥妖：~30%
+
+注意：基礎動物與人類懷孕設定將疊加並進一步影響這些數值。
+]]></ComplexImpregnation_desc>
+  <phantasy_pregnancy>夢幻懷孕</phantasy_pregnancy>
+  <phantasy_pregnancy_desc>世界上到處都是邪惡的納米機器，它們可以加速兒童的成長，直到其步入性成熟。\n\n對非人類與不可繁殖種族沒有影響。\n\n可能不適用於其他妊娠模組。</phantasy_pregnancy_desc>
+  <normal_pregnancy_duration>妊娠時長倍率</normal_pregnancy_duration>
+  <normal_pregnancy_duration_desc>更高 -> 更久。</normal_pregnancy_duration_desc>
+  <egg_pregnancy_duration>卵妊娠時長倍率</egg_pregnancy_duration>
+  <egg_pregnancy_duration_desc>更高 -> 更久。</egg_pregnancy_duration_desc>
+
+  <!-- sex types -->
+  <RJWSettingsThree>RJW - 性交設定</RJWSettingsThree>
+  <SexTypeFrequency>性交類型頻率：\n[越高 = 越常見]</SexTypeFrequency>
+  <vaginal>性交頻率</vaginal>
+  <vaginal_desc>性交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：120。</vaginal_desc>
+  <cunnilingus>舔陰頻率</cunnilingus>
+  <cunnilingus_desc>舔陰的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</cunnilingus_desc>
+  <anal>肛交頻率</anal>
+  <anal_desc>肛交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</anal_desc>
+  <rimming>舔肛頻率</rimming>
+  <rimming_desc>舔肛的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：40。</rimming_desc>
+  <fellatio>口交頻率</fellatio>
+  <fellatio_desc>口交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</fellatio_desc>
+  <handjob>手交頻率</handjob>
+  <handjob_desc>手交的頻率。需要能用的手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</handjob_desc>
+  <mutual_masturbation>互相自慰頻率</mutual_masturbation>
+  <mutual_masturbation_desc>互相自慰的頻率（兩個人物互相自慰）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：70。</mutual_masturbation_desc>
+  <double_penetration>兩穴齊插頻率</double_penetration>
+  <double_penetration_desc>兩穴齊插的頻率，需要同時有肛門和陰道。需要多根陰莖，如半陰莖。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：60。</double_penetration_desc>
+  <breastjob>乳交頻率</breastjob>
+  <breastjob_desc>乳交的頻率。需要一個有乳房的人物與一個有陰莖的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：50。</breastjob_desc>
+  <fingering>指交頻率</fingering>
+  <fingering_desc>指交的頻率。需要一個有陰道的人物與一個有手的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：50。</fingering_desc>
+  <scissoring>剪刀腿頻率</scissoring>
+  <scissoring_desc>剪刀式的頻率（一種交叉體位，兩人雙腿對夾互相磨陰蒂）。需要兩個人物都擁有陰道。\n\n有效範圍：1-200。\n預設值：50。</scissoring_desc>
+  <footjob>足交頻率</footjob>
+  <footjob_desc>足交的頻率（用腳刺激陰莖）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：30。</footjob_desc>
+  <fisting>拳交頻率</fisting>
+  <fisting_desc>肛門拳交的頻率（陰道拳交尚未實現）。需要一人有手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍： 1-200。\n預設值：30。</fisting_desc>
+  <sixtynine>69 頻率</sixtynine>
+  <sixtynine_desc>69 頻率（互相口交）需要兩個人物都擁有生殖器。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：69。</sixtynine_desc>
+  <FapEverywhere>隨時隨地自慰</FapEverywhere>
+  <FapEverywhere_desc>人物會隨心所欲地自慰。</FapEverywhere_desc>
+  <FapInBed>在床上自慰</FapInBed>
+  <FapInBed_desc>人物會在床上自慰。</FapInBed_desc>
+  <FapInBelts>生殖器受限可以自慰</FapInBelts>
+  <FapInBelts_desc>當人物的生殖器受限時可以自慰。</FapInBelts_desc>
+  <FapInArmbinders>手受限可以自慰</FapInArmbinders>
+  <FapInArmbinders_desc>人物可以在手受限的時候自慰。</FapInArmbinders_desc>
+
+  <Malesex>允許的男性性行為：</Malesex>
+  <FeMalesex>允許的女性性行為：</FeMalesex>
+  <AllowedSex.All>所有</AllowedSex.All>
+  <AllowedSex.Homo>同性</AllowedSex.Homo>
+  <AllowedSex.Nohomo>異性</AllowedSex.Nohomo>
+
+  <SexClothing>偏好性交衣著：</SexClothing>
+  <SexClothingNude>裸體</SexClothingNude>
+  <SexClothingHeadwear>只留頭飾</SexClothingHeadwear>
+  <SexClothingFull>穿戴整齊</SexClothingFull>
+
+  <RapeAttemptAlert>嘗試強姦警告：</RapeAttemptAlert>
+  <RapeAttemptAlertAlways>總是啟用</RapeAttemptAlertAlways>
+  <RapeAttemptAlertHumanlike>僅當目標為人型生物時</RapeAttemptAlertHumanlike>
+  <RapeAttemptAlertColonist>僅當目標為殖民者時</RapeAttemptAlertColonist>
+  <RapeAttemptAlertSilent>僅顯示通知</RapeAttemptAlertSilent>
+  <RapeAttemptAlertDisabled>停用</RapeAttemptAlertDisabled>
+
+  <RapeAlert>強姦警告：</RapeAlert>
+  <RapeAlertAlways>始終啟用</RapeAlertAlways>
+  <RapeAlertHumanlike>僅當目標為人型生物</RapeAlertHumanlike>
+  <RapeAlertColonist>僅當目標為殖民者時</RapeAlertColonist>
+  <RapeAlertSilent>僅顯示通知</RapeAlertSilent>
+  <RapeAlertDisabled>停用</RapeAlertDisabled>
+
+  <RapeAlertCP>慰安警告</RapeAlertCP>
+  <RapeAlertCP_desc>當慰安目標被強姦時顯示警告。</RapeAlertCP_desc>
+  <RapeAlertBreeding>配種警報</RapeAlertBreeding>
+  <RapeAlertBreeding_desc>當配種目標被強姦時顯示警告。</RapeAlertBreeding_desc>
+
+  <SexualitySpread1>性取向來源：</SexualitySpread1>
+  <SexualitySpread2>RJW 性取向傳播。\n這只用於性愛！\n對看法沒有影響</SexualitySpread2>
+  <SexualitySpreadVanilla>[從原版匯入]</SexualitySpreadVanilla>
+  <SexualitySpreadPsychology>[從 Psychology 模組匯入]</SexualitySpreadPsychology>
+  <SexualitySpreadIndividuality>[從 [SYR]Individuality 模組匯入]</SexualitySpreadIndividuality>
+
+  <SexualityAsexual>無性戀：</SexualityAsexual>
+  <SexualityPansexual>泛性戀：</SexualityPansexual>
+  <SexualityHeterosexual>異性戀：</SexualityHeterosexual>
+  <SexualityBisexual>雙性戀：</SexualityBisexual>
+  <SexualityGay>同性戀：</SexualityGay>
+
+  <SexualityAsexual_desc>性慾低下或不存在，通常對性愛不感興趣。</SexualityAsexual_desc>
+  <SexualityPansexual_desc>泛性戀者完全無視性別。</SexualityPansexual_desc>
+  <SexualityHeterosexual_desc>異性戀者被「相反的」性別吸引。</SexualityHeterosexual_desc>
+  <SexualityBisexual_desc>雙性戀者被男性與女性吸引。</SexualityBisexual_desc>
+  <SexualityGay_desc>同性戀者被相同的性別吸引。</SexualityGay_desc>
+
+  <MaxQuirks>最大怪癖數量</MaxQuirks>
+  <MaxQuirks_desc>建立人物時可以得到的最多怪癖。</MaxQuirks_desc>
+
+  <SendTraitGainLetters>性癖特性通知</SendTraitGainLetters>
+  <SendTraitGainLetters_desc>啟用當人物獲得性癖特性時接收通知。無論此設定如何，不重要的人物（例如商隊）都不會觸發通知。</SendTraitGainLetters_desc>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Fertilin strings -->
+  <AbilityDisabledNoFertilinGene>人物不具備必需的育原性基因。</AbilityDisabledNoFertilinGene>
+  <AbilityDisabledNoFertilin>育原量不足以進行。</AbilityDisabledNoFertilin>
+  <MentalBreakNoFertilin>因為育原量低而發生這種情況。</MentalBreakNoFertilin>
+
+  <AlertLowFertilin>育原量低</AlertLowFertilin>
+  <AlertLowFertilinDesc>有殖民者的育原量低。此時，他們變得絕望到會考慮透過強暴與獸交來獲得育原（如果他們還沒有這樣做的話）。若育原量降至零，他們會失去所有知覺並開始隨機強姦</AlertLowFertilinDesc>
+
+  <!--Succubus Events-->
+  <SuccubusLeaving>{0}已經吃夠了你的殖民者，現在將離開。</SuccubusLeaving>
+
+  <rjw_genes_sexdemon_visit_incident_label>汙穢的夢</rjw_genes_sexdemon_visit_incident_label>
+  <rjw_genes_sexdemon_visit_incident_description>你的殖民者的汙穢的夢吸引了性魔。\n\n他們會在附近閒晃幾天，試圖誘惑你的殖民者。如果他們對殖民者的性能力印象深刻，他們可能會決定加入你的殖民地。</rjw_genes_sexdemon_visit_incident_description>
+
+  <rjw_genes_succubus_joins_letter_label>訪客加入</rjw_genes_succubus_joins_letter_label>
+  <rjw_genes_succubus_joins_letter_description>{0}很喜歡這裡並決定留下來。</rjw_genes_succubus_joins_letter_description>
+</LanguageData>

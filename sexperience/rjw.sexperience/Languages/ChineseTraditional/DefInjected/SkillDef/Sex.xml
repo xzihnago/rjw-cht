@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex.label>性愛</Sex.label>
+  <Sex.description>性愛技巧。</Sex.description>
+  <Sex.generalRules.rulesStrings>
+    <li>subject->性交</li>
+    <li>subject->做愛</li>
+    <li>subject->曖昧</li>
+  </Sex.generalRules.rulesStrings>
+  <Sex.skillLabel>性愛</Sex.skillLabel>
+</LanguageData>

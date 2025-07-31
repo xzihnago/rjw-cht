@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hololock.label>全息鎖</Hololock.label>
+  <Hololock.description>一個高科技機械鎖。功能包括：
+    - 非常堅固，由塑鋼制作而成
+    - 鑰匙與鎖使用密碼 UID 全息嵌入在玉基板，確保不可能發生偽造鑰匙
+    - 當鎖被篡改時觸發自毀保險裝置，確保受保護的物品被摧毀而不被敵人捕獲
+
+    最初設計用於軍事用途的全息鎖已經在 BDSM 圈流行起來，通常會在鑰匙與鎖上刻上相符的名稱以便更容易識別。</Hololock.description>
+
+  <Holokey.label>全息鑰匙</Holokey.label>
+  <Holokey.description>一把高科技鑰匙。使用匹配的加密訊息以解除鎖定。</Holokey.description>
+  <Holokey.comps.CompStampedApparelKey.useLabel>解鎖裝置</Holokey.comps.CompStampedApparelKey.useLabel>
+</LanguageData>

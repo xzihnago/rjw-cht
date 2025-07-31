@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MasochistPsycheSerum.label>被虐狂血清</MasochistPsycheSerum.label>
+  <MasochistPsycheSerum.description>使使用者成為被虐狂。</MasochistPsycheSerum.description>
+  <MasochistPsycheSerum.ingestible.ingestCommandString>飲用{0}</MasochistPsycheSerum.ingestible.ingestCommandString>
+  <MasochistPsycheSerum.ingestible.ingestReportString>飲用{0}。</MasochistPsycheSerum.ingestible.ingestReportString>
+
+  <NymphomaniacPsycheSerum.label>強慾血清</NymphomaniacPsycheSerum.label>
+  <NymphomaniacPsycheSerum.description>使使用者獲得強慾。</NymphomaniacPsycheSerum.description>
+  <NymphomaniacPsycheSerum.ingestible.ingestCommandString>飲用{0}</NymphomaniacPsycheSerum.ingestible.ingestCommandString>
+  <NymphomaniacPsycheSerum.ingestible.ingestReportString>飲用{0}。</NymphomaniacPsycheSerum.ingestible.ingestReportString>
+
+  <NecrophiliacPsycheSerum.label>戀屍癖血清</NecrophiliacPsycheSerum.label>
+  <NecrophiliacPsycheSerum.description>使使用者成為戀屍癖。</NecrophiliacPsycheSerum.description>
+  <NecrophiliacPsycheSerum.ingestible.ingestCommandString>飲用{0}</NecrophiliacPsycheSerum.ingestible.ingestCommandString>
+  <NecrophiliacPsycheSerum.ingestible.ingestReportString>飲用{0}。</NecrophiliacPsycheSerum.ingestible.ingestReportString>
+
+  <ZoophilePsycheSerum.label>戀獸癖血清</ZoophilePsycheSerum.label>
+  <ZoophilePsycheSerum.description>使使用者成為戀獸癖。</ZoophilePsycheSerum.description>
+  <ZoophilePsycheSerum.ingestible.ingestCommandString>飲用{0}</ZoophilePsycheSerum.ingestible.ingestCommandString>
+  <ZoophilePsycheSerum.ingestible.ingestReportString>飲用{0}。</ZoophilePsycheSerum.ingestible.ingestReportString>
+
+  <CumflationPsycheSerum.label>精液腹愛好者血清</CumflationPsycheSerum.label>
+  <CumflationPsycheSerum.description>使使用者成為精液腹愛好者。</CumflationPsycheSerum.description>
+  <CumflationPsycheSerum.ingestible.ingestCommandString>飲用{0}</CumflationPsycheSerum.ingestible.ingestCommandString>
+  <CumflationPsycheSerum.ingestible.ingestReportString>飲用{0}。</CumflationPsycheSerum.ingestible.ingestReportString>
+
+  <AntiMasochistPsycheSerum.label>反被虐狂血清</AntiMasochistPsycheSerum.label>
+  <AntiMasochistPsycheSerum.description>使用者不再是被虐狂。</AntiMasochistPsycheSerum.description>
+  <AntiMasochistPsycheSerum.ingestible.ingestCommandString>飲用{0}</AntiMasochistPsycheSerum.ingestible.ingestCommandString>
+  <AntiMasochistPsycheSerum.ingestible.ingestReportString>飲用{0}。</AntiMasochistPsycheSerum.ingestible.ingestReportString>
+
+  <AntiNymphomaniacPsycheSerum.label>反強慾血清</AntiNymphomaniacPsycheSerum.label>
+  <AntiNymphomaniacPsycheSerum.description>使用者不再強慾。</AntiNymphomaniacPsycheSerum.description>
+  <AntiNymphomaniacPsycheSerum.ingestible.ingestCommandString>飲用{0}</AntiNymphomaniacPsycheSerum.ingestible.ingestCommandString>
+  <AntiNymphomaniacPsycheSerum.ingestible.ingestReportString>飲用{0}。</AntiNymphomaniacPsycheSerum.ingestible.ingestReportString>
+
+  <AntiNecrophiliacPsycheSerum.label>反戀屍癖血清</AntiNecrophiliacPsycheSerum.label>
+  <AntiNecrophiliacPsycheSerum.description>使用者不再是戀屍癖。</AntiNecrophiliacPsycheSerum.description>
+  <AntiNecrophiliacPsycheSerum.ingestible.ingestCommandString>飲用{0}</AntiNecrophiliacPsycheSerum.ingestible.ingestCommandString>
+  <AntiNecrophiliacPsycheSerum.ingestible.ingestReportString>飲用{0}。</AntiNecrophiliacPsycheSerum.ingestible.ingestReportString>
+
+  <AntiZoophilePsycheSerum.label>反戀獸癖血清</AntiZoophilePsycheSerum.label>
+  <AntiZoophilePsycheSerum.description>使用者不再是戀獸癖。</AntiZoophilePsycheSerum.description>
+  <AntiZoophilePsycheSerum.ingestible.ingestCommandString>飲用{0}</AntiZoophilePsycheSerum.ingestible.ingestCommandString>
+  <AntiZoophilePsycheSerum.ingestible.ingestReportString>飲用{0}。</AntiZoophilePsycheSerum.ingestible.ingestReportString>
+
+  <AntiCumflationPsycheSerum.label>反精液腹愛好者血清</AntiCumflationPsycheSerum.label>
+  <AntiCumflationPsycheSerum.description>使用者不再是精液腹愛好者。</AntiCumflationPsycheSerum.description>
+  <AntiCumflationPsycheSerum.ingestible.ingestCommandString>飲用{0}</AntiCumflationPsycheSerum.ingestible.ingestCommandString>
+  <AntiCumflationPsycheSerum.ingestible.ingestReportString>飲用{0}。</AntiCumflationPsycheSerum.ingestible.ingestReportString>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slave_Collar.label>奴隸項圈</Slave_Collar.label>
+  <Slave_Collar.description>一個沉重的金屬環用長鏈鎖在脖子上，時刻提醒穿戴者自己的處境。</Slave_Collar.description>
+  <Slave_Collar.comps.CompUsable.useLabel>把項圈戴在目標身上</Slave_Collar.comps.CompUsable.useLabel>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings -->
+  <std_sex>從性行為感染</std_sex>
+  <std_sex_desc>人物會因與感染者的性行為而感染性病。</std_sex_desc>
+  <std_floor>從環境感染</std_floor>
+  <std_floor_desc>人物會因髒亂的環境而感染性病。</std_floor_desc>
+  <std_show_roll_to_catch>顯示 STD 如何運作</std_show_roll_to_catch>
+  <std_show_roll_to_catch_desc>記錄性交後感染 STD 的過程以進行調試（或任何好奇的人）</std_show_roll_to_catch_desc>
+
+  <std_min_severity_to_pitch>會傳播性病的最低嚴重程度</std_min_severity_to_pitch>
+  <std_min_severity_to_pitch_desc>性病感染至少要嚴重到這種程度才能在人物之間傳播</std_min_severity_to_pitch_desc>
+
+  <std_env_pitch_cleanliness_exaggeration>乾淨房間的傳播倍率</std_env_pitch_cleanliness_exaggeration>
+  <std_env_pitch_cleanliness_exaggeration_desc><![CDATA[1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness >= 0]]></std_env_pitch_cleanliness_exaggeration_desc>
+  <std_env_pitch_dirtiness_exaggeration>骯髒房間的傳播倍率</std_env_pitch_dirtiness_exaggeration>
+  <std_env_pitch_dirtiness_exaggeration_desc><![CDATA[1.0f - this * RoomStatDefOf.Cleanliness.
+RoomStatDefOf.Cleanliness < 0]]></std_env_pitch_dirtiness_exaggeration_desc>
+  <std_outdoor_cleanliness>室外清潔度</std_outdoor_cleanliness>
+  <std_outdoor_cleanliness_desc><![CDATA[室外性行為的清潔度數值
+RoomStatDefOf.Cleanliness = this]]></std_outdoor_cleanliness_desc>
+  <opp_inf_initial_immunity>免疫缺陷傳播</opp_inf_initial_immunity>
+  <opp_inf_initial_immunity_desc>由於免疫缺陷，獲得額外感染的機率</opp_inf_initial_immunity_desc>
+
+  <pawn_spawn_with_std_mul>人物產生性病倍率</pawn_spawn_with_std_mul>
+  <pawn_spawn_with_std_mul_desc>人物生成時帶有性病的倍率（std base chance * this）</pawn_spawn_with_std_mul_desc>
+  <nymph_spawn_with_std_mul>流鶯產生性病倍率</nymph_spawn_with_std_mul>
+  <nymph_spawn_with_std_mul_desc>流鶯生成時帶有性病的倍率（std base chance * this）</nymph_spawn_with_std_mul_desc>
+
+  <!-- STDs -->
+  <RJW_Opportunistic_Infection_Message>{0}由於免疫系統減弱而發生感染。</RJW_Opportunistic_Infection_Message>
+  <!--RJW_Poisoned_by_Rimming_Message>{0} has gotten food poisoning by rimming {1}</RJW_Poisoned_by_Rimming_Message-->
+  <RJW_Syphilis_Damage_Message>{0}的{2}因為{3}感染的進展而受到永久性損害。</RJW_Syphilis_Damage_Message>
+
+  <!--Breast size changes-->
+  <!--<RJW_BreastsHaveGrownFromBoobitis>{0} breasts have grown from boobitis.</RJW_BreastsHaveGrownFromBoobitis>-->
+  <RJW_BreastsHaveGrownFromBoobitis>{0}的{2}因為{4}成長為{3}罩杯。</RJW_BreastsHaveGrownFromBoobitis>
+</LanguageData>

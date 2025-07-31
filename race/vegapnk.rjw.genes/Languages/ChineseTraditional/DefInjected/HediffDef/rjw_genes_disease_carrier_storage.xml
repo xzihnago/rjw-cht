@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_disease_carrier_storage.label>遺傳疾病帶原</rjw_genes_disease_carrier_storage.label>
+  <rjw_genes_disease_carrier_storage.description>該人物能夠攜帶遺傳疾病而不會被感染。</rjw_genes_disease_carrier_storage.description>
+  <rjw_genes_disease_carrier_storage.stages.0.label>有效</rjw_genes_disease_carrier_storage.stages.0.label>
+</LanguageData>

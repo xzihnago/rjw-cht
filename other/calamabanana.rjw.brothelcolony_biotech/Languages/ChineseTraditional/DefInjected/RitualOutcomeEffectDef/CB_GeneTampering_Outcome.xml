@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_GeneTampering_Outcome.description>必須做出選擇。</CB_GeneTampering_Outcome.description>
+  <CB_GeneTampering_Outcome.comps.0.label>參與者人數</CB_GeneTampering_Outcome.comps.0.label>
+  <CB_GeneTampering_Outcome.outcomeChances.0.label>去除不需要的基因需要十熱情。\n - 每一點複雜性都需要額外十點熱情。\n - 雙倍於添加已學習基因\n - 一半於當目標未出生時。\n\n如果懷孕，則只能針對孩子</CB_GeneTampering_Outcome.outcomeChances.0.label>
+  <CB_GeneTampering_Outcome.outcomeChances.0.description>基因竄改的選擇</CB_GeneTampering_Outcome.outcomeChances.0.description>
+</LanguageData>

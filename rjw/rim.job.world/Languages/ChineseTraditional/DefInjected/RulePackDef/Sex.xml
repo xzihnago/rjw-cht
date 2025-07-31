@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnalSexRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]肛交。</li>
+  </AnalSexRP.rulePack.rulesStrings>
+
+  <VaginalSexRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]性交。</li>
+  </VaginalSexRP.rulePack.rulesStrings>
+
+  <OtherSexRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]性交。</li>
+  </OtherSexRP.rulePack.rulesStrings>
+
+  <DoublePenetrationRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]兩穴齊插。</li>
+  </DoublePenetrationRP.rulePack.rulesStrings>
+
+  <BreastjobRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]對[INITIATOR_nameDef]乳交。</li>
+  </BreastjobRP.rulePack.rulesStrings>
+
+  <HandjobRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]接受了[RECIPIENT_nameDef]的手交。</li>
+    <li>sent->[RECIPIENT_nameDef]對[INITIATOR_nameDef]手交。</li>
+  </HandjobRP.rulePack.rulesStrings>
+
+  <FootjobRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]對[INITIATOR_nameDef]足交。</li>
+  </FootjobRP.rulePack.rulesStrings>
+
+  <FingeringRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]對[INITIATOR_nameDef]指交。</li>
+  </FingeringRP.rulePack.rulesStrings>
+
+  <ScissoringRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]與[RECIPIENT_nameDef]剪刀式。</li>
+  </ScissoringRP.rulePack.rulesStrings>
+
+  <MutualMasturbationRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]與[RECIPIENT_nameDef]互相自慰。</li>
+  </MutualMasturbationRP.rulePack.rulesStrings>
+
+  <MutualTailholdingRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]與[RECIPIENT_nameDef]交纏尾巴。</li>
+  </MutualTailholdingRP.rulePack.rulesStrings>
+
+  <MutualHandholdingRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]與[RECIPIENT_nameDef]十指緊扣。</li>
+  </MutualHandholdingRP.rulePack.rulesStrings>
+
+  <FistingRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]對[INITIATOR_nameDef]肛門拳交。</li>
+  </FistingRP.rulePack.rulesStrings>
+
+
+  <MainReverseRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]騎在[INITIATOR_nameDef]的大腿上。</li>
+    <li>sent->[RECIPIENT_nameDef]持續挑逗著[INITIATOR_nameDef]，直到[INITIATOR_pronoun]再也忍不住，狠狠地蹂躪了[RECIPIENT_objective]。</li>
+    <li>sent->[RECIPIENT_nameDef]拉著[INITIATOR_nameDef]一起倒在床上，將[RECIPIENT_objective]緊緊壓在身下。</li>
+  </MainReverseRP.rulePack.rulesStrings>
+
+  <DefaultSexReverseRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]與[INITIATOR_nameDef]性交。</li>
+  </DefaultSexReverseRP.rulePack.rulesStrings>
+
+  <AnalSexReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]被[RECIPIENT_nameDef]肛交。</li>
+  </AnalSexReverseRP.rulePack.rulesStrings>
+
+  <VaginalSexReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]被[RECIPIENT_nameDef]性交。</li>
+  </VaginalSexReverseRP.rulePack.rulesStrings>
+
+  <HandjobReverseRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]手交。</li>
+    <li>sent->[INITIATOR_nameDef]榨乾了[RECIPIENT_nameDef]。</li>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]手交。</li>
+  </HandjobReverseRP.rulePack.rulesStrings>
+
+  <FootjobReverseRP.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]足交。</li>
+    <li>sent->[INITIATOR_nameDef]用[INITIATOR_possessive]腳榨乾了[RECIPIENT_nameDef]。</li>
+  </FootjobReverseRP.rulePack.rulesStrings>
+
+  <FingeringReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]指交。</li>
+  </FingeringReverseRP.rulePack.rulesStrings>
+
+  <FistingReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[RECIPIENT_nameDef]肛門拳交。</li>
+  </FistingReverseRP.rulePack.rulesStrings>
+
+  <DoublePenetrationReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]挑逗著[RECIPIENT_nameDef]，讓[RECIPIENT_possessive]把兩根肉棒都用在[INITIATOR_objective]上。</li>
+    <li>sent->[INITIATOR_nameDef]挑逗著[RECIPIENT_nameDef]，讓[RECIPIENT_possessive]把兩根肉棒同時塞進[INITIATOR_objective]的兩個洞裡。</li>
+  </DoublePenetrationReverseRP.rulePack.rulesStrings>
+
+  <BreastjobReverseRP.rulePack.rulesStrings>
+    <li>sent->[INITIATOR_nameDef]對[INITIATOR_possessive]乳交。</li>
+    <li>sent->[INITIATOR_nameDef]用[INITIATOR_possessive]乳房撫慰[RECIPIENT_nameDef]。</li>
+  </BreastjobReverseRP.rulePack.rulesStrings>
+</LanguageData>

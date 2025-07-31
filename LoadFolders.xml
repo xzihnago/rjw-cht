@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <default>
+    <li IfModActive="rim.job.world">rjw/rim.job.world</li>
+    <li IfModActive="rim.job.world">rjw/rim.job.world_sarg.rimbees</li>
+    <li IfModActive="rjw.cum">rjw/rjw.cum</li>
+    <li IfModActive="rjw.fb">rjw/rjw.fb</li>
+    <li IfModActive="rjw.fc">rjw/rjw.fc</li>
+    <li IfModActive="rjw.fh">rjw/rjw.fh</li>
+    <li IfModActive="rjw.std">rjw/rjw.std</li>
+
+    <li IfModActive="rjw.sexperience">sexperience/rjw.sexperience</li>
+    <li IfModActive="rjw.sexperience">sexperience/rjw.sexperience_vanillaexpanded.vanillasocialinteractionsexpanded</li>
+    <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">sexperience/rjw.sexperience_rjw.cum</li>
+    <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">sexperience/rjw.sexperience_vegapnk.cumpilation</li>
+    <li IfModActive="rjw.sexperience.ideology">sexperience/rjw.sexperience.ideology</li>
+
+    <li IfModActive="rjw.menstruation">womb/rjw.menstruation</li>
+    <li IfModActive="rjw.menstruation">womb/rjw.menstruation_ludeon.rimworld.ideology</li>
+    <li IfModActive="jaaldabaoth.rjw.menstruation.resources">womb/jaaldabaoth.rjw.menstruation.resources</li>
+    <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation_ludeon.rimworld.ideology</li>
+    <li IfModActive="vegapnk.cumpilation">womb/vegapnk.cumpilation_ludeon.rimworld.biotech</li>
+    <li IfModActive="vegapnk.cumpilation" IfModNotActive="winderig.processor">womb/vegapnk.cumpilation_winderig.processor</li>
+    <li IfModActive="lustlicentiastretch.rjwlabs">womb/lustlicentiastretch.rjwlabs</li>
+
+    <li IfModActive="asmr.rjw.racesupport">race/asmr.rjw.racesupport</li>
+    <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes</li>
+    <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes_vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes_asmr.rjw.racesupport</li>
+    <li IfModActive="vegapnk.rjw.genes">race/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
+    <li IfModActive="euclidean.fantasyraces">race/euclidean.fantasyraces</li>
+    <li IfModActive="euclidean.fantasyraces">race/euclidean.fantasyraces_sarg.alphagenes</li>
+    <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">race/euclidean.fantasyraces_vegapnk.rjw.genes</li>
+    <li IfModActive="euclidean.fantasyraces">race/euclidean.fantasyraces_rim.job.world</li>
+
+    <li IfModActive="rimworld.ekss.rjwex">item/rimworld.ekss.rjwex</li>
+    <li IfModActive="otyoty.sizedapparel">item/otyoty.sizedapparel</li>
+    <li IfModActive="hehehew.sizedapparelforslaves">item/hehehew.sizedapparelforslaves</li>
+
+    <li IfModActive="c0ffee.rimworld.animations">animation/c0ffee.rimworld.animations</li>
+    <li IfModActive="teacher.uap">animation/teacher.uap</li>
+    <li IfModActive="eltoro.anims">animation/eltoro.anims</li>
+
+    <li IfModActive="abscon.privacy.please">other/abscon.privacy.please</li>
+    <li IfModActive="calamabanana.rjw.brothelcolony">other/calamabanana.rjw.brothelcolony</li>
+    <li IfModActive="calamabanana.rjw.brothelcolony">other/calamabanana.rjw.brothelcolony_ideology</li>
+    <li IfModActive="calamabanana.rjw.brothelcolony">other/calamabanana.rjw.brothelcolony_biotech</li>
+    <li IfModActive="rjw.milk.humanoid">other/rjw.milk.humanoid</li>
+    <li IfModActive="c0ffee.rjw.events">other/c0ffee.rjw.events</li>
+    <li IfModActive="eltoro.baddon">other/eltoro.baddon</li>
+
+    <!-- Legacy -->
+    <li IfModActive="ed86.rjwia">legacy/ed86.rjwia</li>
+    <li IfModActive="lustlicentia.rjwlabs">legacy/lustlicentia.rjwlabs</li>
+    <li IfModActive="c0ffee.rjw.ideologyaddons">legacy/c0ffee.rjw.ideologyaddons_rjw.milk.humanoid</li>
+    <li IfModActive="c0ffee.rjw.ideologyaddons">legacy/c0ffee.rjw.ideologyaddons_c0ffee.rjw.events</li>
+  </default>
+</loadFolders>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexSatisfaction.label>性滿足</SexSatisfaction.label>
+  <SexSatisfaction.description>衡量人物對性行為的滿意度。</SexSatisfaction.description>
+
+  <Vulnerability.label>脆弱度</Vulnerability.label>
+  <Vulnerability.description>衡量人物在性方面的被動性。</Vulnerability.description>
+
+  <SexFrequency.label>性慾</SexFrequency.label>
+  <SexFrequency.description>衡量人物的性慾強度。</SexFrequency.description>
+</LanguageData>

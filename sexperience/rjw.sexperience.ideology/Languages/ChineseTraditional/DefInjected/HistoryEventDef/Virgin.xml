@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RSI_VirginTaken.label>獻出純潔</RSI_VirginTaken.label>
+  <RSI_TookVirgin.label>接受純潔</RSI_TookVirgin.label>
+  <RSI_VirginStolen.label>失去純潔</RSI_VirginStolen.label>
+  <RSI_VirginTakenNotSpouse.label>被陌生人奪走純潔</RSI_VirginTakenNotSpouse.label>
+</LanguageData>

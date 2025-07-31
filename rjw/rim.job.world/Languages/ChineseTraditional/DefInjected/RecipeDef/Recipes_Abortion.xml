@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_AbortionHuman.label>終止懷孕</RJW_AbortionHuman.label>
+  <RJW_AbortionHuman.description>終止意外懷孕。</RJW_AbortionHuman.description>
+  <RJW_AbortionHuman.jobString>執行墮胎</RJW_AbortionHuman.jobString>
+
+  <RJW_AbortionBeast.label>終止懷孕</RJW_AbortionBeast.label>
+  <RJW_AbortionBeast.description>終止意外懷孕。</RJW_AbortionBeast.description>
+  <RJW_AbortionBeast.jobString>執行墮胎</RJW_AbortionBeast.jobString>
+
+  <RJW_AbortionMechHidden.label>終止懷孕</RJW_AbortionMechHidden.label>
+  <RJW_AbortionMechHidden.description>終止意外懷孕。</RJW_AbortionMechHidden.description>
+  <RJW_AbortionMechHidden.jobString>執行墮胎</RJW_AbortionMechHidden.jobString>
+
+  <RJW_AbortionMech.label>中和機械胚胎</RJW_AbortionMech.label>
+  <RJW_AbortionMech.description>安全地使奈米機械體失效。</RJW_AbortionMech.description>
+  <RJW_AbortionMech.jobString>執行墮胎</RJW_AbortionMech.jobString>
+
+  <RJW_HackMech.label>駭入機械胚胎</RJW_HackMech.label>
+  <RJW_HackMech.description>破解機械體 AI，將其從敵對 AI 核心的控制中分離出來，成為溫順的（除非被激怒）機械體。</RJW_HackMech.description>
+  <RJW_HackMech.jobString>駭入機械體</RJW_HackMech.jobString>
+</LanguageData>

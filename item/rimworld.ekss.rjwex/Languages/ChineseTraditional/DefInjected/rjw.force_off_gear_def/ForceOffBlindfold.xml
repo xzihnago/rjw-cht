@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForceOffBlindfold.label>強行移除眼罩</ForceOffBlindfold.label>
+  <ForceOffBlindfold.description>在沒有鑰匙的情況下強行取下眼罩，會對穿戴者造成重大傷害。</ForceOffBlindfold.description>
+  <ForceOffBlindfold.jobString>強行移除眼罩。</ForceOffBlindfold.jobString>
+</LanguageData>

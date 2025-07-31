@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MilkFullness.stages.0.label>泌乳中</MilkFullness.stages.0.label>
+  <MilkFullness.stages.0.description>我正在製造母乳。</MilkFullness.stages.0.description>
+  <MilkFullness.stages.1.label>泌乳中</MilkFullness.stages.1.label>
+  <MilkFullness.stages.1.description>我正在製造母乳。</MilkFullness.stages.1.description>
+  <MilkFullness.stages.2.label>泌乳中（滿）</MilkFullness.stages.2.label>
+  <MilkFullness.stages.2.description>我需要對這些母乳做點什麼。</MilkFullness.stages.2.description>
+  <MilkFullness.stages.3.label>泌乳中（非常滿）</MilkFullness.stages.3.label>
+  <MilkFullness.stages.3.description>噢。我需要釋放這個！</MilkFullness.stages.3.description>
+
+  <MilkFullnessMasochist.stages.0.label>泌乳中</MilkFullnessMasochist.stages.0.label>
+  <MilkFullnessMasochist.stages.0.description>我正在製造母乳。</MilkFullnessMasochist.stages.0.description>
+  <MilkFullnessMasochist.stages.1.label>泌乳中</MilkFullnessMasochist.stages.1.label>
+  <MilkFullnessMasochist.stages.1.description>我正在製造母乳。</MilkFullnessMasochist.stages.1.description>
+  <MilkFullnessMasochist.stages.2.label>泌乳中（滿）</MilkFullnessMasochist.stages.2.label>
+  <MilkFullnessMasochist.stages.2.description>這開始有點痛了。好！</MilkFullnessMasochist.stages.2.description>
+  <MilkFullnessMasochist.stages.3.label>泌乳中（非常滿）</MilkFullnessMasochist.stages.3.label>
+  <MilkFullnessMasochist.stages.3.description>噢。我需要更多母乳！</MilkFullnessMasochist.stages.3.description>
+</LanguageData>

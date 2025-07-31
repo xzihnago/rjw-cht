@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_Slugmorpher.label>黏液轉化劑</Cumpilation_Slugmorpher.label>
+  <Cumpilation_Slugmorpher.description>處理廢料袋的一種危險而有創意的方法—蒸餾成濃縮血清，永久將使用者的精液變成有毒黏液。使用後會導致體內毒素累積，如果無法更換體液，情況會變得更糟。</Cumpilation_Slugmorpher.description>
+  <Cumpilation_Slugmorpher.ingestible.ingestCommandString>注射{0}</Cumpilation_Slugmorpher.ingestible.ingestCommandString>
+  <Cumpilation_Slugmorpher.ingestible.ingestReportString>注射{0}</Cumpilation_Slugmorpher.ingestible.ingestReportString>
+
+  <Cumpilation_Sluggerdrop.label>黏液滴劑</Cumpilation_Sluggerdrop.label>
+  <Cumpilation_Sluggerdrop.description>處理廢料袋的一種危險而有創意的方法—蒸餾成濃縮血清，暫時將使用者的精液變成有毒黏液。使用後會導致體內毒素累積，如果無法更換體液，情況會變得更糟。</Cumpilation_Sluggerdrop.description>
+  <Cumpilation_Sluggerdrop.ingestible.ingestCommandString>注射{0}</Cumpilation_Sluggerdrop.ingestible.ingestCommandString>
+  <Cumpilation_Sluggerdrop.ingestible.ingestReportString>注射{0}</Cumpilation_Sluggerdrop.ingestible.ingestReportString>
+</LanguageData>

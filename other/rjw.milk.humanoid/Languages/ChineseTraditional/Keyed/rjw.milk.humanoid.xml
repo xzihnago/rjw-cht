@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MilkFullnessMilk>乳汁飽滿</MilkFullnessMilk>
+  <MilkFullnessMilkBottles>乳瓶</MilkFullnessMilkBottles>
+
+  <MilkableColonists.settings>RJW - 泌乳</MilkableColonists.settings>
+
+  <MilkableColonists.breastGrowthDisabled>關閉胸部成長</MilkableColonists.breastGrowthDisabled>
+  <MilkableColonists.breastGrowthDisabledDesc>預設：關。啟用以防止乳房因產奶或擠奶而生長。仍然可以透過藥物或其他方式改變大小。</MilkableColonists.breastGrowthDisabledDesc>
+
+  <MilkableColonists.forceCapMaxBreastSize>最大乳房尺寸</MilkableColonists.forceCapMaxBreastSize>
+  <MilkableColonists.forceCapMaxBreastSizeDesc>預設：開。如果啟用此功能，乳房尺寸將限制為您在下方設定的值。</MilkableColonists.forceCapMaxBreastSizeDesc>
+
+  <MilkableColonists.breastGrowthMaxSize>最大乳房生長尺寸</MilkableColonists.breastGrowthMaxSize>
+  <MilkableColonists.breastGrowthMaxSizeDesc>預設 1。您可以將其設置得更高，並且根據您的模組，它可能會正確顯示。大於這個大小的乳房將會縮小（以防你搞砸了並需要修復某些東西）</MilkableColonists.breastGrowthMaxSizeDesc>
+
+  <MilkableColonists.flatChestGivesMilk>平坦胸部也能產奶</MilkableColonists.flatChestGivesMilk>
+  <MilkableColonists.flatChestGivesMilkDesc>預設值：關。（平胸沒有產奶空間）啟用以保有最低產奶量。</MilkableColonists.flatChestGivesMilkDesc>
+
+  <MilkableColonists.ignoreReproductiveStage>除錯：忽略生殖階段</MilkableColonists.ignoreReproductiveStage>
+  <MilkableColonists.ignoreReproductiveStageDesc>預設值：關。僅當您的種族沒有正確設置生殖階段時才啟用。</MilkableColonists.ignoreReproductiveStageDesc>
+
+  <MilkableColonists.enableDebugLogging>除錯：記錄擠乳事件</MilkableColonists.enableDebugLogging>
+  <MilkableColonists.enableDebugLoggingDesc>預設：關。在控制台中顯示擠乳結果。</MilkableColonists.enableDebugLoggingDesc>
+
+  <MilkableColonists.enableDebugLoggingMilkGrowth>除錯：記錄產乳量（洗頻）</MilkableColonists.enableDebugLoggingMilkGrowth>
+  <MilkableColonists.enableDebugLoggingMilkGrowthDesc>預設：關。顯示每 tick 的個體產乳量。洗頻。</MilkableColonists.enableDebugLoggingMilkGrowthDesc>
+
+  <MilkableColonists.enableMilkDrip>乳汁存量飽和後滴落乳汁</MilkableColonists.enableMilkDrip>
+  <MilkableColonists.enableMilkDripDesc>預設：開。當乳汁存量超過 100% 後將滴落乳汁。</MilkableColonists.enableMilkDripDesc>
+
+  <MilkableColonists.enabledMilkDripAmount>乳汁存量飽和後滴落乳汁 - 閾值</MilkableColonists.enabledMilkDripAmount>
+  <MilkableColonists.enabledMilkDripAmountDesc>預設 100%：乳汁開始滴落前需要多少乳汁存量。</MilkableColonists.enabledMilkDripAmountDesc>
+
+  <MilkableColonists.enableDebugFillButton>除錯：顯示填滿乳汁按鈕</MilkableColonists.enableDebugFillButton>
+  <MilkableColonists.enableDebugFillButtonDesc>預設：關。在人物上顯示按鈕以立即填滿其乳汁存量。</MilkableColonists.enableDebugFillButtonDesc>
+
+  <MilkableColonists.enableLessInteruptions>除錯/測試：減少工作中斷。</MilkableColonists.enableLessInteruptions>
+  <MilkableColonists.enableLessInteruptionsDesc>預設：開。擠奶和喝奶只會停止其他在移動/睡覺/自由時的人物。其他工作應繼續不間斷。</MilkableColonists.enableLessInteruptionsDesc>
+
+
+  <MilkableColonists.adultBreastfeedNutritionModAmount>喝奶營養倍率</MilkableColonists.adultBreastfeedNutritionModAmount>
+  <MilkableColonists.adultBreastfeedNutritionModAmountDesc>預設 5：乳汁的營養通常很低。它將乘以這個倍率，這樣你的人物在喝奶時就不會挨餓。1 = 嬰兒食品。</MilkableColonists.adultBreastfeedNutritionModAmountDesc>
+
+  <MilkableColonists.fullnessHungerAmount>喝奶：喝奶所需的飢餓度</MilkableColonists.fullnessHungerAmount>
+  <MilkableColonists.fullnessHungerAmountDesc>預設 50%：成年人物在食物值低於此值前不會考慮喝奶。更高的值會讓人物喝奶更頻繁。如果設定太低，他們可能會吃食物。</MilkableColonists.fullnessHungerAmountDesc>
+
+  <MilkableColonists.fullnessMilkBreastfeedAmount>喝奶：需要的乳汁存量</MilkableColonists.fullnessMilkBreastfeedAmount>
+  <MilkableColonists.fullnessMilkBreastfeedAmountDesc>預設 100%：在人物的乳汁存量至少達到此值之前，人物不會成為喝奶的目標。</MilkableColonists.fullnessMilkBreastfeedAmountDesc>
+
+  <MilkableColonists.fullnessMilkBottleAmount>擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkBottleAmount>
+  <MilkableColonists.fullnessMilkBottleAmountDesc>預設 120%：在人物的乳汁存量至少達到此值之前，人物不會成為擠奶的目標。</MilkableColonists.fullnessMilkBottleAmountDesc>
+
+  <MilkableColonists.fullnessMilkSelfAmount>自行擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkSelfAmount>
+  <MilkableColonists.fullnessMilkSelfAmountDesc>預設 150%：在人物的乳汁存量至少達到此值之前，人物將不會自行擠奶。</MilkableColonists.fullnessMilkSelfAmountDesc>
+
+  <MilkableColonists.fullnessMilkMachineAmount>擠乳站自行擠奶：需要的乳汁存量</MilkableColonists.fullnessMilkMachineAmount>
+  <MilkableColonists.fullnessMilkMachineAmountDesc>預設 140%：在人物的乳汁存量至少達到此值之前，人物將無法在擠乳站自行擠奶。</MilkableColonists.fullnessMilkMachineAmountDesc>
+
+  <MilkableColonists.workSpeedMult>工作速度/量倍率</MilkableColonists.workSpeedMult>
+  <MilkableColonists.workSpeedMultDesc>預設 1：可加速此模組提供的多種工作速度/量倍率。每個動作你都會擠更多的奶或喝更多的奶。對於擁有大量資產的人物來說，有些事情要花很長時間，這讓我感到不耐煩。</MilkableColonists.workSpeedMultDesc>
+
+  <MilkableColonists.breastMilkModifierHydraulic>人工乳房（液壓）乳量倍率</MilkableColonists.breastMilkModifierHydraulic>
+  <MilkableColonists.breastMilkModifierHydraulicDesc>預設 50%：在基礎 RJW 中液壓乳房不產奶。您可以在此處調整它們與真實乳房產生的百分比。</MilkableColonists.breastMilkModifierHydraulicDesc>
+
+  <MilkableColonists.breastMilkModifierBionic>人工乳房（仿生）乳量倍率</MilkableColonists.breastMilkModifierBionic>
+  <MilkableColonists.breastMilkModifierBionicDesc>預設 75%：在基礎 RJW 中仿生乳房不產奶。您可以在此處調整它們與真實乳房產生的百分比。</MilkableColonists.breastMilkModifierBionicDesc>
+
+  <MilkableColonists.breastMilkModifierArchotech>人工乳房（超凡）乳量倍率</MilkableColonists.breastMilkModifierArchotech>
+  <MilkableColonists.breastMilkModifierArchotechDesc>預設 125%：在基礎 RJW 超凡科技乳房中，產乳量與一般乳房相同。由於這些都是超級科技，我將數值設定得比其他數值更高。</MilkableColonists.breastMilkModifierArchotechDesc>
+
+  <MilkableColonists.lactPermHungerRateOffset>泌乳劑MAX食物值偏移係數</MilkableColonists.lactPermHungerRateOffset>
+  <MilkableColonists.lactPermHungerRateOffsetDesc>預設 40%：永久泌乳劑MAX效果下食物值下降的速率有多快。</MilkableColonists.lactPermHungerRateOffsetDesc>
+
+  <MilkableColonists.lactHeavyPermHungerRateOffset>超級泌乳劑MAX食物值偏移係數</MilkableColonists.lactHeavyPermHungerRateOffset>
+  <MilkableColonists.lactHeavyPermHungerRateOffsetDesc>預設 80%：永久超級泌乳劑MAX效果下食物值下降的速率有多快。</MilkableColonists.lactHeavyPermHungerRateOffsetDesc>
+
+  <MilkableColonists.fertilityFactorOverride>哺乳期生育力係數覆寫</MilkableColonists.fertilityFactorOverride>
+  <MilkableColonists.fertilityFactorOverrideDesc>預設 5%：生機 DLC 哺乳期的生育力設定為多少。</MilkableColonists.fertilityFactorOverrideDesc>
+
+
+  <MilkTableMain_Designators>群組</MilkTableMain_Designators>
+
+  <!--debug fill milk button-->
+  <DebugFillMilkGizmoLabel>除錯：填滿乳汁</DebugFillMilkGizmoLabel>
+  <DebugFillMilkGizmoDesc>將乳汁存量設定為 150%</DebugFillMilkGizmoDesc>
+</LanguageData>

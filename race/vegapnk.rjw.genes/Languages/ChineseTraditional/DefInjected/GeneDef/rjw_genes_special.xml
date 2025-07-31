@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_orgasm_rush.label>高潮增益</rjw_genes_orgasm_rush.label>
+  <rjw_genes_orgasm_rush.description>基因擁有者在高潮時會獲得行動增益。（休息需要部分滿足）</rjw_genes_orgasm_rush.description>
+
+  <rjw_genes_youth_fountain.label>青春之泉</rjw_genes_youth_fountain.label>
+  <rjw_genes_youth_fountain.description>基因擁有者能逆轉性伴侶的年齡。（伴侶維持成年）</rjw_genes_youth_fountain.description>
+
+  <rjw_genes_sex_age_drain.label>回春性愛</rjw_genes_sex_age_drain.label>
+  <rjw_genes_sex_age_drain.description>基因擁有者能轉移年齡到性伴侶身上。（人物維持成年）</rjw_genes_sex_age_drain.description>
+
+  <rjw_genes_aphrodisiac_pheromones.label>催情費洛蒙</rjw_genes_aphrodisiac_pheromones.label>
+  <rjw_genes_aphrodisiac_pheromones.description>基因擁有者會產生催情費洛蒙，使附近的人更渴望性愛。</rjw_genes_aphrodisiac_pheromones.description>
+
+  <rjw_genes_sexual_mytosis.label>高潮分裂</rjw_genes_sexual_mytosis.label>
+  <rjw_genes_sexual_mytosis.description>基因擁有者的再生遠古分子故障，隨著連續的多次高潮（在分裂過程中達到高潮）變得更加不穩定。這將產生一個（生物學上）相同的人物，並且兩個雙子都處於再生狀態。此外，人物可以多次高潮：狀態越不穩定，它們發生得越快。</rjw_genes_sexual_mytosis.description>
+
+  <rjw_genes_hormonal_saliva.label>荷爾蒙唾液</rjw_genes_hormonal_saliva.label>
+  <rjw_genes_hormonal_saliva.description>基因擁有者的唾液可以刺激陰莖的生長。定期接觸將帶來顯著的成長。</rjw_genes_hormonal_saliva.description>
+
+  <rjw_genes_cocoonweaver.label>繭織者</rjw_genes_cocoonweaver.label>
+  <rjw_genes_cocoonweaver.labelShortAdj>繭織者</rjw_genes_cocoonweaver.labelShortAdj>
+  <rjw_genes_cocoonweaver.description>基因擁有者可以產生繭，為無助（或自願）的受害者做好繁殖的準備。</rjw_genes_cocoonweaver.description>
+
+  <rjw_genes_sex_tamer.label>性愛馴服者</rjw_genes_sex_tamer.label>
+  <rjw_genes_sex_tamer.labelShortAdj>性愛馴服者</rjw_genes_sex_tamer.labelShortAdj>
+  <rjw_genes_sex_tamer.description>基因擁有者可以在性接觸過程中賦予動物智力與服從，有效地增強它們的訓練。</rjw_genes_sex_tamer.description>
+
+  <rjw_genes_sexual_genetic_swap.label>性愛基因交換</rjw_genes_sexual_genetic_swap.label>
+  <rjw_genes_sexual_genetic_swap.description>基因擁有者可能會與他們的性伴侶交換基因。交換的基因總是種系基因。</rjw_genes_sexual_genetic_swap.description>
+
+  <rjw_genes_sexual_genetic_thief.label>性愛基因竊取</rjw_genes_sexual_genetic_thief.label>
+  <rjw_genes_sexual_genetic_thief.description>基因擁有者可能會從性伴侶那裡竊取基因。被竊取的基因總是異種基因。</rjw_genes_sexual_genetic_thief.description>
+
+  <rjw_genes_feminizer.label>雌化</rjw_genes_feminizer.label>
+  <rjw_genes_feminizer.description>基因擁有者會慢慢地將男性性伴侶變為女性。</rjw_genes_feminizer.description>
+
+  <rjw_genes_twinkifier.label>扶他化</rjw_genes_twinkifier.label>
+  <rjw_genes_twinkifier.description>基因擁有者會慢慢地將男性性伴侶變為可繁殖的可愛扶他。</rjw_genes_twinkifier.description>
+
+  <rjw_genes_electric_satisfaction.label>性滿足電荷</rjw_genes_electric_satisfaction.label>
+  <rjw_genes_electric_satisfaction.description>基因擁有者在高潮期間會在附近的電子設備中產生電荷。此電量足以為電池充電。</rjw_genes_electric_satisfaction.description>
+</LanguageData>

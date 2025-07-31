@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lactating_Natural.label>泌乳中（自然）</Lactating_Natural.label>
+  <Lactating_Natural.description>生物在懷孕期間和懷孕後自然地開始產奶。隨著時間的推移，產奶將會停止。</Lactating_Natural.description>
+
+  <Lactating_Drug.label>泌乳中（藥物）</Lactating_Drug.label>
+  <Lactating_Drug.description>藥物可以迫使生物產奶，即使它們在正常情況下不會產奶。隨著時間的推移，這些藥物的作用會逐漸減弱，產奶也會停止。</Lactating_Drug.description>
+
+  <Lactating_Permanent.label>泌乳中（永久）</Lactating_Permanent.label>
+  <Lactating_Permanent.description>某些藥物可以通過改變身體的化學成分來迫使生物永遠產奶。如果沒有進一步的外部影響，產奶永遠不會停止。產量翻倍。增加飢餓感。</Lactating_Permanent.description>
+
+  <Heavy_Lactating_Permanent.label>強力泌乳中（永久）</Heavy_Lactating_Permanent.label>
+  <Heavy_Lactating_Permanent.description>某些藥物可以通過改變身體的化學成分來迫使生物永遠產奶。如果沒有進一步的外部影響，產奶永遠不會停止。產量增為四倍。大幅增加飢餓感。</Heavy_Lactating_Permanent.description>
+</LanguageData>

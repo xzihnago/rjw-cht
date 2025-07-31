@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Speech_Gangbang.label>輪姦演講</Speech_Gangbang.label>
+  <Speech_Gangbang.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+
+    <li>speechtopic->強姦的含義和真諦</li>
+    <li>speechtopic->強姦的表達方式</li>
+    <li>speechtopic->受控的淫蕩</li>
+    <li>speechtopic->陰道的溫暖</li>
+    <li>speechtopic->射精的內涵</li>
+    <li>speechtopic->愛與強姦</li>
+    <li>speechtopic->抽象化的強姦</li>
+    <li>speechtopic->陰莖和陰道</li>
+    <li>speechtopic->強健的藝術</li>
+    <li>speechtopic->受害者的誘惑</li>
+    <li>speechtopic->尖叫的音樂性</li>
+    <li>speechtopic->射在地上的精液</li>
+
+    <li>crazy->發瘋地尖叫著</li>
+    <li>crazy->突然開始唱聖歌</li>
+    <li>crazy->讚頌天堂</li>
+    <li>crazy->對祭品的生殖器吐痰</li>
+    <li>crazy->奸笑</li>
+    <li>crazy->揮舞著一個套套</li>
+    <li>crazy->自慰時反復喃喃自語</li>
+  </Speech_Gangbang.logRulesInitiator.rulesStrings>
+</LanguageData>

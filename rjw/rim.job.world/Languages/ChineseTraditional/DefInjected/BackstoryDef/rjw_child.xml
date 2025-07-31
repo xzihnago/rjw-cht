@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_childC.description>[PAWN_nameDef]出生於城市。</rjw_childC.description>
+  <rjw_childC.baseDesc>[PAWN_nameDef]出生於城市。</rjw_childC.baseDesc>
+  <rjw_childC.title>兒童</rjw_childC.title>
+  <rjw_childC.titleShort>兒童</rjw_childC.titleShort>
+
+  <rjw_childT.description>[PAWN_nameDef]出生於部落。</rjw_childT.description>
+  <rjw_childT.baseDesc>[PAWN_nameDef]出生於部落。</rjw_childT.baseDesc>
+  <rjw_childT.title>兒童</rjw_childT.title>
+  <rjw_childT.titleShort>兒童</rjw_childT.titleShort>
+</LanguageData>

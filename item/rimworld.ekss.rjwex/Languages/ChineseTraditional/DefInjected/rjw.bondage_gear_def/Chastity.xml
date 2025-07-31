@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChastityBelt.label>貞操帶</ChastityBelt.label>
+  <ChastityBelt.description>貞操帶會阻止穿戴者性交與自慰。</ChastityBelt.description>
+  <ChastityBelt.comps.CompBondageGear.useLabel>裝備</ChastityBelt.comps.CompBondageGear.useLabel>
+
+  <UnlockedChastityBelt.label>未上鎖的貞操帶</UnlockedChastityBelt.label>
+  <UnlockedChastityBelt.description>貞操帶會阻止穿戴者性交與自慰，易於拆卸。</UnlockedChastityBelt.description>
+  <UnlockedChastityBelt.comps.CompBondageGear.useLabel>裝備</UnlockedChastityBelt.comps.CompBondageGear.useLabel>
+
+  <ChastityBeltO.label>貞操帶（後開型）</ChastityBeltO.label>
+  <ChastityBeltO.description>允許肛交的貞操帶。</ChastityBeltO.description>
+  <ChastityBeltO.comps.CompBondageGear.useLabel>裝備</ChastityBeltO.comps.CompBondageGear.useLabel>
+
+  <UnlockedChastityBeltO.label>未上鎖的貞操帶（後開型）</UnlockedChastityBeltO.label>
+  <UnlockedChastityBeltO.description>允許肛交的貞操帶。</UnlockedChastityBeltO.description>
+  <UnlockedChastityBeltO.comps.CompBondageGear.useLabel>裝備</UnlockedChastityBeltO.comps.CompBondageGear.useLabel>
+
+  <ChastityCage.label>貞操籠</ChastityCage.label>
+  <ChastityCage.description>陰莖貞操籠，阻止勃起。</ChastityCage.description>
+  <ChastityCage.comps.CompBondageGear.useLabel>裝備</ChastityCage.comps.CompBondageGear.useLabel>
+
+  <UnlockedChastityCage.label>未上鎖的貞操籠</UnlockedChastityCage.label>
+  <UnlockedChastityCage.description>陰莖貞操籠，阻止勃起。</UnlockedChastityCage.description>
+  <UnlockedChastityCage.comps.CompBondageGear.useLabel>裝備</UnlockedChastityCage.comps.CompBondageGear.useLabel>
+
+  <ChastityCageSmall.label>貞操籠（小型）</ChastityCageSmall.label>
+  <ChastityCageSmall.description>小型的陰莖貞操籠，阻止勃起，長期使用可能會導致陰莖尺寸變小。</ChastityCageSmall.description>
+  <ChastityCageSmall.comps.CompBondageGear.useLabel>裝備</ChastityCageSmall.comps.CompBondageGear.useLabel>
+
+  <ChastityCageMicro.label>貞操籠（微型）</ChastityCageMicro.label>
+  <ChastityCageMicro.description>微型的陰莖貞操籠，阻止勃起，長期使用可能會導致陰莖尺寸變小。</ChastityCageMicro.description>
+  <ChastityCageMicro.comps.CompBondageGear.useLabel>裝備</ChastityCageMicro.comps.CompBondageGear.useLabel>
+</LanguageData>

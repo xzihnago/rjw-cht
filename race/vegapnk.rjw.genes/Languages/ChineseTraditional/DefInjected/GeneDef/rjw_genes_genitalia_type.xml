@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_equine_genitalia.label>馬科生殖器</rjw_genes_equine_genitalia.label>
+  <rjw_genes_equine_genitalia.description>基因擁有者具有馬科生殖器。</rjw_genes_equine_genitalia.description>
+
+  <rjw_genes_human_genitalia.label>人類生殖器</rjw_genes_human_genitalia.label>
+  <rjw_genes_human_genitalia.description>基因擁有者具有人類生殖器。</rjw_genes_human_genitalia.description>
+
+  <rjw_genes_canine_genitalia.label>犬科生殖器</rjw_genes_canine_genitalia.label>
+  <rjw_genes_canine_genitalia.description>基因擁有者具有犬科生殖器。</rjw_genes_canine_genitalia.description>
+
+  <rjw_genes_feline_genitalia.label>貓科生殖器</rjw_genes_feline_genitalia.label>
+  <rjw_genes_feline_genitalia.description>基因擁有者具有貓科生殖器。</rjw_genes_feline_genitalia.description>
+
+  <rjw_genes_demonic_genitalia.label>惡魔生殖器</rjw_genes_demonic_genitalia.label>
+  <rjw_genes_demonic_genitalia.description>基因擁有者具有惡魔生殖器。</rjw_genes_demonic_genitalia.description>
+
+  <rjw_genes_dragon_genitalia.label>龍生殖器</rjw_genes_dragon_genitalia.label>
+  <rjw_genes_dragon_genitalia.description>基因擁有者具有龍生殖器。</rjw_genes_dragon_genitalia.description>
+
+  <rjw_genes_slime_genitalia.label>史萊姆生殖器</rjw_genes_slime_genitalia.label>
+  <rjw_genes_slime_genitalia.description>基因擁有者具有史萊姆生殖器。</rjw_genes_slime_genitalia.description>
+
+  <rjw_genes_demonicT_genitalia.label>惡魔觸手生殖器</rjw_genes_demonicT_genitalia.label>
+  <rjw_genes_demonicT_genitalia.description>基因擁有者具有惡魔觸手生殖器。</rjw_genes_demonicT_genitalia.description>
+
+  <rjw_genes_crocodilian_genitalia.label>鱷魚生殖器</rjw_genes_crocodilian_genitalia.label>
+  <rjw_genes_crocodilian_genitalia.description>基因擁有者具有鱷魚生殖器。</rjw_genes_crocodilian_genitalia.description>
+
+  <rjw_genes_racoon_genitalia.label>浣熊生殖器</rjw_genes_racoon_genitalia.label>
+  <rjw_genes_racoon_genitalia.description>基因擁有者具有浣熊生殖器。</rjw_genes_racoon_genitalia.description>
+
+  <rjw_genes_reptilian_genitalia.label>爬蟲類生殖器</rjw_genes_reptilian_genitalia.label>
+  <rjw_genes_reptilian_genitalia.description>基因擁有者具有爬蟲類生殖器。</rjw_genes_reptilian_genitalia.description>
+
+  <rjw_genes_Needle_genitalia.label>細長生殖器</rjw_genes_Needle_genitalia.label>
+  <rjw_genes_Needle_genitalia.description>基因擁有者具有非常細的生殖器。</rjw_genes_Needle_genitalia.description>
+
+  <rjw_genes_ovipositor_genitalia.label>蟲生殖器</rjw_genes_ovipositor_genitalia.label>
+  <rjw_genes_ovipositor_genitalia.description>基因擁有者具有與蟲類似的產卵管。</rjw_genes_ovipositor_genitalia.description>
+</LanguageData>

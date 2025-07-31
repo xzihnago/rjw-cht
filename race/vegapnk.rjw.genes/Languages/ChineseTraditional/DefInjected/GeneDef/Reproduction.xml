@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_hypersexual.label>性愛成癮</rjw_genes_hypersexual.label>
+  <rjw_genes_hypersexual.description>基因擁有者性愛成癮（流鶯）。</rjw_genes_hypersexual.description>
+
+  <rjw_genes_rapist.label>強暴犯</rjw_genes_rapist.label>
+  <rjw_genes_rapist.description>基因擁有者在性方面更傾向於強迫他人。</rjw_genes_rapist.description>
+
+  <rjw_genes_masochist.label>被虐狂</rjw_genes_masochist.label>
+  <rjw_genes_masochist.description>基因擁有者享受成為疼痛的目標。</rjw_genes_masochist.description>
+
+  <rjw_genes_homosexual.label>同性戀</rjw_genes_homosexual.label>
+  <rjw_genes_homosexual.description>基因擁有者是同性戀。</rjw_genes_homosexual.description>
+
+  <rjw_genes_bisexual.label>雙性戀</rjw_genes_bisexual.label>
+  <rjw_genes_bisexual.description>基因擁有者是雙性戀。</rjw_genes_bisexual.description>
+
+  <rjw_genes_no_sex_need.label>無性戀</rjw_genes_no_sex_need.label>
+  <rjw_genes_no_sex_need.description>基因擁有者對其他人物沒有性趣。他們仍然可以參與性行為，但他們的性需求不會隨著時間的推移而下降。</rjw_genes_no_sex_need.description>
+
+  <rjw_genes_littered_births.label>多胎</rjw_genes_littered_births.label>
+  <rjw_genes_littered_births.description>基因擁有者的女性每次妊娠時可能會產下兩到四個孩子，而非一個。</rjw_genes_littered_births.description>
+
+  <rjw_genes_pregnancy_overwrite.label>精子置換</rjw_genes_pregnancy_overwrite.label>
+  <rjw_genes_pregnancy_overwrite.description>基因擁有者可以「覆蓋」現有的妊娠，保持進度，但實際上取代了父親。</rjw_genes_pregnancy_overwrite.description>
+
+  <rjw_genes_blocked_masturbation.label>無自慰</rjw_genes_blocked_masturbation.label>
+  <rjw_genes_blocked_masturbation.description>基因擁有者無法自慰 - 他們需要伴侶或設備。</rjw_genes_blocked_masturbation.description>
+</LanguageData>

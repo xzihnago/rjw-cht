@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_EggUnfertilized.label>卵（未受精）</RJW_EggUnfertilized.label>
+  <RJW_EggUnfertilized.description>未受精的卵。</RJW_EggUnfertilized.description>
+
+  <RJW_EggFertilized.label>卵（已受精）</RJW_EggFertilized.label>
+  <RJW_EggFertilized.description>已受精的卵。</RJW_EggFertilized.description>
+
+
+  <RJW_EggInsectUnfertilized.label>蟲卵（未受精）</RJW_EggInsectUnfertilized.label>
+  <RJW_EggInsectUnfertilized.description>未受精的蟲卵。</RJW_EggInsectUnfertilized.description>
+
+  <RJW_EggInsectFertilized.label>蟲卵（已受精）</RJW_EggInsectFertilized.label>
+  <RJW_EggInsectFertilized.description>已受精的蟲卵。</RJW_EggInsectFertilized.description>
+</LanguageData>

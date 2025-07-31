@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Repopulation_Duty.label>義務</CB_Repopulation_Duty.label>
+  <CB_Repopulation_Duty.description>我們的義務是讓這個世界重新繁衍生息，我們不求任何回報。根據賣淫的程度，這項義務可以是神聖的或必要的</CB_Repopulation_Duty.description>
+  <CB_Repopulation_Duty.comps.0.description>後代被送走</CB_Repopulation_Duty.comps.0.description>
+  <CB_Repopulation_Duty.comps.1.description>後代尚未被送走</CB_Repopulation_Duty.comps.1.description>
+  <CB_Repopulation_Duty.comps.2.thoughtStageDescriptions.0>我們正在履行重建這個星球的義務</CB_Repopulation_Duty.comps.2.thoughtStageDescriptions.0>
+  <CB_Repopulation_Duty.comps.2.thoughtStageDescriptions.1>我們尚未盡到重建這個星球的義務</CB_Repopulation_Duty.comps.2.thoughtStageDescriptions.1>
+  <CB_Repopulation_Duty.comps.3.description>我的孩子被送走</CB_Repopulation_Duty.comps.3.description>
+
+  <CB_Repopulation_Kindness.label>仁慈</CB_Repopulation_Kindness.label>
+  <CB_Repopulation_Kindness.description>我們透過生育他們的後代來幫助其他派系。根據賣淫的程度，這可以被視為神聖的</CB_Repopulation_Kindness.description>
+  <CB_Repopulation_Kindness.comps.0.description>後代被送走</CB_Repopulation_Kindness.comps.0.description>
+  <CB_Repopulation_Kindness.comps.1.description>後代尚未被送走</CB_Repopulation_Kindness.comps.1.description>
+  <CB_Repopulation_Kindness.comps.2.description>我的孩子被送走</CB_Repopulation_Kindness.comps.2.description>
+
+  <CB_Repopulation_Greed.label>貪婪</CB_Repopulation_Greed.label>
+  <CB_Repopulation_Greed.description>我們透過生育他們的後代來幫助其他派系，但要付出一定的代價。根據賣淫的程度，這可以被視為神聖的</CB_Repopulation_Greed.description>
+  <CB_Repopulation_Greed.comps.0.description>後代被送走</CB_Repopulation_Greed.comps.0.description>
+  <CB_Repopulation_Greed.comps.1.description>後代尚未被送走</CB_Repopulation_Greed.comps.1.description>
+  <CB_Repopulation_Greed.comps.2.description>我的孩子被送走</CB_Repopulation_Greed.comps.2.description>
+
+  <CB_Repopulation_None.label>無</CB_Repopulation_None.label>
+  <CB_Repopulation_None.description>我們並不試圖重建世界</CB_Repopulation_None.description>
+  <CB_Repopulation_None.comps.0.description>後代被送走</CB_Repopulation_None.comps.0.description>
+  <CB_Repopulation_None.comps.1.description>我的孩子被送走</CB_Repopulation_None.comps.1.description>
+</LanguageData>

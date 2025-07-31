@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GagBall.label>口球</GagBall.label>
+  <GagBall.description>口球，阻止穿戴者說話與其他口腔互動。</GagBall.description>
+  <GagBall.comps.CompBondageGear.useLabel>裝備</GagBall.comps.CompBondageGear.useLabel>
+
+  <UnlockedGagBall.label>未上鎖的口球</UnlockedGagBall.label>
+  <UnlockedGagBall.description>口球，阻止穿戴者說話與其他口腔互動。</UnlockedGagBall.description>
+  <UnlockedGagBall.comps.CompBondageGear.useLabel>裝備</UnlockedGagBall.comps.CompBondageGear.useLabel>
+
+  <GagRing.label>口枷</GagRing.label>
+  <GagRing.description>口枷，阻止穿戴者說話，但允許口腔互動。</GagRing.description>
+  <GagRing.comps.CompBondageGear.useLabel>裝備</GagRing.comps.CompBondageGear.useLabel>
+
+  <UnlockedGagRing.label>未上鎖的口枷</UnlockedGagRing.label>
+  <UnlockedGagRing.description>口枷，阻止穿戴者說話，但允許口腔互動。</UnlockedGagRing.description>
+  <UnlockedGagRing.comps.CompBondageGear.useLabel>裝備</UnlockedGagRing.comps.CompBondageGear.useLabel>
+</LanguageData>

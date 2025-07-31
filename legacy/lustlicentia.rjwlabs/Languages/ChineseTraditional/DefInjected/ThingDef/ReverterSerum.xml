@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ReverterSerum.label>還原血清</ReverterSerum.label>
+  <ReverterSerum.description>將身體部位還原成一般人類部位。</ReverterSerum.description>
+  <ReverterSerum.ingestible.ingestCommandString>飲用{0}</ReverterSerum.ingestible.ingestCommandString>
+  <ReverterSerum.ingestible.ingestReportString>飲用{0}。</ReverterSerum.ingestible.ingestReportString>
+</LanguageData>

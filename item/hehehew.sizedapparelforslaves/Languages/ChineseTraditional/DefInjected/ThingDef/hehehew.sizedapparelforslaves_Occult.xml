@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Nun.label>修女裝</Nun.label>
+  <Nun.description>修女制服，象徵著貞潔，諷刺的是，這引發了無數的迷戀。隨心所欲地玷汙穿戴者的貞潔吧！</Nun.description>
+
+  <SSAWitch.label>女巫裝</SSAWitch.label>
+  <SSAWitch.description>更具哥德式風格的性奴隸服裝，體現了邪惡的誘惑者形象。</SSAWitch.description>
+
+  <SSASuccubus.label>魅魔裝</SSASuccubus.label>
+  <SSASuccubus.description>體現魅魔的邪惡外貌，一種邪惡的生物，會吸走男性的…靈魂。</SSASuccubus.description>
+
+  <SSACultist.label>教徒裝</SSACultist.label>
+  <SSACultist.description>這是一種古老的宗教服飾，教義認為女性的用處是生育孩子，生育是神聖的行為。</SSACultist.description>
+</LanguageData>

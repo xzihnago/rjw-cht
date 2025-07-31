@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_genes_feminization_progress.label>雌化</rjw_genes_feminization_progress.label>
+  <rjw_genes_feminization_progress.description>有些東西正在改變這個人物—有機會在性行為中發育出女性性徵。</rjw_genes_feminization_progress.description>
+  <rjw_genes_feminization_progress.stages.0.label>忽略</rjw_genes_feminization_progress.stages.0.label>
+  <rjw_genes_feminization_progress.stages.1.label>輕度</rjw_genes_feminization_progress.stages.1.label>
+  <rjw_genes_feminization_progress.stages.2.label>重度</rjw_genes_feminization_progress.stages.2.label>
+  <rjw_genes_feminization_progress.stages.3.label>極重度</rjw_genes_feminization_progress.stages.3.label>
+
+  <rjw_genes_twinkification_progress.label>扶他化</rjw_genes_twinkification_progress.label>
+  <rjw_genes_twinkification_progress.description>有些東西正在改變這個人物—有機會在性交時轉變為一個可愛的、可繁殖的小扶他。</rjw_genes_twinkification_progress.description>
+  <rjw_genes_twinkification_progress.stages.0.label>忽略</rjw_genes_twinkification_progress.stages.0.label>
+  <rjw_genes_twinkification_progress.stages.1.label>輕度</rjw_genes_twinkification_progress.stages.1.label>
+  <rjw_genes_twinkification_progress.stages.2.label>重度</rjw_genes_twinkification_progress.stages.2.label>
+  <rjw_genes_twinkification_progress.stages.3.label>極重度</rjw_genes_twinkification_progress.stages.3.label>
+</LanguageData>

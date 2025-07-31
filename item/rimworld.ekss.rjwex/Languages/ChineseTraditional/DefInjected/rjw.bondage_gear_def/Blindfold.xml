@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Blindfold.label>眼罩</Blindfold.label>
+  <Blindfold.description>一個眼罩。阻擋穿戴者視線的約束裝置。</Blindfold.description>
+  <Blindfold.comps.CompBondageGear.useLabel>裝備</Blindfold.comps.CompBondageGear.useLabel>
+
+  <UnlockedBlindfold.label>未上鎖的眼罩</UnlockedBlindfold.label>
+  <UnlockedBlindfold.description>一個眼罩。阻擋穿戴者視線的約束裝置。</UnlockedBlindfold.description>
+  <UnlockedBlindfold.comps.CompBondageGear.useLabel>裝備</UnlockedBlindfold.comps.CompBondageGear.useLabel>
+</LanguageData>

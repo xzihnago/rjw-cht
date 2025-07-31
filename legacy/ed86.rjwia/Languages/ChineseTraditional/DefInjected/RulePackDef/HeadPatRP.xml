@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HeadPatRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]不停摸頭。</HeadPatRP.rulePack.rulesStrings.0>
+  <HeadPatReverseRP.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef]不停對[INITIATOR_nameDef]摸頭。</HeadPatReverseRP.rulePack.rulesStrings.0>
+</LanguageData>

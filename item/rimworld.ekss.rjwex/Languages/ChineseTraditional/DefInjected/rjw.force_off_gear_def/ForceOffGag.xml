@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForceOffGagBall.label>強行移除口球</ForceOffGagBall.label>
+  <ForceOffGagBall.description>在沒有鑰匙的情況下強行取下口球，會對穿戴者造成重大傷害。</ForceOffGagBall.description>
+  <ForceOffGagBall.jobString>強行移除口球。</ForceOffGagBall.jobString>
+
+  <ForceOffGagRing.label>強行移除口枷</ForceOffGagRing.label>
+  <ForceOffGagRing.description>在沒有鑰匙的情況下強行取下口枷，會對穿戴者造成重大傷害。</ForceOffGagRing.description>
+  <ForceOffGagRing.jobString>強行移除口枷。</ForceOffGagRing.jobString>
+</LanguageData>

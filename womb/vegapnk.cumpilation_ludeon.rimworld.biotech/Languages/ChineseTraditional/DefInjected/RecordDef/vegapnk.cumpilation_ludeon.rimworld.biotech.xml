@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cumpilation_NumOfConsumedSlug.label>飲黏液次數</Cumpilation_NumOfConsumedSlug.label>
+  <Cumpilation_NumOfConsumedSlug.description>我吞下黏液的次數。</Cumpilation_NumOfConsumedSlug.description>
+
+  <Cumpilation_AmountConsumedSlug.label>飲黏液量（毫升）</Cumpilation_AmountConsumedSlug.label>
+  <Cumpilation_AmountConsumedSlug.description>我吞下的黏液量。</Cumpilation_AmountConsumedSlug.description>
+</LanguageData>

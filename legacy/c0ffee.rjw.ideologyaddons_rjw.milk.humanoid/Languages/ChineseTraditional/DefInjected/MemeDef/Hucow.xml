@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hucow.label>乳人</Hucow.label>
+  <Hucow.description>母乳應該為所有人生產和消費。</Hucow.description>
+
+  <Hucow.generalRules.rulesStrings>
+    <li>memeAdjective->牧場的</li>
+    <li>memeAdjective->乳牛的</li>
+    <li>memeHyphenPrefix->乳汁</li>
+    <li>memeConcept->母乳學</li>
+    <li>memeLeaderNoun->牧場主</li>
+    <li>memeLeaderNoun->工人</li>
+    <li>memeLeaderNoun->牧人</li>
+    <li>memeLeaderNoun->牧羊犬</li>
+  </Hucow.generalRules.rulesStrings>
+
+  <Hucow.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Hucow)        ->[deity0_name]賦予人類乳房和生產母乳的能力。</li>
+    <li>episode(uses=1,tag=meme_Hucow)  ->[deity0_name]創造了這片大地上所有高貴的動物和野獸，並說道：「帶著這些高貴的野獸，讓你們以我為榮，使自己多產。」</li>
+
+    <li>intro(tag=meme_Hucow)           ->[place_summary][place_name]的早期[ranchingAnimal]牧場主為[deity0_name]建造了一座偉大的[altarName]。</li>
+    <li>conflict(tag=meme_Hucow)        ->一個強大的[foeLeader]鄙視[memberNamePlural]和他們的生活方式，並買下了所有草原來種植[Vegetable]。</li>
+    <li>founderJoin(tag=meme_Hucow)     ->[memberName]的救世主[founderName]於一個春天的早晨出生在一個簡陋的穀倉裡，周圍都是[ranchingAnimal]，而[founder_possessive]的父母是[rancherParent1]和[rancherParent2]。</li>
+    <li>victory(tag=meme_Hucow)         ->[founderName]騎著一匹優雅的馬前往[place_community]，並在中午用[place_personalWeapon]向[foeLeader]發起決鬥。[foeLeader]不能拒絕，否則將失去[foeSoldiers]的信任。[founderName]把[foeLeader]打敗了。</li>
+
+    <li>setup(tag=meme_Hucow)           ->農民受到迫害，所以他們逃到鄉間，在那裡建立了一個美好的牧養社會。</li>
+    <li>story(uses=1,tag=meme_Hucow)    ->信徒們在土地上散佈，隨著他們居住在田園和農場中，人數逐漸增多。</li>
+
+    <li>lessonIntro(tag=meme_Hucow)         ->夥伴，在牧場裡，我們老手之間有一句話：</li>
+    <li>lesson(tag=meme_Hucow)              ->美好和幸福的生活就在牧場裡</li>
+    <li>lessonReinforcement(tag=meme_Hucow) ->這是你逐漸接受的事情，夥伴，在山脈孤獨的小路上，坐在火邊聆聽動物的睡眠。</li>
+
+    <li>archistFact(tag=meme_Hucow)     ->遠古人像牧羊人一樣關心人類，因為我們是他們最寶貴的羊群。</li>
+    <li>archistProphecy(tag=meme_Hucow) ->[inTheEnd]，遠古人將離去，並將那些善待自己羊群的人趕走。其餘的人將被留在荒野中。</li>
+
+    <li>animistFact(tag=meme_Hucow)     ->自然界的動物是奴隸的靈魂，並被要求服侍。</li>
+  </Hucow.descriptionMaker.rules.rulesStrings>
+
+  <Hucow.symbolPacks.0.ideoName>乳牛主義</Hucow.symbolPacks.0.ideoName>
+  <Hucow.symbolPacks.0.theme>乳牛們</Hucow.symbolPacks.0.theme>
+  <Hucow.symbolPacks.0.adjective>乳牛的</Hucow.symbolPacks.0.adjective>
+  <Hucow.symbolPacks.0.member>乳牛</Hucow.symbolPacks.0.member>
+  <Hucow.symbolPacks.1.ideoName>乳人主義</Hucow.symbolPacks.1.ideoName>
+  <Hucow.symbolPacks.1.theme>乳人們</Hucow.symbolPacks.1.theme>
+  <Hucow.symbolPacks.1.adjective>乳人的</Hucow.symbolPacks.1.adjective>
+  <Hucow.symbolPacks.1.member>乳人</Hucow.symbolPacks.1.member>
+</LanguageData>

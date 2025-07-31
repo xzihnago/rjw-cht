@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VirusPerma.label>病毒侵襲</VirusPerma.label>
+  <VirusPerma.description>病毒侵襲。</VirusPerma.description>
+  <VirusPerma.comps.0.permanentLabel>永久性病毒損傷</VirusPerma.comps.0.permanentLabel>
+  <VirusPerma.comps.0.instantlyPermanentLabel>永久性病毒損傷</VirusPerma.comps.0.instantlyPermanentLabel>
+  <VirusPerma.injuryProps.destroyedLabel>喪失功能（衰竭）</VirusPerma.injuryProps.destroyedLabel>
+  <VirusPerma.injuryProps.destroyedOutLabel>喪失功能（衰竭）</VirusPerma.injuryProps.destroyedOutLabel>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_ForceFertile.label>多產</Hediff_ForceFertile.label>
+  <Hediff_ForceFertile.labelNoun>多產</Hediff_ForceFertile.labelNoun>
+  <Hediff_ForceFertile.description>多產</Hediff_ForceFertile.description>
+  <Hediff_ForceFertile.labelNounPretty>{0}擁有多產的身體。</Hediff_ForceFertile.labelNounPretty>
+</LanguageData>

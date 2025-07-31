@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <rjw_feisty.description>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]的行為說「不」，他會賞你一拳。</rjw_feisty.description>
+  <rjw_feisty.baseDesc>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]的行為說「不」，他會賞你一拳。</rjw_feisty.baseDesc>
+  <rjw_feisty.title>易怒流鶯</rjw_feisty.title>
+  <rjw_feisty.titleShort>流鶯</rjw_feisty.titleShort>
+
+  <rjw_curious.description>[PAWN_nameDef]喜歡製作各種東西，尤其是能提供新奇體驗的東西。</rjw_curious.description>
+  <rjw_curious.baseDesc>[PAWN_nameDef]喜歡製作各種東西，尤其是能提供新奇體驗的東西。</rjw_curious.baseDesc>
+  <rjw_curious.title>好奇流鶯</rjw_curious.title>
+  <rjw_curious.titleShort>流鶯</rjw_curious.titleShort>
+
+  <rjw_tender.description>[PAWN_nameDef]有一雙迷人的眼睛，[PAWN_possessive]聲音柔和甜美。由於[PAWN_possessive]當過護士，[PAWN_pronoun]對待人們非常好。</rjw_tender.description>
+  <rjw_tender.baseDesc>[PAWN_nameDef]有一雙迷人的眼睛，[PAWN_possessive]聲音柔和甜美。由於[PAWN_possessive]當過護士，[PAWN_pronoun]對待人們非常好。</rjw_tender.baseDesc>
+  <rjw_tender.title>溫柔流鶯</rjw_tender.title>
+  <rjw_tender.titleShort>流鶯</rjw_tender.titleShort>
+
+  <rjw_chatty.description>沒有人能比[PAWN_nameDef]更健談。[PAWN_pronoun]舌頭靈活，心思敏銳，嘴唇火熱。</rjw_chatty.description>
+  <rjw_chatty.baseDesc>沒有人能比[PAWN_nameDef]更健談。[PAWN_pronoun]舌頭靈活，心思敏銳，嘴唇火熱。</rjw_chatty.baseDesc>
+  <rjw_chatty.title>健談流鶯</rjw_chatty.title>
+  <rjw_chatty.titleShort>流鶯</rjw_chatty.titleShort>
+
+  <rjw_broken.description>[PAWN_nameDef]遭受了一些可怕的事情，[PAWN_pronoun]看起來相當憔悴。</rjw_broken.description>
+  <rjw_broken.baseDesc>[PAWN_nameDef]遭受了一些可怕的事情，[PAWN_pronoun]看起來相當憔悴。</rjw_broken.baseDesc>
+  <rjw_broken.title>頹廢流鶯</rjw_broken.title>
+  <rjw_broken.titleShort>流鶯</rjw_broken.titleShort>
+
+  <rjw_homekeeper.description>[PAWN_nameDef]接受過管家培訓。您想先吃晚餐嗎？先洗澡？還是說…[PAWN_possessive]？</rjw_homekeeper.description>
+  <rjw_homekeeper.baseDesc>[PAWN_nameDef]接受過管家培訓。您想先吃晚餐嗎？先洗澡？還是說…[PAWN_possessive]？</rjw_homekeeper.baseDesc>
+  <rjw_homekeeper.title>管家流鶯</rjw_homekeeper.title>
+  <rjw_homekeeper.titleShort>流鶯</rjw_homekeeper.titleShort>
+</LanguageData>

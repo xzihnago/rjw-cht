@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gangbang.spectatorGerund>參與</Gangbang.spectatorGerund>
+  <Gangbang.spectatorsLabel>參加者</Gangbang.spectatorsLabel>
+  <Gangbang.roles.0.label>引導者</Gangbang.roles.0.label>
+  <Gangbang.roles.1.label>受害者</Gangbang.roles.1.label>
+  <Gangbang.roles.1.missingDesc>一名受害者</Gangbang.roles.1.missingDesc>
+  <Gangbang.stages.0.failTriggers.0.desc>無法到達受害者位置。</Gangbang.stages.0.failTriggers.0.desc>
+
+  <Gangbang_Consensual.spectatorGerund>參與</Gangbang_Consensual.spectatorGerund>
+  <Gangbang_Consensual.spectatorsLabel>參加者</Gangbang_Consensual.spectatorsLabel>
+  <Gangbang_Consensual.roles.0.label>引導者</Gangbang_Consensual.roles.0.label>
+</LanguageData>

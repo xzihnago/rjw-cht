@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeArmbinder.label>製作束手器</MakeArmbinder.label>
+  <MakeArmbinder.description>製作束手器。</MakeArmbinder.description>
+  <MakeArmbinder.jobString>製作束手器。</MakeArmbinder.jobString>
+
+  <MakeUnlockedArmbinder.label>製作未上鎖的束手器</MakeUnlockedArmbinder.label>
+  <MakeUnlockedArmbinder.description>製作未上鎖的束手器。</MakeUnlockedArmbinder.description>
+  <MakeUnlockedArmbinder.jobString>製作束手器。</MakeUnlockedArmbinder.jobString>
+
+  <MakeLegbinder.label>製作束腿器</MakeLegbinder.label>
+  <MakeLegbinder.description>製作束腿器。</MakeLegbinder.description>
+  <MakeLegbinder.jobString>製作束腿器。</MakeLegbinder.jobString>
+
+  <MakeUnlockedLegbinder.label>製作未上鎖的束腿器</MakeUnlockedLegbinder.label>
+  <MakeUnlockedLegbinder.description>製作未上鎖的束腿器。</MakeUnlockedLegbinder.description>
+  <MakeUnlockedLegbinder.jobString>製作束腿器。</MakeUnlockedLegbinder.jobString>
+</LanguageData>

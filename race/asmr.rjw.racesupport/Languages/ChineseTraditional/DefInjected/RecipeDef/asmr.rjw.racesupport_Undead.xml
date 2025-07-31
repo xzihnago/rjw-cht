@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreastSurgeryGhostBreasts.label>安裝靈體乳房</BreastSurgeryGhostBreasts.label>
+  <BreastSurgeryGhostBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryGhostBreasts.description>
+  <BreastSurgeryGhostBreasts.jobString>安裝乳房</BreastSurgeryGhostBreasts.jobString>
+
+  <SexReassignmentPGhostPenis.label>安裝靈體陰莖</SexReassignmentPGhostPenis.label>
+  <SexReassignmentPGhostPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPGhostPenis.description>
+  <SexReassignmentPGhostPenis.jobString>安裝陰莖</SexReassignmentPGhostPenis.jobString>
+
+  <SexReassignmentVGhostVagina.label>安裝靈體陰道</SexReassignmentVGhostVagina.label>
+  <SexReassignmentVGhostVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVGhostVagina.description>
+  <SexReassignmentVGhostVagina.jobString>安裝陰道</SexReassignmentVGhostVagina.jobString>
+
+  <AnalSurgeryGhostAnus.label>安裝靈體肛門</AnalSurgeryGhostAnus.label>
+  <AnalSurgeryGhostAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryGhostAnus.description>
+  <AnalSurgeryGhostAnus.jobString>安裝肛門</AnalSurgeryGhostAnus.jobString>
+
+  <MultiBreastGhostBreasts.label>加裝靈體乳房</MultiBreastGhostBreasts.label>
+  <MultiBreastGhostBreasts.description>加裝額外的乳房。</MultiBreastGhostBreasts.description>
+  <MultiBreastGhostBreasts.jobString>加裝乳房</MultiBreastGhostBreasts.jobString>
+
+  <MultiPenisGhostPenis.label>加裝靈體陰莖</MultiPenisGhostPenis.label>
+  <MultiPenisGhostPenis.description>加裝額外的陰莖。</MultiPenisGhostPenis.description>
+  <MultiPenisGhostPenis.jobString>加裝陰莖</MultiPenisGhostPenis.jobString>
+
+  <MultiVaginaGhostVagina.label>加裝靈體陰道</MultiVaginaGhostVagina.label>
+  <MultiVaginaGhostVagina.description>加裝額外的陰道。</MultiVaginaGhostVagina.description>
+  <MultiVaginaGhostVagina.jobString>加裝陰道</MultiVaginaGhostVagina.jobString>
+
+  <MultiAnusGhostAnus.label>加裝靈體肛門</MultiAnusGhostAnus.label>
+  <MultiAnusGhostAnus.description>加裝額外的肛門。</MultiAnusGhostAnus.description>
+  <MultiAnusGhostAnus.jobString>加裝肛門</MultiAnusGhostAnus.jobString>
+
+
+  <BreastSurgeryNecroBreasts.label>安裝死靈乳房</BreastSurgeryNecroBreasts.label>
+  <BreastSurgeryNecroBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryNecroBreasts.description>
+  <BreastSurgeryNecroBreasts.jobString>安裝乳房</BreastSurgeryNecroBreasts.jobString>
+
+  <SexReassignmentPNecroPenis.label>安裝死靈陰莖</SexReassignmentPNecroPenis.label>
+  <SexReassignmentPNecroPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPNecroPenis.description>
+  <SexReassignmentPNecroPenis.jobString>安裝陰莖</SexReassignmentPNecroPenis.jobString>
+
+  <SexReassignmentVNecroVagina.label>安裝死靈陰道</SexReassignmentVNecroVagina.label>
+  <SexReassignmentVNecroVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVNecroVagina.description>
+  <SexReassignmentVNecroVagina.jobString>安裝陰道</SexReassignmentVNecroVagina.jobString>
+
+  <AnalSurgeryNecroAnus.label>安裝死靈肛門</AnalSurgeryNecroAnus.label>
+  <AnalSurgeryNecroAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryNecroAnus.description>
+  <AnalSurgeryNecroAnus.jobString>安裝肛門</AnalSurgeryNecroAnus.jobString>
+
+  <MultiBreastNecroBreasts.label>加裝死靈乳房</MultiBreastNecroBreasts.label>
+  <MultiBreastNecroBreasts.description>加裝額外的乳房。</MultiBreastNecroBreasts.description>
+  <MultiBreastNecroBreasts.jobString>加裝乳房</MultiBreastNecroBreasts.jobString>
+
+  <MultiPenisNecroPenis.label>加裝死靈陰莖</MultiPenisNecroPenis.label>
+  <MultiPenisNecroPenis.description>加裝額外的陰莖。</MultiPenisNecroPenis.description>
+  <MultiPenisNecroPenis.jobString>加裝陰莖</MultiPenisNecroPenis.jobString>
+
+  <MultiVaginaNecroVagina.label>加裝死靈陰道</MultiVaginaNecroVagina.label>
+  <MultiVaginaNecroVagina.description>加裝額外的陰道。</MultiVaginaNecroVagina.description>
+  <MultiVaginaNecroVagina.jobString>加裝陰道</MultiVaginaNecroVagina.jobString>
+
+  <MultiAnusNecroAnus.label>加裝死靈肛門</MultiAnusNecroAnus.label>
+  <MultiAnusNecroAnus.description>加裝額外的肛門。</MultiAnusNecroAnus.description>
+  <MultiAnusNecroAnus.jobString>加裝肛門</MultiAnusNecroAnus.jobString>
+
+
+  <BreastSurgeryGhoulBreasts.label>安裝食屍鬼乳房</BreastSurgeryGhoulBreasts.label>
+  <BreastSurgeryGhoulBreasts.description>安裝乳房，替換同部位器官。</BreastSurgeryGhoulBreasts.description>
+  <BreastSurgeryGhoulBreasts.jobString>安裝乳房</BreastSurgeryGhoulBreasts.jobString>
+
+  <SexReassignmentPGhoulPenis.label>安裝食屍鬼陰莖</SexReassignmentPGhoulPenis.label>
+  <SexReassignmentPGhoulPenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPGhoulPenis.description>
+  <SexReassignmentPGhoulPenis.jobString>安裝陰莖</SexReassignmentPGhoulPenis.jobString>
+
+  <SexReassignmentVGhoulVagina.label>安裝食屍鬼陰道</SexReassignmentVGhoulVagina.label>
+  <SexReassignmentVGhoulVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVGhoulVagina.description>
+  <SexReassignmentVGhoulVagina.jobString>安裝陰道</SexReassignmentVGhoulVagina.jobString>
+
+  <AnalSurgeryGhoulAnus.label>安裝食屍鬼肛門</AnalSurgeryGhoulAnus.label>
+  <AnalSurgeryGhoulAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryGhoulAnus.description>
+  <AnalSurgeryGhoulAnus.jobString>安裝肛門</AnalSurgeryGhoulAnus.jobString>
+
+  <MultiBreastGhoulBreasts.label>加裝食屍鬼乳房</MultiBreastGhoulBreasts.label>
+  <MultiBreastGhoulBreasts.description>加裝額外的乳房。</MultiBreastGhoulBreasts.description>
+  <MultiBreastGhoulBreasts.jobString>加裝乳房</MultiBreastGhoulBreasts.jobString>
+
+  <MultiPenisGhoulPenis.label>加裝食屍鬼陰莖</MultiPenisGhoulPenis.label>
+  <MultiPenisGhoulPenis.description>加裝額外的陰莖。</MultiPenisGhoulPenis.description>
+  <MultiPenisGhoulPenis.jobString>加裝陰莖</MultiPenisGhoulPenis.jobString>
+
+  <MultiVaginaGhoulVagina.label>加裝食屍鬼陰道</MultiVaginaGhoulVagina.label>
+  <MultiVaginaGhoulVagina.description>加裝額外的陰道。</MultiVaginaGhoulVagina.description>
+  <MultiVaginaGhoulVagina.jobString>加裝陰道</MultiVaginaGhoulVagina.jobString>
+
+  <MultiAnusGhoulAnus.label>加裝食屍鬼肛門</MultiAnusGhoulAnus.label>
+  <MultiAnusGhoulAnus.description>加裝額外的肛門。</MultiAnusGhoulAnus.description>
+  <MultiAnusGhoulAnus.jobString>加裝肛門</MultiAnusGhoulAnus.jobString>
+</LanguageData>

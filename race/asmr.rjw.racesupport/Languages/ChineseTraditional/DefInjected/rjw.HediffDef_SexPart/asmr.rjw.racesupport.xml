@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MammalBreasts.label>哺乳類乳房</MammalBreasts.label>
+  <MammalBreasts.labelNoun>哺乳類乳房</MammalBreasts.labelNoun>
+  <MammalBreasts.description>一對哺乳動物用來哺乳幼崽的乳房/乳頭。</MammalBreasts.description>
+  <MammalBreasts.stages.0.label>平坦</MammalBreasts.stages.0.label>
+  <MammalBreasts.stages.1.label>微隆</MammalBreasts.stages.1.label>
+  <MammalBreasts.stages.2.label>小巧</MammalBreasts.stages.2.label>
+  <MammalBreasts.stages.3.label>普通</MammalBreasts.stages.3.label>
+  <MammalBreasts.stages.4.label>較大</MammalBreasts.stages.4.label>
+  <MammalBreasts.stages.5.label>巨大</MammalBreasts.stages.5.label>
+  <MammalBreasts.stages.6.label>龐大</MammalBreasts.stages.6.label>
+  <MammalBreasts.stages.7.label>極大</MammalBreasts.stages.7.label>
+  <MammalBreasts.stages.8.label>巨人</MammalBreasts.stages.8.label>
+  <MammalBreasts.stages.9.label>巨像</MammalBreasts.stages.9.label>
+  <MammalBreasts.stages.10.label>泰坦</MammalBreasts.stages.10.label>
+  <MammalBreasts.stages.11.label>天體</MammalBreasts.stages.11.label>
+
+  <MammalPenis.label>哺乳類陰莖</MammalPenis.label>
+  <MammalPenis.labelNoun>哺乳類陰莖</MammalPenis.labelNoun>
+  <MammalPenis.description>一根哺乳動物的陰莖。</MammalPenis.description>
+  <MammalPenis.stages.0.label>微小</MammalPenis.stages.0.label>
+  <MammalPenis.stages.1.label>小</MammalPenis.stages.1.label>
+  <MammalPenis.stages.2.label>普通</MammalPenis.stages.2.label>
+  <MammalPenis.stages.3.label>大</MammalPenis.stages.3.label>
+  <MammalPenis.stages.4.label>巨大</MammalPenis.stages.4.label>
+  <MammalPenis.stages.5.label>參天</MammalPenis.stages.5.label>
+
+  <MammalVagina.label>哺乳類陰道</MammalVagina.label>
+  <MammalVagina.labelNoun>哺乳類陰道</MammalVagina.labelNoun>
+  <MammalVagina.description>一個可能屬於某種哺乳動物的陰道。</MammalVagina.description>
+  <MammalVagina.stages.0.label>過窄</MammalVagina.stages.0.label>
+  <MammalVagina.stages.1.label>緊</MammalVagina.stages.1.label>
+  <MammalVagina.stages.2.label>普通</MammalVagina.stages.2.label>
+  <MammalVagina.stages.3.label>鬆</MammalVagina.stages.3.label>
+  <MammalVagina.stages.4.label>過鬆</MammalVagina.stages.4.label>
+  <MammalVagina.stages.5.label>深淵</MammalVagina.stages.5.label>
+
+  <MammalAnus.label>哺乳類肛門</MammalAnus.label>
+  <MammalAnus.labelNoun>哺乳類肛門</MammalAnus.labelNoun>
+  <MammalAnus.description>一個哺乳動物的肛門。</MammalAnus.description>
+  <MammalAnus.stages.0.label>過窄</MammalAnus.stages.0.label>
+  <MammalAnus.stages.1.label>緊</MammalAnus.stages.1.label>
+  <MammalAnus.stages.2.label>普通</MammalAnus.stages.2.label>
+  <MammalAnus.stages.3.label>鬆</MammalAnus.stages.3.label>
+  <MammalAnus.stages.4.label>過鬆</MammalAnus.stages.4.label>
+  <MammalAnus.stages.5.label>深淵</MammalAnus.stages.5.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeHololock.label>製作全息鎖</MakeHololock.label>
+  <MakeHololock.description>製作一個全息鎖。</MakeHololock.description>
+  <MakeHololock.jobString>製作全息鎖</MakeHololock.jobString>
+
+  <MakePrisonerChains.label>製作鏈條</MakePrisonerChains.label>
+  <MakePrisonerChains.description>製作一條限制性的鏈條。</MakePrisonerChains.description>
+  <MakePrisonerChains.jobString>製作鏈條</MakePrisonerChains.jobString>
+</LanguageData>

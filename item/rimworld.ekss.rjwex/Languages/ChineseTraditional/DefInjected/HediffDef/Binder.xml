@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Armbinder.label>束手器</Armbinder.label>
+  <Armbinder.labelNoun>束手器</Armbinder.labelNoun>
+  <Armbinder.description>束手器。一種將手臂束縛在身體後方的約束裝置。</Armbinder.description>
+
+  <Legbinder.label>束腿器</Legbinder.label>
+  <Legbinder.labelNoun>束腿器</Legbinder.labelNoun>
+  <Legbinder.description>束腿器。約束腿部以限制活動的約束裝置。</Legbinder.description>
+</LanguageData>

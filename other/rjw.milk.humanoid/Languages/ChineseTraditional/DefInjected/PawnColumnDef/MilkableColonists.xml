@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Milk_WillManual.headerTip>允許人物為其他人擠奶</Milk_WillManual.headerTip>
+  <Milk_AllowManual.headerTip>允許其他人為人物擠奶</Milk_AllowManual.headerTip>
+
+  <Milk_WillBfAdult.headerTip>允許人物從其他人身上直接喝奶</Milk_WillBfAdult.headerTip>
+  <Milk_AllowBfAdult.headerTip>允許其他人從人物身上直接喝奶</Milk_AllowBfAdult.headerTip>
+
+  <Milk_AllowSelf.headerTip>允許人物自行擠奶</Milk_AllowSelf.headerTip>
+  <Milk_AllowMachine.headerTip>允許人物使用擠乳站自行擠奶</Milk_AllowMachine.headerTip>
+  <Milk_AllowBfBaby.headerTip>允許人物喂養嬰兒（哺乳時使用生機 DLC 健康狀態）</Milk_AllowBfBaby.headerTip>
+</LanguageData>

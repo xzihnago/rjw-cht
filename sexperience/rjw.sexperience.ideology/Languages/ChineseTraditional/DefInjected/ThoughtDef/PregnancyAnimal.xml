@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Pregnancy_Respected_PregnantAnimal.stages.0.label>動物懷孕</Pregnancy_Respected_PregnantAnimal.stages.0.label>
+  <Pregnancy_Respected_PregnantAnimal.stages.0.description>我懷上了一隻動物的後代，這種感覺很美好，就像我注定要這樣。</Pregnancy_Respected_PregnantAnimal.stages.0.description>
+  <Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>動物懷孕</Pregnancy_Respected_PregnantAnimal_Social.stages.0.label>
+
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.label>動物懷孕</Pregnancy_Horrible_PregnantAnimal.stages.0.label>
+  <Pregnancy_Horrible_PregnantAnimal.stages.0.description>我從來沒想過結局會是這樣—懷著一隻動物的後代。這簡直是一場惡夢。我現在該怎麼辦？</Pregnancy_Horrible_PregnantAnimal.stages.0.description>
+  <Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>動物懷孕</Pregnancy_Horrible_PregnantAnimal_Social.stages.0.label>
+
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.label>未動物懷孕</Pregnancy_Respected_NonPregnantAnimal.stages.0.label>
+  <Pregnancy_Respected_NonPregnantAnimal.stages.0.description>想到被動物懷孕就讓人興奮不已—我想體驗一下。</Pregnancy_Respected_NonPregnantAnimal.stages.0.description>
+  <Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>未動物懷孕</Pregnancy_Respected_NonPregnantAnimal_Social.stages.0.label>
+</LanguageData>

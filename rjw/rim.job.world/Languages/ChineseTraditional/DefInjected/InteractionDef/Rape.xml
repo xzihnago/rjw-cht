@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rape_Vaginal.label>強行性交</Rape_Vaginal.label>
+  <Rape_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]性交。</Rape_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行性交。</Rape_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Rape_Vaginal.modExtensions.0.RMBLabel>強行性交</Rape_Vaginal.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Vaginal.label>強迫性交</Rape_Reverse_Vaginal.label>
+  <Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]性交。</Rape_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫性交。</Rape_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Vaginal.modExtensions.0.RMBLabel>強迫性交</Rape_Reverse_Vaginal.modExtensions.0.RMBLabel>
+
+  <Rape_Anal.label>強行肛交</Rape_Anal.label>
+  <Rape_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]肛交。</Rape_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行肛交。</Rape_Anal.logRulesRecipient.rulesStrings.0>
+  <Rape_Anal.modExtensions.0.RMBLabel>強行肛交</Rape_Anal.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Anal.label>強迫肛交</Rape_Reverse_Anal.label>
+  <Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]肛交。</Rape_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫肛交。</Rape_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Anal.modExtensions.0.RMBLabel>強迫肛交</Rape_Reverse_Anal.modExtensions.0.RMBLabel>
+
+  <Rape_DoublePenetration.label>強行兩穴齊插</Rape_DoublePenetration.label>
+  <Rape_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]兩穴齊插。</Rape_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Rape_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行兩穴齊插。</Rape_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Rape_DoublePenetration.modExtensions.0.RMBLabel>強行兩穴齊插</Rape_DoublePenetration.modExtensions.0.RMBLabel>
+  <Rape_Reverse_DoublePenetration.label>強迫兩穴齊插</Rape_Reverse_DoublePenetration.label>
+  <Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]兩穴齊插。</Rape_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫兩穴齊插。</Rape_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabel>強迫兩穴齊插</Rape_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
+
+  <Rape_DoublePenetrationM.label>強行兩穴齊插</Rape_DoublePenetrationM.label>
+  <Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]兩穴齊插。</Rape_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行兩穴齊插。</Rape_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Rape_DoublePenetrationM.modExtensions.0.RMBLabel>強行兩穴齊插</Rape_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <Rape_Reverse_DoublePenetrationM.label>強迫兩穴齊插</Rape_Reverse_DoublePenetrationM.label>
+  <Rape_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]兩穴齊插。</Rape_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫兩穴齊插。</Rape_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>強迫兩穴齊插</Rape_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>
+
+  <Rape_Breastjob.label>強迫乳交</Rape_Breastjob.label>
+  <Rape_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]乳交。</Rape_Breastjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫乳交。</Rape_Breastjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Breastjob.modExtensions.0.RMBLabel>強迫乳交</Rape_Breastjob.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Breastjob.label>強行乳交</Rape_Reverse_Breastjob.label>
+  <Rape_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]乳交。</Rape_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行乳交。</Rape_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Breastjob.modExtensions.0.RMBLabel>強行乳交</Rape_Reverse_Breastjob.modExtensions.0.RMBLabel>
+
+  <Rape_Handjob.label>強迫手交</Rape_Handjob.label>
+  <Rape_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]手交。</Rape_Handjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫手交。</Rape_Handjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Handjob.modExtensions.0.RMBLabel>強迫手交</Rape_Handjob.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Handjob.label>強行手交</Rape_Reverse_Handjob.label>
+  <Rape_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]手交。</Rape_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行手交。</Rape_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Handjob.modExtensions.0.RMBLabel>強行手交</Rape_Reverse_Handjob.modExtensions.0.RMBLabel>
+
+  <Rape_Footjob.label>強迫足交</Rape_Footjob.label>
+  <Rape_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]足交。</Rape_Footjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫足交。</Rape_Footjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Footjob.modExtensions.0.RMBLabel>強迫足交</Rape_Footjob.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Footjob.label>強行足交</Rape_Reverse_Footjob.label>
+  <Rape_Reverse_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]足交。</Rape_Reverse_Footjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行足交。</Rape_Reverse_Footjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Footjob.modExtensions.0.RMBLabel>強行足交</Rape_Reverse_Footjob.modExtensions.0.RMBLabel>
+
+  <Rape_Fisting.label>強行拳交</Rape_Fisting.label>
+  <Rape_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]拳交。</Rape_Fisting.logRulesInitiator.rulesStrings.0>
+  <Rape_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行拳交。</Rape_Fisting.logRulesRecipient.rulesStrings.0>
+  <Rape_Fisting.modExtensions.0.RMBLabel>強行拳交</Rape_Fisting.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Fisting.label>強迫拳交</Rape_Reverse_Fisting.label>
+  <Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]拳交。</Rape_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫拳交。</Rape_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Fisting.modExtensions.0.RMBLabel>強迫拳交</Rape_Reverse_Fisting.modExtensions.0.RMBLabel>
+
+  <Rape_Fingering.label>強迫指交</Rape_Fingering.label>
+  <Rape_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]指交。</Rape_Fingering.logRulesInitiator.rulesStrings.0>
+  <Rape_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫指交。</Rape_Fingering.logRulesRecipient.rulesStrings.0>
+  <Rape_Fingering.modExtensions.0.RMBLabel>強迫指交</Rape_Fingering.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Fingering.label>強行指交</Rape_Reverse_Fingering.label>
+  <Rape_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]指交。</Rape_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行指交。</Rape_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Fingering.modExtensions.0.RMBLabel>強行指交</Rape_Reverse_Fingering.modExtensions.0.RMBLabel>
+
+  <Rape_Cunnilingus.label>強迫舔陰</Rape_Cunnilingus.label>
+  <Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]舔陰。</Rape_Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫舔陰。</Rape_Cunnilingus.logRulesRecipient.rulesStrings.0>
+  <Rape_Cunnilingus.modExtensions.0.RMBLabel>強迫舔陰</Rape_Cunnilingus.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Cunnilingus.label>強行舔陰</Rape_Reverse_Cunnilingus.label>
+  <Rape_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]舔陰。</Rape_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行舔陰。</Rape_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Cunnilingus.modExtensions.0.RMBLabel>強行舔陰</Rape_Reverse_Cunnilingus.modExtensions.0.RMBLabel>
+
+  <Rape_Rimming.label>強迫舔肛</Rape_Rimming.label>
+  <Rape_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]舔肛。</Rape_Rimming.logRulesInitiator.rulesStrings.0>
+  <Rape_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫舔肛。</Rape_Rimming.logRulesRecipient.rulesStrings.0>
+  <Rape_Rimming.modExtensions.0.RMBLabel>強迫舔肛</Rape_Rimming.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Rimming.label>強行舔肛</Rape_Reverse_Rimming.label>
+  <Rape_Reverse_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]舔肛。</Rape_Reverse_Rimming.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行舔肛。</Rape_Reverse_Rimming.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Rimming.modExtensions.0.RMBLabel>強行舔肛</Rape_Reverse_Rimming.modExtensions.0.RMBLabel>
+
+  <Rape_Fellatio.label>強迫吮陽</Rape_Fellatio.label>
+  <Rape_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]吮陽。</Rape_Fellatio.logRulesInitiator.rulesStrings.0>
+  <Rape_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫吮陽。</Rape_Fellatio.logRulesRecipient.rulesStrings.0>
+  <Rape_Fellatio.modExtensions.0.RMBLabel>強迫吮陽</Rape_Fellatio.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Fellatio.label>強行吮陽</Rape_Reverse_Fellatio.label>
+  <Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]吮陽。</Rape_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行吮陽。</Rape_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>強行吮陽</Rape_Reverse_Fellatio.modExtensions.0.RMBLabel>
+
+  <Rape_Oral.label>強行深喉</Rape_Oral.label>
+  <Rape_Oral.logRulesInitiator.rulesStrings.0>r_logentry->強行對[RECIPIENT_nameDef]深喉。</Rape_Oral.logRulesInitiator.rulesStrings.0>
+  <Rape_Oral.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行深喉。</Rape_Oral.logRulesRecipient.rulesStrings.0>
+  <Rape_Oral.modExtensions.0.RMBLabel>強行深喉</Rape_Oral.modExtensions.0.RMBLabel>
+
+  <Rape_Beakjob.label>強迫喙交</Rape_Beakjob.label>
+  <Rape_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]喙交。</Rape_Beakjob.logRulesInitiator.rulesStrings.0>
+  <Rape_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫喙交。</Rape_Beakjob.logRulesRecipient.rulesStrings.0>
+  <Rape_Beakjob.modExtensions.0.RMBLabel>強迫喙交</Rape_Beakjob.modExtensions.0.RMBLabel>
+
+  <Rape_Scissoring.label>強行剪刀式</Rape_Scissoring.label>
+  <Rape_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強行與[RECIPIENT_nameDef]剪刀式。</Rape_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行剪刀式。</Rape_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Rape_Scissoring.modExtensions.0.RMBLabel>強行剪刀式</Rape_Scissoring.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Scissoring.label>強迫剪刀式</Rape_Reverse_Scissoring.label>
+  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]剪刀式。</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫剪刀式。</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>強迫剪刀式</Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>
+</LanguageData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LL_BreastsSizeIncrease>{0}的乳房尺寸增加了。</LL_BreastsSizeIncrease>
+  <LL_BreastsSizeDecrease>{0}的乳房尺寸減小了。</LL_BreastsSizeDecrease>
+  <LL_BreastsMaxSize>{0}的乳房已達到最大尺寸。</LL_BreastsMaxSize>
+  <LL_BreastsMinSize>{0}的乳房已達到最小尺寸。</LL_BreastsMinSize>
+
+  <LL_PenisSizeIncrease>{0}的陰莖尺寸增加了。</LL_PenisSizeIncrease>
+  <LL_PenisSizeDecrease>{0}的陰莖尺寸減小了。</LL_PenisSizeDecrease>
+  <LL_PenisMaxSize>{0}的陰莖已達到最大尺寸。</LL_PenisMaxSize>
+  <LL_PenisMinSize>{0}的陰莖已達到最小尺寸。</LL_PenisMinSize>
+
+  <LL_VaginaSizeIncrease>{0}的陰道尺寸增加了。</LL_VaginaSizeIncrease>
+  <LL_VaginaSizeDecrease>{0}的陰道尺寸減小了。</LL_VaginaSizeDecrease>
+  <LL_VaginaMaxSize>{0}的陰道已達到最大尺寸。</LL_VaginaMaxSize>
+  <LL_VaginaMinSize>{0}的陰道已達到最小尺寸。</LL_VaginaMinSize>
+
+  <LL_AnusMinSize>{0}的肛門已達到最小尺寸。</LL_AnusMinSize>
+
+  <LL_CumAltered>{0}的精液產量已被改變。</LL_CumAltered>
+  <LL_GenitalsAltered>{0}的生殖器已被改變。</LL_GenitalsAltered>
+  <LL_BreastsAltered>{0}的乳房已被改變。</LL_BreastsAltered>
+  <LL_AnusAltered>{0}的肛門已被改變。</LL_AnusAltered>
+
+  <LL_GenitalsNotAlterable>{0}的生殖器無法改變。</LL_GenitalsNotAlterable>
+  <LL_BreastsNotAlterable>{0}的乳房無法改變。</LL_BreastsNotAlterable>
+  <LL_AnusNotAlterable>{0}的肛門無法改變。</LL_AnusNotAlterable>
+
+  <LL_BreastsSwapped>{0}的乳房已被交換。</LL_BreastsSwapped>
+  <LL_GenitalsSwapped>{0}的生殖器已被交換。</LL_GenitalsSwapped>
+
+  <LL_BreastsReverted>{0}的乳房已回復原狀。</LL_BreastsReverted>
+  <LL_GenitalsReverted>{0}的生殖器已回復原狀。</LL_GenitalsReverted>
+  <LL_AnusReverted>{0}的肛門已回復原狀。</LL_AnusReverted>
+  <LL_Reverted>{0}的性器官已回復成普通體質。</LL_Reverted>
+
+  <LL_PsycheAltered>{0}的心理狀態已被改變。</LL_PsycheAltered>
+
+  <LL_VaginaStretched>{0}的陰道已被拉伸。</LL_VaginaStretched>
+  <LL_AnusStretched>{0}的肛門已被拉伸。</LL_AnusStretched>
+  <LL_OrificeStretched>{0}的{1}已被拉伸。</LL_OrificeStretched>
+
+  <LL_MadeFuta>{0}現在是扶他。</LL_MadeFuta>
+</LanguageData>

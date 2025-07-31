@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnalInsertableBondage.label>可插入</AnalInsertableBondage.label>
+  <VaginalInsertableBondage.label>可插入</VaginalInsertableBondage.label>
+  <BeltsOnSkinBondage.label>貼身</BeltsOnSkinBondage.label>
+  <GagOuterBondage.label>頭飾</GagOuterBondage.label>
+  <ArmsOuterBondage.label>外層</ArmsOuterBondage.label>
+  <LegsOuterBondage.label>外層</LegsOuterBondage.label>
+</LanguageData>

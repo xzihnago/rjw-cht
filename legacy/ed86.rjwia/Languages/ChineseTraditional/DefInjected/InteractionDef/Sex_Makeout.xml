@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_Makeout.label>親熱</Sex_Makeout.label>
+  <Sex_Makeout.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]親吻著。</Sex_Makeout.logRulesInitiator.rulesStrings.0>
+  <Sex_Makeout.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]親吻著。</Sex_Makeout.logRulesRecipient.rulesStrings.0>
+  <Sex_Makeout.modExtensions.0.RMBLabel>親熱</Sex_Makeout.modExtensions.0.RMBLabel>
+</LanguageData>

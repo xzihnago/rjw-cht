@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR.NextEggIn.One>下一個卵在 {{0}}。</EFR.NextEggIn.One>
+  <EFR.NextEggIn.Many>下一批卵在 {{0}}。</EFR.NextEggIn.Many>
+
+  <EFR.NotProducingEggs>目前不產生卵。</EFR.NotProducingEggs>
+
+  <EFR.Unfertilized>未受精</EFR.Unfertilized>
+
+  <EFR.ImplantedBy>由{0}植入。</EFR.ImplantedBy>
+  <EFR.FertilizedBy>由{0}受精。</EFR.FertilizedBy>
+
+  <EFR.CanBeFertilizedFor>可在接下來的 {{0}} 內受精。</EFR.CanBeFertilizedFor>
+
+  <EFR.FullyGrownIn>在 {{0}} 內完全成長。</EFR.FullyGrownIn>
+</LanguageData>

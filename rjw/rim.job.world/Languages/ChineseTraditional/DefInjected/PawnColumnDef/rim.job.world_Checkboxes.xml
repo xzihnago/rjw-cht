@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_Hero.headerTip>指定人物為主角，可以直接命令主角與其他人物做愛</RJW_Hero.headerTip>
+  <RJW_Comfort.headerTip>指定人物為慰安者，該人物將被用於發洩壓抑的性需求</RJW_Comfort.headerTip>
+  <RJW_BreedHumanlike.headerTip>指定人物用於交配，殖民地動物會嘗試交配該人物</RJW_BreedHumanlike.headerTip>
+
+  <RJW_BreederAnimal.headerTip>指定動物為播種者，這些動物將嘗試與被指定用於交配的人物交配</RJW_BreederAnimal.headerTip>
+  <RJW_BreedAnimal.headerTip>指定動物用於交配，殖民地動物會嘗試交配該動物</RJW_BreedAnimal.headerTip>
+
+  <RJW_Whore.headerTip>指定人物為賣淫者，賣淫者為訪客提供服務換取白銀</RJW_Whore.headerTip>
+</LanguageData>

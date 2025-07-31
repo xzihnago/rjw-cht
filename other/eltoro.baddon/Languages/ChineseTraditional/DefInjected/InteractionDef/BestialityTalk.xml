@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityTalk.label>討論獸交</BestialityTalk.label>
+
+  <BestialityTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef][talkedabout][subject]。</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef]向[RECIPIENT_nameDef][commentedabout][subject]。</li>
+
+    <!-- Subject Variation -->
+    <li>subject->戀獸癖</li>
+    <li>subject->獸交</li>
+    <li>subject->與動物的親密關係</li>
+    <li>subject->與動物做愛</li>
+
+    <!-- Talk Variation -->
+    <li>talkedabout->談論</li>
+    <li>talkedabout->分享了關於</li>
+    <li>talkedabout->談到</li>
+    <li>talkedabout->閒聊</li>
+    <li>talkedabout->說了</li>
+    <li>talkedabout->開玩笑著說</li>
+    <li>talkedabout->打趣的說</li>
+
+    <!-- Comment Variation -->
+    <li>commentedabout->提到</li>
+    <li>commentedabout->談論</li>
+    <li>commentedabout->共享想法關於</li>
+    <li>commentedabout->評論</li>
+  </BestialityTalk.logRulesInitiator.rulesStrings>
+
+  <BestialityTalk.logRulesRecipient.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]在[INITIATOR_nameDef]談到[subject]時[reacted]。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]對[INITIATOR_nameDef]在[subject]的討論[responded]。</li>
+    <li>r_logentry(p=0.8)->[RECIPIENT_nameDef]對[INITIATOR_nameDef]在[subject]的評論[expressed]。</li>
+
+    <li>subject->戀獸癖</li>
+    <li>subject->獸交</li>
+    <li>subject->與動物的親密關係</li>
+    <li>subject->與動物做愛</li>
+
+    <li>reacted->認真聽著</li>
+    <li>reacted->揚起眉毛</li>
+    <li>reacted->微微點頭</li>
+    <li>reacted->保持安靜</li>
+    <li>reacted->歪著頭思考</li>
+    <li>reacted->輕輕地笑了</li>
+
+    <li>responded->微笑</li>
+    <li>responded->點了點頭</li>
+    <li>responded->低聲快速回應</li>
+    <li>responded->傾聽</li>
+    <li>responded->稍微移動了一下位置</li>
+
+    <li>expressed->輕笑一聲</li>
+    <li>expressed->沉思地哼了一聲</li>
+    <li>expressed->暫時移開視線</li>
+    <li>expressed->調整了姿勢</li>
+    <li>expressed->表現出輕微的興趣</li>
+  </BestialityTalk.logRulesRecipient.rulesStrings>
+</LanguageData>

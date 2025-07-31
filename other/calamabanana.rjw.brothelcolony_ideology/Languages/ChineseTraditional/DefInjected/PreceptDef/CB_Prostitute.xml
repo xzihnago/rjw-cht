@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CB_Prostitute_Colonist.label>所有人</CB_Prostitute_Colonist.label>
+  <CB_Prostitute_Colonist.description>每個人都必須賣淫</CB_Prostitute_Colonist.description>
+
+  <CB_Prostitute_Slave.label>奴隸與囚犯</CB_Prostitute_Slave.label>
+  <CB_Prostitute_Slave.description>奴隸與囚犯必須賣淫</CB_Prostitute_Slave.description>
+
+  <CB_Prostitute_Prisoners.label>囚犯</CB_Prostitute_Prisoners.label>
+  <CB_Prostitute_Prisoners.description>囚犯必須賣淫</CB_Prostitute_Prisoners.description>
+
+  <CB_Prostitute_Colonist_Female.label>女性</CB_Prostitute_Colonist_Female.label>
+  <CB_Prostitute_Colonist_Female.description>女性殖民者、奴隸與囚犯必須賣淫</CB_Prostitute_Colonist_Female.description>
+
+  <CB_Prostitute_Slave_Female.label>女性奴隸與囚犯</CB_Prostitute_Slave_Female.label>
+  <CB_Prostitute_Slave_Female.description>女性奴隸與囚犯必須賣淫</CB_Prostitute_Slave_Female.description>
+
+  <CB_Prostitute_Prisoners_Female.label>女性囚犯</CB_Prostitute_Prisoners_Female.label>
+  <CB_Prostitute_Prisoners_Female.description>女性囚犯必須賣淫</CB_Prostitute_Prisoners_Female.description>
+
+  <CB_Prostitute_Colonist_Male.label>男性</CB_Prostitute_Colonist_Male.label>
+  <CB_Prostitute_Colonist_Male.description>男性殖民者、奴隸與囚犯必須賣淫</CB_Prostitute_Colonist_Male.description>
+
+  <CB_Prostitute_Slave_Male.label>男性奴隸與囚犯</CB_Prostitute_Slave_Male.label>
+  <CB_Prostitute_Slave_Male.description>男性奴隸與囚犯必須賣淫</CB_Prostitute_Slave_Male.description>
+
+  <CB_Prostitute_Prisoners_Male.label>男性囚犯</CB_Prostitute_Prisoners_Male.label>
+  <CB_Prostitute_Prisoners_Male.description>男性囚犯必須賣淫</CB_Prostitute_Prisoners_Male.description>
+
+  <CB_Prostitute_None.label>無</CB_Prostitute_None.label>
+  <CB_Prostitute_None.description>沒有人必須賣淫</CB_Prostitute_None.description>
+</LanguageData>

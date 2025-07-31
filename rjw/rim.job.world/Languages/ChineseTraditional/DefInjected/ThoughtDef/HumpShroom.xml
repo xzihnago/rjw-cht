@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HumpShroomEffect.stages.Humpshroom_aftertaste.label>回味駝峰菇</HumpShroomEffect.stages.Humpshroom_aftertaste.label>
+  <HumpShroomEffect.stages.Humpshroom_aftertaste.description>這嘗起來很有趣。</HumpShroomEffect.stages.Humpshroom_aftertaste.description>
+
+  <HumpShroomWithdrawal.stages.humpshroom_withdrawal.label>駝峰菇戒斷</HumpShroomWithdrawal.stages.humpshroom_withdrawal.label>
+  <HumpShroomWithdrawal.stages.humpshroom_withdrawal.description>我感覺像是下面什麼東西都沒有。</HumpShroomWithdrawal.stages.humpshroom_withdrawal.description>
+</LanguageData>

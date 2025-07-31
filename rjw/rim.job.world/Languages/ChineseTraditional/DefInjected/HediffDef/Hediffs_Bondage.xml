@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chains.label>鏈條</Chains.label>
+  <Chains.labelNoun>鏈條</Chains.labelNoun>
+  <Chains.description>一系列限制穿戴者的鎖鏈。</Chains.description>
+
+  <BoundHands.label>綁手</BoundHands.label>
+  <BoundHands.labelNoun>綁手</BoundHands.labelNoun>
+  <BoundHands.description>綁手。</BoundHands.description>
+
+  <BoundLegs.label>綁腿</BoundLegs.label>
+  <BoundLegs.labelNoun>綁腿</BoundLegs.labelNoun>
+  <BoundLegs.description>綁腿。</BoundLegs.description>
+
+  <RJW_Restraints.label>束縛</RJW_Restraints.label>
+  <RJW_Restraints.labelNoun>束縛。</RJW_Restraints.labelNoun>
+  <RJW_Restraints.description>一套束縛帶。</RJW_Restraints.description>
+
+  <RJW_Cocoon.label>結繭</RJW_Cocoon.label>
+  <RJW_Cocoon.labelNoun>結繭</RJW_Cocoon.labelNoun>
+  <RJW_Cocoon.description>繭會照顧宿主直到準備好生育。</RJW_Cocoon.description>
+</LanguageData>

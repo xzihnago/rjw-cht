@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenderBendSerum.label>性轉血清</GenderBendSerum.label>
+  <GenderBendSerum.description>轉換陰莖和陰道，並增大或縮小乳房。</GenderBendSerum.description>
+  <GenderBendSerum.ingestible.ingestCommandString>飲用{0}</GenderBendSerum.ingestible.ingestCommandString>
+  <GenderBendSerum.ingestible.ingestReportString>飲用{0}。</GenderBendSerum.ingestible.ingestReportString>
+
+  <FutaSerum.label>扶他血清</FutaSerum.label>
+  <FutaSerum.description>如果使用者不是扶他，則將其變為扶他。</FutaSerum.description>
+  <FutaSerum.ingestible.ingestCommandString>飲用{0}</FutaSerum.ingestible.ingestCommandString>
+  <FutaSerum.ingestible.ingestReportString>飲用{0}。</FutaSerum.ingestible.ingestReportString>
+</LanguageData>

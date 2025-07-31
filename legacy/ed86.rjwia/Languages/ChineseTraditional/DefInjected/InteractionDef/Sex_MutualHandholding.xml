@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sex_MutualHandholding.label>十指緊扣</Sex_MutualHandholding.label>
+  <Sex_MutualHandholding.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]十指緊扣。</Sex_MutualHandholding.logRulesInitiator.rulesStrings.0>
+  <Sex_MutualHandholding.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]十指緊扣。</Sex_MutualHandholding.logRulesRecipient.rulesStrings.0>
+  <Sex_MutualHandholding.modExtensions.0.RMBLabel>十指緊扣</Sex_MutualHandholding.modExtensions.0.RMBLabel>
+</LanguageData>

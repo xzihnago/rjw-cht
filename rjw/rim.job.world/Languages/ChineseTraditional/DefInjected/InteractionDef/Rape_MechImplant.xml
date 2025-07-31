@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rape_MechImplant.label>植入機械體</Rape_MechImplant.label>
+  <Rape_MechImplant.logRulesInitiator.rulesStrings.0>r_logentry->侵犯[RECIPIENT_nameDef]。</Rape_MechImplant.logRulesInitiator.rulesStrings.0>
+  <Rape_MechImplant.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]侵犯。</Rape_MechImplant.logRulesRecipient.rulesStrings.0>
+  <Rape_MechImplant.modExtensions.0.RMBLabel>植入晶片</Rape_MechImplant.modExtensions.0.RMBLabel>
+</LanguageData>

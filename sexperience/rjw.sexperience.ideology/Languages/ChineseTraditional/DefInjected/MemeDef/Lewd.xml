@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lewd.label>淫亂</Lewd.label>
+  <Lewd.description>生活充滿樂趣，但沒有什麼比性的樂趣更純粹、更自然。我們必須進行性行為才能真正成為我們自己。</Lewd.description>
+
+  <Lewd.generalRules.rulesStrings>
+    <li>memeAdjective->精蟲上腦的</li>
+    <li>memeAdjective->淫亂的</li>
+    <li>memeAdjective->變態的</li>
+    <li>memeAdjective->性感的</li>
+    <li>memeAdjective->發情的</li>
+    <li>memeAdjective->頹廢的</li>
+    <li>memeHyphenPrefix->發情</li>
+    <li>memeHyphenPrefix->情慾</li>
+    <li>memeConcept->性慾</li>
+    <li>memeConcept->淫亂</li>
+    <li>memeConcept->發情</li>
+    <li>memeConcept->淫穢</li>
+    <li>memeConcept->渴求</li>
+    <li>memeConcept->性愛</li>
+    <li>memeConcept->變態</li>
+    <li>r_deityName->色狼</li>
+  </Lewd.generalRules.rulesStrings>
+
+  <Lewd.symbolPacks.0.ideoName>色孽的呼喚</Lewd.symbolPacks.0.ideoName>
+  <Lewd.symbolPacks.0.theme>快樂</Lewd.symbolPacks.0.theme>
+  <Lewd.symbolPacks.0.adjective>頹廢的</Lewd.symbolPacks.0.adjective>
+  <Lewd.symbolPacks.0.member>異教徒</Lewd.symbolPacks.0.member>
+</LanguageData>

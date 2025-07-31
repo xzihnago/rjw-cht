@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_Contraceptive.label>避孕藥</RJW_Contraceptive.label>
+  <RJW_Contraceptive.description>在一季內使生育能力大幅降低。</RJW_Contraceptive.description>
+  <RJW_Contraceptive.ingestible.ingestCommandString>服用{0}</RJW_Contraceptive.ingestible.ingestCommandString>
+  <RJW_Contraceptive.ingestible.ingestReportString>服用{0}</RJW_Contraceptive.ingestible.ingestReportString>
+</LanguageData>

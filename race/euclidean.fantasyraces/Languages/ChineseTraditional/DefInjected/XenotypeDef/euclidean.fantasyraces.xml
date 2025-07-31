@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_Catgirl.label>貓娘</EFR_Catgirl.label>
+  <EFR_Catgirl.description>經過基因改造的貓娘，擁有貓科動物的特性、美貌與非凡的社交能力。雖然對某些人來說，貓娘是很好的伙伴，但其他人卻發現她們缺乏智力與體力，令人煩惱。\n\n貓娘最初由閃耀世界科學家設計，其設計目的是以類似於高級伴侶的方式提供陪伴，主要區別在於她們擁有貓科動物的屬性與她們缺乏的精神親和力。由於靈巧性的增強，貓娘不可避免地逃離了實驗室的範圍並散佈到了整個星系。</EFR_Catgirl.description>
+  <EFR_Catgirl.descriptionShort>經過基因改造的貓娘，擁有貓科動物的特性、美貌與非凡的社交能力。雖然對某些人來說，貓娘是很好的伙伴，但其他人卻發現她們缺乏智力與體力，令人煩惱。</EFR_Catgirl.descriptionShort>
+
+  <EFR_Foxgirl.label>狐娘</EFR_Foxgirl.label>
+  <EFR_Foxgirl.description>狐娘是狐狸與人類的結合體，擁有狐狸非凡的生存本能，但又具有人類的晝夜性。由於與真正的狐狸相比，狐娘的身體能力較弱，因此她們傾向於採取草食性飲食。\n\n人們普遍認為，狐娘是一艘基因研究飛船墜毀在邊緣世界後產生的，此後各種以動物狐狸為主題的部落形成並遍布整個星系。</EFR_Foxgirl.description>
+  <EFR_Foxgirl.descriptionShort>狐娘是狐狸與人類的結合體，擁有狐狸非凡的生存本能，但又具有人類的晝夜性。由於與真正的狐狸相比，狐娘的身體能力較弱，因此她們傾向於採取草食性飲食。</EFR_Foxgirl.descriptionShort>
+  <EFR_Foxgirl.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，狐娘就會變得更加普通，看起來與一般人類完全相同。</EFR_Foxgirl.modExtensions.0.withoutAlphaGenes>
+
+  <EFR_Succubus.label>魅魔</EFR_Succubus.label>
+  <EFR_Succubus.description>魅魔是神話中的類人生物種族，是傳說中邪惡而又迷人的人形生物。魅魔具有社交能力，在黑暗中茁壯成長，但在光明中卻會受苦。\n\n沒有人知道魅魔何時、如何出現，也不知道為何她們無法繁殖仍能不斷出現。一些閃耀世界學者推測她們是魔人的衍生種，但由於她們非常稀有（尤其是在前面提到的學者周圍），因此很難了解更多。</EFR_Succubus.description>
+  <EFR_Succubus.descriptionShort>魅魔是神話中的類人生物種族，是傳說中邪惡而又迷人的人形生物。魅魔具有社交能力，在黑暗中茁壯成長，但在光明中卻會受苦。</EFR_Succubus.descriptionShort>
+
+  <EFR_Harpy.label>鳥妖</EFR_Harpy.label>
+  <EFR_Harpy.description>作為一種人鳥異種，鳥妖擁有飛行能力與驚人的視力，但極其脆弱。她們在繁殖方式上與任何已知的異種生物都有顯著不同，她們會孕育卵（但不產卵），而非傳統的妊娠方式。\n\n即使是受人尊敬的遺傳學者也對鳥妖的起源一無所知，因為她們非典型的繁殖方式讓人嚴重懷疑她們是經過基因工程改造的異種生物。</EFR_Harpy.description>
+  <EFR_Harpy.descriptionShort>作為一種人鳥異種，鳥妖擁有飛行能力與驚人的視力，但極其脆弱。她們在繁殖方式上與任何已知的異種生物都有顯著不同，她們會孕育卵（但不產卵），而非傳統的妊娠方式。</EFR_Harpy.descriptionShort>
+  <EFR_Harpy.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，鳥妖會失去許多獨特性，看起來與一般人類完全相同。</EFR_Harpy.modExtensions.0.withoutAlphaGenes>
+
+  <EFR_Arachne.label>阿拉克涅</EFR_Arachne.label>
+  <EFR_Arachne.description>阿拉克涅是一種與蜘蛛有關的異種生物，與一般人類相差甚遠，在生殖策略、能力與一般生活方式方面存在很大差異。阿拉克涅是黑暗環境中的優秀掠食者，借助其夜視能力與兩雙野性眼睛。結合她們的毒牙、吐絲器與天生的近戰能力，許多人認為阿拉克涅在基因上與昆蟲的親緣關係比人類更近。\n\n據推測，阿拉克涅的起源與鳥妖有關，因為她們都有類似的產卵繁殖策略，這讓許多學者無法理解她們是如何設計的。</EFR_Arachne.description>
+  <EFR_Arachne.descriptionShort>阿拉克涅是一種與蜘蛛有關的異種生物，與一般人類相差甚遠，在生殖策略、能力與一般生活方式方面存在很大差異。阿拉克涅是黑暗環境中的優秀掠食者，借助其夜視能力與兩雙野性眼睛。</EFR_Arachne.descriptionShort>
+
+  <EFR_Slimegirl.label>史萊姆娘</EFR_Slimegirl.label>
+  <EFR_Slimegirl.description>史萊姆娘是一種凝膠狀、部分可滲透的人形生物，與人類相比，她們更像細菌。她們不會受到永久性傷害，而且幾乎不會被殺死，唯一的弱點似乎是缺乏智力。\n\n史萊姆娘由兩層黏液組成，外層為厚厚的藍色黏液，內層為濃稠度較低的綠色黏液。她們獨特的生物學特性使她們對典型的人類疾病、老化、疤痕甚至死亡的影響（除了對她們小小腦袋的破壞）完全免疫。許多史萊姆娘在繁殖方面與細菌相似，每 25 天透過無性分裂產生一個基因相同的後代。\n\n與其他異種人不同，史萊姆娘異種的起源已被廣泛記錄，它是由一家知名生物技術公司進行基因改造的，旨在創造能夠自我複製的士兵。</EFR_Slimegirl.description>
+  <EFR_Slimegirl.descriptionShort>史萊姆娘是一種凝膠狀、部分可滲透的人形生物，與人類相比，她們更像細菌。她們不會受到永久性傷害，而且幾乎不會被殺死，唯一的弱點似乎是缺乏智力。</EFR_Slimegirl.descriptionShort>
+
+  <EFR_Dragongirl.label>龍娘</EFR_Dragongirl.label>
+  <EFR_Dragongirl.description>龍娘是傳說中的龍族與人類的混血，擁有極強的攻擊力與防禦力。除了低溫之外，龍娘唯一的阻礙就是她們需要更多的睡眠。\n\n有人說，龍娘自人類與龍誕生之初就已存在，但由於其妊娠期較慢、壽命較長且不喜活動，因此一直隱藏且稀有。然而，她們很可能是在生物技術實驗室中針對龍而設計的，可能用於軍事或生存目的。</EFR_Dragongirl.description>
+  <EFR_Dragongirl.descriptionShort>龍娘是傳說中的龍族與人類的混血，擁有極強的攻擊力與防禦力。除了低溫之外，龍娘唯一的阻礙就是她們需要更多的睡眠。</EFR_Dragongirl.descriptionShort>
+  <EFR_Dragongirl.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，龍女與魔人會非常相似。</EFR_Dragongirl.modExtensions.0.withoutAlphaGenes>
+
+  <EFR_Orc.label>獸娘</EFR_Orc.label>
+  <EFR_Orc.description>與驍騎人類似，獸人是神話中的戰士，非常擅長近身戰鬥，但幾乎缺乏其他任何東西。獸人對肺腐病、心靈電波、毒素具有免疫力，擁有強大的再生能力。\n\n作為又一次嘗試創造堅不可摧的士兵的結果，獸人異種犧牲了大多數技能，專注於近戰。</EFR_Orc.description>
+  <EFR_Orc.descriptionShort>與驍騎人類似，獸人是神話中的戰士，非常擅長近身戰鬥，但幾乎缺乏其他任何東西。獸人對肺腐病、心靈電波、毒素具有免疫力，擁有強大的再生能力。</EFR_Orc.descriptionShort>
+  <EFR_Orc.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，獸娘會變得更加普通，並且由於其尖耳朵而與精靈類似。</EFR_Orc.modExtensions.0.withoutAlphaGenes>
+
+  <EFR_Beegirl.label>蜂娘</EFR_Beegirl.label>
+  <EFR_Beegirl.description>作為另一種昆蟲異種，蜂娘具有相互衝突且奇特的特徵。蜂娘擁有觸角、翅膀，並且具有植物工作的天賦，是理想的工人，毫無疑問地能夠很好地適應殖民地環境。然而，在有毒環境下，蜂娘的弱點開始顯現，就像普通蜜蜂一樣，她們對當地環境的變化很敏感。\n\n雖然蜂娘的起源尚不完全清楚，但歷史記錄與人口數據表明，她們最初是為了協助體力勞動與後勤工作而設計的，特別是在不斷增長的邊緣世界與中寰世界殖民地。</EFR_Beegirl.description>
+  <EFR_Beegirl.descriptionShort>作為另一種昆蟲異種，蜂娘具有相互衝突且奇特的特徵。蜂娘擁有觸角、翅膀，並且具有植物工作的天賦，是理想的工人，毫無疑問地能夠很好地適應殖民地環境。</EFR_Beegirl.descriptionShort>
+  <EFR_Beegirl.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，蜂娘的代謝效率會非常低（-3），並且會失去翅膀與觸角，看起來與一般人類完全相同。</EFR_Beegirl.modExtensions.0.withoutAlphaGenes>
+
+  <EFR_Elf.label>精靈</EFR_Elf.label>
+  <EFR_Elf.description>毫無疑問，精靈受到了普遍幻想的啟發，與一般人類非常相似。精靈的主要特徵是長而尖的耳朵，與一般人類相比，精靈具有更高的心靈敏感度、魅力與視力。\n\n精靈除了是記錄在案的最古老的異種之一之外，實際上還缺乏明確的創造點，而是從與一般人類的微小偏差（即尖耳朵）開始，並隨著時間的推移逐漸變得更加獨特。</EFR_Elf.description>
+  <EFR_Elf.descriptionShort>毫無疑問，精靈受到了普遍幻想的啟發，與一般人類非常相似。精靈的主要特徵是長而尖的耳朵，與一般人類相比，精靈具有更高的心靈敏感度、魅力與視力。</EFR_Elf.descriptionShort>
+
+  <EFR_Oni.label>鬼娘</EFR_Oni.label>
+  <EFR_Oni.description>在日本傳說中，鬼（或鬼人）的常見特徵是頭上長有 1-2 根角，並且有暴力傾向。她們對死亡的永不滿足的渴望，加上她們與生俱來的力量與致命性，常常導致鬼娘被大多數社會環境排斥或驅逐，從而導致了鬼娘專屬部落與殖民地的形成。\n\n鬼娘起源於魔人，最初被設計為充當安全部隊。很可能是一種無意的自然選擇，鬼娘的攻擊性越來越強，直到她們對血液的渴望變得過重，以致她們的雇主無法應對。</EFR_Oni.description>
+  <EFR_Oni.descriptionShort>在日本傳說中，鬼（或鬼人）的常見特徵是頭上長有 1-2 根角，並且有暴力傾向。她們對死亡的永不滿足的渴望，加上她們與生俱來的力量與致命性，常常導致鬼娘被大多數社會環境排斥或驅逐，從而導致了鬼娘專屬部落與殖民地的形成。</EFR_Oni.descriptionShort>
+
+  <EFR_Amazon.label>阿瑪宗</EFR_Amazon.label>
+  <EFR_Amazon.description>阿瑪宗生性隱居且部落化，對於任何在叢林環境中毫無防備的人來說，她們都是可怕的惡夢。憑藉其使用各種武器的天賦，阿瑪宗可以有效地制服敵人，並能很好地適應炎熱的氣候。\n\n儘管阿瑪宗無疑屬於熱帶地區，但由於其難以捉摸且充滿敵意的性格，學者們無法確定她們的確切起源，許多知名的研究人員都悄無聲息地消失了。</EFR_Amazon.description>
+  <EFR_Amazon.descriptionShort>阿瑪宗生性隱居且部落化，對於任何在叢林環境中毫無防備的人來說，她們都是可怕的惡夢。憑藉其使用各種武器的天賦，阿瑪宗可以有效地制服敵人，並能很好地適應炎熱的氣候。</EFR_Amazon.descriptionShort>
+
+  <EFR_Deergirl.label>鹿娘</EFR_Deergirl.label>
+  <EFR_Deergirl.description>鹿娘速度驚人，非常適應野外生存，個性開朗、善良，在各種動物異種中享有盛名。雖然鹿娘在近戰中總體上很弱，但她們的鹿角不僅僅是為了裝飾，然而由於她們的速度驚人，她們往往只用它們來防禦，而且鹿娘只吃植物性食物。\n\n儘管鹿娘天生善良而膽小，但她們的起源卻極為恐怖，大多數資訊都受到嚴密保護。少數能夠被公眾知曉的片段表明，其中涉及閹割與食人，其中「翁法洛斯」一詞出現過多次。</EFR_Deergirl.description>
+  <EFR_Deergirl.descriptionShort>鹿娘速度驚人，非常適應野外生存，個性開朗、善良，在各種動物異種中享有盛名。雖然鹿娘在近戰中總體上很弱，但她們的鹿角不僅僅是為了裝飾，然而由於她們的速度驚人，她們往往只用它們來防禦，而且鹿娘只吃植物性食物。</EFR_Deergirl.descriptionShort>
+  <EFR_Deergirl.modExtensions.0.withoutAlphaGenes>沒有 Alpha 基因，鹿娘就會失去鹿角，讓她們看起來與一般人類完全相同。</EFR_Deergirl.modExtensions.0.withoutAlphaGenes>
+</LanguageData>

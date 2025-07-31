@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_MechaFluids.label>機械液</Hediff_MechaFluids.label>
+  <Hediff_MechaFluids.labelNoun>機械液</Hediff_MechaFluids.labelNoun>
+  <Hediff_MechaFluids.description>機械液。</Hediff_MechaFluids.description>
+  <Hediff_MechaFluids.labelNounPretty>{1}上的機械液</Hediff_MechaFluids.labelNounPretty>
+  <Hediff_MechaFluids.stages.little.label>少量</Hediff_MechaFluids.stages.little.label>
+  <Hediff_MechaFluids.stages.some.label>些許</Hediff_MechaFluids.stages.some.label>
+  <Hediff_MechaFluids.stages.dripping.label>淋漓</Hediff_MechaFluids.stages.dripping.label>
+  <Hediff_MechaFluids.stages.drenched.label>濕透</Hediff_MechaFluids.stages.drenched.label>
+</LanguageData>

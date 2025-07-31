@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lactating_Essential.stages.0.label>生產乳汁（乳人）</Lactating_Essential.stages.0.label>
+  <Lactating_Essential.stages.0.description>我是一頭產奶的好乳牛。哞！</Lactating_Essential.stages.0.description>
+  <Lactating_Essential.stages.1.label>生產乳汁</Lactating_Essential.stages.1.label>
+  <Lactating_Essential.stages.1.description>我很高興能夠通過生產一些乳汁來支持我的殖民地。</Lactating_Essential.stages.1.description>
+  <Lactating_Essential.stages.2.label>未生產乳汁</Lactating_Essential.stages.2.label>
+  <Lactating_Essential.stages.2.description>我們生活在如此困難的時期。這是一廂情願的想法，但我現在就想生產乳汁。</Lactating_Essential.stages.2.description>
+  <Lactating_Essential.stages.3.label>未生產乳汁</Lactating_Essential.stages.3.label>
+  <Lactating_Essential.stages.3.description>我就像枯井一樣毫無用處。我的健康的乳汁供應可以使殖民地受益，但我卻無法生產。</Lactating_Essential.stages.3.description>
+  <Lactating_Essential.stages.4.label>未生產乳汁</Lactating_Essential.stages.4.label>
+  <Lactating_Essential.stages.4.description>生產乳汁是一項基本責任。我為自己的干枯感到尷尬和羞愧。</Lactating_Essential.stages.4.description>
+
+  <Lactating_Essential_Social.stages.0.label>乳人</Lactating_Essential_Social.stages.0.label>
+  <Lactating_Essential_Social.stages.1.label>生產乳汁</Lactating_Essential_Social.stages.1.label>
+  <Lactating_Essential_Social.stages.2.label>未生產乳汁（低期望）</Lactating_Essential_Social.stages.2.label>
+  <Lactating_Essential_Social.stages.3.label>未生產乳汁（中期望）</Lactating_Essential_Social.stages.3.label>
+  <Lactating_Essential_Social.stages.4.label>未生產乳汁（高期望）</Lactating_Essential_Social.stages.4.label>
+</LanguageData>

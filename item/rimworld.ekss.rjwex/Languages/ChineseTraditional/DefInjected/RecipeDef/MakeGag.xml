@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeGagBall.label>製作口球</MakeGagBall.label>
+  <MakeGagBall.description>製作口球，用以阻止穿戴者說話。</MakeGagBall.description>
+  <MakeGagBall.jobString>製作口球。</MakeGagBall.jobString>
+
+  <MakeUnlockedGagBall.label>製作未上鎖的口球</MakeUnlockedGagBall.label>
+  <MakeUnlockedGagBall.description>製作未上鎖的口球，用以阻止穿戴者說話。</MakeUnlockedGagBall.description>
+  <MakeUnlockedGagBall.jobString>製作口球。</MakeUnlockedGagBall.jobString>
+
+  <MakeGagRing.label>製作口枷</MakeGagRing.label>
+  <MakeGagRing.description>製作口枷，用以阻止穿戴者說話。</MakeGagRing.description>
+  <MakeGagRing.jobString>製作口枷。</MakeGagRing.jobString>
+
+  <MakeUnlockedGagRing.label>製作未上鎖的口枷</MakeUnlockedGagRing.label>
+  <MakeUnlockedGagRing.description>製作未上鎖的口枷，用以阻止穿戴者說話。</MakeUnlockedGagRing.description>
+  <MakeUnlockedGagRing.jobString>製作口枷。</MakeUnlockedGagRing.jobString>
+</LanguageData>

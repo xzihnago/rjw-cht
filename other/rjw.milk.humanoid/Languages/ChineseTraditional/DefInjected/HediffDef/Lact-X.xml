@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lact-XAddiction.label>泌乳劑X成癮</Lact-XAddiction.label>
+  <Lact-XAddiction.description>泌乳劑X成癮</Lact-XAddiction.description>
+  <Lact-XAddiction.stages.withdrawal.label>戒斷</Lact-XAddiction.stages.withdrawal.label>
+
+  <Lact-XHigh.label>泌乳劑X亢奮</Lact-XHigh.label>
+  <Lact-XHigh.description>泌乳劑X亢奮</Lact-XHigh.description>
+  <Lact-XHigh.labelNoun>泌乳劑X亢奮</Lact-XHigh.labelNoun>
+
+  <Lact-XTolerance.label>泌乳劑X耐受</Lact-XTolerance.label>
+  <Lact-XTolerance.description>獲得對泌乳劑X的耐受性</Lact-XTolerance.description>
+  <Lact-XTolerance.stages.small.label>輕微</Lact-XTolerance.stages.small.label>
+  <Lact-XTolerance.stages.large.label>強烈</Lact-XTolerance.stages.large.label>
+  <Lact-XTolerance.stages.massive.label>極強</Lact-XTolerance.stages.massive.label>
+</LanguageData>

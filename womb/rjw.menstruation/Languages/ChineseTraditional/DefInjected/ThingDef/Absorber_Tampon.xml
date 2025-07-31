@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Absorber_Tampon.label>衛生棉條</Absorber_Tampon.label>
+  <Absorber_Tampon.description>用於吸收陰道液體的衛生棉條。&#10;配戴時間過長可能會引起感染。</Absorber_Tampon.description>
+
+  <Absorber_Tampon_Dirty.label>髒衛生棉條</Absorber_Tampon_Dirty.label>
+  <Absorber_Tampon_Dirty.description>用過的濕衛生棉條。&#10;如果留在裡面可能會引起感染。</Absorber_Tampon_Dirty.description>
+</LanguageData>
