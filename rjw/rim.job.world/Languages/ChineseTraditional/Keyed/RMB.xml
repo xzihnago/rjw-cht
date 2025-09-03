@@ -51,4 +51,10 @@
 
   <RJW_RMB_ReasonNeedBed>需要指定床位</RJW_RMB_ReasonNeedBed>
   <RJW_RMB_ReasonCantReachBed>無法到達指定床位</RJW_RMB_ReasonCantReachBed>
+
+  <RJW_RMB_NoValidInteractions>沒有{0}的有效互動</RJW_RMB_NoValidInteractions>
+
+  <!-- Bondage gear -->
+  <RJW_RMB_BG_Put_On>{0}穿上{1}</RJW_RMB_BG_Put_On>
+  <RJW_RMB_BG_NotWearingBondage>未穿戴已上鎖的服裝</RJW_RMB_BG_NotWearingBondage>
 </LanguageData>

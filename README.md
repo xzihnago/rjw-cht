@@ -9,7 +9,7 @@ RJW 與部分附加模組的中文化。<br />
 
 | 模組                                                                                                | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
-| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                                           | `5c23d8` | 完整                         |
+| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                                           | `930c43` | 完整                         |
 | [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                                 | `21af8a` | 完整                         |
 | [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                                   | `9080ca` | 完整                         |
 | [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                                   | `dca868` | 完整                         |

@@ -4,10 +4,6 @@
   <RemoveUnknownEgg.description>移除卵。</RemoveUnknownEgg.description>
   <RemoveUnknownEgg.jobString>移除卵</RemoveUnknownEgg.jobString>
 
-  <RemoveInsectHiveEgg.label>移除卵</RemoveInsectHiveEgg.label>
-  <RemoveInsectHiveEgg.description>移除卵。</RemoveInsectHiveEgg.description>
-  <RemoveInsectHiveEgg.jobString>移除卵</RemoveInsectHiveEgg.jobString>
-
   <RJW_RemoveRestraints.label>移除束縛</RJW_RemoveRestraints.label>
   <RJW_RemoveRestraints.description>移除束縛。</RJW_RemoveRestraints.description>
   <RJW_RemoveRestraints.jobString>移除束縛</RJW_RemoveRestraints.jobString>

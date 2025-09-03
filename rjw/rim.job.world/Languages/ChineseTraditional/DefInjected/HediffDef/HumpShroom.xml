@@ -2,10 +2,6 @@
 <LanguageData>
   <HumpShroomEffect.label>催情</HumpShroomEffect.label>
   <HumpShroomEffect.description>駝峰菇催情效果。</HumpShroomEffect.description>
-  <HumpShroomEffect.stages.lingering.label>餘韻</HumpShroomEffect.stages.lingering.label>
-  <HumpShroomEffect.stages.mild.label>溫和</HumpShroomEffect.stages.mild.label>
-  <HumpShroomEffect.stages.moderate.label>中度</HumpShroomEffect.stages.moderate.label>
-  <HumpShroomEffect.stages.high.label>亢奮</HumpShroomEffect.stages.high.label>
 
   <HumpShroomTolerance.label>駝峰菇耐受</HumpShroomTolerance.label>
   <HumpShroomTolerance.description>駝峰菇效果耐受。</HumpShroomTolerance.description>

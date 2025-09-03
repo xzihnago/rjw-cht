@@ -9,5 +9,5 @@
   <PawnColumnWorker_IsComfort>人物是慰安者？</PawnColumnWorker_IsComfort>
   <PawnColumnWorker_IsBreeder>人物是動物苗床？</PawnColumnWorker_IsBreeder>
 
-  <MainTabWindow_Designators>身分</MainTabWindow_Designators>
+  <MainTabWindow_Designators>身分：{0}</MainTabWindow_Designators>
 </LanguageData>

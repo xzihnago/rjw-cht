@@ -8,4 +8,13 @@
 
   <SexFrequency.label>性慾</SexFrequency.label>
   <SexFrequency.description>衡量人物的性慾強度。</SexFrequency.description>
+
+  <SexMinSizePreference.label>伴侶尺寸偏好（最小）</SexMinSizePreference.label>
+  <SexMinSizePreference.description>衡量潛在伴侶相對於自己的最小舒適尺寸。</SexMinSizePreference.description>
+
+  <SexMaxSizePreference.label>伴侶尺寸偏好（最大）</SexMaxSizePreference.label>
+  <SexMaxSizePreference.description>衡量潛在伴侶相對於自己的最大舒適尺寸。</SexMaxSizePreference.description>
+
+  <SexWildnessAversion.label>野性厭惡</SexWildnessAversion.label>
+  <SexWildnessAversion.description>衡量人物在評估潛在伴侶時因動物或野人的野性而受到多大程度的阻礙。</SexWildnessAversion.description>
 </LanguageData>

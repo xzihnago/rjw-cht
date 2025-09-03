@@ -3,4 +3,8 @@
   <Chest.label>胸部</Chest.label>
   <Genitals.label>生殖器</Genitals.label>
   <Anus.label>肛門</Anus.label>
+
+  <MechChest.label>胸部</MechChest.label>
+  <MechGenitals.label>生殖器</MechGenitals.label>
+  <MechAnus.label>肛門</MechAnus.label>
 </LanguageData>
