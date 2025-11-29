@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RJW ChineseTraditional</name>
+  <author>xzihnago, Alane</author>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>rjw.lang.cht</packageId>
+  <loadAfter>
+    <!-- ================================================================  1.6  ================================================================ -->
+    <li>rim.job.world</li>
+
+    <!-- ================================================================  1.5  ================================================================ -->
+    <!-- ===========================================     Animations     =========================================== -->
+    <li>c0ffee.rimworld.animations</li>
+    <li>teacher.uap</li>
+    <li>eltoro.anims</li>
+    <!-- ===========================================   Body Graphics    =========================================== -->
+    <!-- Sized Apparel Zero -->
+    <li>otyoty.sizedapparel</li>
+    <!-- SA0 Apparel -->
+    <li>hehehew.sizedapparelforslaves</li>
+    <!-- ===========================================      Clothing      =========================================== -->
+    <!-- Bondage, Accessories -->
+    <li>rimworld.ekss.rjwex</li>
+    <!-- ===========================================    DLC Support     =========================================== -->
+    <!-- Ideology -->
+    <li>c0ffee.rjw.events</li>
+    <li>calamabanana.rjw.brothelcolony</li>
+    <li>rjw.sexperience.ideology</li>
+    <!-- Biotech -->
+    <li>euclidean.fantasyraces</li>
+    <li>vegapnk.rjw.genes</li>
+    <!-- =========================================== More RJW Mechanics =========================================== -->
+    <!-- Larger Add-ons -->
+    <li>abscon.privacy.please</li>
+    <li>eltoro.baddon</li>
+    <li>jaaldabaoth.rjw.menstruation.resources</li>
+    <li>lustlicentiastretch.rjwlabs</li>
+    <li>rjw.menstruation</li>
+    <li>rjw.sexperience</li>
+    <!-- Smaller Add-Ons -->
+    <li>rjw.fb</li>
+    <li>rjw.fc</li>
+    <li>rjw.fh</li>
+    <li>rjw.std</li>
+    <!-- Cum and Milk -->
+    <li>rjw.cum</li>
+    <li>rjw.milk.humanoid</li>
+    <li>vegapnk.cumpilation</li>
+    <!-- ===========================================     Race Mods      =========================================== -->
+    <li>asmr.rjw.racesupport</li>
+
+    <!-- ================================================================ Legacy ================================================================ -->
+    <li>ed86.rjwia</li>
+    <li>c0ffee.rjw.ideologyaddons</li>
+    <li>lustlicentia.rjwlabs</li>
+  </loadAfter>
+  <description>
+    RJW 與部分附加模組的中文化，包含以下模組
+    • RimJobWorld
+
+    • Rimworld Animations 2.0 (補全)
+    • Ultimate Animation Pack
+    • ElToros Bestiality Animations
+
+    • Sized Apparel for RJW (SAR version) (補全)
+    • Sized Apparel for Slaves
+
+    • RimJobWorld - Extension
+
+    • RJW Sexperience Ideology
+    • RJW-Events
+    • RimJobWorld - Brothel Colony
+    • RJW Genes
+    • Fantasy Races
+
+    • RimJobWorld - Licentia Labs Stretching Edition
+    • RJW Menstruation Cycle
+    • RJW Menstruation - Resources
+    • Privacy, Please!
+    • RJW Sexperience
+    • ElToros Bestiality Addon
+    • RimJobWorld - STD
+    • RimJobWorld - FB
+    • RimJobWorld - FC
+    • RimJobWorld - FH
+    • Cumpilation
+    • RimJobWorld - Milkable Colonists
+    • RimJobWorld - Cum
+
+    • RJW Race Support
+
+    已過時的模組
+    • RimJobWorld - Interaction Addon
+    • C0ffeeRIA
+    • RimJobWorld - Licentia Labs
+  </description>
+</ModMetaData>
