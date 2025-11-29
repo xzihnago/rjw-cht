@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Sex_Vaginal.label>性交</Sex_Vaginal.label>
-  <Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_Vaginal.logRulesRecipient.rulesStrings.0>
   <Sex_Vaginal.modExtensions.0.RMBLabel>性交</Sex_Vaginal.modExtensions.0.RMBLabel>
-  <Sex_Reverse_Vaginal.label>接受性交</Sex_Reverse_Vaginal.label>
-  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]性交。</Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]性交。</Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>接受性交</Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>
+  <Sex_Reverse_Vaginal.label>性交</Sex_Reverse_Vaginal.label>
+  <Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>性交</Sex_Reverse_Vaginal.modExtensions.0.RMBLabel>
 
   <Sex_Anal.label>肛交</Sex_Anal.label>
-  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
-  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_Anal.logRulesRecipient.rulesStrings.0>
+  <Sex_Anal.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_Anal.logRulesInitiator.rulesStrings.0>
+  <Sex_Anal.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_Anal.logRulesRecipient.rulesStrings.0>
   <Sex_Anal.modExtensions.0.RMBLabel>肛交</Sex_Anal.modExtensions.0.RMBLabel>
-  <Sex_Reverse_Anal.label>接受肛交</Sex_Reverse_Anal.label>
-  <Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]肛交。</Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]肛交。</Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_Anal.modExtensions.0.RMBLabel>接受肛交</Sex_Reverse_Anal.modExtensions.0.RMBLabel>
+  <Sex_Reverse_Anal.label>肛交</Sex_Reverse_Anal.label>
+  <Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Anal.modExtensions.0.RMBLabel>肛交</Sex_Reverse_Anal.modExtensions.0.RMBLabel>
 
-  <Sex_DoublePenetration.label>兩穴齊插</Sex_DoublePenetration.label>
-  <Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]兩穴齊插。</Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>
-  <Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]兩穴齊插。</Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>
-  <Sex_DoublePenetration.modExtensions.0.RMBLabel>兩穴齊插</Sex_DoublePenetration.modExtensions.0.RMBLabel>
-  <Sex_Reverse_DoublePenetration.label>接受兩穴齊插</Sex_Reverse_DoublePenetration.label>
-  <Sex_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]兩穴齊插。</Sex_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]兩穴齊插。</Sex_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_DoublePenetration.modExtensions.0.RMBLabel>接受兩穴齊插</Sex_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
+  <Sex_DoublePenetration.label>雙重插入</Sex_DoublePenetration.label>
+  <Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]雙重插入。</Sex_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]雙重插入。</Sex_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Sex_DoublePenetration.modExtensions.0.RMBLabel>雙重插入</Sex_DoublePenetration.modExtensions.0.RMBLabel>
+  <Sex_Reverse_DoublePenetration.label>雙重插入</Sex_Reverse_DoublePenetration.label>
+  <Sex_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]雙重插入。</Sex_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]雙重插入。</Sex_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_DoublePenetration.modExtensions.0.RMBLabel>雙重插入</Sex_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
 
-  <Sex_DoublePenetrationM.label>兩穴齊插</Sex_DoublePenetrationM.label>
-  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]兩穴齊插。</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
-  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]兩穴齊插。</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
-  <Sex_DoublePenetrationM.modExtensions.0.RMBLabel>兩穴齊插</Sex_DoublePenetrationM.modExtensions.0.RMBLabel>
-  <Sex_Reverse_DoublePenetrationM.label>接受兩穴齊插</Sex_Reverse_DoublePenetrationM.label>
-  <Sex_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]兩穴齊插。</Sex_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]兩穴齊插。</Sex_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>接受兩穴齊插</Sex_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <Sex_DoublePenetrationM.label>雙重插入</Sex_DoublePenetrationM.label>
+  <Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]雙重插入。</Sex_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]雙重插入。</Sex_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Sex_DoublePenetrationM.modExtensions.0.RMBLabel>雙重插入</Sex_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <Sex_Reverse_DoublePenetrationM.label>雙重插入</Sex_Reverse_DoublePenetrationM.label>
+  <Sex_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]雙重插入。</Sex_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]雙重插入。</Sex_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>雙重插入</Sex_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>
 
-  <Sex_Breastjob.label>接受乳交</Sex_Breastjob.label>
+  <Sex_Breastjob.label>乳交</Sex_Breastjob.label>
   <Sex_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]乳交。</Sex_Breastjob.logRulesInitiator.rulesStrings.0>
   <Sex_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]乳交。</Sex_Breastjob.logRulesRecipient.rulesStrings.0>
-  <Sex_Breastjob.modExtensions.0.RMBLabel>接受乳交</Sex_Breastjob.modExtensions.0.RMBLabel>
+  <Sex_Breastjob.modExtensions.0.RMBLabel>乳交</Sex_Breastjob.modExtensions.0.RMBLabel>
   <Sex_Reverse_Breastjob.label>乳交</Sex_Reverse_Breastjob.label>
   <Sex_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]乳交。</Sex_Reverse_Breastjob.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]乳交。</Sex_Reverse_Breastjob.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Breastjob.modExtensions.0.RMBLabel>乳交</Sex_Reverse_Breastjob.modExtensions.0.RMBLabel>
 
-  <Sex_Handjob.label>接受手交</Sex_Handjob.label>
+  <Sex_Handjob.label>手交</Sex_Handjob.label>
   <Sex_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]手交。</Sex_Handjob.logRulesInitiator.rulesStrings.0>
   <Sex_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]手交。</Sex_Handjob.logRulesRecipient.rulesStrings.0>
-  <Sex_Handjob.modExtensions.0.RMBLabel>接受手交</Sex_Handjob.modExtensions.0.RMBLabel>
+  <Sex_Handjob.modExtensions.0.RMBLabel>手交</Sex_Handjob.modExtensions.0.RMBLabel>
   <Sex_Reverse_Handjob.label>手交</Sex_Reverse_Handjob.label>
   <Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]手交。</Sex_Reverse_Handjob.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]手交。</Sex_Reverse_Handjob.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Handjob.modExtensions.0.RMBLabel>手交</Sex_Reverse_Handjob.modExtensions.0.RMBLabel>
 
-  <Sex_Footjob.label>接受足交</Sex_Footjob.label>
+  <Sex_Footjob.label>足交</Sex_Footjob.label>
   <Sex_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]足交。</Sex_Footjob.logRulesInitiator.rulesStrings.0>
   <Sex_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]足交。</Sex_Footjob.logRulesRecipient.rulesStrings.0>
-  <Sex_Footjob.modExtensions.0.RMBLabel>接受足交</Sex_Footjob.modExtensions.0.RMBLabel>
+  <Sex_Footjob.modExtensions.0.RMBLabel>足交</Sex_Footjob.modExtensions.0.RMBLabel>
   <Sex_Reverse_Footjob.label>足交</Sex_Reverse_Footjob.label>
   <Sex_Reverse_Footjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]足交。</Sex_Reverse_Footjob.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Footjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]足交。</Sex_Reverse_Footjob.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Footjob.modExtensions.0.RMBLabel>足交</Sex_Reverse_Footjob.modExtensions.0.RMBLabel>
 
-  <Sex_Fisting.label>接受拳交</Sex_Fisting.label>
+  <Sex_Fisting.label>拳交</Sex_Fisting.label>
   <Sex_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]拳交。</Sex_Fisting.logRulesInitiator.rulesStrings.0>
   <Sex_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]拳交。</Sex_Fisting.logRulesRecipient.rulesStrings.0>
-  <Sex_Fisting.modExtensions.0.RMBLabel>接受拳交</Sex_Fisting.modExtensions.0.RMBLabel>
+  <Sex_Fisting.modExtensions.0.RMBLabel>拳交</Sex_Fisting.modExtensions.0.RMBLabel>
   <Sex_Reverse_Fisting.label>拳交</Sex_Reverse_Fisting.label>
   <Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]拳交。</Sex_Reverse_Fisting.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]拳交。</Sex_Reverse_Fisting.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Fisting.modExtensions.0.RMBLabel>拳交</Sex_Reverse_Fisting.modExtensions.0.RMBLabel>
 
-  <Sex_Fingering.label>接受指交</Sex_Fingering.label>
+  <Sex_Fingering.label>指交</Sex_Fingering.label>
   <Sex_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]指交。</Sex_Fingering.logRulesInitiator.rulesStrings.0>
   <Sex_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]指交。</Sex_Fingering.logRulesRecipient.rulesStrings.0>
-  <Sex_Fingering.modExtensions.0.RMBLabel>接受指交</Sex_Fingering.modExtensions.0.RMBLabel>
+  <Sex_Fingering.modExtensions.0.RMBLabel>指交</Sex_Fingering.modExtensions.0.RMBLabel>
   <Sex_Reverse_Fingering.label>指交</Sex_Reverse_Fingering.label>
   <Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]指交。</Sex_Reverse_Fingering.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]指交。</Sex_Reverse_Fingering.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Fingering.modExtensions.0.RMBLabel>指交</Sex_Reverse_Fingering.modExtensions.0.RMBLabel>
 
-  <Sex_Cunnilingus.label>接受舔陰</Sex_Cunnilingus.label>
+  <Sex_Cunnilingus.label>舔陰</Sex_Cunnilingus.label>
   <Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]舔陰。</Sex_Cunnilingus.logRulesInitiator.rulesStrings.0>
   <Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]舔陰。</Sex_Cunnilingus.logRulesRecipient.rulesStrings.0>
-  <Sex_Cunnilingus.modExtensions.0.RMBLabel>接受舔陰</Sex_Cunnilingus.modExtensions.0.RMBLabel>
+  <Sex_Cunnilingus.modExtensions.0.RMBLabel>舔陰</Sex_Cunnilingus.modExtensions.0.RMBLabel>
   <Sex_Reverse_Cunnilingus.label>舔陰</Sex_Reverse_Cunnilingus.label>
   <Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]舔陰。</Sex_Reverse_Cunnilingus.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]舔陰。</Sex_Reverse_Cunnilingus.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>舔陰</Sex_Reverse_Cunnilingus.modExtensions.0.RMBLabel>
 
-  <Sex_Rimming.label>接受舔肛</Sex_Rimming.label>
+  <Sex_Rimming.label>舔肛</Sex_Rimming.label>
   <Sex_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]舔肛。</Sex_Rimming.logRulesInitiator.rulesStrings.0>
   <Sex_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]舔肛。</Sex_Rimming.logRulesRecipient.rulesStrings.0>
-  <Sex_Rimming.modExtensions.0.RMBLabel>接受舔肛</Sex_Rimming.modExtensions.0.RMBLabel>
+  <Sex_Rimming.modExtensions.0.RMBLabel>舔肛</Sex_Rimming.modExtensions.0.RMBLabel>
   <Sex_Reverse_Rimming.label>舔肛</Sex_Reverse_Rimming.label>
   <Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]舔肛。</Sex_Reverse_Rimming.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]舔肛。</Sex_Reverse_Rimming.logRulesRecipient.rulesStrings.0>
   <Sex_Reverse_Rimming.modExtensions.0.RMBLabel>舔肛</Sex_Reverse_Rimming.modExtensions.0.RMBLabel>
 
-  <Sex_Fellatio.label>接受吮陽</Sex_Fellatio.label>
-  <Sex_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]吮陽。</Sex_Fellatio.logRulesInitiator.rulesStrings.0>
-  <Sex_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Fellatio.logRulesRecipient.rulesStrings.0>
-  <Sex_Fellatio.modExtensions.0.RMBLabel>接受吮陽</Sex_Fellatio.modExtensions.0.RMBLabel>
-  <Sex_Reverse_Fellatio.label>吮陽</Sex_Reverse_Fellatio.label>
-  <Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]吮陽。</Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
-  <Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]吮陽。</Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
-  <Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>吮陽</Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>
+  <Sex_Fellatio.label>口交</Sex_Fellatio.label>
+  <Sex_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]口交。</Sex_Fellatio.logRulesInitiator.rulesStrings.0>
+  <Sex_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]口交。</Sex_Fellatio.logRulesRecipient.rulesStrings.0>
+  <Sex_Fellatio.modExtensions.0.RMBLabel>口交</Sex_Fellatio.modExtensions.0.RMBLabel>
+  <Sex_Reverse_Fellatio.label>口交</Sex_Reverse_Fellatio.label>
+  <Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]口交。</Sex_Reverse_Fellatio.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]口交。</Sex_Reverse_Fellatio.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>口交</Sex_Reverse_Fellatio.modExtensions.0.RMBLabel>
 
-  <Sex_Beakjob.label>接受喙交</Sex_Beakjob.label>
+  <Sex_Beakjob.label>喙交</Sex_Beakjob.label>
   <Sex_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]喙交。</Sex_Beakjob.logRulesInitiator.rulesStrings.0>
   <Sex_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]喙交。</Sex_Beakjob.logRulesRecipient.rulesStrings.0>
-  <Sex_Beakjob.modExtensions.0.RMBLabel>接受喙交</Sex_Beakjob.modExtensions.0.RMBLabel>
+  <Sex_Beakjob.modExtensions.0.RMBLabel>喙交</Sex_Beakjob.modExtensions.0.RMBLabel>
   <Sex_Reverse_Beakjob.label>喙交</Sex_Reverse_Beakjob.label>
   <Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]喙交。</Sex_Reverse_Beakjob.logRulesInitiator.rulesStrings.0>
   <Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]喙交。</Sex_Reverse_Beakjob.logRulesRecipient.rulesStrings.0>

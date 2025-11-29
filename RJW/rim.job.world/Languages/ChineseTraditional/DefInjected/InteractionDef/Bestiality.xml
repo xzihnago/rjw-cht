@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Bestiality_Vaginal.label>陰道交配</Bestiality_Vaginal.label>
-  <Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]並插入陰道。</Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上並插入陰道。</Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]。</Bestiality_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上。</Bestiality_Vaginal.logRulesRecipient.rulesStrings.0>
   <Bestiality_Vaginal.modExtensions.0.RMBLabel>陰道交配</Bestiality_Vaginal.modExtensions.0.RMBLabel>
-  <Bestiality_Reverse_Vaginal.label>接受陰道交配</Bestiality_Reverse_Vaginal.label>
-  <Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上並插入陰道。</Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]並插入陰道。</Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Bestiality_Reverse_Vaginal.modExtensions.0.RMBLabel>接受陰道交配</Bestiality_Reverse_Vaginal.modExtensions.0.RMBLabel>
+  <Bestiality_Reverse_Vaginal.label>陰道交配</Bestiality_Reverse_Vaginal.label>
+  <Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上。</Bestiality_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]。</Bestiality_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Reverse_Vaginal.modExtensions.0.RMBLabel>陰道交配</Bestiality_Reverse_Vaginal.modExtensions.0.RMBLabel>
 
   <Bestiality_Anal.label>肛門交配</Bestiality_Anal.label>
-  <Bestiality_Anal.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]並插入肛門。</Bestiality_Anal.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上並插入肛門。</Bestiality_Anal.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Anal.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]。</Bestiality_Anal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上。</Bestiality_Anal.logRulesRecipient.rulesStrings.0>
   <Bestiality_Anal.modExtensions.0.RMBLabel>肛門交配</Bestiality_Anal.modExtensions.0.RMBLabel>
-  <Bestiality_Reverse_Anal.label>接受肛門交配</Bestiality_Reverse_Anal.label>
-  <Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上並插入肛門。</Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]並插入肛門。</Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>
-  <Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>接受肛門交配</Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>
+  <Bestiality_Reverse_Anal.label>肛門交配</Bestiality_Reverse_Anal.label>
+  <Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上。</Bestiality_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]。</Bestiality_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>肛門交配</Bestiality_Reverse_Anal.modExtensions.0.RMBLabel>
 
-  <Bestiality_Double_Penetration_M.label>兩穴齊插</Bestiality_Double_Penetration_M.label>
-  <Bestiality_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]兩穴齊插。</Bestiality_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]兩穴齊插。</Bestiality_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
-  <Bestiality_Double_Penetration_M.modExtensions.0.RMBLabel>兩穴齊插</Bestiality_Double_Penetration_M.modExtensions.0.RMBLabel>
-  <Bestiality_Reverse_Double_Penetration_M.label>接受兩穴齊插</Bestiality_Reverse_Double_Penetration_M.label>
-  <Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]兩穴齊插。</Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]兩穴齊插。</Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
-  <Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>接受兩穴齊插</Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>
+  <Bestiality_Double_Penetration_M.label>雙重插入</Bestiality_Double_Penetration_M.label>
+  <Bestiality_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]雙重插入。</Bestiality_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]雙重插入。</Bestiality_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Double_Penetration_M.modExtensions.0.RMBLabel>雙重插入</Bestiality_Double_Penetration_M.modExtensions.0.RMBLabel>
+  <Bestiality_Reverse_Double_Penetration_M.label>雙重插入</Bestiality_Reverse_Double_Penetration_M.label>
+  <Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]雙重插入。</Bestiality_Reverse_Double_Penetration_M.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]雙重插入。</Bestiality_Reverse_Double_Penetration_M.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>雙重插入</Bestiality_Reverse_Double_Penetration_M.modExtensions.0.RMBLabel>
 
   <Bestiality_Oral.label>口交</Bestiality_Oral.label>
-  <Bestiality_Oral.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]並插入口中。</Bestiality_Oral.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Oral.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上並插入口中。</Bestiality_Oral.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Oral.logRulesInitiator.rulesStrings.0>r_logentry->騎上[RECIPIENT_nameDef]。</Bestiality_Oral.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Oral.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]騎上。</Bestiality_Oral.logRulesRecipient.rulesStrings.0>
   <Bestiality_Oral.modExtensions.0.RMBLabel>口交</Bestiality_Oral.modExtensions.0.RMBLabel>
-  <Bestiality_Reverse_Oral.label>接受口交</Bestiality_Reverse_Oral.label>
-  <Bestiality_Reverse_Oral.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上並插入口中。</Bestiality_Reverse_Oral.logRulesInitiator.rulesStrings.0>
-  <Bestiality_Reverse_Oral.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]並插入口中。</Bestiality_Reverse_Oral.logRulesRecipient.rulesStrings.0>
-  <Bestiality_Reverse_Oral.modExtensions.0.RMBLabel>接受口交</Bestiality_Reverse_Oral.modExtensions.0.RMBLabel>
+  <Bestiality_Reverse_Oral.label>口交</Bestiality_Reverse_Oral.label>
+  <Bestiality_Reverse_Oral.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]騎上。</Bestiality_Reverse_Oral.logRulesInitiator.rulesStrings.0>
+  <Bestiality_Reverse_Oral.logRulesRecipient.rulesStrings.0>r_logentry->騎上[INITIATOR_nameDef]。</Bestiality_Reverse_Oral.logRulesRecipient.rulesStrings.0>
+  <Bestiality_Reverse_Oral.modExtensions.0.RMBLabel>口交</Bestiality_Reverse_Oral.modExtensions.0.RMBLabel>
 
   <Bestiality_Reverse_Oral_Service.label>口交服務</Bestiality_Reverse_Oral_Service.label>
   <Bestiality_Reverse_Oral_Service.logRulesInitiator.rulesStrings.0>r_logentry->用口服務[RECIPIENT_nameDef]。</Bestiality_Reverse_Oral_Service.logRulesInitiator.rulesStrings.0>

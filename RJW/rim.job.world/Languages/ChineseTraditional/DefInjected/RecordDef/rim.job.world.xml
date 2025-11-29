@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <CountOfFappin.label>自慰次數</CountOfFappin.label>
+  <CountOfFappin.description>我自慰的次數。</CountOfFappin.description>
+
+
+  <CountOfSex.label>做愛次數</CountOfSex.label>
+  <CountOfSex.description>我做愛的次數。</CountOfSex.description>
+
+  <CountOfSexWithHumanlikes.label>作愛次數（人型）</CountOfSexWithHumanlikes.label>
+  <CountOfSexWithHumanlikes.description>我與人形生物做愛的次數。</CountOfSexWithHumanlikes.description>
+
+  <CountOfSexWithAnimals.label>作愛次數（動物）</CountOfSexWithAnimals.label>
+  <CountOfSexWithAnimals.description>我與動物做愛的次數。</CountOfSexWithAnimals.description>
+
+  <CountOfSexWithInsects.label>作愛次數（蟲）</CountOfSexWithInsects.label>
+  <CountOfSexWithInsects.description>我與蟲做愛的次數。</CountOfSexWithInsects.description>
+
+  <CountOfSexWithOthers.label>作愛次數（其他）</CountOfSexWithOthers.label>
+  <CountOfSexWithOthers.description>我與怪東西做愛的次數。</CountOfSexWithOthers.description>
+
+
   <CountOfRapedHumanlikes.label>強姦次數（人型）</CountOfRapedHumanlikes.label>
   <CountOfRapedHumanlikes.description>我強姦人形生物的次數。</CountOfRapedHumanlikes.description>
 
@@ -29,4 +49,18 @@
 
   <GetRapedAsComfortPrisoner.label>慰安次數</GetRapedAsComfortPrisoner.label>
   <GetRapedAsComfortPrisoner.description>我被當作洩慾對像強姦的次數。</GetRapedAsComfortPrisoner.description>
+
+
+  <CountOfBirthHuman.label>出產次數（人型）</CountOfBirthHuman.label>
+  <CountOfBirthHuman.description>我生下人型生物的次數。</CountOfBirthHuman.description>
+
+  <CountOfBirthAnimal.label>出產次數（動物）</CountOfBirthAnimal.label>
+  <CountOfBirthAnimal.description>我生下動物的次數。</CountOfBirthAnimal.description>
+
+  <CountOfBirthEgg.label>出產次數（卵）</CountOfBirthEgg.label>
+  <CountOfBirthEgg.description>我生下卵的次數。</CountOfBirthEgg.description>
+
+
+  <CountOfCondomsUsed.label>使用避孕套次數</CountOfCondomsUsed.label>
+  <CountOfCondomsUsed.description>我使用避孕套的次數。</CountOfCondomsUsed.description>
 </LanguageData>

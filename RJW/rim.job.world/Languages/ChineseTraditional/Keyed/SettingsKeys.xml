@@ -31,6 +31,8 @@
   <futa_natives_chance_desc>扶他 / 偽娘土著（工業時代及以下）出現頻率\n有效範圍：0-100\n預設值：0。</futa_natives_chance_desc>
   <futa_spacers_chance>扶他 / 偽娘太空民出現頻率</futa_spacers_chance>
   <futa_spacers_chance_desc>扶他 / 偽娘太空民出現頻率\n有效範圍：0-100\n預設值：5。</futa_spacers_chance_desc>
+  <love_enhancer_override>允許愛情增強劑覆蓋角色偏好 允許愛情增強道具覆蓋棋子的偏好。</love_enhancer_override>
+  <love_enhancer_override_desc>啟用後，愛情增強劑將使角色享受性行為，如同他們是受虐狂和戀獸癖一樣。</love_enhancer_override_desc>
 
   <sexneed_decay_rate_name>性需求衰減倍率</sexneed_decay_rate_name>
   <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。\n建議範圍：50% 至 200%</sexneed_decay_rate_desc>
@@ -214,6 +216,8 @@
   <DebugRape_desc>啟用一些非常繁瑣的除錯日誌來協助尋找強姦行為中的錯誤。\n只有開發人員（或幫助他們查找錯誤的人）才應該啟用此功能。</DebugRape_desc>
   <DebugInteraction>互動除錯資訊</DebugInteraction>
   <DebugInteraction_desc>互動子模組的詳細模式。</DebugInteraction_desc>
+  <DebugAttraction>右鍵查看吸引力</DebugAttraction>
+  <DebugAttraction_desc>啟用右鍵選單中的「查看吸引力」功能。</DebugAttraction_desc>
   <DebugNymph>流鶯除錯資訊</DebugNymph>
   <DebugNymph_desc>流鶯子模組的詳細模式。</DebugNymph_desc>
 
@@ -226,8 +230,13 @@
   <RJWH_pregnancy_desc>啟用人類間性交後懷孕。如果你沒有生機 DLC，RJW 會使用自己的妊娠機制。</RJWH_pregnancy_desc>
   <PregnantCoeffecientForHuman>人類懷孕機率</PregnantCoeffecientForHuman>
   <PregnantCoeffecientForHuman_desc>人類懷孕機率百分比。\n\n有效範圍：0-100%</PregnantCoeffecientForHuman_desc>
-  <RJWB_pregnancy>允許獸交懷孕</RJWB_pregnancy>
-  <RJWB_pregnancy_desc>使用 RJW 妊娠處理人獸懷孕。</RJWB_pregnancy_desc>
+  <RJW_B_Pregnancy_Setting>獸交懷孕設定</RJW_B_Pregnancy_Setting>
+  <BestialPregnancy_None>無</BestialPregnancy_None>
+  <BestialPregnancy_Limited>受限制</BestialPregnancy_Limited>
+  <BestialPregnancy_Unlimited>無限制</BestialPregnancy_Unlimited>
+  <BestialPregnancy_None_desc>人型生物與動物間不可能懷孕。</BestialPregnancy_None_desc>
+  <BestialPregnancy_Limited_desc>只有在外部協助下（例如來自遠古科技生殖器的生育力增強）人型生物與動物間才可能懷孕。</BestialPregnancy_Limited_desc>
+  <BestialPregnancy_Unlimited_desc>任何有生育能力的人型生物與動物伴侶間都有可能懷孕。</BestialPregnancy_Unlimited_desc>
   <PregnantCoeffecientForAnimals>動物懷孕機率</PregnantCoeffecientForAnimals>
   <PregnantCoeffecientForAnimals_desc>動物懷孕機率百分比。\n\n有效範圍：0-100%</PregnantCoeffecientForAnimals_desc>
   <InterspeciesImpregnantionModifier>跨種族受孕修正</InterspeciesImpregnantionModifier>
@@ -328,8 +337,8 @@
   <handjob_desc>手交的頻率。需要能用的手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</handjob_desc>
   <mutual_masturbation>互相自慰頻率</mutual_masturbation>
   <mutual_masturbation_desc>互相自慰的頻率（兩個人物互相自慰）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：70。</mutual_masturbation_desc>
-  <double_penetration>兩穴齊插頻率</double_penetration>
-  <double_penetration_desc>兩穴齊插的頻率，需要同時有肛門和陰道。需要多根陰莖，如半陰莖。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：60。</double_penetration_desc>
+  <double_penetration>雙重插入頻率</double_penetration>
+  <double_penetration_desc>雙重插入的頻率，需要同時有肛門和陰道。需要多根陰莖，如半陰莖。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：60。</double_penetration_desc>
   <breastjob>乳交頻率</breastjob>
   <breastjob_desc>乳交的頻率。需要一個有乳房的人物與一個有陰莖的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：50。</breastjob_desc>
   <fingering>指交頻率</fingering>

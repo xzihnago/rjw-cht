@@ -121,6 +121,15 @@
   <RJW_StatEntry_FluidAmount_ejaculation>射精量</RJW_StatEntry_FluidAmount_ejaculation>
   <RJW_StatEntry_FluidAmount_wetness>濕度</RJW_StatEntry_FluidAmount_wetness>
 
+  <!-- RJW SexPart Hediff stat Fields-->
+  <RJW_PartInfo_T_Title>器官類型</RJW_PartInfo_T_Title>
+  <RJW_PartInfo_T_Breast>乳房</RJW_PartInfo_T_Breast>
+  <RJW_PartInfo_T_Penis>陰莖</RJW_PartInfo_T_Penis>
+  <RJW_PartInfo_T_Vagina>陰道</RJW_PartInfo_T_Vagina>
+  <RJW_PartInfo_T_Anus>肛門</RJW_PartInfo_T_Anus>
+  <RJW_PartInfo_T_Ovipositor>產卵管</RJW_PartInfo_T_Ovipositor>
+  <RJW_PartInfo_EggTypes>卵</RJW_PartInfo_EggTypes>
+
   <!-- RJW fertility tooltip -->
   <AgeImpactor>年齡：</AgeImpactor>
   <VanillaFertilityImpactor>生育力：{VALUE}%</VanillaFertilityImpactor>

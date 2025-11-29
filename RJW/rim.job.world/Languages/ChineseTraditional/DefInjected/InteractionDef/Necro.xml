@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Necro_Vaginal.label>強行插入陰道</Necro_Vaginal.label>
-  <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]的陰道。</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行插入陰道。</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Necro_Vaginal.modExtensions.0.RMBLabel>強行插入陰道</Necro_Vaginal.modExtensions.0.RMBLabel>
-  <Necro_Reverse_Vaginal.label>強行使其插入陰道</Necro_Reverse_Vaginal.label>
-  <Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強行使[RECIPIENT_nameDef]插入陰道。</Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
-  <Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行使其插入陰道。</Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
-  <Necro_Reverse_Vaginal.modExtensions.0.RMBLabel>強行使其插入陰道</Necro_Reverse_Vaginal.modExtensions.0.RMBLabel>
+  <Necro_Vaginal.label>性交</Necro_Vaginal.label>
+  <Necro_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]性交。</Necro_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Necro_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫性交。</Necro_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Necro_Vaginal.modExtensions.0.RMBLabel>性交</Necro_Vaginal.modExtensions.0.RMBLabel>
+  <Necro_Reverse_Vaginal.label>性交</Necro_Reverse_Vaginal.label>
+  <Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]性交。</Necro_Reverse_Vaginal.logRulesInitiator.rulesStrings.0>
+  <Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫性交。</Necro_Reverse_Vaginal.logRulesRecipient.rulesStrings.0>
+  <Necro_Reverse_Vaginal.modExtensions.0.RMBLabel>性交</Necro_Reverse_Vaginal.modExtensions.0.RMBLabel>
 
-  <Necro_Anal.label>強行插入肛門</Necro_Anal.label>
-  <Necro_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強行插入[RECIPIENT_nameDef]的肛門。</Necro_Anal.logRulesInitiator.rulesStrings.0>
-  <Necro_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行插入肛門。</Necro_Anal.logRulesRecipient.rulesStrings.0>
-  <Necro_Anal.modExtensions.0.RMBLabel>強行插入肛門</Necro_Anal.modExtensions.0.RMBLabel>
-  <Necro_Reverse_Anal.label>強行使其插入肛門</Necro_Reverse_Anal.label>
-  <Necro_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強行使[RECIPIENT_nameDef]插入肛門。</Necro_Reverse_Anal.logRulesInitiator.rulesStrings.0>
-  <Necro_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行使其插入肛門。</Necro_Reverse_Anal.logRulesRecipient.rulesStrings.0>
-  <Necro_Reverse_Anal.modExtensions.0.RMBLabel>強行使其插入肛門</Necro_Reverse_Anal.modExtensions.0.RMBLabel>
+  <Necro_Anal.label>肛交</Necro_Anal.label>
+  <Necro_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]肛交。</Necro_Anal.logRulesInitiator.rulesStrings.0>
+  <Necro_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫肛交。</Necro_Anal.logRulesRecipient.rulesStrings.0>
+  <Necro_Anal.modExtensions.0.RMBLabel>肛交</Necro_Anal.modExtensions.0.RMBLabel>
+  <Necro_Reverse_Anal.label>肛交</Necro_Reverse_Anal.label>
+  <Necro_Reverse_Anal.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]肛交。</Necro_Reverse_Anal.logRulesInitiator.rulesStrings.0>
+  <Necro_Reverse_Anal.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫肛交。</Necro_Reverse_Anal.logRulesRecipient.rulesStrings.0>
+  <Necro_Reverse_Anal.modExtensions.0.RMBLabel>肛交</Necro_Reverse_Anal.modExtensions.0.RMBLabel>
 
-  <Necro_DoublePenetration.label>強行兩穴齊插</Necro_DoublePenetration.label>
-  <Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強行兩穴齊插[RECIPIENT_nameDef]。</Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>
-  <Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行兩穴齊插。</Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>
-  <Necro_DoublePenetration.modExtensions.0.RMBLabel>強行兩穴齊插</Necro_DoublePenetration.modExtensions.0.RMBLabel>
-  <Necro_Reverse_DoublePenetration.label>強行使其兩穴齊插</Necro_Reverse_DoublePenetration.label>
-  <Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強行使[RECIPIENT_nameDef]兩穴齊插。</Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
-  <Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行使其兩穴齊插。</Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
-  <Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>強行使其兩穴齊插</Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
+  <Necro_DoublePenetration.label>雙重插入</Necro_DoublePenetration.label>
+  <Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]雙重插入。</Necro_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫雙重插入。</Necro_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Necro_DoublePenetration.modExtensions.0.RMBLabel>雙重插入</Necro_DoublePenetration.modExtensions.0.RMBLabel>
+  <Necro_Reverse_DoublePenetration.label>雙重插入</Necro_Reverse_DoublePenetration.label>
+  <Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]雙重插入。</Necro_Reverse_DoublePenetration.logRulesInitiator.rulesStrings.0>
+  <Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫雙重插入。</Necro_Reverse_DoublePenetration.logRulesRecipient.rulesStrings.0>
+  <Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>雙重插入</Necro_Reverse_DoublePenetration.modExtensions.0.RMBLabel>
 
-  <Necro_DoublePenetrationM.label>強行兩穴齊插</Necro_DoublePenetrationM.label>
-  <Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強行對兩穴齊插[RECIPIENT_nameDef]。</Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
-  <Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行兩穴齊插。</Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
-  <Necro_DoublePenetrationM.modExtensions.0.RMBLabel>強行兩穴齊插</Necro_DoublePenetrationM.modExtensions.0.RMBLabel>
-  <Necro_Reverse_DoublePenetrationM.label>強行使其兩穴齊插</Necro_Reverse_DoublePenetrationM.label>
-  <Necro_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強行使[RECIPIENT_nameDef]兩穴齊插。</Necro_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
-  <Necro_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強行使其兩穴齊插。</Necro_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
-  <Necro_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>強行使其兩穴齊插</Necro_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <Necro_DoublePenetrationM.label>雙重插入</Necro_DoublePenetrationM.label>
+  <Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]雙重插入。</Necro_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫雙重插入。</Necro_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Necro_DoublePenetrationM.modExtensions.0.RMBLabel>雙重插入</Necro_DoublePenetrationM.modExtensions.0.RMBLabel>
+  <Necro_Reverse_DoublePenetrationM.label>雙重插入</Necro_Reverse_DoublePenetrationM.label>
+  <Necro_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>r_logentry->強行使[RECIPIENT_nameDef]雙重插入。</Necro_Reverse_DoublePenetrationM.logRulesInitiator.rulesStrings.0>
+  <Necro_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫雙重插入。</Necro_Reverse_DoublePenetrationM.logRulesRecipient.rulesStrings.0>
+  <Necro_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>雙重插入</Necro_Reverse_DoublePenetrationM.modExtensions.0.RMBLabel>
 </LanguageData>
