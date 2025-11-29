@@ -1,79 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Sex_Blowjob_UAP_2D.label>接受吮陽</Sex_Blowjob_UAP_2D.label>
-  <Sex_Blowjob_UAP_2D.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]吮陽。</Sex_Blowjob_UAP_2D.logRulesInitiator.rulesStrings.0>
-  <Sex_Blowjob_UAP_2D.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Blowjob_UAP_2D.logRulesRecipient.rulesStrings.0>
-  <Sex_Blowjob_UAP_2D.modExtensions.0.RMBLabel>(U) 口交</Sex_Blowjob_UAP_2D.modExtensions.0.RMBLabel>
-  <Sex_Boobjob_UAP.label>接受吮陽</Sex_Boobjob_UAP.label>
-  <Sex_Boobjob_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]吮陽。</Sex_Boobjob_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Boobjob_UAP.modExtensions.0.RMBLabel>(U) 口交 BEV</Sex_Boobjob_UAP.modExtensions.0.RMBLabel>
+  <Sex_Blowjob_UAP_2D.label>口交</Sex_Blowjob_UAP_2D.label>
+  <Sex_Blowjob_UAP_2D.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]口交。</Sex_Blowjob_UAP_2D.logRulesInitiator.rulesStrings.0>
+  <Sex_Blowjob_UAP_2D.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]口交。</Sex_Blowjob_UAP_2D.logRulesRecipient.rulesStrings.0>
+  <Sex_Blowjob_UAP_2D.modExtensions.0.RMBLabel>(UAP) 口交</Sex_Blowjob_UAP_2D.modExtensions.0.RMBLabel>
+
+  <Sex_Boobjob_UAP.label>乳交</Sex_Boobjob_UAP.label>
+  <Sex_Boobjob_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]乳交。</Sex_Boobjob_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]乳交。</Sex_Boobjob_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Boobjob_UAP.modExtensions.0.RMBLabel>(UAP) 乳交（上視角）</Sex_Boobjob_UAP.modExtensions.0.RMBLabel>
 
   <Sex_Cowgirl_UAP.label>性交</Sex_Cowgirl_UAP.label>
-  <Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>(V) 騎乘位</Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>
+  <Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>(UAP) 騎乘位（性交）</Sex_Cowgirl_UAP.modExtensions.0.RMBLabel>
 
   <Sex_DoggystyleCondom_UAP.label>肛交</Sex_DoggystyleCondom_UAP.label>
-  <Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>(A) 後背位 BEV [避孕套]</Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>
+  <Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_DoggystyleCondom_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_DoggystyleCondom_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（肛交、上視角、戴套）</Sex_DoggystyleCondom_UAP.modExtensions.0.RMBLabel>
   <Sex_DoggystyleInside_UAP.label>肛交</Sex_DoggystyleInside_UAP.label>
-  <Sex_DoggystyleInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_DoggystyleInside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_DoggystyleInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_DoggystyleInside_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_DoggystyleInside_UAP.modExtensions.0.RMBLabel>(A) 後背位 BEV [內射]</Sex_DoggystyleInside_UAP.modExtensions.0.RMBLabel>
+  <Sex_DoggystyleInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_DoggystyleInside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_DoggystyleInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_DoggystyleInside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_DoggystyleInside_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（肛交、上視角、內射）</Sex_DoggystyleInside_UAP.modExtensions.0.RMBLabel>
   <Sex_DoggystyleOutside_UAP.label>肛交</Sex_DoggystyleOutside_UAP.label>
-  <Sex_DoggystyleOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_DoggystyleOutside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_DoggystyleOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_DoggystyleOutside_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_DoggystyleOutside_UAP.modExtensions.0.RMBLabel>(A) 後背位 BEV [外射]</Sex_DoggystyleOutside_UAP.modExtensions.0.RMBLabel>
+  <Sex_DoggystyleOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_DoggystyleOutside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_DoggystyleOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_DoggystyleOutside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_DoggystyleOutside_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（肛交、上視角、外射）</Sex_DoggystyleOutside_UAP.modExtensions.0.RMBLabel>
+  <Sex_DC_UAP.label>性交</Sex_DC_UAP.label>
+  <Sex_DC_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_DC_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_DC_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_DC_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_DC_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（性交、束縛）</Sex_DC_UAP.modExtensions.0.RMBLabel>
+  <Sex_DSS_UAP.label>性交</Sex_DSS_UAP.label>
+  <Sex_DSS_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_DSS_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_DSS_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_DSS_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_DSS_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（性交、流暢）</Sex_DSS_UAP.modExtensions.0.RMBLabel>
   <Sex_Doggystyle2D_UAP.label>肛交</Sex_Doggystyle2D_UAP.label>
-  <Sex_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Doggystyle2D_UAP.modExtensions.0.RMBLabel>(A) 後背位</Sex_Doggystyle2D_UAP.modExtensions.0.RMBLabel>
+  <Sex_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_Doggystyle2D_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_Doggystyle2D_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Doggystyle2D_UAP.modExtensions.0.RMBLabel>(UAP) 後背位（肛交）</Sex_Doggystyle2D_UAP.modExtensions.0.RMBLabel>
 
-  <Sex_Handjob_UAP.label>接受手交</Sex_Handjob_UAP.label>
+  <Sex_Handjob_UAP.label>手交</Sex_Handjob_UAP.label>
   <Sex_Handjob_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]手交。</Sex_Handjob_UAP.logRulesInitiator.rulesStrings.0>
   <Sex_Handjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]手交。</Sex_Handjob_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Handjob_UAP.modExtensions.0.RMBLabel>(U) 手交</Sex_Handjob_UAP.modExtensions.0.RMBLabel>
+  <Sex_Handjob_UAP.modExtensions.0.RMBLabel>(UAP) 手交</Sex_Handjob_UAP.modExtensions.0.RMBLabel>
 
-  <Sex_Blowjob_UAP.label>接受吮陽</Sex_Blowjob_UAP.label>
-  <Sex_Blowjob_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]吮陽。</Sex_Blowjob_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]吮陽。</Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Blowjob_UAP.modExtensions.0.RMBLabel>(U) 親愛口交</Sex_Blowjob_UAP.modExtensions.0.RMBLabel>
+  <Sex_Blowjob_UAP.label>口交</Sex_Blowjob_UAP.label>
+  <Sex_Blowjob_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]口交。</Sex_Blowjob_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]口交。</Sex_Blowjob_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Blowjob_UAP.modExtensions.0.RMBLabel>(UAP) 口交♡</Sex_Blowjob_UAP.modExtensions.0.RMBLabel>
 
+  <Sex_MP_UAP.label>性交</Sex_MP_UAP.label>
+  <Sex_MP_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MP_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MP_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MP_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MP_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、壓制）</Sex_MP_UAP.modExtensions.0.RMBLabel>
   <Sex_MissionaryCondom_UAP.label>性交</Sex_MissionaryCondom_UAP.label>
-  <Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [避孕套]</Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>
+  <Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MissionaryCondom_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、上視角、戴套）</Sex_MissionaryCondom_UAP.modExtensions.0.RMBLabel>
   <Sex_MissionaryInside_UAP.label>性交</Sex_MissionaryInside_UAP.label>
-  <Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [內射]</Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>
+  <Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MissionaryInside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、上視角、內射）</Sex_MissionaryInside_UAP.modExtensions.0.RMBLabel>
   <Sex_MissionaryOutside_UAP.label>性交</Sex_MissionaryOutside_UAP.label>
-  <Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>(V) 正常位 BEV [外射]</Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>
+  <Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MissionaryOutside_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、上視角、外射）</Sex_MissionaryOutside_UAP.modExtensions.0.RMBLabel>
+  <Sex_MC_UAP.label>性交</Sex_MC_UAP.label>
+  <Sex_MC_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MC_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MC_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MC_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MC_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、束縛）</Sex_MC_UAP.modExtensions.0.RMBLabel>
+  <Sex_MSS_UAP.label>性交</Sex_MSS_UAP.label>
+  <Sex_MSS_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MSS_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MSS_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MSS_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MSS_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、流暢）</Sex_MSS_UAP.modExtensions.0.RMBLabel>
+  <Sex_MUC_UAP.label>性交</Sex_MUC_UAP.label>
+  <Sex_MUC_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_MUC_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_MUC_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_MUC_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_MUC_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交、隱蔽）</Sex_MUC_UAP.modExtensions.0.RMBLabel>
   <Sex_Missionary2D_UAP.label>性交</Sex_Missionary2D_UAP.label>
-  <Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]性交。</Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]性交。</Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>(V) 正常位</Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>
+  <Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_Missionary2D_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_Missionary2D_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>(UAP) 正常位（性交）</Sex_Missionary2D_UAP.modExtensions.0.RMBLabel>
 
   <Sex_ProneboneSlave_UAP.label>肛交</Sex_ProneboneSlave_UAP.label>
-  <Sex_ProneboneSlave_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_ProneboneSlave_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_ProneboneSlave_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_ProneboneSlave_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_ProneboneSlave_UAP.modExtensions.0.RMBLabel>(A) 俯趴位 [奴隸]</Sex_ProneboneSlave_UAP.modExtensions.0.RMBLabel>
+  <Sex_ProneboneSlave_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_ProneboneSlave_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_ProneboneSlave_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_ProneboneSlave_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_ProneboneSlave_UAP.modExtensions.0.RMBLabel>(UAP) 俯趴位（肛交、奴隸）</Sex_ProneboneSlave_UAP.modExtensions.0.RMBLabel>
+  <Sex_PSS_UAP.label>性交</Sex_PSS_UAP.label>
+  <Sex_PSS_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]性交。</Sex_PSS_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_PSS_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]性交。</Sex_PSS_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_PSS_UAP.modExtensions.0.RMBLabel>(UAP) 俯趴位（性交、流暢）</Sex_PSS_UAP.modExtensions.0.RMBLabel>
   <Sex_ProneboneColonist_UAP.label>肛交</Sex_ProneboneColonist_UAP.label>
-  <Sex_ProneboneColonist_UAP.logRulesInitiator.rulesStrings.0>r_logentry->對[RECIPIENT_nameDef]肛交。</Sex_ProneboneColonist_UAP.logRulesInitiator.rulesStrings.0>
-  <Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]肛交。</Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>(A) 俯趴位</Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>
+  <Sex_ProneboneColonist_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]肛交。</Sex_ProneboneColonist_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]肛交。</Sex_ProneboneColonist_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>(UAP) 俯趴位（肛交）</Sex_ProneboneColonist_UAP.modExtensions.0.RMBLabel>
+
+
+  <Sex_Reverse_Cowgirl_UAP.label>性交</Sex_Reverse_Cowgirl_UAP.label>
+  <Sex_Reverse_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>r_logentry->被[RECIPIENT_nameDef]性交。</Sex_Reverse_Cowgirl_UAP.logRulesInitiator.rulesStrings.0>
+  <Sex_Reverse_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>r_logentry->對[INITIATOR_nameDef]性交。</Sex_Reverse_Cowgirl_UAP.logRulesRecipient.rulesStrings.0>
+  <Sex_Reverse_Cowgirl_UAP.modExtensions.0.RMBLabel>(UAP) 騎乘位（性交）</Sex_Reverse_Cowgirl_UAP.modExtensions.0.RMBLabel>
 
   <Sex_Scissoring_UAP.label>剪刀式</Sex_Scissoring_UAP.label>
   <Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]剪刀式。</Sex_Scissoring_UAP.logRulesInitiator.rulesStrings.0>
   <Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]剪刀式。</Sex_Scissoring_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Scissoring_UAP.modExtensions.0.RMBLabel>(U) 剪刀式</Sex_Scissoring_UAP.modExtensions.0.RMBLabel>
+  <Sex_Scissoring_UAP.modExtensions.0.RMBLabel>(UAP) 剪刀式</Sex_Scissoring_UAP.modExtensions.0.RMBLabel>
 
   <Sex_Sixtynine_UAP.label>互相 69</Sex_Sixtynine_UAP.label>
   <Sex_Sixtynine_UAP.logRulesInitiator.rulesStrings.0>r_logentry->與[RECIPIENT_nameDef]互相 69。</Sex_Sixtynine_UAP.logRulesInitiator.rulesStrings.0>
   <Sex_Sixtynine_UAP.logRulesRecipient.rulesStrings.0>r_logentry->與[INITIATOR_nameDef]互相 69。</Sex_Sixtynine_UAP.logRulesRecipient.rulesStrings.0>
-  <Sex_Sixtynine_UAP.modExtensions.0.RMBLabel>(U) 互相 69</Sex_Sixtynine_UAP.modExtensions.0.RMBLabel>
+  <Sex_Sixtynine_UAP.modExtensions.0.RMBLabel>(UAP) 互相 69</Sex_Sixtynine_UAP.modExtensions.0.RMBLabel>
 </LanguageData>
