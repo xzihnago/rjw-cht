@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Mod menu -->
+  <RimAnim_ModSettings>RJW - 動畫設定</RimAnim_ModSettings>
+  <RimAnim_SoundOverride>覆蓋 RJW 音效</RimAnim_SoundOverride>
+  <RimAnim_GenitalRotation>控制生殖器旋轉</RimAnim_GenitalRotation>
+  <RimAnim_OrgasmQuiver>啟用高潮顫抖</RimAnim_OrgasmQuiver>
+  <RimAnim_RapeShiver>啟用強姦顫動</RimAnim_RapeShiver>
+  <RimAnim_HeartsDuringLovin>性愛時顯示愛心符號</RimAnim_HeartsDuringLovin>
+  <RimAnim_PlayNonsexual>播放非性行為動畫（牽手、親吻）</RimAnim_PlayNonsexual>
+  <RimAnim_AnimManagerTab>啟用動畫管理器標籤</RimAnim_AnimManagerTab>
+  <RimAnim_ShiverIntensity>顫抖/顫動強度（預設 2）：</RimAnim_ShiverIntensity>
+  <RimAnim_Voices>在動畫期間播放語音</RimAnim_Voices>
+  <RimAnim_HumanlikeVoicesDefault>預設播放人類語音</RimAnim_HumanlikeVoicesDefault>
+  <RimAnim_DebugMode>除錯模式</RimAnim_DebugMode>
+  <RimAnim_FloatRangeRenderTree>除錯渲染樹偏移量選單的浮點數範圍：</RimAnim_FloatRangeRenderTree>
+  <RimAnim_MaleAnalCanBeFucked>播放男性人物的肛交動畫</RimAnim_MaleAnalCanBeFucked>
+
+  <RimAnim_PlaySounds>在動畫期間播放音效</RimAnim_PlaySounds>
+  <RimAnim_VoicesVolume>語音音量：</RimAnim_VoicesVolume>
+  <RimAnim_SoundsVolume>音效音量：</RimAnim_SoundsVolume>
+
+
+  <!-- Main Tab Window -->
+  <RimAnims_AnimManager>動畫管理器</RimAnims_AnimManager>
+  <RimAnims_Warning>警告—通常情況下，您不應該更改人類的偏移量，而應該更改外星種族或動物的偏移量。</RimAnims_Warning>
+  <RimAnims_CopyToClipboard>複製偏移量到剪貼簿</RimAnims_CopyToClipboard>
+  <RimAnims_ShareSettings>在 OffsetDef 中貼上偏移值，或在 Discord 中分享</RimAnims_ShareSettings>
+  <RimAnims_Reset>重置</RimAnims_Reset>
+</LanguageData>
