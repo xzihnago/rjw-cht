@@ -5,27 +5,23 @@ RJW 與部分附加模組的中文化。<br />
 
 ### 維護中的模組
 
-可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題還請提出。
+可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題請提出。
 
-#### 1.6
+| 模組（1.6）                                                                          | 版本      | 狀態         |
+| ------------------------------------------------------------------------------------ | --------- | ------------ |
+| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                            | `eb57e81` | 完整         |
+| Animations                                                                           |           |              |
+| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)        | `dbe300d` | 完整         |
+| [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                             | `8d2dc63` | 完整         |
+| [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)               | `c109908` | 完整         |
+| Body Graphics                                                                        |           |              |
+| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero) | `10f6384` | 補全（紋身） |
+| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)  | `a3130e2` | 完整         |
+| Clothing                                                                             |           |              |
+| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                  | `cfe5b29` | 完整         |
 
-| 模組                                      | 版本      | 狀態 |
-| ----------------------------------------- | --------- | ---- |
-| [RimJobWorld](https://gitgud.io/Ed86/rjw) | `eb57e81` | 完整 |
-
-#### 1.5
-
-| 模組                                                                                                | 版本     | 狀態                         |
+| 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
-| Animations                                                                                          |          |                              |
-| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                       | `e96305` | 補全（選單按鈕）             |
-| [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                            | `214203` | 完整                         |
-| [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                              | `1fa0fc` | 完整                         |
-| Body Graphics                                                                                       |          |                              |
-| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)                | `a902ee` | 補全（紋身）                 |
-| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)                 | `01a47f` | 完整                         |
-| Clothing                                                                                            |          |                              |
-| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                                 | `ff57f5` | 完整                         |
 | DLC Support                                                                                         |          |                              |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)                   | `0294af` | 完整                         |
 | [RJW-Events](https://gitgud.io/LukeLu/rjw-events)                                                   | `1f3832` | 完整                         |

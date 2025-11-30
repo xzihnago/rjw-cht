@@ -4,20 +4,20 @@
     <!-- ================================================================  1.6  ================================================================ -->
     <li IfModActive="rim.job.world">RJW/rim.job.world</li>
     <li IfModActive="sarg.rimbees">RJW/rim.job.world_sarg.rimbees</li>
-
-    <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================     Animations     =========================================== -->
     <li IfModActive="c0ffee.rimworld.animations">Animations/c0ffee.rimworld.animations</li>
     <li IfModActive="teacher.uap">Animations/teacher.uap</li>
     <li IfModActive="eltoro.anims">Animations/eltoro.anims</li>
     <!-- ===========================================   Body Graphics    =========================================== -->
     <!-- Sized Apparel Zero -->
-    <li IfModActive="hehehew.sizedapparelforslaves">Body Graphics/Sized Apparel Zero/hehehew.sizedapparelforslaves</li>
+    <li IfModActive="otyoty.sizedapparel">Body Graphics/Sized Apparel Zero/otyoty.sizedapparel</li>
     <!-- SA0 Apparel -->
-    <li IfModActive="otyoty.sizedapparel">Body Graphics/SA0 Apparel/otyoty.sizedapparel</li>
+    <li IfModActive="hehehew.sizedapparelforslaves">Body Graphics/SA0 Apparel/hehehew.sizedapparelforslaves</li>
     <!-- ===========================================      Clothing      =========================================== -->
     <!-- Bondage, Accessories -->
     <li IfModActive="rimworld.ekss.rjwex">Clothing/Bondage, Accessories/rimworld.ekss.rjwex</li>
+
+    <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
     <li IfModActive="c0ffee.rjw.events">DLC Support/Ideology/c0ffee.rjw.events</li>

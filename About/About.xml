@@ -11,42 +11,34 @@
   <loadAfter>
     <!-- ================================================================  1.6  ================================================================ -->
     <li>rim.job.world</li>
-
-    <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================     Animations     =========================================== -->
     <li>c0ffee.rimworld.animations</li>
     <li>teacher.uap</li>
     <li>eltoro.anims</li>
     <!-- ===========================================   Body Graphics    =========================================== -->
-    <!-- Sized Apparel Zero -->
     <li>otyoty.sizedapparel</li>
-    <!-- SA0 Apparel -->
     <li>hehehew.sizedapparelforslaves</li>
     <!-- ===========================================      Clothing      =========================================== -->
-    <!-- Bondage, Accessories -->
     <li>rimworld.ekss.rjwex</li>
+
+    <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================    DLC Support     =========================================== -->
-    <!-- Ideology -->
     <li>c0ffee.rjw.events</li>
     <li>calamabanana.rjw.brothelcolony</li>
     <li>rjw.sexperience.ideology</li>
-    <!-- Biotech -->
     <li>euclidean.fantasyraces</li>
     <li>vegapnk.rjw.genes</li>
     <!-- =========================================== More RJW Mechanics =========================================== -->
-    <!-- Larger Add-ons -->
     <li>abscon.privacy.please</li>
     <li>eltoro.baddon</li>
     <li>jaaldabaoth.rjw.menstruation.resources</li>
     <li>lustlicentiastretch.rjwlabs</li>
     <li>rjw.menstruation</li>
     <li>rjw.sexperience</li>
-    <!-- Smaller Add-Ons -->
     <li>rjw.fb</li>
     <li>rjw.fc</li>
     <li>rjw.fh</li>
     <li>rjw.std</li>
-    <!-- Cum and Milk -->
     <li>rjw.cum</li>
     <li>rjw.milk.humanoid</li>
     <li>vegapnk.cumpilation</li>
