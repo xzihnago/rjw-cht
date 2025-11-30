@@ -2,11 +2,11 @@
 <LanguageData>
   <CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>不允許旁觀者。</CB_Prostitution_Present_Ritual_Behaviour.spectatorFilter.description>
   <CB_Prostitution_Present_Ritual_Behaviour.letterTitle>{RITUAL_labelCap}</CB_Prostitution_Present_Ritual_Behaviour.letterTitle>
-  <CB_Prostitution_Present_Ritual_Behaviour.letterText>{SPEAKER_labelShort}正在向訪客展示你的妓女們。</CB_Prostitution_Present_Ritual_Behaviour.letterText>
+  <CB_Prostitution_Present_Ritual_Behaviour.letterText>{SPEAKER_labelShort}正在向訪客展示你的娼妓們。</CB_Prostitution_Present_Ritual_Behaviour.letterText>
 
   <CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>女士</CB_Prostitution_Present_Ritual_Behaviour.roles.0.label>
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>妓女</CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>
-  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.categoryLabel>妓女</CB_Prostitution_Present_Ritual_Behaviour.roles.1.categoryLabel>
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>娼妓</CB_Prostitution_Present_Ritual_Behaviour.roles.1.label>
+  <CB_Prostitution_Present_Ritual_Behaviour.roles.1.categoryLabel>娼妓</CB_Prostitution_Present_Ritual_Behaviour.roles.1.categoryLabel>
   <CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>能夠賣淫的居民</CB_Prostitution_Present_Ritual_Behaviour.roles.1.missingDesc>
   <CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>顧客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.label>
   <CB_Prostitution_Present_Ritual_Behaviour.roles.2.categoryLabel>顧客</CB_Prostitution_Present_Ritual_Behaviour.roles.2.categoryLabel>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GeneralWhoringSettings>&#9;&#9;&#9;一般性交易</GeneralWhoringSettings>
+  <WhoringDifficultySettings>\n\n&#9;&#9;&#9;性交易難度</WhoringDifficultySettings>
+  <RepopulationismSettings>\n\n&#9;&#9;&#9;再繁衍主義</RepopulationismSettings>
+  <whoringtab_enabled>啟用性交易介面</whoringtab_enabled>
+  <whoringtab_enabled_desc>顯示／隱藏性交易介面</whoringtab_enabled_desc>
+  <show_whore_price_factor_on_bed>顯示床上性交易價格倍率</show_whore_price_factor_on_bed>
+  <show_whore_price_factor_on_bed_desc>在允許賣淫的床上顯示性交易價格倍率</show_whore_price_factor_on_bed_desc>
+  <show_whore_widgets_on_bed>顯示床小工具</show_whore_widgets_on_bed>
+  <show_whore_widgets_on_bed_desc>顯示床小工具用以標記公共／私人性交易床。</show_whore_widgets_on_bed_desc>
+  <NotifyPayment>付款通知</NotifyPayment>
+  <NotifyPayment_desc>如果你想看顧客的付款通知</NotifyPayment_desc>
+
+  <CanDeliverAllAges>也允許將嬰兒送到其他派系的據點。</CanDeliverAllAges>
+  <CanDeliverAllAges_desc>一支配備繁衍專家的遠行隊可以將殖民者移交給其他派系的據點。最初的設計目的是移交能夠行走的兒童，但有些人也希望能夠移交剛出生的嬰兒。</CanDeliverAllAges_desc>
+  <PreventFatherPurge>防止刪除與再繁衍主義相關的父親資訊（如果使用再繁衍主義，則必須執行此操作）</PreventFatherPurge>
+  <PreventFatherPurge_desc>此設定對於再繁衍主義機制的正常運作至關重要。1.6 版本中對世界人物的激進清除機制有時會在孩子出生前、父親來接孩子之前就將他們刪除。</PreventFatherPurge_desc>
+  <PreventChildPurge>防止刪除殖民者的子女</PreventChildPurge>
+  <PreventChildPurge_desc>如果你的孩子被 Rimworld 過於激進的垃圾收集機制立即自動刪除，那麼再繁衍主義還有什麼意義呢？</PreventChildPurge_desc>
+  <PreventRelativePurge>防止刪除殖民者的任何親屬（危險）</PreventRelativePurge>
+  <PreventRelativePurge_desc>除非你使用像「No random relatives」這樣的模組來防止生成親屬，以避免世界人物的大量膨脹，否則不要開啟此設定</PreventRelativePurge_desc>
+  <PreventPurgeEvenMore>嘗試防止其他模組（如 BetterGC）刪除上述選擇的對象（危險／需要重啟）</PreventPurgeEvenMore>
+  <PreventPurgeEvenMore_desc>除非必要，否則不要開啟此設定。一些世界人物清理模組會跳過原版對世界人物的檢查，直接進行刪除，但仍使用原版方法刪除它們。啟用此設定將修改該原版方法，希望能保護你的朋友。個人建議禁用那些其他模組，因為原版 Rimworld 1.6 在清理世界人物時已經足夠激進。切換此設定需要重啟才能生效。</PreventPurgeEvenMore_desc>
+
+  <MoneyPrinting>印鈔票</MoneyPrinting>
+  <MoneyPrinting_desc>顧客會憑空產生白銀而非原先攜帶的白銀</MoneyPrinting_desc>
+  <MinimumPrice>最低價格</MinimumPrice>
+  <MinimumPrice_desc>如果顧客無法全額付款，這是你的娼妓可接受的最低金額</MinimumPrice_desc>
+  <PriceMultiplier>價格倍率</PriceMultiplier>
+  <PriceMultiplier_desc>預設 1。娼妓價格倍率</PriceMultiplier_desc>
+
+  <AcceptanceLower>接受度下限</AcceptanceLower>
+  <AcceptanceLower_desc>預設 0.05。如果顧客對你的娼妓的評價高於這兩個邊界之間的隨機數，則他會接受。</AcceptanceLower_desc>
+
+  <AcceptanceUpper>接受度上限</AcceptanceUpper>
+  <AcceptanceUpper_desc>預設 1。如果顧客對你的娼妓的評價高於這兩個邊界之間的隨機數，則他會接受。</AcceptanceUpper_desc>
+
+  <ClientAlwaysAccept>禁用顧客隨機拒絕</ClientAlwaysAccept>
+  <ClientAlwaysAccept_desc>顧客總是接受勾搭，而非隨機拒絕</ClientAlwaysAccept_desc>
+
+  <GayForPay>只有顧客的性需求才重要。</GayForPay>
+  <GayForPay_desc>如果啟用此功能，你的娼妓會接受任何願意選擇她們的顧客，無論她們自身的性取向如何。請注意，除非使用影響角色性取向分佈的額外模組，否則同性戀娼妓幾乎不可能找到客人。</GayForPay_desc>
+
+  <AlwaysWilling>色情模式 - 娼妓總是樂意</AlwaysWilling>
+  <AlwaysWilling_desc>如果啟用此功能，即使娼妓已經完全滿足，她們也會繼續接客。這降低了對員工進行有效培訓與供給的難度。</AlwaysWilling_desc>
+
+  <DebugWhoring>Whoring 相關除錯日誌</DebugWhoring>
+  <DebugWhoring_desc>啟用一些非常繁瑣的調試日誌，以幫助查找 Whoring 勾搭行為中的問題。</DebugWhoring_desc>
+
+  <ResetSettings>重置設定為預設值</ResetSettings>
+  <ResetSettings_desc>將所有設定重設為其較為平衡的預設值</ResetSettings_desc>
+  <!--Whore Activities-->
+  <RJW_VisitorAcceptWhore>{0}接受了{1}提出的性交易。</RJW_VisitorAcceptWhore>
+  <RJW_VisitorSolicitWhore>{0}希望{1}提供性交易。</RJW_VisitorSolicitWhore>
+  <RJW_VisitorRejectWhore>{0}拒絕了{1}提出的性交易。</RJW_VisitorRejectWhore>
+  <RJW_VisitorSickWhore>{0}拒絕了性交易，因為{1}看起來不健康。</RJW_VisitorSickWhore>
+
+  <!--Whore designators-->
+  <ForService>設為娼妓</ForService> <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[設為娼妓：
+- 會嘗試勾搭訪客。
+- 如果不忙，會取悅其他殖民者。
+- 在工作中儘量避免自慰，可能會導致沮喪。
+]]></ForServiceDesc>
+  <ForServiceRefuseDesc>不會同意賣淫</ForServiceRefuseDesc>
+
+  <!--Bed designators-->
+  <CommandBedSetAsWhoreBedLabel>允許所有人賣淫</CommandBedSetAsWhoreBedLabel>
+  <CommandBedSetAsWhoreBedDesc>允許所有娼妓用這張床來招待顧客。</CommandBedSetAsWhoreBedDesc>
+  <CommandBedAllowWhoringLabel>允許擁有者賣淫</CommandBedAllowWhoringLabel>
+  <CommandBedAllowWhoringDesc>是否允許擁有者用這張床賣淫。</CommandBedAllowWhoringDesc>
+  <WhorePriceCalcDesc>賣淫價格因素（基於舒適度、房間印象及房間內的床數）：{0}</WhorePriceCalcDesc>
+  <CommandDisableBedTypeIsNotAssignable>不能給人物分配這種類型的床。</CommandDisableBedTypeIsNotAssignable>
+
+  <WhorePrice>性交易價格區間：</WhorePrice>
+  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
+  <BrothelTabIsSlave>奴隸</BrothelTabIsSlave>
+</LanguageData>

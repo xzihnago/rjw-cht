@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CB_MadamSpeech.label>展示妓女。</CB_MadamSpeech.label>
+  <CB_MadamSpeech.label>展示娼妓。</CB_MadamSpeech.label>
   <CB_MadamSpeech.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
     <li>r_logentry->[INITIATOR_nameDef][praised][speechtopic]。</li>
@@ -10,7 +10,7 @@
     <li>speechtopic->[TalkTopicSex]</li>
     <li>speechtopic->[TalkTopicSex]</li>
     <li>speechtopic->情慾</li>
-    <li>speechtopic->熟練的妓女</li>
+    <li>speechtopic->熟練的娼妓</li>
     <li>speechtopic->色情幻想</li>
     <li>speechtopic->[talktopicsexfile]與[talktopicsexfile]之間的連結</li>
     <li>speechtopic->[talktopicsexfile]與[talktopicsexfile]之間的連繫</li>

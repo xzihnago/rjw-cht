@@ -22,11 +22,11 @@ RJW 與部分附加模組的中文化。<br />
 | DLC Support                                                                          |           |              |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)    | `432e90d` | 完整         |
 | [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                  | `7c8a853` | 完整         |
+| [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)    | `d1935ea` | 完整         |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
 | DLC Support                                                                                         |          |                              |
-| [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)                   | `211892` | 完整                         |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `7540b9` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
 | More RJW Mechanics                                                                                  |          |                              |

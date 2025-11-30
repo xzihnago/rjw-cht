@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WhoringPriceOffset.label>娼妓價值偏移</WhoringPriceOffset.label>
+  <WhoringPriceOffset.description>主要用於其他模組來操縱賣淫的最終價格。</WhoringPriceOffset.description>
+</LanguageData>

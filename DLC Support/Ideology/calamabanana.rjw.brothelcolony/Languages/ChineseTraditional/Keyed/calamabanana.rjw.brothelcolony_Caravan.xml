@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CaravanWhoringStop>遠行隊正在離開，你的妓女必須停止。</CaravanWhoringStop>
+  <CaravanWhoringStop>遠行隊正在離開，你的娼妓必須停止。</CaravanWhoringStop>
 
   <CaravanWhoringNoMaleClients>{0}好像沒有男性顧客，但你卻帶來了女妓。</CaravanWhoringNoMaleClients>
   <CaravanWhoringNoFemaleClients>{0}好像沒有女性顧客，但你卻帶來了男妓。</CaravanWhoringNoFemaleClients>
   <CaravanWhoringNoMoney>{0}沒有白銀來支付你的服務。</CaravanWhoringNoMoney>
 
-  <CaravanWhoringLowSoftSkills>你的一個妓女的成功機率相當低，因為她們的社交能力較差。遠行隊中的賣淫專家會增加他們的社交技能。</CaravanWhoringLowSoftSkills>
+  <CaravanWhoringLowSoftSkills>你的一個娼妓的成功機率相當低，因為她們的社交能力較差。遠行隊中的賣淫專家會增加他們的社交技能。</CaravanWhoringLowSoftSkills>
 
   <CaravanWhoringNotifyPaymentSilver>{0}為{1}服務並獲得了 {2} 白銀。基本價格：{3}，賣淫專家加成：{4}</CaravanWhoringNotifyPaymentSilver>
   <CaravanWhoringNotifyPaymentGoodwill>{0}為{1}服務並獲得了{3}的 {2} 友好度。</CaravanWhoringNotifyPaymentGoodwill>
@@ -14,10 +14,10 @@
 
   <CaravanWhoringActionLabelNoWhoring>開始賣淫</CaravanWhoringActionLabelNoWhoring>
   <CaravanWhoringActionLabelWhoring>停止賣淫</CaravanWhoringActionLabelWhoring>
-  <CaravanWhoringActionDescNoWhoring>在據點當地提供妓女一段時間</CaravanWhoringActionDescNoWhoring>
-  <CaravanWhoringActionDescWhoring>停止提供你的妓女</CaravanWhoringActionDescWhoring>
+  <CaravanWhoringActionDescNoWhoring>在據點當地提供娼妓一段時間</CaravanWhoringActionDescNoWhoring>
+  <CaravanWhoringActionDescWhoring>停止提供你的娼妓</CaravanWhoringActionDescWhoring>
   <CaravanWhoringActionStop>你的遠行隊停止在{0}賣淫</CaravanWhoringActionStop>
   <CaravanWhoringActionStart>你的遠行隊開始在{0}賣淫</CaravanWhoringActionStart>
   <CaravanWhoringActionStartAtInMorning>你的遠行隊將於早上開始在{0}賣淫</CaravanWhoringActionStartAtInMorning>
-  <CaravanWhoringActionDisable>你需要帶至少一個妓女</CaravanWhoringActionDisable>
+  <CaravanWhoringActionDisable>你需要帶至少一個娼妓</CaravanWhoringActionDisable>
 </LanguageData>

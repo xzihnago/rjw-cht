@@ -5,24 +5,19 @@
   <RepopulationNoBedAvaliable>無床可用。</RepopulationNoBedAvaliable>
   <RepopulationTargetnotInterested>目標對{0}不感興趣</RepopulationTargetnotInterested>
   <RepopulationNoGenesAvaliable>目標無可用基因</RepopulationNoGenesAvaliable>
-
   <RepopulationSelectVisitor>選擇訪客</RepopulationSelectVisitor>
   <RepopulationSelectOffering>選擇後代</RepopulationSelectOffering>
   <RepopulationSelectTarget>選擇目標</RepopulationSelectTarget>
-
   <RepopulationActionLabel>已學習基因</RepopulationActionLabel>
   <RepopulationActionDesc>選擇以查看所有已學習的基因。</RepopulationActionDesc>
   <RepopulationActionDiaNode>這些基因已被{0}學習。\n\n透過基因竄改添加基因需要 {1} 點熱情，每增加一級基因複雜度需要額外的 {2} 點熱情。\n\n移除一個基因需要 {3} 點熱情，每增加一級基因複雜度需要額外的 {4} 點熱情。\n\n針對未出生的嬰兒進行可使成本降低一半。</RepopulationActionDiaNode>
   <RepopulationActionDisabled>需要熱情以學習基因</RepopulationActionDisabled>
-
   <RepopulationOfferCanNotWalk>{0}無法獨自行走。</RepopulationOfferCanNotWalk>
   <RepopulationOfferIsNotOne>{0}不是你的。</RepopulationOfferIsNotOne>
-
   <RepopulationOfferDiaNode>\n\n將把{0}送給{1}。\n他們不會感激我們把他們的親人交給別人。</RepopulationOfferDiaNode>
   <RepopulationOfferDiaOptionYes>無論如何都要這麼做</RepopulationOfferDiaOptionYes>
   <RepopulationOfferDiaOptionNo>最好不要</RepopulationOfferDiaOptionNo>
   <RepopulationOfferDiaNodeTitle>給予錯誤的派系</RepopulationOfferDiaNodeTitle>
-
   <RepopulationOfferLetterText1>\n\n我們送出{0}到{1}\n\n由於{0}不是他們的成員，所以他們認為這是我們的恩惠。由於我們與他們的關係（{2}），以及{3}對{0}的個人看法（{4}），他們只提供一般報酬的{5}。</RepopulationOfferLetterText1>
   <RepopulationOfferLetterText2>\n\n我們送出{0}到{1}\n\n由於{0}是他們中的一員，他們向我們提供了一般的報酬。</RepopulationOfferLetterText2>
   <RepopulationOfferLetterTitle>送出{0}</RepopulationOfferLetterTitle>
@@ -31,38 +26,31 @@
   <RepopulationOfferLetterAcceptForFervor>以 {0} 點熱情接受</RepopulationOfferLetterAcceptForFervor>
   <RepopulationOfferLetterAcceptNothing>不求回報</RepopulationOfferLetterAcceptNothing>
   <RepopulationOfferLetterAcceptRefuse>拒絕</RepopulationOfferLetterAcceptRefuse>
-
   <RepopulationValidGenesDiaOption>{0} | 複雜度：{1} | 代謝效率：{2}</RepopulationValidGenesDiaOption>
-
   <RepopulationFloatMenuTitle>可用基因</RepopulationFloatMenuTitle>
   <RepopulationFloatMenuTitle2>基因</RepopulationFloatMenuTitle2>
   <RepopulationWidgetRemoveGeneTitle>移除基因</RepopulationWidgetRemoveGeneTitle>
   <RepopulationWidgetAddGeneTitle>加入基因</RepopulationWidgetAddGeneTitle>
-
   <RepopulationGeneFervor>熱情：{0}</RepopulationGeneFervor>
   <RepopulationGeneRemovePrice>移除（{0}）</RepopulationGeneRemovePrice>
   <RepopulationGeneAddPrice>加入（{0}）</RepopulationGeneAddPrice>
-
   <RepopulationGeneRemovedMessage>已從{1}中移除{0}。</RepopulationGeneRemovedMessage>
   <RepopulationGeneRemovedUnbornMessage>已從未出生的嬰兒中移除{0}。</RepopulationGeneRemovedUnbornMessage>
-
   <RepopulationGeneAddedMessage>已在{1}中加入{0}。</RepopulationGeneAddedMessage>
   <RepopulationGeneAddedUnbornMessage>已在未出生的嬰兒中加入{0}</RepopulationGeneAddedUnbornMessage>
-
   <RepopulationRitualGeneTamperingTitle>基因竄改成功</RepopulationRitualGeneTamperingTitle>
   <RepopulationRitualGeneTamperingDiaNodeText1>\n\n你目前有 {0} 點神聖熱情可供使用。\n選擇一個你想要為{1}的孩子進行竄改的基因。母親懷孕期間，其基因不可被竄改。</RepopulationRitualGeneTamperingDiaNodeText1>
   <RepopulationRitualGeneTamperingDiaNodeText2>\n\n你目前有 {0} 點神聖熱情可供使用。\n選擇一個你想要為{1}進行竄改的基因。</RepopulationRitualGeneTamperingDiaNodeText2>
-
   <RepopulationRitualReasonNotTarget>不是目標</RepopulationRitualReasonNotTarget>
   <RepopulationRitualReasonAnimal>那是一隻動物</RepopulationRitualReasonAnimal>
   <RepopulationRitualReasonNotPregnantAndHasNoGenes>目標沒有基因，並且沒有懷孕</RepopulationRitualReasonNotPregnantAndHasNoGenes>
-
   <RepopulationCommandActionLabelStart>出發</RepopulationCommandActionLabelStart>
   <RepopulationCommandActionLabelForSilver>為了白銀</RepopulationCommandActionLabelForSilver>
   <RepopulationCommandActionLabelForGoodwill>為了友好度</RepopulationCommandActionLabelForGoodwill>
   <RepopulationCommandActionLabelForFervor>為了熱情</RepopulationCommandActionLabelForFervor>
   <RepopulationCommandActionDesc>告知以自動出發，你可以在此處更改設定</RepopulationCommandActionDesc>
-
+  <RepopulationCommandActionHandoverNow>立即出發</RepopulationCommandActionHandoverNow>
+  <RepopulationCommandActionHandoverNowDesc>嘗試加入已存在的商隊</RepopulationCommandActionHandoverNowDesc>
   <RepopulationLetterDiaOptionForSilver>是，為了白銀</RepopulationLetterDiaOptionForSilver>
   <RepopulationLetterDiaOptionForGoodwill>是，為了友好度</RepopulationLetterDiaOptionForGoodwill>
   <RepopulationLetterDiaOptionForFervor>是，為了熱情</RepopulationLetterDiaOptionForFervor>
@@ -71,4 +59,41 @@
   <RepopulationLetterDiaOptionNoNever>否，從不</RepopulationLetterDiaOptionNoNever>
   <RepopulationLetterDiaOptionDisabled>當我們宣布再繁衍的意圖時，我們做出選擇</RepopulationLetterDiaOptionDisabled>
   <RepopulationLetterDiaOptionDead>死亡</RepopulationLetterDiaOptionDead>
+
+
+  <CB_AskToTakeLetterLabel>訪客要求帶走{0}</CB_AskToTakeLetterLabel>
+  <CB_CannotSendAwayLordLeft>無法送離：{0}不在這裡</CB_CannotSendAwayLordLeft>
+  <CB_CannotSendAwayDespawned>無法送離：{0}不可用</CB_CannotSendAwayDespawned>
+  <CB_CannotSendAwayCrypto>無法送離：{0}正處於休眠艙中</CB_CannotSendAwayCrypto>
+  <CB_CannotSendAwayGrowthVat>無法送離：{0}正處於發育艙中</CB_CannotSendAwayGrowthVat>
+  <CB_CannotSendAwayBiosculpterPod>無法送離：{0}正處於塑體艙中</CB_CannotSendAwayBiosculpterPod>
+  <CB_CannotSendAwayNoMove>無法送離：{0}無法移動</CB_CannotSendAwayNoMove>
+  <CB_AskToTakeLetterDescription>來自{2}的訪客已經抵達。{0}是他們成員之一{1}所生。\n\n我們的任務是重建這個世界的人口，他們現在要求帶走{0}。\n\n</CB_AskToTakeLetterDescription>
+  <CB_AskToTakeLetterDescriptionMotherWarning>\n\n母親，{0}，{1}</CB_AskToTakeLetterDescriptionMotherWarning>
+  <CB_AskToTakeLetterNothingPaid>{0}已加入{1}，並將與他們一同離開。</CB_AskToTakeLetterNothingPaid>
+  <CB_AskToTakeLetterSilverPaid>{0}為{2}付了{1}。{2}已加入他們，並將與他們一同離開。</CB_AskToTakeLetterSilverPaid>
+  <CB_AskToTakeLetterFavourPaid>{0}已加入{1}，並將與他們一同離開。你們的關係改善了{2}。</CB_AskToTakeLetterFavourPaid>
+  <CB_AskToTakeLetterFervorPaid>{0}已加入{1}，並將與他們一同離開。你已獲得{2}點熱情。</CB_AskToTakeLetterFervorPaid>
+  <CB_AskToTakeLetterRefused>{0}對拒絕感到失望。關係已降低{3}。他們將在{2}天後再次索要{1}。</CB_AskToTakeLetterRefused>
+  <CB_AskToTakeLetterNothingPaid_CR>{0}已加入{1}。</CB_AskToTakeLetterNothingPaid_CR>
+  <CB_AskToTakeLetterSilverPaid_CR>{0}為{2}付了 {1}。{2}加入了他們。</CB_AskToTakeLetterSilverPaid_CR>
+  <CB_AskToTakeLetterFavourPaid_CR>{0}已加入{1}。你們的關係改善了 {2}。</CB_AskToTakeLetterFavourPaid_CR>
+  <CB_AskToTakeLetterFervorPaid_CR>{0}已加入{1}。你獲得了 {2} 點熱情。</CB_AskToTakeLetterFervorPaid_CR>
+
+  <CB_PawnMapHeld>{0}無法加入{1}</CB_PawnMapHeld>
+  <CB_PawnMapHeldDesc>{0}無法自行加入{1}。請確保{0}可以自行移動，然後按下「立即出發」按鈕。</CB_PawnMapHeldDesc>
+  <CB_Gizmo_CR_Label>獻出人物</CB_Gizmo_CR_Label>
+  <CB_Gizmo_CR_Desc>向該據點獻出一名人物並選擇獎勵。</CB_Gizmo_CR_Desc>
+  <CB_UI_CR_Donor_Faction>承諾對象：{0}</CB_UI_CR_Donor_Faction>
+  <CB_UI_CR_Donor_Faction_None>承諾對象：無人</CB_UI_CR_Donor_Faction_None>
+  <CB_UI_CR_Promised>承諾：</CB_UI_CR_Promised>
+  <CB_OfferPawns_Header>向{0}獻出人物。</CB_OfferPawns_Header>
+  <CB_OfferPawns_OfferButton>獻出</CB_OfferPawns_OfferButton>
+  <CB_SetToLeaveLetterLabel>{0}繁殖生滿</CB_SetToLeaveLetterLabel>
+  <CB_SetToLeaveLetterDescription>{0}的父親是{1}，他是{2}的一員。\n\n我們的任務是重建這個世界的人口，現在我們必須決定這個孩子是否應該準備好加入下一批自己經過的{2}，還是應該先問一下。\n\n<b>讓{0}自動離開嗎？</b></CB_SetToLeaveLetterDescription>
+  <CB_SetToLeaveLetterDescription0>\n我們堅信這是我們的責任。</CB_SetToLeaveLetterDescription0>
+  <CB_SetToLeaveLetterDescription1>\n{0}會感激我們的善意。</CB_SetToLeaveLetterDescription1>
+  <CB_SetToLeaveLetterDescription2>\n通常我們這樣做是為了白銀。</CB_SetToLeaveLetterDescription2>
+  <CB_SetToLeaveLetterYes>{0}將自動加入來自{1}的下一組訪客</CB_SetToLeaveLetterYes>
+  <CB_SetToLeaveLetterAsk>來自{0}的訪客將詢問他們是否可以帶走{1}</CB_SetToLeaveLetterAsk>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AlertFaultyDefaultLabel>妓院問題</AlertFaultyDefaultLabel>
-  <AlertFaultyWhoreBrothelTabCheckbox>{0}已啟用工作類型，但在妓院選單中未設定為賣淫者。</AlertFaultyWhoreBrothelTabCheckbox>
+  <AlertFaultyWhoreBrothelTabCheckbox>{0}已啟用工作類型，但在妓院選單中未設定為娼妓。</AlertFaultyWhoreBrothelTabCheckbox>
   <AlertFaultyWhoreNoCondoms>{0}被告知使用保險套，但現在沒有。</AlertFaultyWhoreNoCondoms>
   <AlertFaultyWhoreCondomsWithPregnancy>{0}被告知使用保險套，同時也要嘗試懷孕。</AlertFaultyWhoreCondomsWithPregnancy>
 </LanguageData>

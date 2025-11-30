@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <CB_BrothelColony.label>妓院殖民地</CB_BrothelColony.label>
-  <CB_BrothelColony.description>詩句中最古老的貿易。對某些人來說甚至可能是神聖的職責。\n\n資訊：神聖而必要的賣淫是一項義務。使用強制妓女戒律來選擇為誰服務。\n\n神聖賣淫解鎖了一種新的支付方式，神聖熱情，可以花在神聖能力上</CB_BrothelColony.description>
+  <CB_BrothelColony.description>詩句中最古老的貿易。對某些人來說甚至可能是神聖的職責。\n\n資訊：神聖而必要的賣淫是一項義務。使用強制娼妓戒律來選擇為誰服務。\n\n神聖賣淫解鎖了一種新的支付方式，神聖熱情，可以花在神聖能力上</CB_BrothelColony.description>
 
   <CB_BrothelColony.generalRules.rulesStrings>
     <li>memeAdjective->迷人的</li>
@@ -11,7 +11,7 @@
     <li>memeAdjective->鬱鬱蔥蔥的</li>
     <li>memeAdjective->艷麗的</li>
     <li>memeAdjective->妖媚的</li>
-    <li>memeLeaderNoun->妓女</li>
+    <li>memeLeaderNoun->娼妓</li>
     <li>memeLeaderNoun->蕩婦</li>
     <li>memeLeaderNoun->女士</li>
     <li>memeLeaderNoun->妖婦</li>
@@ -29,8 +29,8 @@
   </CB_BrothelColony.generalRules.rulesStrings>
 
   <CB_BrothelColony.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_CB_BrothelColony)       ->[deity0_name]告訴我們要與他人分享身體並接受他們的禮物作為回報。</li>
-    <li>episode(uses=1,tag=meme_CB_BrothelColony) ->多年來，[founderName]一直為[deity0_objective]擔任妓女。</li>
+    <li>creation(tag=meme_CB_BrothelColony) ->[deity0_name]告訴我們要與他人分享身體並接受他們的禮物作為回報。</li>
+    <li>episode(uses=1,tag=meme_CB_BrothelColony) ->多年來，[founderName]一直為[deity0_objective]擔任娼妓。</li>
   </CB_BrothelColony.descriptionMaker.rules.rulesStrings>
 
   <CB_BrothelColony.symbolPacks.0.ideoName>賣淫</CB_BrothelColony.symbolPacks.0.ideoName>
@@ -40,9 +40,9 @@
   <CB_BrothelColony.symbolPacks.1.ideoName>賣淫</CB_BrothelColony.symbolPacks.1.ideoName>
   <CB_BrothelColony.symbolPacks.1.theme>賣淫</CB_BrothelColony.symbolPacks.1.theme>
   <CB_BrothelColony.symbolPacks.1.adjective>賣淫的</CB_BrothelColony.symbolPacks.1.adjective>
-  <CB_BrothelColony.symbolPacks.1.member>妓女</CB_BrothelColony.symbolPacks.1.member>
+  <CB_BrothelColony.symbolPacks.1.member>娼妓</CB_BrothelColony.symbolPacks.1.member>
   <CB_BrothelColony.symbolPacks.2.ideoName>淫亂</CB_BrothelColony.symbolPacks.2.ideoName>
   <CB_BrothelColony.symbolPacks.2.theme>淫亂</CB_BrothelColony.symbolPacks.2.theme>
   <CB_BrothelColony.symbolPacks.2.adjective>淫亂的</CB_BrothelColony.symbolPacks.2.adjective>
-  <CB_BrothelColony.symbolPacks.2.member>妓女</CB_BrothelColony.symbolPacks.2.member>
+  <CB_BrothelColony.symbolPacks.2.member>娼妓</CB_BrothelColony.symbolPacks.2.member>
 </LanguageData>
