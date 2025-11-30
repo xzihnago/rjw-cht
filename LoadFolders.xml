@@ -18,12 +18,12 @@
     <li IfModActive="rimworld.ekss.rjwex">Clothing/Bondage, Accessories/rimworld.ekss.rjwex</li>
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
+    <li IfModActive="c0ffee.rjw.events">DLC Support/Ideology/c0ffee.rjw.events</li>
     <li IfModActive="rjw.sexperience.ideology">DLC Support/Ideology/rjw.sexperience.ideology</li>
 
     <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
-    <li IfModActive="c0ffee.rjw.events">DLC Support/Ideology/c0ffee.rjw.events</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_ideology</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_biotech</li>
