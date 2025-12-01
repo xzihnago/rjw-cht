@@ -46,8 +46,8 @@
   <ForComfortRefuseDesc>拒絕成為慰安者。\n需要特性：被虐狂</ForComfortRefuseDesc>
 
   <!--Whore-->
-  <ForService>設為賣淫者</ForService> <!-- This field is not visible -->
-  <ForServiceDesc><![CDATA[設為賣淫者：
+  <ForService>設為娼妓</ForService> <!-- This field is not visible -->
+  <ForServiceDesc><![CDATA[設為娼妓：
 - 會嘗試勾搭訪客。
 - 如果不忙，會取悅其他殖民者。
 - 在工作中儘量避免自慰，可能會導致性飢渴。

@@ -7,5 +7,5 @@
   <RJW_BreederAnimal.headerTip>指定動物為播種者。這些動物將嘗試與被指定用於交配的人物交配。</RJW_BreederAnimal.headerTip>
   <RJW_BreedAnimal.headerTip>指定動物用於交配。殖民地動物會嘗試交配該動物。</RJW_BreedAnimal.headerTip>
 
-  <RJW_Whore.headerTip>指定人物為賣淫者。賣淫者為訪客提供服務換取白銀。</RJW_Whore.headerTip>
+  <RJW_Whore.headerTip>指定人物為娼妓。娼妓為訪客提供服務換取白銀。</RJW_Whore.headerTip>
 </LanguageData>
