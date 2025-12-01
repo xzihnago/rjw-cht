@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArachneHasSpiderBody.label>蛛形軀體</ArachneHasSpiderBody.label>
+  <ArachneHasSpiderBody.description>是否讓阿拉克涅異種人擁有「蛛形軀體」基因（來自 &lt;color=#C79FEF&gt;Big and Small - Genes &amp; More&lt;/color&gt;）。</ArachneHasSpiderBody.description>
+
+  <ArachneHasInsectJellyProduction.label>蟲膠生產</ArachneHasInsectJellyProduction.label>
+  <ArachneHasInsectJellyProduction.description>是否讓阿拉克涅異種人擁有「蟲膠生產」基因（來自 &lt;color=#C79FEF&gt;Big and Small - Genes &amp; More&lt;/color&gt;）。</ArachneHasInsectJellyProduction.description>
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_InstallHarpyVagina.label>安裝哈比陰道</EFR_InstallHarpyVagina.label>
+  <EFR_InstallHarpyVagina.description>安裝陰道，替換其他器官部件（如果存在）。</EFR_InstallHarpyVagina.description>
+  <EFR_InstallHarpyVagina.jobString>安裝陰道</EFR_InstallHarpyVagina.jobString>
+
+  <EFR_InstallArachneVagina.label>安裝阿拉克涅陰道</EFR_InstallArachneVagina.label>
+  <EFR_InstallArachneVagina.description>安裝陰道，替換其他器官部件（如果存在）。</EFR_InstallArachneVagina.description>
+  <EFR_InstallArachneVagina.jobString>安裝陰道</EFR_InstallArachneVagina.jobString>
+
+  <EFR_AttachArachneOvipositor.label>安裝阿拉克涅產卵管</EFR_AttachArachneOvipositor.label>
+  <EFR_AttachArachneOvipositor.description>安裝陰莖，替換其他器官部件（如果存在）。</EFR_AttachArachneOvipositor.description>
+  <EFR_AttachArachneOvipositor.jobString>安裝陰莖</EFR_AttachArachneOvipositor.jobString>
+
+
+  <EFR_AddHarpyVagina.label>加裝哈比陰道</EFR_AddHarpyVagina.label>
+  <EFR_AddHarpyVagina.description>加裝額外的陰道。</EFR_AddHarpyVagina.description>
+  <EFR_AddHarpyVagina.jobString>加裝陰道</EFR_AddHarpyVagina.jobString>
+
+  <EFR_AddArachneVagina.label>加裝阿拉克涅陰道</EFR_AddArachneVagina.label>
+  <EFR_AddArachneVagina.description>加裝額外的陰道。</EFR_AddArachneVagina.description>
+  <EFR_AddArachneVagina.jobString>加裝陰道</EFR_AddArachneVagina.jobString>
+
+  <EFR_AddArachneOvipositor.label>加裝阿拉克涅產卵管</EFR_AddArachneOvipositor.label>
+  <EFR_AddArachneOvipositor.description>加裝額外的陰莖。</EFR_AddArachneOvipositor.description>
+  <EFR_AddArachneOvipositor.jobString>加裝陰莖</EFR_AddArachneOvipositor.jobString>
+
+
+  <EFR_RemoveHarpyEgg.label>拆除哈比陰道</EFR_RemoveHarpyEgg.label>
+  <EFR_RemoveHarpyEgg.description>拆除身體部位。</EFR_RemoveHarpyEgg.description>
+  <EFR_RemoveHarpyEgg.jobString>拆除身體部位</EFR_RemoveHarpyEgg.jobString>
+
+  <EFR_RemoveArachneEgg.label>拆除阿拉克涅陰道</EFR_RemoveArachneEgg.label>
+  <EFR_RemoveArachneEgg.description>拆除身體部位。</EFR_RemoveArachneEgg.description>
+  <EFR_RemoveArachneEgg.jobString>拆除身體部位</EFR_RemoveArachneEgg.jobString>
+
+  <EFR_RemoveArachneOvipositor.label>拆除阿拉克涅產卵管</EFR_RemoveArachneOvipositor.label>
+  <EFR_RemoveArachneOvipositor.description>拆除身體部位。</EFR_RemoveArachneOvipositor.description>
+  <EFR_RemoveArachneOvipositor.jobString>拆除身體部位</EFR_RemoveArachneOvipositor.jobString>
+</LanguageData>

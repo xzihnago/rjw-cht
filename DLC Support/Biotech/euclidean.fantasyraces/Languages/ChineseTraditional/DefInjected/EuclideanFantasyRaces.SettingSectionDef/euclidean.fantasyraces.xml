@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkActions.label>批量操作</BulkActions.label>
+  <BulkActions.description>此模組新增的所有異種類型都適用以下設定。\n\n&lt;color=#FFEB04&gt;批量操作目前為實驗性功能，顯示值可能不準確！重置所有設定即可解決此問題。\n\n變更這些設定將覆蓋特定於異種類型的設定。&lt;/color&gt;</BulkActions.description>
+
+  <UniversalGenes.label>通用基因</UniversalGenes.label>
+  <UniversalGenes.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</UniversalGenes.description>
+
+  <Other.label>其他設定</Other.label>
+  <Other.description>與其他特定異種類型無關的設定。</Other.description>
+</LanguageData>

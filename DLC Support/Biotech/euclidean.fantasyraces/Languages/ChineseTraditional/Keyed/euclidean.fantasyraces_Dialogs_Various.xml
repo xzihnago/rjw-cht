@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR.MissingGeneMods.Title>缺少基因模組</EFR.MissingGeneMods.Title>
+
+  <EFR.MissingGeneMods.Subtitle>看起來你正在玩 &lt;color=#EFBF04&gt;Fantasy Races&lt;/color&gt;，但一些推薦的附加模組並不存在：</EFR.MissingGeneMods.Subtitle>
+
+  <EFR.MissingGeneMods.List.AlphaGenes>Alpha Genes</EFR.MissingGeneMods.List.AlphaGenes>
+  <EFR.MissingGeneMods.List.AFU>AFU Cosmetic Gene Expanded</EFR.MissingGeneMods.List.AFU>
+  <EFR.MissingGeneMods.List.BnS>Big and Small - Genes &amp; More</EFR.MissingGeneMods.List.BnS>
+  <EFR.MissingGeneMods.List.Wolf>Bill Door's Wolf Girl Gene</EFR.MissingGeneMods.List.Wolf>
+
+  <EFR.MissingGeneMods.AlphaGenes>如果你不想將整個 Alpha Genes 添加到遊戲中，你可以在這裡找到僅包含 Fantasy Races 所需基因的版本：</EFR.MissingGeneMods.AlphaGenes>
+
+  <EFR.MissingGeneMods.AlphaGenes.Link>Alpha Genes Lite (Fantasy Races).zip</EFR.MissingGeneMods.AlphaGenes.Link>
+
+  <EFR.MissingGeneMods.Footer>如果你希望在不使用這些模組的情況下繼續遊戲，建議在模組設定選單中停用相關的異種類型。這些基因以&lt;color=#FF0000&gt;紅色&lt;/color&gt;突出顯示。你也可以永久隱藏此訊息。</EFR.MissingGeneMods.Footer>
+</LanguageData>

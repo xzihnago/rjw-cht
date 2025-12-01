@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkMaximumSpawnAge.label>最大生成年齡</BulkMaximumSpawnAge.label>
+  <BulkMaximumSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</BulkMaximumSpawnAge.description>
+  <BulkMaximumSpawnAge.valueLabel>{VALUE} 歲</BulkMaximumSpawnAge.valueLabel>
+  <BulkMaximumSpawnAge.maxValueLabel>無</BulkMaximumSpawnAge.maxValueLabel>
+  <BulkMaximumSpawnAge.oneValueLabel>1 歲</BulkMaximumSpawnAge.oneValueLabel>
+</LanguageData>

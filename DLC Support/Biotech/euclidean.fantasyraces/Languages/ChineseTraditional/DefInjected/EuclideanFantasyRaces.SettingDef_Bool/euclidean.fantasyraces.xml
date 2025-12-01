@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkFuta.label>雙性女性</BulkFuta.label>
+  <BulkFuta.description>設定所有女性奇幻種族異種人是否也具有相應的男性生殖器。</BulkFuta.description>
+
+
+  <AllXenotypesHaveAgeless.label>不老</AllXenotypesHaveAgeless.label>
+  <AllXenotypesHaveAgeless.description>是否讓所有奇幻種族異種人擁有「不老」基因，該基因會在 18 歲後停止生物老化。</AllXenotypesHaveAgeless.description>
+
+  <AllXenotypesHaveDiseaseFree.label>無衰</AllXenotypesHaveDiseaseFree.label>
+  <AllXenotypesHaveDiseaseFree.description>是否讓所有奇幻種族異種人擁有「無衰」基因，使其免受癌症、白內障和癡呆症等慢性年齡相關疾病的侵害。</AllXenotypesHaveDiseaseFree.description>
+
+  <AllXenotypesHaveStandardBody.label>標準體型</AllXenotypesHaveStandardBody.label>
+  <AllXenotypesHaveStandardBody.description>是否讓所有奇幻種族異種人擁有「標準體型」基因，避免其出現纖瘦或壯碩的體型。</AllXenotypesHaveStandardBody.description>
+
+  <AllXenotypesHaveGraylessHair.label>不老秀髮</AllXenotypesHaveGraylessHair.label>
+  <AllXenotypesHaveGraylessHair.description>是否讓所有奇幻種族異種人擁有「不老秀髮」基因，這一點顯而易見。</AllXenotypesHaveGraylessHair.description>
+
+  <AllXenotypesHaveNoBeard.label>無鬍子</AllXenotypesHaveNoBeard.label>
+  <AllXenotypesHaveNoBeard.description>是否讓所有奇幻種族異種人擁有「無鬍子」基因，這一點也很容易理解。</AllXenotypesHaveNoBeard.description>
+
+
+  <ReplaceEarShaders.label>貓／狗耳使用髮色</ReplaceEarShaders.label>
+  <ReplaceEarShaders.description>是否使用髮色而非膚色來渲染貓耳和垂耳。如果存在靈狐耳和惡魔耳（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），也會受到影響。\n\n如果您已經使用了具有此功能的模組（例如 &lt;color=#C79FEF&gt;Cuter Biotech Cat/Dog Ear Replacer&lt;/color&gt;），則此設定無效。</ReplaceEarShaders.description>
+
+  <ShowMissingMods.label>啟動時顯示缺少的模組</ShowMissingMods.label>
+  <ShowMissingMods.description>遊戲啟動時是否顯示包含缺少建議模組資訊的對話方塊。</ShowMissingMods.description>
+
+  <UniformXenotypeChances.label>平均化異種人機率</UniformXenotypeChances.label>
+  <UniformXenotypeChances.description>是否讓混合奇幻種族部落中所有奇幻種族異種人的生成幾率相同。啟用此選項意味著所有異種的出現幾率相同；停用此選項意味著出現幾率會根據種族類型進行加權，因此某些異種的出現幾率會比其他種族更低。</UniformXenotypeChances.description>
+</LanguageData>

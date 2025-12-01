@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArachneEggProductionInterval.label>造卵間隔</ArachneEggProductionInterval.label>
+  <ArachneEggProductionInterval.description>阿拉克涅陰道多久會造卵一次。\n\n&lt;color=#87F6F6&gt;現有的陰道只有在下一次造卵後才會更新。&lt;/color&gt;</ArachneEggProductionInterval.description>
+
+  <ArachneEggCooldown.label>產卵後冷卻</ArachneEggCooldown.label>
+  <ArachneEggCooldown.description>阿拉克涅陰道在成功產卵後會暫停造卵多久。\n\n現有冷卻時間不受影響。</ArachneEggCooldown.description>
+
+
+  <HarpyEggProductionInterval.label>造卵間隔</HarpyEggProductionInterval.label>
+  <HarpyEggProductionInterval.description>哈比陰道多久會造卵一次。\n\n&lt;color=#87F6F6&gt;現有的陰道只有在下一次造卵後才會更新。&lt;/color&gt;</HarpyEggProductionInterval.description>
+
+  <HarpyEggCooldown.label>產卵後冷卻</HarpyEggCooldown.label>
+  <HarpyEggCooldown.description>哈比陰道在成功產卵後會暫停造卵多久。\n\n現有冷卻時間不受影響。</HarpyEggCooldown.description>
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenerationSectionAmazon.label>生成設定</GenerationSectionAmazon.label>
+  <GenerationSectionAmazon.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionAmazon.description>
+
+  <GenerationSectionArachne.label>生成設定</GenerationSectionArachne.label>
+  <GenerationSectionArachne.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionArachne.description>
+  <GenelineSectionArachne.label>通用基因</GenelineSectionArachne.label>
+  <GenelineSectionArachne.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionArachne.description>
+
+  <GenerationSectionBeegirl.label>生成設定</GenerationSectionBeegirl.label>
+  <GenerationSectionBeegirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionBeegirl.description>
+
+  <GenerationSectionCatgirl.label>生成設定</GenerationSectionCatgirl.label>
+  <GenerationSectionCatgirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionCatgirl.description>
+
+  <GenerationSectionDeergirl.label>生成設定</GenerationSectionDeergirl.label>
+  <GenerationSectionDeergirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionDeergirl.description>
+
+  <GenerationSectionDragongirl.label>生成設定</GenerationSectionDragongirl.label>
+  <GenerationSectionDragongirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionDragongirl.description>
+  <GenelineSectionDragongirl.label>通用基因</GenelineSectionDragongirl.label>
+  <GenelineSectionDragongirl.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionDragongirl.description>
+
+  <GenerationSectionElf.label>生成設定</GenerationSectionElf.label>
+  <GenerationSectionElf.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionElf.description>
+
+  <GenerationSectionFoxgirl.label>生成設定</GenerationSectionFoxgirl.label>
+  <GenerationSectionFoxgirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionFoxgirl.description>
+  <GenelineSectionFoxgirl.label>通用基因</GenelineSectionFoxgirl.label>
+  <GenelineSectionFoxgirl.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionFoxgirl.description>
+
+  <GenerationSectionHarpy.label>生成設定</GenerationSectionHarpy.label>
+  <GenerationSectionHarpy.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionHarpy.description>
+  <GenelineSectionHarpy.label>通用基因</GenelineSectionHarpy.label>
+  <GenelineSectionHarpy.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionHarpy.description>
+
+  <GenerationSectionOni.label>生成設定</GenerationSectionOni.label>
+  <GenerationSectionOni.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionOni.description>
+
+  <GenerationSectionOrc.label>生成設定</GenerationSectionOrc.label>
+  <GenerationSectionOrc.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionOrc.description>
+
+  <GenerationSectionSlimegirl.label>生成設定</GenerationSectionSlimegirl.label>
+  <GenerationSectionSlimegirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionSlimegirl.description>
+  <GenelineSectionSlimegirl.label>通用基因</GenelineSectionSlimegirl.label>
+  <GenelineSectionSlimegirl.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionSlimegirl.description>
+
+  <GenerationSectionSuccubus.label>生成設定</GenerationSectionSuccubus.label>
+  <GenerationSectionSuccubus.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionSuccubus.description>
+  <GenelineSectionSuccubus.label>通用基因</GenelineSectionSuccubus.label>
+  <GenelineSectionSuccubus.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionSuccubus.description>
+
+  <GenerationSectionWolfgirl.label>生成設定</GenerationSectionWolfgirl.label>
+  <GenerationSectionWolfgirl.description>與該異種人生成相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenerationSectionWolfgirl.description>
+  <GenelineSectionWolfgirl.label>通用基因</GenelineSectionWolfgirl.label>
+  <GenelineSectionWolfgirl.description>與所有奇幻種族異種基因相關的設定。\n\n&lt;color=#87F6F6&gt;更改這些設定不會影響現有人物。&lt;/color&gt;</GenelineSectionWolfgirl.description>
+</LanguageData>

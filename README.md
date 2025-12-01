@@ -24,11 +24,10 @@ RJW 與部分附加模組的中文化。<br />
 | [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                  | `7c8a853` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)    | `d1935ea` | 完整                         |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                    | `4946df5` | 完整（部分跨模組支援未翻譯） |
+| [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                           | `78c74c6` | 完整                         |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
-| DLC Support                                                                                         |          |                              |
-| [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
 | More RJW Mechanics                                                                                  |          |                              |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |
 | [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                             | `ac1a64` | 完整                         |

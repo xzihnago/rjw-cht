@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SettlementRestrictions.label>限制裸體主義據點在溫暖的溫度生成</SettlementRestrictions.label>
+  <SettlementRestrictions.description>是否讓裸體主義奇幻種族部落只在平均溫度介於 18°C 和 24°C 之間的地塊上生成。\n\n這複製了理念中的裸體主義部落行為。</SettlementRestrictions.description>
+
+  <ArrivalRestrictions.label>限制裸體主義派系在溫暖的溫度拜訪</ArrivalRestrictions.label>
+  <ArrivalRestrictions.description>是否讓裸體主義奇幻種族派系只在溫度介於 18°C 和 45°C 之間時才會拜訪／襲擊你的殖民地。\n\n這複製了理念中的裸體主義部落行為。</ArrivalRestrictions.description>
+</LanguageData>

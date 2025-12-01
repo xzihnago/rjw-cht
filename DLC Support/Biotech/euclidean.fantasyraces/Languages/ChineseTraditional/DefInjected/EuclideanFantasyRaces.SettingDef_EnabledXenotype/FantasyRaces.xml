@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmazonEnabled.description>是否啟用阿瑪宗異種類型。</AmazonEnabled.description>
+  <ArachneEnabled.description>是否啟用阿拉克涅異種類型。</ArachneEnabled.description>
+  <BeegirlEnabled.description>是否啟用蜂娘異種類型。</BeegirlEnabled.description>
+  <CatgirlEnabled.description>是否啟用貓娘異種類型。</CatgirlEnabled.description>
+  <DeergirlEnabled.description>是否啟用鹿娘異種類型。</DeergirlEnabled.description>
+  <DragongirlEnabled.description>是否啟用龍娘異種類型。</DragongirlEnabled.description>
+  <ElfEnabled.description>是否啟用精靈異種類型。</ElfEnabled.description>
+  <FoxgirlEnabled.description>是否啟用狐娘異種類型。</FoxgirlEnabled.description>
+  <HarpyEnabled.description>是否啟用哈比異種類型。</HarpyEnabled.description>
+  <OniEnabled.description>是否啟用鬼娘異種類型。</OniEnabled.description>
+  <OrcEnabled.description>是否啟用獸娘異種類型。</OrcEnabled.description>
+  <SlimegirlEnabled.description>是否啟用史萊姆娘異種類型。</SlimegirlEnabled.description>
+  <SuccubusEnabled.description>是否啟用魅魔異種類型。</SuccubusEnabled.description>
+  <WolfgirlEnabled.description>是否啟用狼娘異種類型。</WolfgirlEnabled.description>
+</LanguageData>

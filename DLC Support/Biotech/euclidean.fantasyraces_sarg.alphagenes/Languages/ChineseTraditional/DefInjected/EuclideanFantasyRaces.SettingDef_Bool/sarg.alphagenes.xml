@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArachneHasJellySacs.label>蟲膠生產</ArachneHasJellySacs.label>
+  <ArachneHasJellySacs.description>是否讓阿拉克涅異種人擁有「蟲膠生產」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;）。</ArachneHasJellySacs.description>
+
+
+  <DragongirlHasDrakonoriBody.label>類龍身體</DragongirlHasDrakonoriBody.label>
+  <DragongirlHasDrakonoriBody.description>是否讓龍娘異種人擁有「類龍身體」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），該基因可能會覆蓋身體重繪模組。</DragongirlHasDrakonoriBody.description>
+
+  <DragongirlHasDrakonoriHead.label>龍頭</DragongirlHasDrakonoriHead.label>
+  <DragongirlHasDrakonoriHead.description>是否讓龍娘異種人擁有「龍頭」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），如果使用 &lt;color=#C79FEF&gt;[NL] Facial Animation&lt;/color&gt; 等模組，則不會注意到這一點。</DragongirlHasDrakonoriHead.description>
+
+  <DragongirlHasDrakonoriHorns.label>龍角</DragongirlHasDrakonoriHorns.label>
+  <DragongirlHasDrakonoriHorns.description>是否讓龍娘異種人擁有「龍角」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），該基因明顯比 Biotech 的迷你角大得多。</DragongirlHasDrakonoriHorns.description>
+
+  <DragongirlHasDrakonoriTail.label>龍尾</DragongirlHasDrakonoriTail.label>
+  <DragongirlHasDrakonoriTail.description>是否讓龍娘異種人擁有「龍尾」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），這會導致其翅膀出現一些奇怪的圖型重疊問題。</DragongirlHasDrakonoriTail.description>
+
+
+  <FoxgirlHasFoxFace.label>狐狸頭</FoxgirlHasFoxFace.label>
+  <FoxgirlHasFoxFace.description>是否讓狐娘異種人擁有「狐狸頭」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），如果使用 &lt;color=#C79FEF&gt;[NL] Facial Animation&lt;/color&gt; 等模組，則不會注意到這一點。</FoxgirlHasFoxFace.description>
+
+
+  <HarpyHasEggLaying.label>產卵</HarpyHasEggLaying.label>
+  <HarpyHasEggLaying.description>是否讓哈比異種人擁有「產卵」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），這與 RJW 產卵機製完全無關。</HarpyHasEggLaying.description>
+
+
+  <SlimegirlHasSlimeBody.label>黏液身體</SlimegirlHasSlimeBody.label>
+  <SlimegirlHasSlimeBody.description>是否讓史萊姆娘異種人擁有「黏液身體」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;），該基因可能會覆蓋身體重繪模組。</SlimegirlHasSlimeBody.description>
+
+  <SlimegirlHasAsexualFission.label>無性生殖</SlimegirlHasAsexualFission.label>
+  <SlimegirlHasAsexualFission.description>是否讓史萊姆娘異種人擁有「無性生殖」基因（來自 &lt;color=#C79FEF&gt;Alpha Genes&lt;/color&gt;）。</SlimegirlHasAsexualFission.description>
+
+  <SlimegirlHasAsexualFissionRelations.label>無性生殖後代關係</SlimegirlHasAsexualFissionRelations.label>
+  <SlimegirlHasAsexualFissionRelations.description>是否讓史萊姆娘異種人與無性生殖後代形成正常的親子關係。\n\n&lt;color=#87F6F6&gt;更改此設定不會影響現有的關係。&lt;/color&gt;</SlimegirlHasAsexualFissionRelations.description>
+</LanguageData>

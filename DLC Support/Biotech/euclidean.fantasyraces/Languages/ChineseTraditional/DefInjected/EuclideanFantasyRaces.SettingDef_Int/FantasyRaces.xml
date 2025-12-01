@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmazonMaxSpawnAge.label>最大生成年齡</AmazonMaxSpawnAge.label>
+  <AmazonMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</AmazonMaxSpawnAge.description>
+  <AmazonMaxSpawnAge.valueLabel>{VALUE} 歲</AmazonMaxSpawnAge.valueLabel>
+  <AmazonMaxSpawnAge.maxValueLabel>無</AmazonMaxSpawnAge.maxValueLabel>
+  <AmazonMaxSpawnAge.oneValueLabel>1 歲</AmazonMaxSpawnAge.oneValueLabel>
+
+  <ArachneMaxSpawnAge.label>最大生成年齡</ArachneMaxSpawnAge.label>
+  <ArachneMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</ArachneMaxSpawnAge.description>
+  <ArachneMaxSpawnAge.valueLabel>{VALUE} 歲</ArachneMaxSpawnAge.valueLabel>
+  <ArachneMaxSpawnAge.maxValueLabel>無</ArachneMaxSpawnAge.maxValueLabel>
+  <ArachneMaxSpawnAge.oneValueLabel>1 歲</ArachneMaxSpawnAge.oneValueLabel>
+
+  <BeegirlMaxSpawnAge.label>最大生成年齡</BeegirlMaxSpawnAge.label>
+  <BeegirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</BeegirlMaxSpawnAge.description>
+  <BeegirlMaxSpawnAge.valueLabel>{VALUE} 歲</BeegirlMaxSpawnAge.valueLabel>
+  <BeegirlMaxSpawnAge.maxValueLabel>無</BeegirlMaxSpawnAge.maxValueLabel>
+  <BeegirlMaxSpawnAge.oneValueLabel>1 歲</BeegirlMaxSpawnAge.oneValueLabel>
+
+  <CatgirlMaxSpawnAge.label>最大生成年齡</CatgirlMaxSpawnAge.label>
+  <CatgirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</CatgirlMaxSpawnAge.description>
+  <CatgirlMaxSpawnAge.valueLabel>{VALUE} 歲</CatgirlMaxSpawnAge.valueLabel>
+  <CatgirlMaxSpawnAge.maxValueLabel>無</CatgirlMaxSpawnAge.maxValueLabel>
+  <CatgirlMaxSpawnAge.oneValueLabel>1 歲</CatgirlMaxSpawnAge.oneValueLabel>
+
+  <DeergirlMaxSpawnAge.label>最大生成年齡</DeergirlMaxSpawnAge.label>
+  <DeergirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</DeergirlMaxSpawnAge.description>
+  <DeergirlMaxSpawnAge.valueLabel>{VALUE} 歲</DeergirlMaxSpawnAge.valueLabel>
+  <DeergirlMaxSpawnAge.maxValueLabel>無</DeergirlMaxSpawnAge.maxValueLabel>
+  <DeergirlMaxSpawnAge.oneValueLabel>1 歲</DeergirlMaxSpawnAge.oneValueLabel>
+
+  <DragongirlMaxSpawnAge.label>最大生成年齡</DragongirlMaxSpawnAge.label>
+  <DragongirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</DragongirlMaxSpawnAge.description>
+  <DragongirlMaxSpawnAge.valueLabel>{VALUE} 歲</DragongirlMaxSpawnAge.valueLabel>
+  <DragongirlMaxSpawnAge.maxValueLabel>無</DragongirlMaxSpawnAge.maxValueLabel>
+  <DragongirlMaxSpawnAge.oneValueLabel>1 歲</DragongirlMaxSpawnAge.oneValueLabel>
+
+  <ElfMaxSpawnAge.label>最大生成年齡</ElfMaxSpawnAge.label>
+  <ElfMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</ElfMaxSpawnAge.description>
+  <ElfMaxSpawnAge.valueLabel>{VALUE} 歲</ElfMaxSpawnAge.valueLabel>
+  <ElfMaxSpawnAge.maxValueLabel>無</ElfMaxSpawnAge.maxValueLabel>
+  <ElfMaxSpawnAge.oneValueLabel>1 歲</ElfMaxSpawnAge.oneValueLabel>
+
+  <FoxgirlMaxSpawnAge.label>最大生成年齡</FoxgirlMaxSpawnAge.label>
+  <FoxgirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</FoxgirlMaxSpawnAge.description>
+  <FoxgirlMaxSpawnAge.valueLabel>{VALUE} 歲</FoxgirlMaxSpawnAge.valueLabel>
+  <FoxgirlMaxSpawnAge.maxValueLabel>無</FoxgirlMaxSpawnAge.maxValueLabel>
+  <FoxgirlMaxSpawnAge.oneValueLabel>1 歲</FoxgirlMaxSpawnAge.oneValueLabel>
+
+  <HarpyMaxSpawnAge.label>最大生成年齡</HarpyMaxSpawnAge.label>
+  <HarpyMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</HarpyMaxSpawnAge.description>
+  <HarpyMaxSpawnAge.valueLabel>{VALUE} 歲</HarpyMaxSpawnAge.valueLabel>
+  <HarpyMaxSpawnAge.maxValueLabel>無</HarpyMaxSpawnAge.maxValueLabel>
+  <HarpyMaxSpawnAge.oneValueLabel>1 歲</HarpyMaxSpawnAge.oneValueLabel>
+
+  <OniMaxSpawnAge.label>最大生成年齡</OniMaxSpawnAge.label>
+  <OniMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</OniMaxSpawnAge.description>
+  <OniMaxSpawnAge.valueLabel>{VALUE} 歲</OniMaxSpawnAge.valueLabel>
+  <OniMaxSpawnAge.maxValueLabel>無</OniMaxSpawnAge.maxValueLabel>
+  <OniMaxSpawnAge.oneValueLabel>1 歲</OniMaxSpawnAge.oneValueLabel>
+
+  <OrcMaxSpawnAge.label>最大生成年齡</OrcMaxSpawnAge.label>
+  <OrcMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</OrcMaxSpawnAge.description>
+  <OrcMaxSpawnAge.valueLabel>{VALUE} 歲</OrcMaxSpawnAge.valueLabel>
+  <OrcMaxSpawnAge.maxValueLabel>無</OrcMaxSpawnAge.maxValueLabel>
+  <OrcMaxSpawnAge.oneValueLabel>1 歲</OrcMaxSpawnAge.oneValueLabel>
+
+  <SlimegirlMaxSpawnAge.label>最大生成年齡</SlimegirlMaxSpawnAge.label>
+  <SlimegirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</SlimegirlMaxSpawnAge.description>
+  <SlimegirlMaxSpawnAge.valueLabel>{VALUE} 歲</SlimegirlMaxSpawnAge.valueLabel>
+  <SlimegirlMaxSpawnAge.maxValueLabel>無</SlimegirlMaxSpawnAge.maxValueLabel>
+  <SlimegirlMaxSpawnAge.oneValueLabel>1 歲</SlimegirlMaxSpawnAge.oneValueLabel>
+
+  <SuccubusMaxSpawnAge.label>最大生成年齡</SuccubusMaxSpawnAge.label>
+  <SuccubusMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</SuccubusMaxSpawnAge.description>
+  <SuccubusMaxSpawnAge.valueLabel>{VALUE} 歲</SuccubusMaxSpawnAge.valueLabel>
+  <SuccubusMaxSpawnAge.maxValueLabel>無</SuccubusMaxSpawnAge.maxValueLabel>
+  <SuccubusMaxSpawnAge.oneValueLabel>1 歲</SuccubusMaxSpawnAge.oneValueLabel>
+
+  <WolfgirlMaxSpawnAge.label>最大生成年齡</WolfgirlMaxSpawnAge.label>
+  <WolfgirlMaxSpawnAge.description>更改所有奇幻種族異種人的最大生成年齡。\n\n預設值為不老基因完全停止成長時的年齡。</WolfgirlMaxSpawnAge.description>
+  <WolfgirlMaxSpawnAge.valueLabel>{VALUE} 歲</WolfgirlMaxSpawnAge.valueLabel>
+  <WolfgirlMaxSpawnAge.maxValueLabel>無</WolfgirlMaxSpawnAge.maxValueLabel>
+  <WolfgirlMaxSpawnAge.oneValueLabel>1 歲</WolfgirlMaxSpawnAge.oneValueLabel>
+</LanguageData>

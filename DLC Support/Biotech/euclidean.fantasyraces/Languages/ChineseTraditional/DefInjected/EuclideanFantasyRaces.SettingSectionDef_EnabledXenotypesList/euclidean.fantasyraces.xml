@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnabledXenotypes.label>啟用異種</EnabledXenotypes.label>
+  <EnabledXenotypes.description>改變這些值只會影響混合奇幻種族部落中新人物的生成方式。\n\n如果您希望完全消除停用的異種，請製作 XML 補丁或使用 Cherry Picker 之類的模組。</EnabledXenotypes.description>
+</LanguageData>

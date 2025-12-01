@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArachneEggProductionEnabled.label>啟用</ArachneEggProductionEnabled.label>
+  <ArachneEggProductionEnabled.description>是否讓阿拉克涅陰道能夠產卵。\n\n&lt;color=#87F6F6&gt;更改此設定不會清除已經存在的卵。&lt;/color&gt;</ArachneEggProductionEnabled.description>
+
+  <ArachneEggRelations.label>卵後代關係</ArachneEggRelations.label>
+  <ArachneEggRelations.description>是否讓這種異種人與卵生後代形成正常的親子關係。\n\n&lt;color=#87F6F6&gt;更改此設定不會影響現有的關係。&lt;/color&gt;</ArachneEggRelations.description>
+
+  <ArachneEggMinSpawnAgeExcludeColonists.label>最低生成年齡忽略殖民者</ArachneEggMinSpawnAgeExcludeColonists.label>
+  <ArachneEggMinSpawnAgeExcludeColonists.description>如果從卵中誕生的該種異種人屬於玩家派系，是否忽略她們的最低生成年齡設定。</ArachneEggMinSpawnAgeExcludeColonists.description>
+
+  <ArachneHideGrowthEvents.label>隱藏成長事件</ArachneHideGrowthEvents.label>
+  <ArachneHideGrowthEvents.description>是否在該種異種人達到設定的最低生成年齡時抑制成長事件通知。\n\n僅當最低生成年齡大於 0 時才有效。</ArachneHideGrowthEvents.description>
+
+
+  <HarpyEggProductionEnabled.label>啟用</HarpyEggProductionEnabled.label>
+  <HarpyEggProductionEnabled.description>是否讓哈比陰道能夠產卵。\n\n&lt;color=#87F6F6&gt;更改此設定不會清除已經存在的卵。&lt;/color&gt;</HarpyEggProductionEnabled.description>
+
+  <HarpyEggRelations.label>卵後代關係</HarpyEggRelations.label>
+  <HarpyEggRelations.description>是否讓這種異種人與卵生後代形成正常的親子關係。\n\n&lt;color=#87F6F6&gt;更改此設定不會影響現有的關係。&lt;/color&gt;</HarpyEggRelations.description>
+
+  <HarpyEggMinSpawnAgeExcludeColonists.label>最低生成年齡忽略殖民者</HarpyEggMinSpawnAgeExcludeColonists.label>
+  <HarpyEggMinSpawnAgeExcludeColonists.description>如果從卵中誕生的該種異種人屬於玩家派系，是否忽略她們的最低生成年齡設定。</HarpyEggMinSpawnAgeExcludeColonists.description>
+
+  <HarpyHideGrowthEvents.label>隱藏成長事件</HarpyHideGrowthEvents.label>
+  <HarpyHideGrowthEvents.description>是否在該種異種人達到設定的最低生成年齡時抑制成長事件通知。\n\n僅當最低生成年齡大於 0 時才有效。</HarpyHideGrowthEvents.description>
+</LanguageData>

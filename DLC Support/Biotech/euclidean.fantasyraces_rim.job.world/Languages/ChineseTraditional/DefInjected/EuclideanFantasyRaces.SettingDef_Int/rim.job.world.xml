@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArachneEggMinSpawnAge.label>最低生成年齡</ArachneEggMinSpawnAge.label>
+  <ArachneEggMinSpawnAge.description>該異種人透過卵孵化而來的最低年齡。\n\n此設定將在最大生成年齡設定之後生效。</ArachneEggMinSpawnAge.description>
+  <ArachneEggMinSpawnAge.valueLabel>{VALUE} 歲</ArachneEggMinSpawnAge.valueLabel>
+  <ArachneEggMinSpawnAge.minValueLabel>無</ArachneEggMinSpawnAge.minValueLabel>
+  <ArachneEggMinSpawnAge.oneValueLabel>1 歲</ArachneEggMinSpawnAge.oneValueLabel>
+
+  <HarpyEggMinSpawnAge.label>最低生成年齡</HarpyEggMinSpawnAge.label>
+  <HarpyEggMinSpawnAge.description>該異種人透過卵孵化而來的最低年齡。\n\n此設定將在最大生成年齡設定之後生效。</HarpyEggMinSpawnAge.description>
+  <HarpyEggMinSpawnAge.valueLabel>{VALUE} 歲</HarpyEggMinSpawnAge.valueLabel>
+  <HarpyEggMinSpawnAge.minValueLabel>無</HarpyEggMinSpawnAge.minValueLabel>
+  <HarpyEggMinSpawnAge.oneValueLabel>1 歲</HarpyEggMinSpawnAge.oneValueLabel>
+</LanguageData>

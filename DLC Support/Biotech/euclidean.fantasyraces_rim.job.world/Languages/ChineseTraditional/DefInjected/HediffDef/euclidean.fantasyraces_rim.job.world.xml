@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_HarpyPostBirthRecovery.label>產卵後恢復</EFR_HarpyPostBirthRecovery.label>
+  <EFR_HarpyPostBirthRecovery.description>產卵後的一般性後遺症。這位母親需要一段時間才能再次開始產卵。</EFR_HarpyPostBirthRecovery.description>
+
+  <EFR_ArachnePostBirthRecovery.label>產卵後恢復</EFR_ArachnePostBirthRecovery.label>
+  <EFR_ArachnePostBirthRecovery.description>產卵後的一般性後遺症。這位母親需要一段時間才能再次開始產卵。</EFR_ArachnePostBirthRecovery.description>
+</LanguageData>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <default>
-    <!-- ================================================================  1.6  ================================================================ -->
+    <!--
+    MARK: 1.6
+    -->
     <li IfModActive="rim.job.world">RJW/rim.job.world</li>
     <li IfModActive="sarg.rimbees">RJW/rim.job.world_sarg.rimbees</li>
     <!-- ===========================================     Animations     =========================================== -->
@@ -27,13 +29,18 @@
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes</li>
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_vegapnk.cumpilation</li>
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_asmr.rjw.racesupport</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_ideology</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_rim.job.world</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_sarg.alphagenes</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_redmattis.bigsmall.core</li>
+    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_3hstltd.wolf.gene</li>
 
-    <!-- ================================================================  1.5  ================================================================ -->
+    <!--
+    MARK: 1.5
+    -->
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Biotech -->
-    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_sarg.alphagenes</li>
-    <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">DLC Support/Biotech/euclidean.fantasyraces_vegapnk.rjw.genes</li>
-    <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_rim.job.world</li>
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
     <!-- =========================================== More RJW Mechanics =========================================== -->
     <!-- Larger Add-ons -->
@@ -62,7 +69,9 @@
     <!-- ===========================================     Race Mods      =========================================== -->
     <li IfModActive="asmr.rjw.racesupport">Race Mods/asmr.rjw.racesupport</li>
 
-    <!-- ================================================================ Legacy ================================================================ -->
+    <!--
+    MARK: Legacy
+    -->
     <li IfModActive="ed86.rjwia">Legacy/ed86.rjwia</li>
     <li IfModActive="lustlicentia.rjwlabs">Legacy/lustlicentia.rjwlabs</li>
     <li IfModActive="c0ffee.rjw.ideologyaddons">Legacy/c0ffee.rjw.ideologyaddons_rjw.milk.humanoid</li>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmazonGender.label>性別</AmazonGender.label>
+  <AmazonGender.description>設定所有奇幻種族異種人的生成性別。</AmazonGender.description>
+
+  <ArachneGender.label>性別</ArachneGender.label>
+  <ArachneGender.description>設定所有奇幻種族異種人的生成性別。</ArachneGender.description>
+
+  <BeegirlGender.label>性別</BeegirlGender.label>
+  <BeegirlGender.description>設定所有奇幻種族異種人的生成性別。</BeegirlGender.description>
+
+  <CatgirlGender.label>性別</CatgirlGender.label>
+  <CatgirlGender.description>設定所有奇幻種族異種人的生成性別。</CatgirlGender.description>
+
+  <DeergirlGender.label>性別</DeergirlGender.label>
+  <DeergirlGender.description>設定所有奇幻種族異種人的生成性別。</DeergirlGender.description>
+
+  <DragongirlGender.label>性別</DragongirlGender.label>
+  <DragongirlGender.description>設定所有奇幻種族異種人的生成性別。</DragongirlGender.description>
+
+  <ElfGender.label>性別</ElfGender.label>
+  <ElfGender.description>設定所有奇幻種族異種人的生成性別。</ElfGender.description>
+
+  <FoxgirlGender.label>性別</FoxgirlGender.label>
+  <FoxgirlGender.description>設定所有奇幻種族異種人的生成性別。</FoxgirlGender.description>
+
+  <HarpyGender.label>性別</HarpyGender.label>
+  <HarpyGender.description>設定所有奇幻種族異種人的生成性別。</HarpyGender.description>
+
+  <OniGender.label>性別</OniGender.label>
+  <OniGender.description>設定所有奇幻種族異種人的生成性別。</OniGender.description>
+
+  <OrcGender.label>性別</OrcGender.label>
+  <OrcGender.description>設定所有奇幻種族異種人的生成性別。</OrcGender.description>
+
+  <SlimegirlGender.label>性別</SlimegirlGender.label>
+  <SlimegirlGender.description>設定所有奇幻種族異種人的生成性別。</SlimegirlGender.description>
+
+  <SuccubusGender.label>性別</SuccubusGender.label>
+  <SuccubusGender.description>設定所有奇幻種族異種人的生成性別。</SuccubusGender.description>
+
+  <WolfgirlGender.label>性別</WolfgirlGender.label>
+  <WolfgirlGender.description>設定所有奇幻種族異種人的生成性別。</WolfgirlGender.description>
+</LanguageData>

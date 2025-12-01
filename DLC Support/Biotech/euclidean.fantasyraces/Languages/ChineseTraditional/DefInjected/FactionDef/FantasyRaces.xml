@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EFR_AmazonTribe.label>阿瑪宗部落</EFR_AmazonTribe.label>
+  <EFR_AmazonTribe.description>一群阿瑪宗的部落，強大而眾多，但很少見到。那些有機會瞥見阿瑪宗的人很少能回來講述這個故事。</EFR_AmazonTribe.description>
+  <EFR_AmazonTribe.leaderTitle>酋長</EFR_AmazonTribe.leaderTitle>
+  <EFR_AmazonTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_AmazonTribe.messageDefendersAttacking>
+  <EFR_AmazonTribe.pawnSingular>部落民</EFR_AmazonTribe.pawnSingular>
+  <EFR_AmazonTribe.pawnsPlural>部落民</EFR_AmazonTribe.pawnsPlural>
+
+  <EFR_ArachneNest.label>阿拉克涅巢穴</EFR_ArachneNest.label>
+  <EFR_ArachneNest.description>一群阿拉克涅的大巢穴，其較小的巢穴遍布星球。由於數量眾多，個體也十分強大，很少人敢打擾這個巢穴。</EFR_ArachneNest.description>
+  <EFR_ArachneNest.leaderTitle>育母</EFR_ArachneNest.leaderTitle>
+  <EFR_ArachneNest.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_ArachneNest.messageDefendersAttacking>
+  <EFR_ArachneNest.pawnSingular>部落民</EFR_ArachneNest.pawnSingular>
+  <EFR_ArachneNest.pawnsPlural>部落民</EFR_ArachneNest.pawnsPlural>
+
+  <EFR_BeegirlColony.label>蜂娘群落</EFR_BeegirlColony.label>
+  <EFR_BeegirlColony.description>一群蜂娘的群落，她們就像一台運作良好的機器。也許她們最初是在此處建立殖民地，但這個殖民地早已消失在時間的長河中。</EFR_BeegirlColony.description>
+  <EFR_BeegirlColony.leaderTitle>女王蜂</EFR_BeegirlColony.leaderTitle>
+  <EFR_BeegirlColony.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_BeegirlColony.messageDefendersAttacking>
+  <EFR_BeegirlColony.pawnSingular>部落民</EFR_BeegirlColony.pawnSingular>
+  <EFR_BeegirlColony.pawnsPlural>部落民</EFR_BeegirlColony.pawnsPlural>
+
+  <EFR_CatgirlTribe.label>貓娘部落</EFR_CatgirlTribe.label>
+  <EFR_CatgirlTribe.description>一群貓娘的原始部落，毫無疑問她們已經在這裡生活了很長時間。也許她們是被她們以前的主人放生或丟棄在這個星球上的，也許她們是從某個遙遠的實驗室逃到這裡的。</EFR_CatgirlTribe.description>
+  <EFR_CatgirlTribe.leaderTitle>酋長</EFR_CatgirlTribe.leaderTitle>
+  <EFR_CatgirlTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_CatgirlTribe.messageDefendersAttacking>
+  <EFR_CatgirlTribe.pawnSingular>部落民</EFR_CatgirlTribe.pawnSingular>
+  <EFR_CatgirlTribe.pawnsPlural>部落民</EFR_CatgirlTribe.pawnsPlural>
+
+  <EFR_DeergirlPack.label>鹿娘群</EFR_DeergirlPack.label>
+  <EFR_DeergirlPack.description>一群鹿娘為了尋求保護而一起遷徙與吃草。鹿娘天生相對友善且好奇，許多人將看到鹿娘視為好運的象徵。</EFR_DeergirlPack.description>
+  <EFR_DeergirlPack.leaderTitle>首領</EFR_DeergirlPack.leaderTitle>
+  <EFR_DeergirlPack.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_DeergirlPack.messageDefendersAttacking>
+  <EFR_DeergirlPack.pawnSingular>部落民</EFR_DeergirlPack.pawnSingular>
+  <EFR_DeergirlPack.pawnsPlural>部落民</EFR_DeergirlPack.pawnsPlural>
+
+  <EFR_DragongirlClan.label>龍娘氏族</EFR_DragongirlClan.label>
+  <EFR_DragongirlClan.description>一群龍娘的氏族，她們喜歡獨處。似乎已經在這裡生活了很長時間。</EFR_DragongirlClan.description>
+  <EFR_DragongirlClan.leaderTitle>族長</EFR_DragongirlClan.leaderTitle>
+  <EFR_DragongirlClan.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_DragongirlClan.messageDefendersAttacking>
+  <EFR_DragongirlClan.pawnSingular>部落民</EFR_DragongirlClan.pawnSingular>
+  <EFR_DragongirlClan.pawnsPlural>部落民</EFR_DragongirlClan.pawnsPlural>
+
+  <EFR_ElfUnion.label>精靈聯盟</EFR_ElfUnion.label>
+  <EFR_ElfUnion.description>一群精靈的聯盟，對外來者不友善且難以捉摸。這些精靈熱愛森林與森林裡的動物。</EFR_ElfUnion.description>
+  <EFR_ElfUnion.leaderTitle>首席顧問</EFR_ElfUnion.leaderTitle>
+  <EFR_ElfUnion.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_ElfUnion.messageDefendersAttacking>
+  <EFR_ElfUnion.pawnSingular>部落民</EFR_ElfUnion.pawnSingular>
+  <EFR_ElfUnion.pawnsPlural>部落民</EFR_ElfUnion.pawnsPlural>
+
+  <EFR_FoxgirlTribe.label>狐娘部落</EFR_FoxgirlTribe.label>
+  <EFR_FoxgirlTribe.description>一群狐娘的遊牧部落。儘管該部落大多是孤獨的，但偶爾也會聚集在一起，採用集體狩獵策略並解決領土爭端。</EFR_FoxgirlTribe.description>
+  <EFR_FoxgirlTribe.leaderTitle>酋長</EFR_FoxgirlTribe.leaderTitle>
+  <EFR_FoxgirlTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_FoxgirlTribe.messageDefendersAttacking>
+  <EFR_FoxgirlTribe.pawnSingular>部落民</EFR_FoxgirlTribe.pawnSingular>
+  <EFR_FoxgirlTribe.pawnsPlural>部落民</EFR_FoxgirlTribe.pawnsPlural>
+
+  <EFR_HarpyFamily.label>哈比家族</EFR_HarpyFamily.label>
+  <EFR_HarpyFamily.description>各種哈比的家族，她們大多為了保護自己與繁衍後代而聚集在一起。借助飛行，她們頻繁地四處遷徙，尋找新的築巢地點。</EFR_HarpyFamily.description>
+  <EFR_HarpyFamily.leaderTitle>家主</EFR_HarpyFamily.leaderTitle>
+  <EFR_HarpyFamily.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_HarpyFamily.messageDefendersAttacking>
+  <EFR_HarpyFamily.pawnSingular>部落民</EFR_HarpyFamily.pawnSingular>
+  <EFR_HarpyFamily.pawnsPlural>部落民</EFR_HarpyFamily.pawnsPlural>
+
+  <EFR_OniTribe.label>鬼娘部落</EFR_OniTribe.label>
+  <EFR_OniTribe.description>一群鬼娘的部落，被世界上大多數其他居民憎惡。成群結隊地狩獵與掠奪，讓附近的人們生活在持續的恐懼之中。</EFR_OniTribe.description>
+  <EFR_OniTribe.leaderTitle>酋長</EFR_OniTribe.leaderTitle>
+  <EFR_OniTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_OniTribe.messageDefendersAttacking>
+  <EFR_OniTribe.pawnSingular>部落民</EFR_OniTribe.pawnSingular>
+  <EFR_OniTribe.pawnsPlural>部落民</EFR_OniTribe.pawnsPlural>
+
+  <EFR_OrcTribe.label>獸娘部落</EFR_OrcTribe.label>
+  <EFR_OrcTribe.description>一群獸娘的部落，成群狩獵，具有強烈的群居性。</EFR_OrcTribe.description>
+  <EFR_OrcTribe.leaderTitle>酋長</EFR_OrcTribe.leaderTitle>
+  <EFR_OrcTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_OrcTribe.messageDefendersAttacking>
+  <EFR_OrcTribe.pawnSingular>部落民</EFR_OrcTribe.pawnSingular>
+  <EFR_OrcTribe.pawnsPlural>部落民</EFR_OrcTribe.pawnsPlural>
+
+  <EFR_SlimegirlTribe.label>史萊姆娘部落</EFR_SlimegirlTribe.label>
+  <EFR_SlimegirlTribe.description>一群史萊姆娘的部落，她們以友好與好奇而聞名。常見於氣候較潮濕的地方，如濕地與沼澤。</EFR_SlimegirlTribe.description>
+  <EFR_SlimegirlTribe.leaderTitle>酋長</EFR_SlimegirlTribe.leaderTitle>
+  <EFR_SlimegirlTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_SlimegirlTribe.messageDefendersAttacking>
+  <EFR_SlimegirlTribe.pawnSingular>部落民</EFR_SlimegirlTribe.pawnSingular>
+  <EFR_SlimegirlTribe.pawnsPlural>部落民</EFR_SlimegirlTribe.pawnsPlural>
+
+  <EFR_SuccubusEnclave.label>魅魔聚居地</EFR_SuccubusEnclave.label>
+  <EFR_SuccubusEnclave.description>一群魅魔的聚居地，難以捉摸。目前尚不清楚這個群體是如何出現的，但她們似乎已經在這裡生活了很長時間。</EFR_SuccubusEnclave.description>
+  <EFR_SuccubusEnclave.leaderTitle>女王</EFR_SuccubusEnclave.leaderTitle>
+  <EFR_SuccubusEnclave.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_SuccubusEnclave.messageDefendersAttacking>
+  <EFR_SuccubusEnclave.pawnSingular>部落民</EFR_SuccubusEnclave.pawnSingular>
+  <EFR_SuccubusEnclave.pawnsPlural>部落民</EFR_SuccubusEnclave.pawnsPlural>
+
+  <EFR_WolfgirlTribe.label>狼娘部落</EFR_WolfgirlTribe.label>
+  <EFR_WolfgirlTribe.description>一群狼娘的原始部落，毫無疑問她們已經在這裡生活了很長時間。也許她們是被她們以前的主人放生或丟棄在這個星球上的，也許她們是從某個遙遠的實驗室逃到這裡的。</EFR_WolfgirlTribe.description>
+  <EFR_WolfgirlTribe.leaderTitle>酋長</EFR_WolfgirlTribe.leaderTitle>
+  <EFR_WolfgirlTribe.messageDefendersAttacking>來自{1}的{0}正在攻擊你的{2}。</EFR_WolfgirlTribe.messageDefendersAttacking>
+  <EFR_WolfgirlTribe.pawnSingular>部落民</EFR_WolfgirlTribe.pawnSingular>
+  <EFR_WolfgirlTribe.pawnsPlural>部落民</EFR_WolfgirlTribe.pawnsPlural>
+</LanguageData>
