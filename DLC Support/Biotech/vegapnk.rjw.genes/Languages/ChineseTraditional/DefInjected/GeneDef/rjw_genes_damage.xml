@@ -2,4 +2,7 @@
 <LanguageData>
   <rjw_genes_unbreakable.label>不壞</rjw_genes_unbreakable.label>
   <rjw_genes_unbreakable.description>基因擁有者不會因為被強姦而受到情緒或社交懲罰，而且他們可以保持長時間不會壞掉。</rjw_genes_unbreakable.description>
+
+  <rjw_genes_elasticity.label>彈性</rjw_genes_elasticity.label>
+  <rjw_genes_elasticity.description>基因擁有者不會因為被大量插入或大量液體拉伸而受到任何傷害。</rjw_genes_elasticity.description>
 </LanguageData>

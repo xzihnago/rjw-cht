@@ -7,27 +7,27 @@ RJW 與部分附加模組的中文化。<br />
 
 可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題請提出。
 
-| 模組（1.6）                                                                          | 版本      | 狀態         |
-| ------------------------------------------------------------------------------------ | --------- | ------------ |
-| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                            | `eb57e81` | 完整         |
-| Animations                                                                           |           |              |
-| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)        | `dbe300d` | 完整         |
-| [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                             | `8d2dc63` | 完整         |
-| [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)               | `c109908` | 完整         |
-| Body Graphics                                                                        |           |              |
-| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero) | `10f6384` | 補全（紋身） |
-| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)  | `a3130e2` | 完整         |
-| Clothing                                                                             |           |              |
-| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                  | `cfe5b29` | 完整         |
-| DLC Support                                                                          |           |              |
-| [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)    | `432e90d` | 完整         |
-| [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                  | `7c8a853` | 完整         |
-| [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)    | `d1935ea` | 完整         |
+| 模組（1.6）                                                                          | 版本      | 狀態                         |
+| ------------------------------------------------------------------------------------ | --------- | ---------------------------- |
+| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                            | `eb57e81` | 完整                         |
+| Animations                                                                           |           |                              |
+| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)        | `dbe300d` | 完整                         |
+| [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                             | `8d2dc63` | 完整                         |
+| [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)               | `c109908` | 完整                         |
+| Body Graphics                                                                        |           |                              |
+| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero) | `10f6384` | 補全（紋身）                 |
+| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)  | `a3130e2` | 完整                         |
+| Clothing                                                                             |           |                              |
+| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                  | `cfe5b29` | 完整                         |
+| DLC Support                                                                          |           |                              |
+| [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)    | `432e90d` | 完整                         |
+| [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                  | `7c8a853` | 完整                         |
+| [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)    | `d1935ea` | 完整                         |
+| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                    | `4946df5` | 完整（部分跨模組支援未翻譯） |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
 | DLC Support                                                                                         |          |                              |
-| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                                   | `7540b9` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                          | `f29fca` | 完整                         |
 | More RJW Mechanics                                                                                  |          |                              |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |

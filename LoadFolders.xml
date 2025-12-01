@@ -23,6 +23,10 @@
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_ideology</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_biotech</li>
     <li IfModActive="rjw.sexperience.ideology">DLC Support/Ideology/rjw.sexperience.ideology</li>
+    <!-- Biotech -->
+    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes</li>
+    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_asmr.rjw.racesupport</li>
 
     <!-- ================================================================  1.5  ================================================================ -->
     <!-- ===========================================    DLC Support     =========================================== -->
@@ -30,9 +34,6 @@
     <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_sarg.alphagenes</li>
     <li IfModActive="euclidean.fantasyraces" IfModNotActive="vegapnk.rjw.genes">DLC Support/Biotech/euclidean.fantasyraces_vegapnk.rjw.genes</li>
     <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_rim.job.world</li>
-    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes</li>
-    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_vegapnk.cumpilation</li>
-    <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_asmr.rjw.racesupport</li>
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
     <!-- =========================================== More RJW Mechanics =========================================== -->
     <!-- Larger Add-ons -->

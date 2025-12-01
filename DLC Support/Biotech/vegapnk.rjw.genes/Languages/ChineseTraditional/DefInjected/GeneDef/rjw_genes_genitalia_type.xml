@@ -38,4 +38,10 @@
 
   <rjw_genes_ovipositor_genitalia.label>蟲生殖器</rjw_genes_ovipositor_genitalia.label>
   <rjw_genes_ovipositor_genitalia.description>基因擁有者具有與蟲類似的產卵管。</rjw_genes_ovipositor_genitalia.description>
+
+  <rjw_genes_rodent_genitalia.label>囓齒動物生殖器</rjw_genes_rodent_genitalia.label>
+  <rjw_genes_rodent_genitalia.description>基因擁有者具有囓齒動物生殖器。</rjw_genes_rodent_genitalia.description>
+
+  <rjw_genes_cloacal_genitalia.label>泄殖腔生殖器</rjw_genes_cloacal_genitalia.label>
+  <rjw_genes_cloacal_genitalia.description>基因擁有者具有泄殖腔生殖器。</rjw_genes_cloacal_genitalia.description>
 </LanguageData>
