@@ -28,6 +28,8 @@
     <li>rjw.sexperience.ideology</li>
     <li>vegapnk.rjw.genes</li>
     <li>euclidean.fantasyraces</li>
+    <!-- =========================================== More RJW Mechanics =========================================== -->
+    <li>rjw.menstruation</li>
 
     <!--
     MARK: 1.5
@@ -37,7 +39,6 @@
     <li>eltoro.baddon</li>
     <li>jaaldabaoth.rjw.menstruation.resources</li>
     <li>lustlicentiastretch.rjwlabs</li>
-    <li>rjw.menstruation</li>
     <li>rjw.sexperience</li>
     <li>rjw.fb</li>
     <li>rjw.fc</li>

@@ -138,6 +138,8 @@
   <Option_EnableBiotechTwins_Desc>啟用此選項將允許使用 Biotech 妊娠生產同卵與異卵雙胞胎。&#10;也會啟用雜交系統，但兩個類人生物不能產生動物。</Option_EnableBiotechTwins_Desc>
   <Option_EnableDraftedIcon_Label>徵召時顯示子宮狀態</Option_EnableDraftedIcon_Label>
   <Option_EnableDraftedIcon_Desc>人物處於徵召狀態時，繪製子宮圖示</Option_EnableDraftedIcon_Desc>
+  <Option_ShowInfertileIcon_Label>不孕時顯示子宮狀態</Option_ShowInfertileIcon_Label>
+  <Option_ShowInfertileIcon_Desc>為不孕的子宮繪製子宮圖示</Option_ShowInfertileIcon_Desc>
   <Button_ResetToDefault>重設為預設值</Button_ResetToDefault>
 
   <FloatMenu_CleanSelf>清理陰道</FloatMenu_CleanSelf>

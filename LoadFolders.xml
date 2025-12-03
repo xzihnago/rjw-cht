@@ -35,6 +35,11 @@
     <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_sarg.alphagenes</li>
     <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_redmattis.bigsmall.core</li>
     <li IfModActive="euclidean.fantasyraces">DLC Support/Biotech/euclidean.fantasyraces_3hstltd.wolf.gene</li>
+    <!-- =========================================== More RJW Mechanics =========================================== -->
+    <!-- Larger Add-ons -->
+    <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation</li>
+    <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation_ideology</li>
+    <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation_rjw.quirks</li>
 
     <!--
     MARK: 1.5
@@ -48,8 +53,6 @@
     <li IfModActive="eltoro.baddon">More RJW Mechanics/Larger Add-ons/eltoro.baddon</li>
     <li IfModActive="jaaldabaoth.rjw.menstruation.resources">More RJW Mechanics/Larger Add-ons/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">More RJW Mechanics/Larger Add-ons/lustlicentiastretch.rjwlabs</li>
-    <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation</li>
-    <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation_ludeon.rimworld.ideology</li>
     <li IfModActive="rjw.sexperience">More RJW Mechanics/Larger Add-ons/rjw.sexperience</li>
     <li IfModActive="rjw.sexperience">More RJW Mechanics/Larger Add-ons/rjw.sexperience_vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">More RJW Mechanics/Larger Add-ons/rjw.sexperience_rjw.cum</li>
