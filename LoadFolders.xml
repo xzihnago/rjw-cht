@@ -40,6 +40,7 @@
     <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation</li>
     <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation_ideology</li>
     <li IfModActive="rjw.menstruation">More RJW Mechanics/Larger Add-ons/rjw.menstruation_rjw.quirks</li>
+    <li IfModActive="jaaldabaoth.rjw.menstruation.resources">More RJW Mechanics/Larger Add-ons/jaaldabaoth.rjw.menstruation.resources</li>
 
     <!--
     MARK: 1.5
@@ -51,7 +52,6 @@
     <!-- Larger Add-ons -->
     <li IfModActive="abscon.privacy.please">More RJW Mechanics/Larger Add-ons/abscon.privacy.please</li>
     <li IfModActive="eltoro.baddon">More RJW Mechanics/Larger Add-ons/eltoro.baddon</li>
-    <li IfModActive="jaaldabaoth.rjw.menstruation.resources">More RJW Mechanics/Larger Add-ons/jaaldabaoth.rjw.menstruation.resources</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">More RJW Mechanics/Larger Add-ons/lustlicentiastretch.rjwlabs</li>
     <li IfModActive="rjw.sexperience">More RJW Mechanics/Larger Add-ons/rjw.sexperience</li>
     <li IfModActive="rjw.sexperience">More RJW Mechanics/Larger Add-ons/rjw.sexperience_vanillaexpanded.vanillasocialinteractionsexpanded</li>
