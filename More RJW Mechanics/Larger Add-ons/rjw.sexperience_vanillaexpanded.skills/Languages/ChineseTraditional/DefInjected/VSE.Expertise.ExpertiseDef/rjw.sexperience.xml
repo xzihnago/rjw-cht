@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sensualist.label>感受性</Sensualist.label>
+  <Sensualist.description>性與感官活動的專家。</Sensualist.description>
+
+  <Rapist.label>強姦犯</Rapist.label>
+  <Rapist.description>一名經驗豐富的強姦犯。</Rapist.description>
+
+  <Victim.label>受害者</Victim.label>
+  <Victim.description>擅長被強姦。</Victim.description>
+
+  <Submissive.label>臣服</Submissive.label>
+  <Submissive.description>性臣服方面的專家。</Submissive.description>
+
+  <Dominant.label>支配</Dominant.label>
+  <Dominant.description>性支配方面的專家。</Dominant.description>
+
+  <Hypersexuality.label>性成癮</Hypersexuality.label>
+  <Hypersexuality.description>性慾旺盛的人。</Hypersexuality.description>
+
+  <Prude.label>假正經</Prude.label>
+  <Prude.description>性經驗豐富，但認為自己不喜歡性愛。</Prude.description>
+</LanguageData>
