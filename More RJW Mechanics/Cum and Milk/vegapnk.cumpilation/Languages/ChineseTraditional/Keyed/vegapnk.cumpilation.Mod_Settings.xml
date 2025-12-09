@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <cumpilation_settings_menuname>Cumpilation - 基礎設定</cumpilation_settings_menuname>
+
+  <cumpilation_settings_enable_cumflation_key>精液腹</cumpilation_settings_enable_cumflation_key>
+  <cumpilation_settings_enable_cumflation_desc>啟用精液腹與其他陰道液體插入 Hediffs。</cumpilation_settings_enable_cumflation_desc>
+  <cumpilation_settings_cumflation_modifier_key>全域膨脹修正</cumpilation_settings_cumflation_modifier_key>
+  <cumpilation_settings_cumflation_modifier_desc>修改完全膨脹所需的液體量。數字越大意味著需要的液體越多，數字越小則越少。</cumpilation_settings_cumflation_modifier_desc>
+
+  <cumpilation_settings_enable_stuffing_key>精液胃</cumpilation_settings_enable_stuffing_key>
+  <cumpilation_settings_enable_stuffing_desc>啟用精液胃與其他口腔＋肛門液體插入 Hediffs。</cumpilation_settings_enable_stuffing_desc>
+  <cumpilation_settings_stuffing_modifier_key>全域填充修正</cumpilation_settings_stuffing_modifier_key>
+  <cumpilation_settings_stuffing_modifier_desc>修改完全填充所需的液體量。數字越大意味著需要的液體越多，數字越小則越少。</cumpilation_settings_stuffing_modifier_desc>
+
+  <cumpilation_settings_enable_bukkake_key>噴精</cumpilation_settings_enable_bukkake_key>
+  <cumpilation_settings_enable_bukkake_desc>啟用噴精與其他基於液體的身體覆蓋物。</cumpilation_settings_enable_bukkake_desc>
+  <cumpilation_settings_bukkake_modifier_key>全域覆蓋修正</cumpilation_settings_bukkake_modifier_key>
+  <cumpilation_settings_bukkake_modifier_desc>修改完全覆蓋所需的液體量。數字越大意味著需要的液體越多，數字越小則越少。</cumpilation_settings_bukkake_modifier_desc>
+
+  <cumpilation_settings_enable_fluid_gathering_while_cleaning_key>清潔時收集液體</cumpilation_settings_enable_fluid_gathering_while_cleaning_key>
+  <cumpilation_settings_enable_fluid_gathering_while_cleaning_desc>啟用後，清潔液體污物可以產生相應的物品（機率基於 FluidGatheringDefs）</cumpilation_settings_enable_fluid_gathering_while_cleaning_desc>
+
+  <cumpilation_settings_max_gathering_check_distance_key>最大收集檢查距離</cumpilation_settings_max_gathering_check_distance_key>
+  <cumpilation_settings_max_gathering_check_distance_desc>收集物品使用最大距離來尋找房間中的物品。當放置在室外或大而擁擠的房間中時，較高的值可能會導致性能問題。</cumpilation_settings_max_gathering_check_distance_desc>
+
+  <cumpilation_settings_enable_progressing_consumption_thoughts_key>液體消耗想法</cumpilation_settings_enable_progressing_consumption_thoughts_key>
+  <cumpilation_settings_enable_progressing_consumption_thoughts_desc>啟用後，人物將獲得有關液體消耗的想法，具體取決於他們的偏好以及他們已經消耗了多少液體。</cumpilation_settings_enable_progressing_consumption_thoughts_desc>
+
+  <cumpilation_settings_enable_oscillation_mechanics_key>振盪機制</cumpilation_settings_enable_oscillation_mechanics_key>
+  <cumpilation_settings_enable_oscillation_mechanics_desc>啟用後，Hediffs 會在性行為後與禁慾時添加，從而改變液體量（悶蛋、枯竭與滿溢）。</cumpilation_settings_enable_oscillation_mechanics_desc>
+
+  <cumpilation_settings_enable_oscillation_mechanics_animals_key>動物振盪機制</cumpilation_settings_enable_oscillation_mechanics_animals_key>
+  <cumpilation_settings_enable_oscillation_mechanics_animals_desc>將振盪機制應用於玩家派系的動物。</cumpilation_settings_enable_oscillation_mechanics_animals_desc>
+
+  <cumpilation_settings_enable_debug_logging_key>除錯日誌</cumpilation_settings_enable_debug_logging_key>
+  <cumpilation_settings_enable_debug_logging_desc>啟用後，將進行更詳細的日誌記錄。</cumpilation_settings_enable_debug_logging_desc>
+
+  <!-- Cum leaking Settings Menu-->
+  <cumpilation_cumsettings_menuname>Cumpilation - 精液洩漏</cumpilation_cumsettings_menuname>
+
+  <cumpilation_cumsettings_enable_filth_key>啟用隨時間排出並產生髒污。</cumpilation_cumsettings_enable_filth_key>
+  <cumpilation_cumsettings_enable_filth_desc>如果停用此功能，充滿精液的人物將因自然排出而不再產生髒污。</cumpilation_cumsettings_enable_filth_desc>
+
+  <cumpilation_cumsettings_enable_autodeflatebucket_key>啟用自動排出到桶中</cumpilation_cumsettings_enable_autodeflatebucket_key>
+  <cumpilation_cumsettings_enable_autodeflatebucket_desc>如果啟用此功能，人物在被精液充滿時會自動排出到桶中。</cumpilation_cumsettings_enable_autodeflatebucket_desc>
+
+  <cumpilation_cumsettings_enable_autodeflatedubs_key>啟用自動清潔排出</cumpilation_cumsettings_enable_autodeflatedubs_key>
+  <cumpilation_cumsettings_enable_autodeflatedubs_desc>如果啟用此功能，人物會在被精液充滿後自動躲進廁所、淋浴間等處（需要 Dubs Bad Hygiene）。\n請注意，人物會優先使用水桶和廁所。</cumpilation_cumsettings_enable_autodeflatedubs_desc>
+
+  <cumpilation_cumsettings_enable_autodeflatedirty_key>啟用隨地自動排出</cumpilation_cumsettings_enable_autodeflatedirty_key>
+  <cumpilation_cumsettings_enable_autodeflatedirty_desc>如果啟用此功能，人物會在被精液充滿後自動在任何地方排出。\n請注意，人物會優先使用水桶和廁所。</cumpilation_cumsettings_enable_autodeflatedirty_desc>
+
+  <cumpilation_cumsettings_enable_privacy_key>啟用隱私檢查</cumpilation_cumsettings_enable_privacy_key>
+  <cumpilation_cumsettings_enable_privacy_desc>如果啟用此功能，人物在被看到排出時會感到不悅，並會嘗試尋找隱蔽的地方進行排出。</cumpilation_cumsettings_enable_privacy_desc>
+
+  <cumpilation_cumsettings_min_autodeflate_key>自動排出最低嚴重度：</cumpilation_cumsettings_min_autodeflate_key>
+  <cumpilation_cumsettings_min_autodeflate_desc>只有當充滿精液嚴重度高於此值時，人物才會自動排出。\n作為參考，嚴重度低於 0.2 通常不會產生任何影響，而高於 0.9 通常會導致人物無法行動。嚴重度幾乎不會超過 1.0。\n預設：0.4</cumpilation_cumsettings_min_autodeflate_desc>
+
+  <cumpilation_cumsettings_max_deflatedistance_key>自動排出最遠距離：</cumpilation_cumsettings_max_deflatedistance_key>
+  <cumpilation_cumsettings_max_deflatedistance_desc>人物尋找排出點時移動的最遠距離。\n預設：100</cumpilation_cumsettings_max_deflatedistance_desc>
+
+  <cumpilation_cumsettings_leak_amount_multi_key>洩漏量倍率：</cumpilation_cumsettings_leak_amount_multi_key>
+  <cumpilation_cumsettings_leak_amount_multi_desc>精液洩漏產生的髒污量將乘以該值。\n預設：5.0</cumpilation_cumsettings_leak_amount_multi_desc>
+
+  <cumpilation_cumsettings_leak_speed_multi_key>洩漏速度倍率：</cumpilation_cumsettings_leak_speed_multi_key>
+  <cumpilation_cumsettings_leak_speed_multi_desc>精液洩漏速度將乘以該值。\n預設：1.0</cumpilation_cumsettings_leak_speed_multi_desc>
+
+  <cumpilation_cumsettings_deflate_amount_multi_key>排出精液倍率：</cumpilation_cumsettings_deflate_amount_multi_key>
+  <cumpilation_cumsettings_deflate_amount_multi_desc>將精液排入桶中產生的髒污量將乘以該值。\n預設：5.0</cumpilation_cumsettings_deflate_amount_multi_desc>
+
+  <cumpilation_cumsettings_deflate_speed_multi_key>排出速度倍率：</cumpilation_cumsettings_deflate_speed_multi_key>
+  <cumpilation_cumsettings_deflate_speed_multi_desc>排出精液的速度將乘以該值。\n預設：1.0</cumpilation_cumsettings_deflate_speed_multi_desc>
+</LanguageData>

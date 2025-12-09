@@ -35,12 +35,12 @@ RJW 與部分附加模組的中文化。<br />
 | [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                    | `18ed15a` | 完整                         |
 | [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                    | `680645d` | 完整                         |
 | [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                    | `ff105d4` | 完整                         |
+| [Cumpilation](https://github.com/vegapnk/Cumpilation)                                | `f5abdbc` | 完整                         |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
 | More RJW Mechanics                                                                                  |          |                              |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |
-| [Cumpilation](https://github.com/vegapnk/Cumpilation)                                               | `b6439b` | 完整                         |
 | [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `4f7061` | 完整                         |
 | [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                                 | `21af8a` | 完整                         |
 | Race Mods                                                                                           |          |                              |

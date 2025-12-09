@@ -53,6 +53,11 @@
     <li IfModActive="rjw.fb">More RJW Mechanics/Smaller Add-Ons/rjw.fb</li>
     <li IfModActive="rjw.fc">More RJW Mechanics/Smaller Add-Ons/rjw.fc</li>
     <li IfModActive="rjw.fh">More RJW Mechanics/Smaller Add-Ons/rjw.fh</li>
+    <!-- Cum and Milk -->
+    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation</li>
+    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_ludeon.rimworld.ideology</li>
+    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_ludeon.rimworld.biotech</li>
+    <li IfModActive="vegapnk.cumpilation" IfModNotActive="winderig.processor">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_winderig.processor</li>
 
     <!--
     MARK: 1.5
@@ -68,10 +73,6 @@
     <!-- Cum and Milk -->
     <li IfModActive="rjw.cum">More RJW Mechanics/Cum and Milk/rjw.cum</li>
     <li IfModActive="rjw.milk.humanoid">More RJW Mechanics/Cum and Milk/rjw.milk.humanoid</li>
-    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation</li>
-    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_ludeon.rimworld.ideology</li>
-    <li IfModActive="vegapnk.cumpilation">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_ludeon.rimworld.biotech</li>
-    <li IfModActive="vegapnk.cumpilation" IfModNotActive="winderig.processor">More RJW Mechanics/Cum and Milk/vegapnk.cumpilation_winderig.processor</li>
     <!-- ===========================================     Race Mods      =========================================== -->
     <li IfModActive="asmr.rjw.racesupport">Race Mods/asmr.rjw.racesupport</li>
 
