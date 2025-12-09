@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedingConditioningProgress.label>交配訓練進展</BreedingConditioningProgress.label>
+  <BreedingConditioningProgress.description>人物正在接受交配訓練。</BreedingConditioningProgress.description>
+
+  <BreedingConditioning_Level1.label>交配訓練（初期）</BreedingConditioning_Level1.label>
+  <BreedingConditioning_Level1.description>這名人物已被輕度訓練用於交配。</BreedingConditioning_Level1.description>
+
+  <BreedingConditioning_Level2.label>交配訓練（中期）</BreedingConditioning_Level2.label>
+  <BreedingConditioning_Level2.description>這名人物已被中度訓練用於交配。</BreedingConditioning_Level2.description>
+
+  <BreedingConditioning_Level3.label>交配訓練（完全）</BreedingConditioning_Level3.label>
+  <BreedingConditioning_Level3.description>這名人物已被完全訓練用於交配。</BreedingConditioning_Level3.description>
+</LanguageData>

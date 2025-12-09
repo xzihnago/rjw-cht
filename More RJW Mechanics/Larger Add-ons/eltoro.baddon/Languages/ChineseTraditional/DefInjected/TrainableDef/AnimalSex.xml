@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InterspeciesHumanSex.label>跨物種人類性行為</InterspeciesHumanSex.label>
+  <InterspeciesHumanSex.description>訓練動物主動與人類發生性行為。不影響同物種間或非人類動物之間的性行為。</InterspeciesHumanSex.description>
+
+  <InterspeciesAnimalSex.label>跨物種動物性行為</InterspeciesAnimalSex.label>
+  <InterspeciesAnimalSex.description>訓練動物主動與其他物種的動物交配。不影響同物種間的交配。</InterspeciesAnimalSex.description>
+</LanguageData>

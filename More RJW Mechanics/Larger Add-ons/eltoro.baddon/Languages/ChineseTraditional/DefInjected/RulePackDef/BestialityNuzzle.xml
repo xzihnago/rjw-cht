@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityNuzzle_Initiator_Male.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]站著，露出勃起的陰莖，一滴濕滑的液體從其尖端流出，他專注地注視著[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]用鼻子蹭著[RECIPIENT_nameDef]的身側，他的興奮從氣味與姿勢中都顯而易見。</li>
+    <li>r_logentry->[INITIATOR_nameDef]從後面靠近，他堅挺的陰莖摩擦著[RECIPIENT_nameDef]的大腿。</li>
+    <li>r_logentry->[INITIATOR_nameDef]稍微豎起身子，露出他那飽滿、抽搐的陰莖，同時嗅著[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在 [RECIPIENT_nameDef]附近的空中緩慢而淺淺地抽插了幾下，不小心撞到了他們的大腿，留下了一塊光滑的污跡。</li>
+  </BestialityNuzzle_Initiator_Male.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Initiator_Female.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]走近，她濕滑腫脹的外陰在她的尾巴下方短暫可見。</li>
+    <li>r_logentry->[INITIATOR_nameDef]將身體輕輕靠向[RECIPIENT_nameDef]，她散發著明顯的熱氣。</li>
+    <li>r_logentry->[INITIATOR_nameDef]轉移了重心，當她擦過[RECIPIENT_nameDef]時，尾巴以緩慢而挑逗的動作抬起。</li>
+    <li>r_logentry->[INITIATOR_nameDef]將她的臀部緊緊地貼在[RECIPIENT_nameDef]身上，她腫脹的生殖器在他們的腿上留下了一道熱乎乎、滑溜溜的痕跡。</li>
+    <li>r_logentry->[INITIATOR_nameDef]將尾巴抬得更高，將她濕滑腫脹的外陰完全暴露出來。</li>
+  </BestialityNuzzle_Initiator_Female.rulePack.rulesStrings>
+
+
+  <BestialityNuzzle_Response_Accept_Female.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]注意到了[INITIATOR_nameDef]的興奮並轉變為接受的姿勢。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]輕輕呼出一口氣，微微抬起一條腿，示意對方靠近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]伸手輕輕觸碰[INITIATOR_nameDef]的生殖器。</li>
+  </BestialityNuzzle_Response_Accept_Female.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Reject_Female.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]從[INITIATOR_nameDef]身邊走開，假裝沒注意到。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，無視於[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微轉過身，選擇不回應動物的意圖。</li>
+  </BestialityNuzzle_Response_Reject_Female.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Forced_Female.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]猶豫了一下，後退了一步，但[INITIATOR_nameDef]迅速撲倒了她，將她壓在身下。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]堅定地搖了搖頭，但[INITIATOR_nameDef]無視她的拒絕，從後面壓在了她身上。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]試圖推開他，但[INITIATOR_nameDef]用力將自己壓在她的大腿上，將她固定住，直到她停止反抗。</li>
+  </BestialityNuzzle_Response_Forced_Female.rulePack.rulesStrings>
+
+
+  <BestialityNuzzle_Response_Accept_Male.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微後退了一步，讓[INITIATOR_nameDef]靠近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]用手摸摸[INITIATOR_nameDef]的生殖器，淡淡地點頭表示同意。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]引導[INITIATOR_nameDef]進入位置。</li>
+  </BestialityNuzzle_Response_Accept_Male.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Reject_Male.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]從[INITIATOR_nameDef]身邊走開，假裝沒注意到。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，無視於[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微轉過身，選擇不回應動物的意圖。</li>
+  </BestialityNuzzle_Response_Reject_Male.rulePack.rulesStrings>
+
+  <BestialityNuzzle_Response_Forced_Male.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]試圖後退，但[INITIATOR_nameDef]騎上了他，將他壓在身下。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]搖頭拒絕，但[INITIATOR_nameDef]用身體撞向他的臀部，將他擊倒並跨坐在他身上。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]試圖推開[INITIATOR_nameDef]，但她向前撲去，牢牢地將他壓在身下。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]甩開她的第一次嘗試，但[INITIATOR_nameDef]抬起身體，將他拉倒在地。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]揮手示意她離開，但[INITIATOR_nameDef]衝了過來，將他壓在背上並按住他。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]堅決拒絕了[INITIATOR_nameDef]的接近，但她撲了過來，壓倒了他並將他的肩膀壓在地上。</li>
+  </BestialityNuzzle_Response_Forced_Male.rulePack.rulesStrings>
+</LanguageData>

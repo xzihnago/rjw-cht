@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForcedBreed_AllAnimals.label>所有殖民地動物</ForcedBreed_AllAnimals.label>
+  <ForcedBreed_AllAnimals.description>所有殖民地動物將成為交配目標。</ForcedBreed_AllAnimals.description>
+
+  <ForcedBreed_PenAnimals.label>僅限飼養圈動物</ForcedBreed_PenAnimals.label>
+  <ForcedBreed_PenAnimals.description>只有飼養圈動物將成為交配目標。</ForcedBreed_PenAnimals.description>
+
+  <ForcedBreed_NonPenAnimals.label>僅限非飼養圈動物</ForcedBreed_NonPenAnimals.label>
+  <ForcedBreed_NonPenAnimals.description>只有遊蕩的動物將成為交配目標。</ForcedBreed_NonPenAnimals.description>
+
+  <ForcedBreed_Venerated.label>僅限聖獸</ForcedBreed_Venerated.label>
+  <ForcedBreed_Venerated.description>只有聖獸將成為交配目標。</ForcedBreed_Venerated.description>
+
+  <ForcedBreed_NonVenerated.label>僅限非聖獸</ForcedBreed_NonVenerated.label>
+  <ForcedBreed_NonVenerated.description>只有非聖獸將成為交配目標。</ForcedBreed_NonVenerated.description>
+
+  <ForcedBreed_NonBonded.label>僅限非羈絆動物</ForcedBreed_NonBonded.label>
+  <ForcedBreed_NonBonded.description>只有非羈絆動物將成為交配目標。</ForcedBreed_NonBonded.description>
+</LanguageData>

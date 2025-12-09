@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NuzzleSexWaitingForcedFemale.label>焦急的強制交配</NuzzleSexWaitingForcedFemale.label>
+  <NuzzleSexWaitingForcedFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->厭倦了等待[RECIPIENT_nameDef]，[reaction]</li>
+    <li>reaction->[INITIATOR_nameDef]用力推擠她的大腿，將[RECIPIENT_nameDef]固定在原地，直到她停止反抗。</li>
+    <li>reaction->[INITIATOR_nameDef]迅速撲向她，將[RECIPIENT_nameDef]壓在身下。</li>
+    <li>reaction->[INITIATOR_nameDef]無視她的拒絕，從背後騎上[RECIPIENT_nameDef]。</li>
+  </NuzzleSexWaitingForcedFemale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexWaitingForcedMale.label>焦急的強制交配</NuzzleSexWaitingForcedMale.label>
+  <NuzzleSexWaitingForcedMale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->厭倦了等待[RECIPIENT_nameDef]，[reaction]</li>
+    <li>reaction->[INITIATOR_nameDef]騎在他身上，將[RECIPIENT_nameDef]固定在她身下。</li>
+    <li>reaction->[INITIATOR_nameDef]迅速撲向他，將[RECIPIENT_nameDef]壓在身下。</li>
+    <li>reaction->[INITIATOR_nameDef]將身體推向他的臀部，將[RECIPIENT_nameDef]擊倒並跨坐在他身上。</li>
+  </NuzzleSexWaitingForcedMale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexForcedFemale.label>強制交配</NuzzleSexForcedFemale.label>
+  <NuzzleSexForcedFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]猶豫了一下，然後退後一步，[reaction]</li>
+    <li>r_logentry->[RECIPIENT_nameDef]堅定地搖了搖頭，[reaction]</li>
+    <li>r_logentry->[RECIPIENT_nameDef]試圖推開[INITIATOR_nameDef]，[reaction]</li>
+    <li>reaction->但[INITIATOR_nameDef]用力將自己推向她的大腿，將她固定在原地，直到她停止反抗。</li>
+    <li>reaction->但[INITIATOR_nameDef]迅速撲向她，將[RECIPIENT_nameDef]壓在身下。</li>
+    <li>reaction->但[INITIATOR_nameDef]無視她的拒絕，從背後騎上[RECIPIENT_nameDef]。</li>
+  </NuzzleSexForcedFemale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexForcedMale.label>強制交配</NuzzleSexForcedMale.label>
+  <NuzzleSexForcedMale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]試圖後退，[reaction]</li>
+    <li>r_logentry->[RECIPIENT_nameDef]甩開了[INITIATOR_nameDef]的第一次嘗試，[reaction]</li>
+    <li>r_logentry->[RECIPIENT_nameDef]堅定地拒絕了[INITIATOR_nameDef]的接近，[reaction]</li>
+    <li>reaction->但[INITIATOR_nameDef]騎在他身上，將[RECIPIENT_nameDef]固定在她身下。</li>
+    <li>reaction->但[INITIATOR_nameDef]迅速撲向他，將他壓在身下。</li>
+    <li>reaction->但[INITIATOR_nameDef]將身體推向他的臀部，將[RECIPIENT_nameDef]擊倒並跨坐在他身上。</li>
+  </NuzzleSexForcedMale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexAcceptedFemale.label>接受交配</NuzzleSexAcceptedFemale.label>
+  <NuzzleSexAcceptedFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]注意到[INITIATOR_nameDef]的興奮，並調整姿勢接受。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]輕輕呼出一口氣，微微抬起一條腿，邀請接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]伸手輕觸[INITIATOR_nameDef]的生殖器。</li>
+  </NuzzleSexAcceptedFemale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexAcceptedMale.label>接受交配</NuzzleSexAcceptedMale.label>
+  <NuzzleSexAcceptedMale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]稍微後退，讓[INITIATOR_nameDef]靠近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]用手輕撫[INITIATOR_nameDef]的生殖器，微微點頭表示贊同。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]引導[INITIATOR_nameDef]進入位置。</li>
+  </NuzzleSexAcceptedMale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexDeclinedFemale.label>拒絕交配</NuzzleSexDeclinedFemale.label>
+  <NuzzleSexDeclinedFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]移開了身體，假裝沒有注意到[INITIATOR_nameDef]。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，忽視了[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]微微轉身，選擇不回應動物的意圖。</li>
+  </NuzzleSexDeclinedFemale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexDeclinedMale.label>拒絕交配</NuzzleSexDeclinedMale.label>
+  <NuzzleSexDeclinedMale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef]移開了身體，假裝沒有注意到[INITIATOR_nameDef]。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]後退了一步，忽視了[INITIATOR_nameDef]的接近。</li>
+    <li>r_logentry->[RECIPIENT_nameDef]微微轉身，選擇不回應動物的意圖。</li>
+  </NuzzleSexDeclinedMale.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexCancel.label>取消交配嘗試</NuzzleSexCancel.label>
+  <NuzzleSexCancel.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]準備交配，[reaction]</li>
+    <li>r_logentry->[INITIATOR_nameDef]正要交配，[reaction]</li>
+    <li>r_logentry->[INITIATOR_nameDef]已就位，準備交配，[reaction]</li>
+    <li>r_logentry->[INITIATOR_nameDef]盤旋在[RECIPIENT_nameDef]上方，準備交配，[reaction]</li>
+    <li>reaction->但[RECIPIENT_nameDef]拉開距離去處理緊急任務，回頭投以最後一瞥。</li>
+    <li>reaction->但[RECIPIENT_nameDef]在最後一刻移開，內心在慾望與責任間掙扎。</li>
+    <li>reaction->但[RECIPIENT_nameDef]轉身跑去處理緊急任務，明顯在中途行為時離開感到矛盾。</li>
+    <li>reaction->但[RECIPIENT_nameDef]突然被召喚離開，留下[INITIATOR_nameDef]最後一個遺憾的目光。</li>
+  </NuzzleSexCancel.logRulesInitiator.rulesStrings>
+
+  <NuzzleSexCancelAnimal.label>取消交配嘗試</NuzzleSexCancelAnimal.label>
+  <NuzzleSexCancelAnimal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]等待，但[RECIPIENT_nameDef]從未回應。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]身旁徘徊，但最終失去耐心離開。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]附近不安地移動，然後在被忽視後放棄。</li>
+    <li>r_logentry->[INITIATOR_nameDef]厭倦了等待[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在放棄並離開前最後看了一眼[RECIPIENT_nameDef]。</li>
+  </NuzzleSexCancelAnimal.logRulesInitiator.rulesStrings>
+</LanguageData>

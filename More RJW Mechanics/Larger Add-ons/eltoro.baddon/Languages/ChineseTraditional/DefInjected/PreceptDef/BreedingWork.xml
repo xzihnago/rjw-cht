@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedingWorkMaleColonists.label>自願</BreedingWorkMaleColonists.label>
+  <BreedingWorkMaleColonists.description>男性殖民者被要求自願交配指定的動物，這是他們職責的一部分。</BreedingWorkMaleColonists.description>
+
+  <BreedingWorkMaleSlaves.label>自願</BreedingWorkMaleSlaves.label>
+  <BreedingWorkMaleSlaves.description>男性奴隸被要求自願交配指定的動物，這是他們職責的一部分。</BreedingWorkMaleSlaves.description>
+
+  <BreedingWorkMaleForcedColonists.label>強制</BreedingWorkMaleForcedColonists.label>
+  <BreedingWorkMaleForcedColonists.description>男性殖民者被強迫交配指定的動物，無論是否願意或有性慾。</BreedingWorkMaleForcedColonists.description>
+
+  <BreedingWorkMaleForcedSlaves.label>強制</BreedingWorkMaleForcedSlaves.label>
+  <BreedingWorkMaleForcedSlaves.description>男性奴隸被強迫交配指定的動物，無論是否願意或有性慾。</BreedingWorkMaleForcedSlaves.description>
+
+  <BreedingWorkFemaleColonists.label>自願</BreedingWorkFemaleColonists.label>
+  <BreedingWorkFemaleColonists.description>女性殖民者被要求自願與指定的動物交配，這是他們職責的一部分。</BreedingWorkFemaleColonists.description>
+
+  <BreedingWorkFemaleSlaves.label>自願</BreedingWorkFemaleSlaves.label>
+  <BreedingWorkFemaleSlaves.description>女性奴隸被要求自願與指定的動物交配，這是他們職責的一部分。</BreedingWorkFemaleSlaves.description>
+
+  <BreedingWorkFemaleForcedColonists.label>強制</BreedingWorkFemaleForcedColonists.label>
+  <BreedingWorkFemaleForcedColonists.description>女性殖民者被強迫與指定的動物交配，無論是否願意或有性慾。</BreedingWorkFemaleForcedColonists.description>
+
+  <BreedingWorkFemaleForcedSlaves.label>強制</BreedingWorkFemaleForcedSlaves.label>
+  <BreedingWorkFemaleForcedSlaves.description>女性奴隸被強迫與指定的動物交配，無論是否願意或有性慾。</BreedingWorkFemaleForcedSlaves.description>
+</LanguageData>

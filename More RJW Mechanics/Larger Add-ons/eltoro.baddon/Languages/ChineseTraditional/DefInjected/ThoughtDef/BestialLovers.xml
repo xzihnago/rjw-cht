@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialLovers_Affair.stages.0.label>野獸的行為</BestialLovers_Affair.stages.0.label>
+
+  <BestialLovers_CheatedOnMe_ResHigh.stages.0.label>因為動物背叛我</BestialLovers_CheatedOnMe_ResHigh.stages.0.label>
+  <BestialLovers_CheatedOnMeMood_ResHigh.stages.0.label>{0}背叛了我</BestialLovers_CheatedOnMeMood_ResHigh.stages.0.label>
+  <BestialLovers_CheatedOnMeMood_ResHigh.stages.0.description>被背叛了…和一隻動物。這種恥辱比背叛本身更讓人痛苦。</BestialLovers_CheatedOnMeMood_ResHigh.stages.0.description>
+
+  <BestialLovers_CheatedOnMe_ResLow.stages.0.label>因為動物背叛我</BestialLovers_CheatedOnMe_ResLow.stages.0.label>
+  <BestialLovers_CheatedOnMeMood_ResLow.stages.0.label>{0}背叛了我</BestialLovers_CheatedOnMeMood_ResLow.stages.0.label>
+  <BestialLovers_CheatedOnMeMood_ResLow.stages.0.description>被背叛了…和一隻動物。我並不介意獸交，但我介意被排除在外。</BestialLovers_CheatedOnMeMood_ResLow.stages.0.description>
+</LanguageData>

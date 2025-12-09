@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <BestialityTalk.label>討論獸交</BestialityTalk.label>
-
   <BestialityTalk.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]和[RECIPIENT_nameDef][talkedabout][subject]。</li>
     <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef][talkedabout][subject]。</li>
@@ -28,7 +27,6 @@
     <li>commentedabout->共享想法關於</li>
     <li>commentedabout->評論</li>
   </BestialityTalk.logRulesInitiator.rulesStrings>
-
   <BestialityTalk.logRulesRecipient.rulesStrings>
     <li>r_logentry->[RECIPIENT_nameDef]在[INITIATOR_nameDef]談到[subject]時[reacted]。</li>
     <li>r_logentry->[RECIPIENT_nameDef]對[INITIATOR_nameDef]在[subject]的討論[responded]。</li>

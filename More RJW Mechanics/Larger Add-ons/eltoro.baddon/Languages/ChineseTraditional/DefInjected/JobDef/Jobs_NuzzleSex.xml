@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexInitiatorAnimalSex.reportString>與人類交配</SexInitiatorAnimalSex.reportString>
+  <SexInitiatorAnimalPreSex.reportString>準備與人類交配</SexInitiatorAnimalPreSex.reportString>
+  <SexRecieverAnimalSex.reportString>交配</SexRecieverAnimalSex.reportString>
+  <ForcedBreeding.reportString>強制交配人類</ForcedBreeding.reportString>
+  <ForcedBreedingWaiting.reportString>強制交配人類</ForcedBreedingWaiting.reportString>
+  <ForcedBreedingReciever.reportString>被強制交配</ForcedBreedingReciever.reportString>
+  <ForcedBreedingRecieverMale.reportString>被迫強制交配</ForcedBreedingRecieverMale.reportString>
+  <InterspiciesMatingInteraction.reportString>接近人類進行交配</InterspiciesMatingInteraction.reportString>
+  <InterspiciesMatingInteractionAccept.reportString>正在移動與人類交配</InterspiciesMatingInteractionAccept.reportString>
+  <InterspiciesMatingInteractionDecline.reportString>正在遠離交配嘗試</InterspiciesMatingInteractionDecline.reportString>
+  <InterspiciesMatingInteractionTease.reportString>挑逗</InterspiciesMatingInteractionTease.reportString>
+  <ELB_AnimalPet.reportString>挑逗</ELB_AnimalPet.reportString>
+</LanguageData>

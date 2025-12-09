@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialLoversInteraction.label>獸交關係嘗試</BestialLoversInteraction.label>
+  <BestialLoversInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]對[RECIPIENT_nameDef]表現出越來越濃厚的興趣，並表現出超越普通交配的感情。</li>
+    <li>r_logentry->[INITIATOR_nameDef]開始對[RECIPIENT_nameDef]表現出超越一般交配慾望的吸引力。</li>
+    <li>r_logentry->[INITIATOR_nameDef]以超越常規交配的關注尋找[RECIPIENT_nameDef]。</li>
+  </BestialLoversInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

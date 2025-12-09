@@ -30,12 +30,12 @@ RJW 與部分附加模組的中文化。<br />
 | [RJW Menstruation - Resources](https://gitgud.io/ElToro/rjw-menstruation-resources)  | `63ab511` | 完整                         |
 | [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                    | `b347aaf` | 完整                         |
 | [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                      | `72b6a99` | 完整                         |
+| [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                  | `ddee689` | 完整                         |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
 | More RJW Mechanics                                                                                  |          |                              |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |
-| [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                                 | `60fffb` | 完整                         |
 | [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                             | `0cfa87` | 完整                         |
 | [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                                   | `9080ca` | 完整                         |
 | [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                                   | `dca868` | 完整                         |

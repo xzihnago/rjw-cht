@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialLovers_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]感到被吸引，現在是[INITIATOR_nameDef]的交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]認可了[INITIATOR_nameDef]的愛意，現在是[INITIATOR_nameDef]的交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]的興趣激起，選擇成為[INITIATOR_nameDef]的交配伴侶。</li>
+  </BestialLovers_RomanceAttemptAccepted.rulePack.rulesStrings>
+</LanguageData>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <Zoophobe.degreeDatas.0.label>動物厭惡</Zoophobe.degreeDatas.0.label>
+  <Zoophobe.degreeDatas.0.description>[PAWN_nameDef]非常厭惡獸交的想法，並且不太可能接受它。</Zoophobe.degreeDatas.0.description>
+
   <AnimalHybrid.degreeDatas.0.label>人獸混種</AnimalHybrid.degreeDatas.0.label>
   <AnimalHybrid.degreeDatas.0.description>{PAWN_nameDef}由人類與動物交配而生，對動物有著天生的親和力，並本能地理解牠們。</AnimalHybrid.degreeDatas.0.description>
 </LanguageData>

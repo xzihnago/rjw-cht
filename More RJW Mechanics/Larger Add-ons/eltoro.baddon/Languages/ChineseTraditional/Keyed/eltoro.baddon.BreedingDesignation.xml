@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ForcedBreeding_Tip_NotAnimal>無法指定：不是動物。</ForcedBreeding_Tip_NotAnimal>
+  <ForcedBreeding_Tip_NotHuman>無法指定：不是人類。</ForcedBreeding_Tip_NotHuman>
+  <ForcedBreeding_Tip_Ideo>無法指定：被理念戒律禁用。</ForcedBreeding_Tip_Ideo>
+  <ForcedBreeding_Tip_MissingComp>無法指定：不支援的模組動物。</ForcedBreeding_Tip_MissingComp>
+  <ForcedBreeding_Tip_Dead>無法指定：該動物已死亡。</ForcedBreeding_Tip_Dead>
+  <ForcedBreeding_Tip_NotColony>無法指定：不是殖民地擁有的動物。</ForcedBreeding_Tip_NotColony>
+  <ForcedBreeding_Tip_NotMature>無法指定：該動物尚未性成熟或無法進行性行為。</ForcedBreeding_Tip_NotMature>
+  <ForcedBreeding_Tip_NoGenitals>無法指定：該動物沒有功能性生殖器官。</ForcedBreeding_Tip_NoGenitals>
+  <ForcedBreeding_Tip_CanDesignate>指定該動物用於強制播種。</ForcedBreeding_Tip_CanDesignate>
+</LanguageData>

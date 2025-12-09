@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ELB_AnimalPetInteraction.label>寵愛動物</ELB_AnimalPetInteraction.label>
+  <ELB_AnimalPetInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]將一隻手放在[RECIPIENT_nameDef]的頭上，緩緩地撫摸著。</li>
+    <li>r_logentry->[INITIATOR_nameDef]輕輕拍了拍[RECIPIENT_nameDef]的背。</li>
+    <li>r_logentry->[INITIATOR_nameDef]輕輕揉了揉[RECIPIENT_nameDef]的背。</li>
+  </ELB_AnimalPetInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

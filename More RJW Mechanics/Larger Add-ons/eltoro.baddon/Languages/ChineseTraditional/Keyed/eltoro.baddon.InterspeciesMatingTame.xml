@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelAnimalSexTame>{1_kind}在跨物種交配後被馴服了</LetterLabelAnimalSexTame>
+  <LetterAnimalSexTame>{0}與{1}交配後被馴服了。</LetterAnimalSexTame>
+  <LetterAnimalSexTameAndNameNumerical>{0}與{1}交配後被馴服了。現在被叫做{ANIMAL_nameFull}。</LetterAnimalSexTameAndNameNumerical>
+  <LetterAnimalSexTameAndName>{0}與{1}交配後被馴服了。殖民者決定叫牠{ANIMAL_nameFull}。</LetterAnimalSexTameAndName>
+  <AllowHumanInterspeciesSex>允許人類跨物種性交</AllowHumanInterspeciesSex>
+  <AllowAnimalInterspeciesSex>允許動物跨物種性交</AllowAnimalInterspeciesSex>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LoyalRecruit_Reject>我們拒絕了{0}；{0}依然放棄了他們原來的派系。</LoyalRecruit_Reject>
+  <LoyalRecruit_Accept>{0}放棄了對原派系的忠誠，加入你的殖民地。</LoyalRecruit_Accept>
+  <LoyalRecruit_Catatonic>被拒絕加入並被原派系譴責後，{0}進入了緊張狀態。</LoyalRecruit_Catatonic>
+  <LoyalRecruit_Label>愚忠請求加入</LoyalRecruit_Label>
+  <LoyalRecruit_Text>{0}表示他們的原派系會因為參與獸交而譴責他們。而你的殖民地允許這種行為。{0}請求加入。允許{0}加入嗎？</LoyalRecruit_Text>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedAnimals.label>動物交配</BreedAnimals.label>
+  <BreedAnimals.verb>交配</BreedAnimals.verb>
+  <BreedAnimals.gerund>交配</BreedAnimals.gerund>
+
+  <BreedAnimalsForced.label>強迫動物交配</BreedAnimalsForced.label>
+  <BreedAnimalsForced.verb>交配</BreedAnimalsForced.verb>
+  <BreedAnimalsForced.gerund>交配</BreedAnimalsForced.gerund>
+</LanguageData>

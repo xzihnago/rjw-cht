@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialityInvite_Interaction_InviteToWatch_LowRes.label>邀請觀看</BestialityInvite_Interaction_InviteToWatch_LowRes.label>
+  <BestialityInvite_Interaction_InviteToWatch_LowRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]以低聲的期待說話，已經興奮，催促[RECIPIENT_nameDef]來觀看他們與動物的交配過程。</li>
+    <li>r_logentry->[INITIATOR_nameDef]幾乎無法穩定自己的聲音，慾望上升，邀請[RECIPIENT_nameDef]見證交配過程。</li>
+    <li>r_logentry->[INITIATOR_nameDef]給了[RECIPIENT_nameDef]一個喘不過氣的眼神，顯然渴望他們看到即將發生的事情。</li>
+  </BestialityInvite_Interaction_InviteToWatch_LowRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_InviteToWatch_MedRes.label>邀請觀看</BestialityInvite_Interaction_InviteToWatch_MedRes.label>
+  <BestialityInvite_Interaction_InviteToWatch_MedRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]靠近[RECIPIENT_nameDef]，聲音低沉而令人安心，溫和地建議他們親自過來看看。</li>
+    <li>r_logentry->[INITIATOR_nameDef]給了[RECIPIENT_nameDef]一個溫柔的眼神，希望他們的好奇心能吸引他們觀看這一幕的展開。</li>
+    <li>r_logentry->[INITIATOR_nameDef]輕輕地推了推，暗示[RECIPIENT_nameDef]過來觀察他們即將做的事情。</li>
+  </BestialityInvite_Interaction_InviteToWatch_MedRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_InviteToWatch_HighRes.label>邀請觀看</BestialityInvite_Interaction_InviteToWatch_HighRes.label>
+  <BestialityInvite_Interaction_InviteToWatch_HighRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]降低了聲音，小心翼翼地說話，邀請[RECIPIENT_nameDef]觀看他們準備與動物交配的過程——儘管他們眼中帶著猶豫。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef]分享了一句輕聲的話，給予他們親眼目睹這一行為的機會，即使臉上閃過不適。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在轉身前投去最後一瞥，聲音低沉而堅定——觀看即將發生的獸交行為的邀請懸而未決。</li>
+  </BestialityInvite_Interaction_InviteToWatch_HighRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_Watching_LowRes.label>觀看獸交</BestialityInvite_Interaction_Watching_LowRes.label>
+  <BestialityInvite_Interaction_Watching_LowRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]離開了，臉頰泛紅，呼吸不均，而[RECIPIENT_nameDef]繼續著幸福的節奏。</li>
+    <li>r_logentry->[INITIATOR_nameDef]悄悄地離開了，明顯被激起，最後偷看了一眼，當時[RECIPIENT_nameDef]還和動物在一起。</li>
+    <li>r_logentry->[INITIATOR_nameDef]帶著顫抖的呼吸走開了，眼中閃爍著熱情，留下[RECIPIENT_nameDef]在進行中。</li>
+  </BestialityInvite_Interaction_Watching_LowRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_Watching_MedRes.label>觀看獸交</BestialityInvite_Interaction_Watching_MedRes.label>
+  <BestialityInvite_Interaction_Watching_MedRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]深吸一口氣後離開，明顯被激起，當時[RECIPIENT_nameDef]仍在動作中。</li>
+    <li>r_logentry->[INITIATOR_nameDef]投去一個持久的目光，嘴唇微微張開，然後退後，給[RECIPIENT_nameDef]隱私。</li>
+    <li>r_logentry->[INITIATOR_nameDef]悄悄地後退，呼吸不穩，明顯受到他們所見的[RECIPIENT_nameDef]行為的影響。</li>
+  </BestialityInvite_Interaction_Watching_MedRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_Watching_HighRes.label>觀看獸交</BestialityInvite_Interaction_Watching_HighRes.label>
+  <BestialityInvite_Interaction_Watching_HighRes.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]迅速轉身，彷彿為自己激起的騷動感到羞愧，留下[RECIPIENT_nameDef]沉默地留在原地。</li>
+    <li>r_logentry->[INITIATOR_nameDef]帶著僵硬的步伐離開，呼吸淺薄，臉上燃燒著他們試圖不去想的念頭。</li>
+    <li>r_logentry->[INITIATOR_nameDef]避免回頭看，表情矛盾，而[RECIPIENT_nameDef]繼續著沒有停頓的行動。</li>
+  </BestialityInvite_Interaction_Watching_HighRes.logRulesInitiator.rulesStrings>
+
+  <BestialityInvite_Interaction_Decline.label>拒絕獸交邀請</BestialityInvite_Interaction_Decline.label>
+  <BestialityInvite_Interaction_Decline.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]邀請[RECIPIENT_nameDef]一起與他們的伴侶探索某些事情，但[RECIPIENT_nameDef]只是禮貌地低聲拒絕了。</li>
+    <li>r_logentry->[INITIATOR_nameDef]建議與他們的伴侶分享一個私密時刻，但[RECIPIENT_nameDef]輕輕搖頭拒絕了。</li>
+    <li>r_logentry->[INITIATOR_nameDef]邀請[RECIPIENT_nameDef]與他們的伴侶分享一段親密的經歷，但[RECIPIENT_nameDef]搖頭並禮貌地拒絕了。</li>
+  </BestialityInvite_Interaction_Decline.logRulesInitiator.rulesStrings>
+</LanguageData>

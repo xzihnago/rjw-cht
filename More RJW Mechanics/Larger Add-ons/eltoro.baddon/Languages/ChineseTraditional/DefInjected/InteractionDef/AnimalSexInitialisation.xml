@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NuzzleSex.label>磨蹭交配</NuzzleSex.label>
+  <NuzzleSex.logRulesInitiator.rulesStrings>
+    <li>r_logentry->磨蹭之後，</li>
+    <li>r_logentry->磨蹭後的時光，</li>
+    <li>r_logentry->磨蹭後緊接著，</li>
+  </NuzzleSex.logRulesInitiator.rulesStrings>
+
+  <InterspiciesHumanMatingMale.label>跨物種人類交配</InterspiciesHumanMatingMale.label>
+  <InterspiciesHumanMatingMale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]站著，勃起的陰莖暴露在外，一滴滑膩的液體從頂端滴落，他專注地看著[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]沿著[RECIPIENT_nameDef]的側面磨蹭，他的興奮在氣味和姿態中顯而易見。</li>
+    <li>r_logentry->[INITIATOR_nameDef]從後面緊貼著，堅硬的陰莖摩擦著[RECIPIENT_nameDef]的大腿。</li>
+    <li>r_logentry->[INITIATOR_nameDef]微微後仰，露出他完整且顫動的陰莖，並嗅著[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在[RECIPIENT_nameDef]附近空中緩慢而淺淺地推動幾下，意外地碰觸到他們的大腿，留下了一道滑膩的痕跡。</li>
+  </InterspiciesHumanMatingMale.logRulesInitiator.rulesStrings>
+
+  <InterspiciesHumanMatingFemale.label>跨物種人類交配</InterspiciesHumanMatingFemale.label>
+  <InterspiciesHumanMatingFemale.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]靠近，尾巴下方短暫露出她濕潤腫脹的陰部。</li>
+    <li>r_logentry->[INITIATOR_nameDef]用身體輕觸[RECIPIENT_nameDef]，她的氣味明顯帶著熱情。</li>
+    <li>r_logentry->[INITIATOR_nameDef]移動體重，尾巴緩慢而挑逗地抬起，擦過[RECIPIENT_nameDef]。</li>
+    <li>r_logentry->[INITIATOR_nameDef]用臀部緊貼[RECIPIENT_nameDef]，她腫脹的生殖器在他們的腿上留下熱乎乎的濕痕。</li>
+    <li>r_logentry->[INITIATOR_nameDef]抬高尾巴，完全露出她濕潤腫脹的陰部。</li>
+  </InterspiciesHumanMatingFemale.logRulesInitiator.rulesStrings>
+</LanguageData>

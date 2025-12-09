@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NuzzleSexTeasing.label>動物挑逗</NuzzleSexTeasing.label>
+  <NuzzleSexTeasing.logRulesInitiator.rulesStrings>
+    <li>r_logentry->當[RECIPIENT_nameDef]沒有反應時，[INITIATOR_nameDef]低下頭好奇地嗅了嗅對方的腹股溝，聞到那裡的皮膚頓時暖洋洋的。</li>
+    <li>r_logentry->當[RECIPIENT_nameDef]沒有回應時，[INITIATOR_nameDef]靠近並舔過親密部位，留下溫暖的唾液痕跡。</li>
+    <li>r_logentry->當[RECIPIENT_nameDef]沒有回應時，[INITIATOR_nameDef]用鼻子堅持地推擠腹股溝，讓那裡變得濕潤而敏感。</li>
+    <li>r_logentry->在沒有反應後，[INITIATOR_nameDef]開始輕輕咬著[RECIPIENT_nameDef]最敏感的部位，讓它們明顯地激動起來。</li>
+    <li>r_logentry->發現[RECIPIENT_nameDef]仍然沒有反應，[INITIATOR_nameDef]調皮地用舌頭刷過私處，讓該區域閃閃發亮，濕潤不已。</li>
+  </NuzzleSexTeasing.logRulesInitiator.rulesStrings>
+</LanguageData>
