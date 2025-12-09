@@ -48,6 +48,11 @@
     <li IfModActive="eltoro.baddon">More RJW Mechanics/Larger Add-ons/eltoro.baddon</li>
     <li IfModActive="eltoro.baddon">More RJW Mechanics/Larger Add-ons/eltoro.baddon_rim.job.world</li>
     <li IfModActive="eltoro.baddon">More RJW Mechanics/Larger Add-ons/eltoro.baddon_rjw.sexperience.ideology</li>
+    <!-- Smaller Add-Ons -->
+    <li IfModActive="rjw.std">More RJW Mechanics/Smaller Add-Ons/rjw.std</li>
+    <li IfModActive="rjw.fb">More RJW Mechanics/Smaller Add-Ons/rjw.fb</li>
+    <li IfModActive="rjw.fc">More RJW Mechanics/Smaller Add-Ons/rjw.fc</li>
+    <li IfModActive="rjw.fh">More RJW Mechanics/Smaller Add-Ons/rjw.fh</li>
 
     <!--
     MARK: 1.5
@@ -60,11 +65,6 @@
     <li IfModActive="lustlicentiastretch.rjwlabs">More RJW Mechanics/Larger Add-ons/lustlicentiastretch.rjwlabs</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">More RJW Mechanics/Larger Add-ons/rjw.sexperience_rjw.cum</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">More RJW Mechanics/Larger Add-ons/rjw.sexperience_vegapnk.cumpilation</li>
-    <!-- Smaller Add-Ons -->
-    <li IfModActive="rjw.fb">More RJW Mechanics/Smaller Add-Ons/rjw.fb</li>
-    <li IfModActive="rjw.fc">More RJW Mechanics/Smaller Add-Ons/rjw.fc</li>
-    <li IfModActive="rjw.fh">More RJW Mechanics/Smaller Add-Ons/rjw.fh</li>
-    <li IfModActive="rjw.std">More RJW Mechanics/Smaller Add-Ons/rjw.std</li>
     <!-- Cum and Milk -->
     <li IfModActive="rjw.cum">More RJW Mechanics/Cum and Milk/rjw.cum</li>
     <li IfModActive="rjw.milk.humanoid">More RJW Mechanics/Cum and Milk/rjw.milk.humanoid</li>

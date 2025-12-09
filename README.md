@@ -31,15 +31,15 @@ RJW 與部分附加模組的中文化。<br />
 | [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                    | `b347aaf` | 完整                         |
 | [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                      | `72b6a99` | 完整                         |
 | [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                  | `ddee689` | 完整                         |
+| [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                              | `049bacd` | 完整                         |
+| [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                    | `18ed15a` | 完整                         |
+| [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                    | `680645d` | 完整                         |
+| [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                    | `ff105d4` | 完整                         |
 
 | 模組（1.5）                                                                                         | 版本     | 狀態                         |
 | --------------------------------------------------------------------------------------------------- | -------- | ---------------------------- |
 | More RJW Mechanics                                                                                  |          |                              |
 | [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整                         |
-| [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                             | `0cfa87` | 完整                         |
-| [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                                   | `9080ca` | 完整                         |
-| [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                                   | `dca868` | 完整                         |
-| [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                                   | `be266b` | 完整                         |
 | [Cumpilation](https://github.com/vegapnk/Cumpilation)                                               | `b6439b` | 完整                         |
 | [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `4f7061` | 完整                         |
 | [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                                 | `21af8a` | 完整                         |
