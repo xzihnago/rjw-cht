@@ -21,6 +21,7 @@ RJW 與部分附加模組的中文化。<br />
 | [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                  | `cfe5b29` | 完整                         |
 | DLC Support                                                                          |           |                              |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)    | `432e90d` | 完整                         |
+| [C0ffeeRIA](https://gitgud.io/Ryufais/coffees-rjw-ideology-addons)                   | `b6d1306` | 完整                         |
 | [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                  | `7c8a853` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)    | `d1935ea` | 完整                         |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                    | `4946df5` | 完整（部分跨模組支援未翻譯） |
@@ -53,7 +54,6 @@ RJW 與部分附加模組的中文化。<br />
 | 模組                                                                       | 版本     | 狀態 |
 | -------------------------------------------------------------------------- | -------- | ---- |
 | [RimJobWorld - Interaction Addon](https://gitgud.io/Ed86/rjw-ia)           | `13b209` | 完整 |
-| [C0ffeeRIA](https://gitgud.io/c0ffeeeeeeee/coffees-rjw-ideology-addons)    | `f13a1f` | 完整 |
 | [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs) | `938d07` | 完整 |
 
 # 參閱

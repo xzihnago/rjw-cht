@@ -24,6 +24,7 @@
     <li>rimworld.ekss.rjwex</li>
     <!-- ===========================================    DLC Support     =========================================== -->
     <li>rjw.sexperience.ideology</li>
+    <li>c0ffee.rjw.ideologyaddons</li>
     <li>c0ffee.rjw.events</li>
     <li>calamabanana.rjw.brothelcolony</li>
     <li>vegapnk.rjw.genes</li>
@@ -54,7 +55,6 @@
     MARK: Legacy
     -->
     <li>ed86.rjwia</li>
-    <li>c0ffee.rjw.ideologyaddons</li>
     <li>lustlicentia.rjwlabs</li>
   </loadAfter>
   <description>
@@ -71,6 +71,7 @@
     • RimJobWorld - Extension
 
     • RJW Sexperience Ideology
+    • C0ffeeRIA
     • RJW-Events
     • RimJobWorld - Brothel Colony
     • RJW Genes
@@ -94,7 +95,6 @@
 
     已過時的模組
     • RimJobWorld - Interaction Addon
-    • C0ffeeRIA
     • RimJobWorld - Licentia Labs
   </description>
 </ModMetaData>

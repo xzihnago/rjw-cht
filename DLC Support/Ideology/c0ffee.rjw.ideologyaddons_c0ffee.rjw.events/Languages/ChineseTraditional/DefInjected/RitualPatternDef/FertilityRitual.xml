@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FertilityRitual.ritualExpectedDesc>每年的{DATE}，{MEMBERS}都會舉行特別的慶祝活動。</FertilityRitual.ritualExpectedDesc>
+  <FertilityRitual.shortDescOverride>繁殖儀式</FertilityRitual.shortDescOverride>
+  <FertilityRitual.descOverride>一場亂交儀式。</FertilityRitual.descOverride>
+  <FertilityRitual.ritualExplanation>儀式性亂交。</FertilityRitual.ritualExplanation>
+</LanguageData>

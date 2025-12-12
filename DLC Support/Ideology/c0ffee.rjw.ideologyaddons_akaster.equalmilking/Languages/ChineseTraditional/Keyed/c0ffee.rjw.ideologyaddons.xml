@@ -6,7 +6,7 @@
   <CRIALactation.massageCooldownDesc>預設 0.3。刺激泌乳的按摩之間的時間間隔。1 = 一整天。更改此數字不會更新現有的冷卻時間，它僅適用於新應用的冷卻時間。</CRIALactation.massageCooldownDesc>
 
   <CRIALactation.totalMassagesUntilLactation>總共需要按摩次數</CRIALactation.totalMassagesUntilLactation>
-  <CRIALactation.totalMassagesUntilLactationDesc>預設 20。哺乳開始前需要多少次按摩。進度保存為 0->1。每次按摩時都會添加 1/總數 的量。更改此值不會重置當前進度值。</CRIALactation.totalMassagesUntilLactationDesc>
+  <CRIALactation.totalMassagesUntilLactationDesc>預設 20。哺乳開始前需要多少次按摩。進度保存為 0->1。每次按摩時都會添加 1／總數 的量。更改此值不會重置當前進度值。</CRIALactation.totalMassagesUntilLactationDesc>
 
   <CRIALactation.hucowBreastSizeBonus>乳人乳房尺寸增長</CRIALactation.hucowBreastSizeBonus>
   <CRIALactation.hucowBreastSizeBonusDesc>預設 0.5。當成為乳人時，這個大小將被添加到居民現有的乳房尺寸。</CRIALactation.hucowBreastSizeBonusDesc>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FertilityRitualOutcome.description>亂交儀式結果</FertilityRitualOutcome.description>
+  <FertilityRitualOutcome.comps.0.label>參與人數</FertilityRitualOutcome.comps.0.label>
+  <FertilityRitualOutcome.comps.1.label>房間印象</FertilityRitualOutcome.comps.1.label>
+
+  <FertilityRitualOutcome.outcomeChances.0.label>糟糕</FertilityRitualOutcome.outcomeChances.0.label>
+  <FertilityRitualOutcome.outcomeChances.0.description>{0}太糟糕了！參與者在等待結束的同時忍受了幾個小時的令人咬緊牙關的閒聊。</FertilityRitualOutcome.outcomeChances.0.description>
+
+  <FertilityRitualOutcome.outcomeChances.1.label>沉悶</FertilityRitualOutcome.outcomeChances.1.label>
+  <FertilityRitualOutcome.outcomeChances.1.description>{0}無聊透頂。大家都覺得不好意思開口笑。</FertilityRitualOutcome.outcomeChances.1.description>
+
+  <FertilityRitualOutcome.outcomeChances.2.label>有趣</FertilityRitualOutcome.outcomeChances.2.label>
+  <FertilityRitualOutcome.outcomeChances.2.description>{0}令人滿意。每個人都很高興有機會一起放鬆和享受樂趣。</FertilityRitualOutcome.outcomeChances.2.description>
+  <FertilityRitualOutcome.outcomeChances.2.potentialExtraOutcomeDesc>有 5% 的機率其中一位參加者會獲得靈感。</FertilityRitualOutcome.outcomeChances.2.potentialExtraOutcomeDesc>
+
+  <FertilityRitualOutcome.outcomeChances.3.label>難忘</FertilityRitualOutcome.outcomeChances.3.label>
+  <FertilityRitualOutcome.outcomeChances.3.description>{0}太棒了！每個人都互相了解，感覺就像一家人。</FertilityRitualOutcome.outcomeChances.3.description>
+  <FertilityRitualOutcome.outcomeChances.3.potentialExtraOutcomeDesc>有 5% 的機率其中一位參加者會獲得靈感。</FertilityRitualOutcome.outcomeChances.3.potentialExtraOutcomeDesc>
+</LanguageData>

@@ -20,6 +20,8 @@
     <li IfModActive="rimworld.ekss.rjwex">Clothing/Bondage, Accessories/rimworld.ekss.rjwex</li>
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
+    <li IfModActive="c0ffee.rjw.ideologyaddons">DLC Support/Ideology/c0ffee.rjw.ideologyaddons_akaster.equalmilking</li>
+    <li IfModActive="c0ffee.rjw.ideologyaddons">DLC Support/Ideology/c0ffee.rjw.ideologyaddons_c0ffee.rjw.events</li>
     <li IfModActive="c0ffee.rjw.events">DLC Support/Ideology/c0ffee.rjw.events</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_ideology</li>
@@ -81,7 +83,5 @@
     -->
     <li IfModActive="ed86.rjwia">Legacy/ed86.rjwia</li>
     <li IfModActive="lustlicentia.rjwlabs">Legacy/lustlicentia.rjwlabs</li>
-    <li IfModActive="c0ffee.rjw.ideologyaddons">Legacy/c0ffee.rjw.ideologyaddons_rjw.milk.humanoid</li>
-    <li IfModActive="c0ffee.rjw.ideologyaddons">Legacy/c0ffee.rjw.ideologyaddons_c0ffee.rjw.events</li>
   </default>
 </loadFolders>
