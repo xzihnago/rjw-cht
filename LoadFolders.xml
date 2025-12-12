@@ -20,13 +20,13 @@
     <li IfModActive="rimworld.ekss.rjwex">Clothing/Bondage, Accessories/rimworld.ekss.rjwex</li>
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
+    <li IfModActive="rjw.sexperience.ideology">DLC Support/Ideology/rjw.sexperience.ideology</li>
     <li IfModActive="c0ffee.rjw.ideologyaddons">DLC Support/Ideology/c0ffee.rjw.ideologyaddons_akaster.equalmilking</li>
     <li IfModActive="c0ffee.rjw.ideologyaddons">DLC Support/Ideology/c0ffee.rjw.ideologyaddons_c0ffee.rjw.events</li>
     <li IfModActive="c0ffee.rjw.events">DLC Support/Ideology/c0ffee.rjw.events</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_ideology</li>
     <li IfModActive="calamabanana.rjw.brothelcolony">DLC Support/Ideology/calamabanana.rjw.brothelcolony_biotech</li>
-    <li IfModActive="rjw.sexperience.ideology">DLC Support/Ideology/rjw.sexperience.ideology</li>
     <!-- Biotech -->
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes</li>
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_vegapnk.cumpilation</li>
@@ -72,16 +72,13 @@
     <li IfModActive="vegapnk.rjw.genes">DLC Support/Biotech/vegapnk.rjw.genes_lustlicentia.rjwlabs</li>
     <!-- =========================================== More RJW Mechanics =========================================== -->
     <!-- Larger Add-ons -->
+    <li IfModActive="lustlicentia.rjwlabs">More RJW Mechanics/Larger Add-ons/lustlicentia.rjwlabs</li>
     <li IfModActive="lustlicentiastretch.rjwlabs">More RJW Mechanics/Larger Add-ons/lustlicentiastretch.rjwlabs</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">More RJW Mechanics/Larger Add-ons/rjw.sexperience_rjw.cum</li>
     <li IfModActive="rjw.sexperience" IfModNotActive="vegapnk.cumpilation">More RJW Mechanics/Larger Add-ons/rjw.sexperience_vegapnk.cumpilation</li>
+    <!-- Smaller Add-Ons -->
+    <li IfModActive="ed86.rjwia">More RJW Mechanics/Smaller Add-Ons/ed86.rjwia</li>
     <!-- Cum and Milk -->
     <li IfModActive="rjw.milk.humanoid">More RJW Mechanics/Cum and Milk/rjw.milk.humanoid</li>
-
-    <!--
-    MARK: Legacy
-    -->
-    <li IfModActive="ed86.rjwia">Legacy/ed86.rjwia</li>
-    <li IfModActive="lustlicentia.rjwlabs">Legacy/lustlicentia.rjwlabs</li>
   </default>
 </loadFolders>

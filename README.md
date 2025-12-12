@@ -3,9 +3,10 @@
 RJW 與部分附加模組的中文化。<br />
 目標是提供 RJW 與附加模組之間翻譯風格的一致性，以及與官方社群繁體中文用詞盡可能貼近的翻譯。
 
-### 維護中的模組
+### 支援模組
 
-可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題請提出。
+可能有翻譯錯誤、詞不達意或用詞不一致的情況，若有問題請提出。<br />
+模組名前標註版本號為該已損壞模組之最後支援版本，詳情參閱 RJW Wiki 附加模組列表。
 
 | 模組（1.6）                                                                          | 版本      | 狀態                         |
 | ------------------------------------------------------------------------------------ | --------- | ---------------------------- |
@@ -41,20 +42,13 @@ RJW 與部分附加模組的中文化。<br />
 | Race Mods                                                                            |           |                              |
 | [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                    | `5437134` | 完整（部分跨模組支援未翻譯） |
 
-| 模組（1.5）                                                                                         | 版本     | 狀態 |
-| --------------------------------------------------------------------------------------------------- | -------- | ---- |
-| More RJW Mechanics                                                                                  |          |      |
-| [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed` | 完整 |
-| [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `4f7061` | 完整 |
-
-### 已過時的模組
-
-參閱 RJW Wiki 附加模組列表，不提供更新與修正。
-
-| 模組                                                                       | 版本     | 狀態 |
-| -------------------------------------------------------------------------- | -------- | ---- |
-| [RimJobWorld - Interaction Addon](https://gitgud.io/Ed86/rjw-ia)           | `13b209` | 完整 |
-| [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs) | `938d07` | 完整 |
+| 模組（1.5）                                                                                         | 版本      | 狀態 |
+| --------------------------------------------------------------------------------------------------- | --------- | ---- |
+| More RJW Mechanics                                                                                  |           |      |
+| `1.5RJW5.4` [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs)              | `938d073` | 完整 |
+| [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed3` | 完整 |
+| `1.5RJW5.4` [RimJobWorld - Interaction Addon](https://gitgud.io/Ed86/rjw-ia)                        | `13b2091` | 完整 |
+| [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `6566b74` | 完整 |
 
 # 參閱
 
