@@ -8,4 +8,22 @@
   <Hediff_Cum.stages.some.label>些許</Hediff_Cum.stages.some.label>
   <Hediff_Cum.stages.dripping.label>淋漓</Hediff_Cum.stages.dripping.label>
   <Hediff_Cum.stages.drenched.label>濕透</Hediff_Cum.stages.drenched.label>
+
+  <Hediff_InsectSpunk.label>蟲精</Hediff_InsectSpunk.label>
+  <Hediff_InsectSpunk.labelNoun>蟲精</Hediff_InsectSpunk.labelNoun>
+  <Hediff_InsectSpunk.description>蟲精。</Hediff_InsectSpunk.description>
+  <Hediff_InsectSpunk.labelNounPretty>{1}上的蟲精</Hediff_InsectSpunk.labelNounPretty>
+  <Hediff_InsectSpunk.stages.little.label>少量</Hediff_InsectSpunk.stages.little.label>
+  <Hediff_InsectSpunk.stages.some.label>些許</Hediff_InsectSpunk.stages.some.label>
+  <Hediff_InsectSpunk.stages.dripping.label>淋漓</Hediff_InsectSpunk.stages.dripping.label>
+  <Hediff_InsectSpunk.stages.drenched.label>濕透</Hediff_InsectSpunk.stages.drenched.label>
+
+  <Hediff_MechaFluids.label>機械液</Hediff_MechaFluids.label>
+  <Hediff_MechaFluids.labelNoun>機械液</Hediff_MechaFluids.labelNoun>
+  <Hediff_MechaFluids.description>機械液。</Hediff_MechaFluids.description>
+  <Hediff_MechaFluids.labelNounPretty>{1}上的機械液</Hediff_MechaFluids.labelNounPretty>
+  <Hediff_MechaFluids.stages.little.label>少量</Hediff_MechaFluids.stages.little.label>
+  <Hediff_MechaFluids.stages.some.label>些許</Hediff_MechaFluids.stages.some.label>
+  <Hediff_MechaFluids.stages.dripping.label>淋漓</Hediff_MechaFluids.stages.dripping.label>
+  <Hediff_MechaFluids.stages.drenched.label>濕透</Hediff_MechaFluids.stages.drenched.label>
 </LanguageData>
