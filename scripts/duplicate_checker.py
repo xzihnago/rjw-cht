@@ -1,9 +1,12 @@
 from collections import defaultdict
+import json
 import os
+import pathlib
 import re
 from xml.etree import ElementTree
 
-lang = re.compile(r"[\./\w]+/Languages/")
+script_dir = pathlib.Path(__file__).parent.resolve()
+lang_folder = re.compile(r".+/Languages/")
 
 
 def file_iter():
@@ -11,8 +14,9 @@ def file_iter():
         (root_unix, files)
         for root, _, files in os.walk(".")
         if (root_unix := root.replace("\\", "/"))
-        and not root_unix.startswith(("./git", "./legacy"))
-        and lang.match(root_unix)
+        and not root_unix.startswith(("./git"))
+        and all(ignore not in root_unix for ignore in ignore_list)
+        and lang_folder.match(root_unix)
         and files
     )
 
@@ -21,7 +25,7 @@ def build_file_tree():
     file_tree: defaultdict[str, list[str]] = defaultdict(list)
 
     for root, files in file_iter():
-        defs = lang.sub("", root)
+        defs = lang_folder.sub("", root)
         for file in files:
             file_tree[f"{defs}/{file}"].append(f"{root}/{file}")
 
@@ -32,7 +36,7 @@ def build_def_tree():
     def_tree: defaultdict[str, list[tuple[str, str]]] = defaultdict(list)
 
     for root, files in file_iter():
-        defs = lang.sub("", root)
+        defs = lang_folder.sub("", root)
         for file in filter(lambda f: f.endswith(".xml"), files):
             path = f"{root}/{file}"
             tree = ElementTree.parse(path)
@@ -73,6 +77,9 @@ def check_duplicate_defs():
                         print(f"    {path}")
             print()
 
+
+with open(f"{script_dir}/duplicate_checker_ignore.json", "r", encoding="utf-8") as f:
+    ignore_list = json.load(f)
 
 check_duplicate_file()
 check_duplicate_defs()
