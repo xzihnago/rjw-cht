@@ -86,10 +86,10 @@
   <RSOption_EnableSexHistory_Desc>* 需要重新啟動遊戲\n\n啟用性經歷窗口，啟用該窗口的訊息收集與訊息的保存 / 加載。還會在人物的記錄中啟用性伴侶計數。\n\n[警告] 在中途存檔禁用此選項將導致以前收集的歷史記錄丟失。</RSOption_EnableSexHistory_Desc>
   <RSOption_HideGizmoWhenDrafted_Label>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Label>
   <RSOption_HideGizmoWhenDrafted_Desc>在人物被徵招時隱藏性經歷按鈕</RSOption_HideGizmoWhenDrafted_Desc>
-  <RSOption_VirginityCheck_M2M_Label>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Label>
-  <RSOption_VirginityCheck_M2M_Desc>肛交移除貞操（適用於男性/男性）</RSOption_VirginityCheck_M2M_Desc>
-  <RSOption_VirginityCheck_F2F_Label>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Label>
-  <RSOption_VirginityCheck_F2F_Desc>剪刀式移除貞操（適用於女性/女性）</RSOption_VirginityCheck_F2F_Desc>
+  <RSOption_VirginityCheck_M2M_Label>肛交移除貞操（適用於男性／男性）</RSOption_VirginityCheck_M2M_Label>
+  <RSOption_VirginityCheck_M2M_Desc>肛交移除貞操（適用於男性／男性）</RSOption_VirginityCheck_M2M_Desc>
+  <RSOption_VirginityCheck_F2F_Label>剪刀式移除貞操（適用於女性／女性）</RSOption_VirginityCheck_F2F_Label>
+  <RSOption_VirginityCheck_F2F_Desc>剪刀式移除貞操（適用於女性／女性）</RSOption_VirginityCheck_F2F_Desc>
 
   <!-- Mod settings: Sex records -->
   <RsDialog_ChooseColor_Title>選擇{0}的色彩</RsDialog_ChooseColor_Title>

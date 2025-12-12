@@ -134,7 +134,7 @@
   <Option_PregnancyFromBaseRJW_Label>使用 RJW 基本妊娠</Option_PregnancyFromBaseRJW_Label>
   <Option_PregnancyFromMultiplePregnancy_Label>使用本模組多胎妊娠</Option_PregnancyFromMultiplePregnancy_Label>
   <Option_PregnancyFromBiotech_Label>使用 Biotech 妊娠</Option_PregnancyFromBiotech_Label>
-  <Option_EnableBiotechTwins_Label>啟用單一 Biotech 妊娠產出多胞胎/雙胞胎。</Option_EnableBiotechTwins_Label>
+  <Option_EnableBiotechTwins_Label>啟用單一 Biotech 妊娠產出多胞胎／雙胞胎。</Option_EnableBiotechTwins_Label>
   <Option_EnableBiotechTwins_Desc>啟用此選項將允許使用 Biotech 妊娠生產同卵與異卵雙胞胎。&#10;也會啟用雜交系統，但兩個類人生物不能產生動物。</Option_EnableBiotechTwins_Desc>
   <Option_EnableDraftedIcon_Label>徵召時顯示子宮狀態</Option_EnableDraftedIcon_Label>
   <Option_EnableDraftedIcon_Desc>人物處於徵召狀態時，繪製子宮圖示</Option_EnableDraftedIcon_Desc>

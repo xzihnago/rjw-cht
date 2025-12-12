@@ -17,7 +17,7 @@
   <NymphSappers>流鶯工兵</NymphSappers>
   <NymphSappers_desc>咚咚咚！我能聞到你在門後的發情氣味！你可以跑，但你無處可躲！</NymphSappers_desc>
   <NymphFrustratedRape>流鶯性飢渴時強暴。</NymphFrustratedRape>
-  <NymphFrustratedRape_desc>當流鶯感到性飢渴並且沒有伴侶時，她們會隨機強暴某人/某物。</NymphFrustratedRape_desc>
+  <NymphFrustratedRape_desc>當流鶯感到性飢渴並且沒有伴侶時，她們會隨機強暴某人／某物。</NymphFrustratedRape_desc>
 
   <FemaleFuta>允許扶他</FemaleFuta>
   <FemaleFuta_desc>生成女性時帶有陰莖。</FemaleFuta_desc>
@@ -157,11 +157,11 @@
   <StackRjwParts_name>RJW 器官堆疊顯示</StackRjwParts_name>
   <StackRjwParts_desc>將 RJW 器官堆疊顯示在人物「健康」分頁中（器官名x數量）</StackRjwParts_desc>
   <maxDistanceCellsCasual_name>性交距離（地圖格）</maxDistanceCellsCasual_name>
-  <maxDistanceCellsCasual_desc>到達目的地/目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsCasual_desc>
+  <maxDistanceCellsCasual_desc>到達目的地／目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsCasual_desc>
   <maxDistanceCellsRape_name>強姦距離（地圖格）</maxDistanceCellsRape_name>
-  <maxDistanceCellsRape_desc>到達目的地/目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsRape_desc>
+  <maxDistanceCellsRape_desc>到達目的地／目標所需的最大距離。\n\n快速計算距離 - 忽略障礙物（如墻、山）。\n預設值為 100</maxDistanceCellsRape_desc>
   <maxDistancePathCost_name>性交距離（路徑）</maxDistancePathCost_name>
-  <maxDistancePathCost_desc>人物 AI 爲了到達性交目的地/目標而考慮的最大距離。對障礙物，人物速度與地形的影響進行緩慢複雜的計算。\n預設值為 1000\n0 - 停用檢查</maxDistancePathCost_desc>
+  <maxDistancePathCost_desc>人物 AI 爲了到達性交目的地／目標而考慮的最大距離。對障礙物，人物速度與地形的影響進行緩慢複雜的計算。\n預設值為 1000\n0 - 停用檢查</maxDistancePathCost_desc>
 
   <!-- cheat stuff-->
   <override_RJW_designation_checks_name>忽略 RJW 按鈕限制</override_RJW_designation_checks_name>
