@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GenitalDud.label>生殖器缺陷</GenitalDud.label>
+  <GenitalDud.labelNoun>生殖器缺陷</GenitalDud.labelNoun>
+  <GenitalDud.description>假生殖器會在人物生成後迅速從雌雄同體人物身上消失，使角色最終成為純粹的女性或男性。你也不應該看到這個，所以請關閉開發者模式或不要在意。</GenitalDud.description>
+  <GenitalDud.stages.0.label>饢。</GenitalDud.stages.0.label>
+</LanguageData>

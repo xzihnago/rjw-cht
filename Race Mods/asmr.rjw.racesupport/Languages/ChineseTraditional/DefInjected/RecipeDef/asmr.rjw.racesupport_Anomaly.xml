@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexReassignmentPBioferritePenis.label>安裝生化鐵氧體陰莖</SexReassignmentPBioferritePenis.label>
+  <SexReassignmentPBioferritePenis.description>安裝陰莖，替換同部位器官。</SexReassignmentPBioferritePenis.description>
+  <SexReassignmentPBioferritePenis.jobString>安裝陰莖</SexReassignmentPBioferritePenis.jobString>
+
+  <SexReassignmentVBioferriteVagina.label>安裝生化鐵氧體陰道</SexReassignmentVBioferriteVagina.label>
+  <SexReassignmentVBioferriteVagina.description>安裝陰道，替換同部位器官。</SexReassignmentVBioferriteVagina.description>
+  <SexReassignmentVBioferriteVagina.jobString>安裝陰道</SexReassignmentVBioferriteVagina.jobString>
+
+  <AnalSurgeryBioferriteAnus.label>安裝生化鐵氧體肛門</AnalSurgeryBioferriteAnus.label>
+  <AnalSurgeryBioferriteAnus.description>安裝肛門，替換同部位器官。</AnalSurgeryBioferriteAnus.description>
+  <AnalSurgeryBioferriteAnus.jobString>安裝肛門</AnalSurgeryBioferriteAnus.jobString>
+
+  <MultiPenisBioferritePenis.label>加裝生化鐵氧體陰莖</MultiPenisBioferritePenis.label>
+  <MultiPenisBioferritePenis.description>加裝額外的陰莖。</MultiPenisBioferritePenis.description>
+  <MultiPenisBioferritePenis.jobString>加裝陰莖</MultiPenisBioferritePenis.jobString>
+
+  <MultiVaginaBioferriteVagina.label>加裝生化鐵氧體陰道</MultiVaginaBioferriteVagina.label>
+  <MultiVaginaBioferriteVagina.description>加裝額外的陰道。</MultiVaginaBioferriteVagina.description>
+  <MultiVaginaBioferriteVagina.jobString>加裝陰道</MultiVaginaBioferriteVagina.jobString>
+
+  <MultiAnusBioferriteAnus.label>加裝生化鐵氧體肛門</MultiAnusBioferriteAnus.label>
+  <MultiAnusBioferriteAnus.description>加裝額外的肛門。</MultiAnusBioferriteAnus.description>
+  <MultiAnusBioferriteAnus.jobString>加裝肛門</MultiAnusBioferriteAnus.jobString>
+</LanguageData>
