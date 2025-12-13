@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AKTBikini.label>比基尼上衣</AKTBikini.label>
+  <AKTBikini.description>一款簡約但不失性感的比基尼。讓你在夏天保持涼爽。</AKTBikini.description>
+
+  <AKTBikiniFur.label>毛絨比基尼上衣</AKTBikiniFur.label>
+  <AKTBikiniFur.description>一款簡約但不失性感的比基尼。它採用皮草面料，更加保暖。</AKTBikiniFur.description>
+
+  <AKTBikiniArmour.label>比基尼盔甲</AKTBikiniArmour.label>
+  <AKTBikiniArmour.description>一套造型性感的板甲。它的防護性能為何如此出色至今仍是個謎。</AKTBikiniArmour.description>
+
+  <AKTBikiniB.label>比基尼下裝</AKTBikiniB.label>
+  <AKTBikiniB.description>一款簡約但不失性感的比基尼丁字褲。讓你在夏天保持涼爽。</AKTBikiniB.description>
+
+  <AKTBikiniFurB.label>毛絨比基尼下裝</AKTBikiniFurB.label>
+  <AKTBikiniFurB.description>一款簡約但不失性感的毛絨比基尼丁字褲，幫助你保持溫暖。</AKTBikiniFurB.description>
+
+  <AKTBikiniArmourB.label>比基尼盔甲下裝</AKTBikiniArmourB.label>
+  <AKTBikiniArmourB.description>一套造型性感的板甲。它的防護性能為何如此出色至今仍是個謎。</AKTBikiniArmourB.description>
+
+  <AKTPlateShoulders.label>聖騎士肩甲</AKTPlateShoulders.label>
+  <AKTPlateShoulders.description>以某款 20 級盔甲套裝為原型設計的華麗肩甲。</AKTPlateShoulders.description>
+
+  <AKTLeggings.label>緊身打底褲</AKTLeggings.label>
+  <AKTLeggings.description>緊身低腰打底褲。這件現代時尚單品，不知為何能讓任何臀部看起來更翹。</AKTLeggings.description>
+
+  <AKTJEans.label>低腰牛仔褲</AKTJEans.label>
+  <AKTJEans.description>一條低腰牛仔褲，讓你露出內褲。</AKTJEans.description>
+
+  <AKTLeggingsM.label>緊身打底褲（中層）</AKTLeggingsM.label>
+  <AKTLeggingsM.description>緊身低腰打底褲。這件現代時尚單品，不知為何能讓任何臀部看起來更翹。</AKTLeggingsM.description>
+
+  <AKTJEansM.label>低腰牛仔褲（中層）</AKTJEansM.label>
+  <AKTJEansM.description>一條低腰牛仔褲，讓你露出內褲。</AKTJEansM.description>
+
+  <AKTCropTop.label>露臍上衣</AKTCropTop.label>
+  <AKTCropTop.description>一件只遮住上半身的短版襯衫，遮蓋面積很小。</AKTCropTop.description>
+
+  <AKTTubetop.label>無肩帶背心</AKTTubetop.label>
+  <AKTTubetop.description>一件無肩帶的露臍背心，遮蓋面積很小。</AKTTubetop.description>
+
+  <AKTStringkini.label>吊帶比基尼</AKTStringkini.label>
+  <AKTStringkini.description>一件式吊帶比基尼，遮不了多少地方。</AKTStringkini.description>
+</LanguageData>

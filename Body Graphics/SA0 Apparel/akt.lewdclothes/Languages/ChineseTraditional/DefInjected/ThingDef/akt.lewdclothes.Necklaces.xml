@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AKTNecklaceA.label>圓盤吊墜</AKTNecklaceA.label>
+  <AKTNecklaceA.description>一個飾有圓形圓盤的小吊墜，可以恰到好處地貼在殖民者的胸前。</AKTNecklaceA.description>
+
+  <AKTNecklaceAmid.label>圓盤吊墜（中層）</AKTNecklaceAmid.label>
+  <AKTNecklaceAmid.description>一個飾有圓形圓盤的小吊墜，可以恰到好處地貼在殖民者的胸前。</AKTNecklaceAmid.description>
+
+  <AKTNecklaceB.label>長條吊墜</AKTNecklaceB.label>
+  <AKTNecklaceB.description>一條有長方形裝飾物的項鍊，可以掛在殖民者胸前。</AKTNecklaceB.description>
+
+  <AKTNecklaceBmid.label>長條吊墜（中層）</AKTNecklaceBmid.label>
+  <AKTNecklaceBmid.description>一條有長方形裝飾物的項鍊，可以掛在殖民者胸前。</AKTNecklaceBmid.description>
+
+  <AKTNecklaceC.label>圓環吊墜</AKTNecklaceC.label>
+  <AKTNecklaceC.description>一條項鍊，上面掛著一個大圓環。</AKTNecklaceC.description>
+
+  <AKTNecklaceCmid.label>圓環吊墜（中層）</AKTNecklaceCmid.label>
+  <AKTNecklaceCmid.description>一條項鍊，上面掛著一個大圓環。</AKTNecklaceCmid.description>
+
+  <AKTNecklaceD.label>十字吊墜</AKTNecklaceD.label>
+  <AKTNecklaceD.description>一條十字架形狀的項鍊，掛在一條細鍊子上。</AKTNecklaceD.description>
+
+  <AKTNecklaceDmid.label>十字吊墜（中層）</AKTNecklaceDmid.label>
+  <AKTNecklaceDmid.description>一條十字架形狀的項鍊，掛在一條細鍊子上。</AKTNecklaceDmid.description>
+</LanguageData>
