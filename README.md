@@ -18,6 +18,7 @@ RJW 與部分附加模組的中文化。<br />
 | Body Graphics                                                                        |           |                              |
 | [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero) | `10f6384` | 補全（紋身）                 |
 | [AKT_LewdClothes](https://gitgud.io/TeH_Dav/akt-lewd-clothes)                        | `d8d5d1a` | 完整                         |
+| [RJW QA LewdClothes](https://gitgud.io/TeH_Dav/qa-lewd-clothes)                      | `1a7da19` | 完整                         |
 | [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)  | `a3130e2` | 完整                         |
 | Clothing                                                                             |           |                              |
 | [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                  | `cfe5b29` | 完整                         |

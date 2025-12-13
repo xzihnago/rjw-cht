@@ -15,6 +15,7 @@
     <li IfModActive="otyoty.sizedapparel">Body Graphics/Sized Apparel Zero/otyoty.sizedapparel</li>
     <!-- SA0 Apparel -->
     <li IfModActive="akt.lewdclothes">Body Graphics/SA0 Apparel/akt.lewdclothes</li>
+    <li IfModActive="qa.lewdclothes">Body Graphics/SA0 Apparel/qa.lewdclothes</li>
     <li IfModActive="hehehew.sizedapparelforslaves">Body Graphics/SA0 Apparel/hehehew.sizedapparelforslaves</li>
     <!-- ===========================================      Clothing      =========================================== -->
     <!-- Bondage, Accessories -->
