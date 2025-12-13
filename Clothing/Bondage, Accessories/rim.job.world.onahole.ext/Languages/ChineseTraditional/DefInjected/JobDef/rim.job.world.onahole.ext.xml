@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BeOnahole.reportString>成為肉便器</BeOnahole.reportString>
+  <BindOnahole.reportString>束縛TargetA</BindOnahole.reportString>
+  <RefillDrugInfuser.reportString>補充TargetA</RefillDrugInfuser.reportString>
+  <RefillFeederFood.reportString>補充TargetA的自動餵食器</RefillFeederFood.reportString>
+  <UnbindOnahole.reportString>釋放肉便器</UnbindOnahole.reportString>
+  <UseOnahole.reportString>使用肉便器TargetA</UseOnahole.reportString>
+</LanguageData>

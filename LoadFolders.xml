@@ -20,6 +20,7 @@
     <!-- ===========================================      Clothing      =========================================== -->
     <!-- Bondage, Accessories -->
     <li IfModActive="rimworld.ekss.rjwex">Clothing/Bondage, Accessories/rimworld.ekss.rjwex</li>
+    <li IfModActive="rim.job.world.onahole.ext">Clothing/Bondage, Accessories/rim.job.world.onahole.ext</li>
     <!-- ===========================================    DLC Support     =========================================== -->
     <!-- Ideology -->
     <li IfModActive="rjw.sexperience.ideology">DLC Support/Ideology/rjw.sexperience.ideology</li>

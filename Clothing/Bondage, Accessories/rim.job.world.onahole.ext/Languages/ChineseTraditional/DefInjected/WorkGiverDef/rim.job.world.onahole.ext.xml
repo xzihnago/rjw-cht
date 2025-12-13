@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RefillFeederFood.label>補充自動餵食器</RefillFeederFood.label>
+  <RefillFeederFood.gerund>補充食物於</RefillFeederFood.gerund>
+  <RefillFeederFood.verb>補充食物於</RefillFeederFood.verb>
+
+  <RefillDrugInfuser.label>補充藥物注入器</RefillDrugInfuser.label>
+  <RefillDrugInfuser.gerund>補充藥物於</RefillDrugInfuser.gerund>
+  <RefillDrugInfuser.verb>補充藥物於</RefillDrugInfuser.verb>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OnaholeCross.label>十字架</OnaholeCross.label>
+  <OnaholeCross.description>綑綁囚犯的十字架。</OnaholeCross.description>
+
+  <OnaholeGoddessStatue.label>女神雕像</OnaholeGoddessStatue.label>
+  <OnaholeGoddessStatue.description>一個女神的雕像。</OnaholeGoddessStatue.description>
+
+  <OnaholeHanger.label>掛架</OnaholeHanger.label>
+  <OnaholeHanger.description>將囚犯吊在金屬掛架上。</OnaholeHanger.description>
+
+  <OnaholeHorseMount.label>三角木馬</OnaholeHorseMount.label>
+  <OnaholeHorseMount.description>將囚犯用鎖鏈吊在三角木馬上。</OnaholeHorseMount.description>
+
+  <OnaholeIronMaiden.label>鐵處女</OnaholeIronMaiden.label>
+  <OnaholeIronMaiden.description>將囚犯用鎖鏈綁在金屬框架上。</OnaholeIronMaiden.description>
+
+  <OnaholeMetalFrame.label>金屬框</OnaholeMetalFrame.label>
+  <OnaholeMetalFrame.description>將囚犯用鎖鏈綁在金屬框架上。</OnaholeMetalFrame.description>
+
+  <OnaholePillory.label>頸手枷</OnaholePillory.label>
+  <OnaholePillory.description>將囚犯綁在頸手枷上。</OnaholePillory.description>
+
+  <OnaholePole.label>立桿</OnaholePole.label>
+  <OnaholePole.description>將囚犯用鎖鏈綁在立桿上。</OnaholePole.description>
+</LanguageData>

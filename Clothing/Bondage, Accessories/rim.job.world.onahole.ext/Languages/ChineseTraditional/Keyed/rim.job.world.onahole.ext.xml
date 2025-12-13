@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RJW_Onahole>RJW 肉便器</RJW_Onahole>
+  <RJW_Onahole_Settings>肉便器</RJW_Onahole_Settings>
+  <RJW_Onahole_Free>免費</RJW_Onahole_Free>
+  <RJW_Onahole_CustomTransforms>自訂紋理偏移</RJW_Onahole_CustomTransforms>
+  <RJW_Onahole_ForGuestUse_Desc>允許訪客使用肉便器，若價格不為 0，訪客將付費使用。</RJW_Onahole_ForGuestUse_Desc>
+  <RJW_Onahole_ForAnimalUse_Desc>允許動物使用肉便器，此設定將覆蓋 RJW 設定</RJW_Onahole_ForAnimalUse_Desc>
+  <RJW_Onahole_ForInsectUse_Desc>允許昆蟲使用肉便器，此設定將覆蓋 RJW 設定</RJW_Onahole_ForInsectUse_Desc>
+  <RJW_Onahole_ForMechanoidUse_Desc>允許機械族使用肉便器。若因殖民地機械族而懷孕，寶寶將自動被駭入</RJW_Onahole_ForMechanoidUse_Desc>
+  <RJW_Onahole_GenitalElectrodes_Desc>在生殖器區域貼上電極\n關閉：僅外觀\n刺激：少量快感\n疼痛：大量快感，伴隨強烈疼痛阻止睡眠\n灼燒：少量快感，伴隨對生殖器的直接傷害，可能導致流產</RJW_Onahole_GenitalElectrodes_Desc>
+  <RJW_Onahole_BreastElectrodes_Desc>在乳房貼上電極，加速泌乳\n關閉：僅外觀\n刺激：小幅提升\n疼痛：中度提升，伴隨強烈疼痛阻止睡眠\n灼燒：大幅提升，伴隨對乳房的直接傷害</RJW_Onahole_BreastElectrodes_Desc>
+  <RJW_Onahole_SexMachine_Desc>將飛機杯安裝到陰莖上</RJW_Onahole_SexMachine_Desc>
+  <RJW_Onahole_VaginalSexMachine_Desc>將陰道炮機安裝到肉便器上</RJW_Onahole_VaginalSexMachine_Desc>
+  <RJW_Onahole_AnalSexMachine_Desc>將肛門炮機安裝到肉便器上</RJW_Onahole_AnalSexMachine_Desc>
+  <RJW_Onahole_MilkingMachine_Desc>將擠乳機安裝到肉便器上，較高的速度設定會對乳房造成更多疼痛</RJW_Onahole_MilkingMachine_Desc>
+  <RJW_Onahole_CumCollector>精液收集器</RJW_Onahole_CumCollector>
+  <RJW_Onahole_CumCollector_Desc>從肉便器收集精液</RJW_Onahole_CumCollector_Desc>
+  <RJW_Onahole_AutoFeeder_Desc>自動使用指定的食物和液體餵食肉便器</RJW_Onahole_AutoFeeder_Desc>
+  <RJW_Onahole_DrugInfuser>藥物注入器</RJW_Onahole_DrugInfuser>
+  <RJW_Onahole_DrugInfuser_Desc>自動使用儲存的藥物來滿足肉便器的藥物需求或維持藥物效果</RJW_Onahole_DrugInfuser_Desc>
+  <RJW_Onahole_AllowAutoRefill>允許自動填充</RJW_Onahole_AllowAutoRefill>
+  <RJW_Onahole_SetTargetLevel>設定填充目標量</RJW_Onahole_SetTargetLevel>
+  <RJW_Onahole_EditTransform>編輯偏移</RJW_Onahole_EditTransform>
+  <RJW_Onahole_EditTransform_Desc>編輯特定紋理的偏移，用於修正錯位的紋理</RJW_Onahole_EditTransform_Desc>
+  <RJW_Onahole_DesignateColonyUsers>指定殖民者</RJW_Onahole_DesignateColonyUsers>
+  <RJW_Onahole_DesignateColonyUsers_Desc>指定哪些殖民者可以使用肉便器，若未指定則所有人皆可使用</RJW_Onahole_DesignateColonyUsers_Desc>
+  <RJW_Onahole_Unbind>解除束縛</RJW_Onahole_Unbind>
+  <RJW_Onahole_Bind>束縛</RJW_Onahole_Bind>
+  <RJW_Onahole_HaulCoolDownTicks>肉便器建築收穫冷卻時間（Tick）</RJW_Onahole_HaulCoolDownTicks>
+  <RJW_Onahole_MaxFluidStorage>最大液體儲存量（毫升）</RJW_Onahole_MaxFluidStorage>
+  <RJW_Onahole_AppraiseMultiplier>肉便器評價倍率</RJW_Onahole_AppraiseMultiplier>
+  <RJW_Onahole_AppraiseOffset>肉便器評價偏移量</RJW_Onahole_AppraiseOffset>
+  <RJW_Onahole_PriceAppraiseZero>評價為零時的肉便器價格</RJW_Onahole_PriceAppraiseZero>
+  <RJW_Onahole_PriceAppraiseOne>評價為一時的肉便器價格</RJW_Onahole_PriceAppraiseOne>
+  <RJW_Onahole_Offset>偏移</RJW_Onahole_Offset>
+  <RJW_Onahole_Scale>縮放</RJW_Onahole_Scale>
+  <RJW_Onahole_Stimulate>刺激</RJW_Onahole_Stimulate>
+  <RJW_Onahole_FluidStorage>液體儲存</RJW_Onahole_FluidStorage>
+  <RJW_Onahole_ChangeBindStyle>更改束縛風格</RJW_Onahole_ChangeBindStyle>
+  <RJW_Onahole_OnaholeBedStorage>儲存</RJW_Onahole_OnaholeBedStorage>
+  <RJW_Onahole_StripOnBind>束縛時脫光肉便器</RJW_Onahole_StripOnBind>
+  <RJW_Onahole_UseReduceResistance>使用肉便器時降低反抗</RJW_Onahole_UseReduceResistance>
+  <RJW_Onahole_OrgasmReduceWill>高潮時降低意志</RJW_Onahole_OrgasmReduceWill>
+  <RJW_Onahole_OrgasmReduceCertainty>高潮時降低感悟</RJW_Onahole_OrgasmReduceCertainty>
+  <RJW_Onahole_MachineBlocksParts>機器阻擋部位進行性行為</RJW_Onahole_MachineBlocksParts>
+  <RJW_Onahole_ShowCrossSections>顯示橫截面</RJW_Onahole_ShowCrossSections>
+  <RJW_Onahole_ShowExtraGraphics>顯示額外圖形</RJW_Onahole_ShowExtraGraphics>
+  <RJW_Onahole_Show>顯示</RJW_Onahole_Show>
+  <RJW_Onahole_SetRestriction>允許/禁止使用肉便器</RJW_Onahole_SetRestriction>
+  <RJW_Onahole_Feed>餵食肉便器</RJW_Onahole_Feed>
+  <RJW_Onahole_CantFeed>無營養價值，無法餵食</RJW_Onahole_CantFeed>
+  <RJW_Onahole_AutoConvert>轉換為物品並儲存</RJW_Onahole_AutoConvert>
+  <RJW_Onahole_Destroy>銷毀</RJW_Onahole_Destroy>
+  <RJW_Onahole_NoConvertibleItem>無可轉換物品</RJW_Onahole_NoConvertibleItem>
+  <RJW_Onahole_AutoCapture_Desc>自動捕捉周圍敵人並束縛他們</RJW_Onahole_AutoCapture_Desc>
+  <!-- Enums -->
+  <RJW_Onahole_Factionless>無派系</RJW_Onahole_Factionless>
+  <RJW_Onahole_Insect>昆蟲</RJW_Onahole_Insect>
+  <!-- Messages -->
+  <RJW_Onahole_QuitRaiding>{0}的{1}使用了肉便器{2}後筋疲力盡，無法繼續突襲並決定離開</RJW_Onahole_QuitRaiding>
+  <!-- Defeat -->
+  <RJW_Onahole_Defeat>戰敗</RJW_Onahole_Defeat>
+  <RJW_Onahole_DontDefeatMode>無戰敗效果</RJW_Onahole_DontDefeatMode>
+  <RJW_Onahole_DontDefeatMode_Desc>如果你不想看到殖民者被睡走，可以透過啟動此選項，僅在據點中安裝肉便器房間。</RJW_Onahole_DontDefeatMode_Desc>
+  <RJW_Onahole_CarryToBed>搬到床上</RJW_Onahole_CarryToBed>
+  <RJW_Onahole_CarryToBed_Desc>如果肉便器不足，敵人會將殖民者搬到據點中的床上。</RJW_Onahole_CarryToBed_Desc>
+  <RJW_Onahole_CarryToBedOnly>僅搬到床上</RJW_Onahole_CarryToBedOnly>
+  <RJW_Onahole_CarryToBedOnly_Desc>如果你因為某種原因只想將居民運送到床上，請啟用此選項。</RJW_Onahole_CarryToBedOnly_Desc>
+  <RJW_Onahole_InfinityDefeat>無限戰敗</RJW_Onahole_InfinityDefeat>
+  <RJW_Onahole_InfinityDefeat_Desc>移除戰敗效果的時間限制。\n\n（注意：直到所有殖民者死亡才會停止）</RJW_Onahole_InfinityDefeat_Desc>
+  <RJW_Onahole_DefeatTick>戰敗效果時間（Tick）</RJW_Onahole_DefeatTick>
+  <RJW_Onahole_DefeatTick_Desc>設定戰敗效果的時間限制。</RJW_Onahole_DefeatTick_Desc>
+  <!-- Brothel Colony -->
+  <RJW_Onahole_BrothelColony>妓院殖民地</RJW_Onahole_BrothelColony>
+  <RJW_Onahole_UseBrothelPrice>使用妓院價格作為肉便器價格</RJW_Onahole_UseBrothelPrice>
+  <RJW_Onahole_OverrideBedScore>覆蓋床鋪評分</RJW_Onahole_OverrideBedScore>
+  <RJW_Onahole_BedScore>床鋪評分</RJW_Onahole_BedScore>
+  <RJW_Onahole_PayGoodwill>以友好度支付</RJW_Onahole_PayGoodwill>
+  <RJW_Onahole_FinalPrice>最終價格</RJW_Onahole_FinalPrice>
+  <!-- DBH -->
+  <RJW_Onahole_Shower>洗澡</RJW_Onahole_Shower>
+  <RJW_Onahole_Shower_Desc>自動在需要時給肉便器洗澡</RJW_Onahole_Shower_Desc>
+</LanguageData>
