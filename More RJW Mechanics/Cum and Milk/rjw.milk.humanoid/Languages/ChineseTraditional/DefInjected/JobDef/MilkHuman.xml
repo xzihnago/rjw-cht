@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <MilkHuman.reportString>幫TargetA擠奶。</MilkHuman.reportString>
-  <MilkedHuman.reportString>被TargetA擠奶。</MilkedHuman.reportString>
+  <MilkHuman.reportString>幫TargetA擠奶</MilkHuman.reportString>
+  <MilkedHuman.reportString>被TargetA擠奶</MilkedHuman.reportString>
 </LanguageData>

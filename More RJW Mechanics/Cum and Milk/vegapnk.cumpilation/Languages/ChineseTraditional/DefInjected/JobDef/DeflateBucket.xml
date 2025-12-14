@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DeflateBucket.reportString>洩精到TargetA。</DeflateBucket.reportString>
-  <DeflateClean.reportString>洩精到TargetA。</DeflateClean.reportString>
-  <DeflateDirty.reportString>洩精到地板上。</DeflateDirty.reportString>
+  <DeflateBucket.reportString>洩精到TargetA</DeflateBucket.reportString>
+  <DeflateClean.reportString>洩精到TargetA</DeflateClean.reportString>
+  <DeflateDirty.reportString>洩精到地板上</DeflateDirty.reportString>
 </LanguageData>
