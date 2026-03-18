@@ -29,7 +29,7 @@
   </CB_BrothelColony.generalRules.rulesStrings>
 
   <CB_BrothelColony.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_CB_BrothelColony) ->[deity0_name]告訴我們要與他人分享身體並接受他們的禮物作為回報。</li>
+    <li>creation(tag=meme_CB_BrothelColony)       ->[deity0_name]告訴我們要與他人分享身體並接受他們的禮物作為回報。</li>
     <li>episode(uses=1,tag=meme_CB_BrothelColony) ->多年來，[founderName]一直為[deity0_objective]擔任娼妓。</li>
   </CB_BrothelColony.descriptionMaker.rules.rulesStrings>
 

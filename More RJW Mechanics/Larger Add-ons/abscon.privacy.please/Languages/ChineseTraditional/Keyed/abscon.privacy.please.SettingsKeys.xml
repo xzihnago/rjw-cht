@@ -16,7 +16,7 @@
   <worry_about_beastiality_desc>他們的反應將取決於他們的戀獸戒律（需要 RJW - 性經驗理念）以及他們是否具有戀獸癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_beastiality_desc>
   <worry_about_rape>人們會對強暴做出反應</worry_about_rape>
   <worry_about_rape_desc>他們的反應將取決於他們的強暴戒律（需要 RJW - 性經驗理念）以及他們是否具有強暴犯特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_rape_desc>
-  <ignore_slave_rape>如果受害者是囚犯或奴隸，人們會忽視強暴</ignore_slave_rape>
+  <ignore_slave_rape>如果受害者是俘虜或奴隸，人們會忽視強暴</ignore_slave_rape>
   <worry_about_necro>人們會對戀屍癖做出反應</worry_about_necro>
   <worry_about_necro_desc>他們的反應將取決於他們的戀屍戒律（需要 RJW - 性經驗理念）以及他們是否具有戀屍癖特性。\n\n如果停用此選項，將被視為暴露癖。</worry_about_necro_desc>
   <worry_about_xeno>人們會對不同物種類人生物之間的結合做出反應</worry_about_xeno>
@@ -28,10 +28,10 @@
   <ignore_ritual_and_party_sex>人們會忽略儀式或聚會中的性行為</ignore_ritual_and_party_sex>
   <ignore_ritual_and_party_sex_desc>儀式和集會期間發生的任何令人不快的事件都不會引起參與者或旁觀者的任何反應。</ignore_ritual_and_party_sex_desc>
 
-  <slaves_ignore_sex>囚犯和奴隸將無視殖民者的行為</slaves_ignore_sex>
-  <slaves_ignore_sex_desc>囚犯和奴隸發現最好忽略周遭發生的事。他們不會對他們附近發生的任何性活動做出反應。</slaves_ignore_sex_desc>
-  <colonists_ignore_slaves>殖民者將忽略囚犯和奴隸的存在</colonists_ignore_slaves>
-  <colonists_ignore_slaves_desc>囚犯和奴隸不會受到殖民者的注意。在任何性活動中，你的殖民者都不會對其存在做出反應。</colonists_ignore_slaves_desc>
+  <slaves_ignore_sex>俘虜和奴隸將無視殖民者的行為</slaves_ignore_sex>
+  <slaves_ignore_sex_desc>俘虜和奴隸發現最好忽略周遭發生的事。他們不會對他們附近發生的任何性活動做出反應。</slaves_ignore_sex_desc>
+  <colonists_ignore_slaves>殖民者將忽略俘虜和奴隸的存在</colonists_ignore_slaves>
+  <colonists_ignore_slaves_desc>俘虜和奴隸不會受到殖民者的注意。在任何性活動中，你的殖民者都不會對其存在做出反應。</colonists_ignore_slaves_desc>
 
   <other_factions_ignore_sex>其他派系的成員將無視殖民者的行為</other_factions_ignore_sex>
   <other_factions_ignore_sex_desc>友好派系的成員會禮貌地忽略附近發生的任何性活動。\n\n無論如何設定，你的敵對派系總是會忽略這種無聊的事情。</other_factions_ignore_sex_desc>

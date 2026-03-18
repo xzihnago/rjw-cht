@@ -74,6 +74,6 @@
   <CommandDisableBedTypeIsNotAssignable>不能給人物分配這種類型的床。</CommandDisableBedTypeIsNotAssignable>
 
   <WhorePrice>性交易價格區間：</WhorePrice>
-  <BrothelTabIsPrisoner>囚犯</BrothelTabIsPrisoner>
+  <BrothelTabIsPrisoner>俘虜</BrothelTabIsPrisoner>
   <BrothelTabIsSlave>奴隸</BrothelTabIsSlave>
 </LanguageData>
