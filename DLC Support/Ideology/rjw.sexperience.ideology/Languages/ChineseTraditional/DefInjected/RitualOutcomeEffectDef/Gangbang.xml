@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Gangbang.description>視乎儀式表現，參與者將獲得{MOODDAYS}天{MINMOOD}至{MAXMOOD}的心情加成。</Gangbang.description>
+  <Gangbang.description>視乎儀式表現，參與者將獲得{MINMOOD}至{MAXMOOD}的心情加成，持續{MOODDAYS}天。</Gangbang.description>
   <Gangbang.extraPredictedOutcomeDescriptions.0>如果{0}令人滿足，其中一位參加者可能會獲得靈感。</Gangbang.extraPredictedOutcomeDescriptions.0>
   <Gangbang.comps.0.label>教義導師在場</Gangbang.comps.0.label>
   <Gangbang.comps.1.label>參與人數</Gangbang.comps.1.label>
@@ -22,7 +22,7 @@
   <Gangbang.outcomeChances.3.description>{0}實在完美！演講話音剛落，受害者就像魅魔一樣，所有人都為之瘋狂。</Gangbang.outcomeChances.3.description>
   <Gangbang.outcomeChances.3.potentialExtraOutcomeDesc>有 10% 的機率其中一位參加者會獲得靈感。</Gangbang.outcomeChances.3.potentialExtraOutcomeDesc>
 
-  <Gangbang_Consensual.description>視乎儀式表現，參與者將獲得{MOODDAYS}天{MINMOOD}至{MAXMOOD}的心情加成。</Gangbang_Consensual.description>
+  <Gangbang_Consensual.description>視乎儀式表現，參與者將獲得{MINMOOD}至{MAXMOOD}的心情加成，持續{MOODDAYS}天。</Gangbang_Consensual.description>
   <Gangbang_Consensual.extraPredictedOutcomeDescriptions.0>如果{0}令人滿足，其中一位參加者可能會獲得靈感。</Gangbang_Consensual.extraPredictedOutcomeDescriptions.0>
   <Gangbang_Consensual.comps.0.label>教義導師在場</Gangbang_Consensual.comps.0.label>
   <Gangbang_Consensual.comps.1.label>參與人數</Gangbang_Consensual.comps.1.label>
