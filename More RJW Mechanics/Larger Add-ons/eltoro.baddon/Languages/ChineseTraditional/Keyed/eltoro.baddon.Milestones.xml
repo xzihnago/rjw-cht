@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Title / Sections -->
+  <BM_Overview_Title>&lt;b&gt;獸交記憶概觀（{0}）&lt;/b&gt;</BM_Overview_Title>
+  <BM_Section_Resistance>&lt;b&gt;抵抗 &amp; 接受&lt;/b&gt;</BM_Section_Resistance>
+  <BM_Section_Trauma>&lt;b&gt;心理創傷&lt;/b&gt;</BM_Section_Trauma>
+  <BM_Section_Preferences>&lt;b&gt;性偏好&lt;/b&gt;</BM_Section_Preferences>
+
+  <!-- Resistance / Acceptance lines -->
+  <BM_BaseResistance>基礎抵抗：{0}</BM_BaseResistance>
+  <BM_AdjustedResistance>調整後抵抗：{0}</BM_AdjustedResistance>
+  <BM_NeverAccept>&lt;i&gt;&lt;color=red&gt;{0}永遠不會真正接受獸交。&lt;/color&gt;&lt;/i&gt;</BM_NeverAccept>
+  <BM_AcceptanceSeverity>接受程度：{0}</BM_AcceptanceSeverity>
+  <BM_AcceptanceMaxCap>接受最大上限：{0}</BM_AcceptanceMaxCap>
+
+  <!-- Trauma -->
+  <BM_RapeTrauma>強姦創傷：{0}</BM_RapeTrauma>
+  <BM_Status_No>否</BM_Status_No>
+  <BM_Status_Yes>是</BM_Status_Yes>
+  <BM_Status_Healed>已治癒</BM_Status_Healed>
+
+  <!-- Preferences -->
+  <BM_NotDecided>未決定</BM_NotDecided>
+  <BM_PrefBodySize>偏好的體型：{0}</BM_PrefBodySize>
+  <BM_PrefWildness>偏好的野性：{0}</BM_PrefWildness>
+  <BM_PrefAnimalType>偏好的動物類型：{0}</BM_PrefAnimalType>
+  <BM_PrefAnimalType_Pen>飼養圈</BM_PrefAnimalType_Pen>
+  <BM_PrefAnimalType_Roaming>遊蕩</BM_PrefAnimalType_Roaming>
+  <BM_PrefRaceGroup>偏好的種族群體：{0}</BM_PrefRaceGroup>
+  <BM_PrefRace>偏好的種族：{0}</BM_PrefRace>
+
+  <!-- Buttons -->
+  <BM_Button_OK>關閉</BM_Button_OK>
+  <BM_Button_Milestones>里程碑</BM_Button_Milestones>
+  <BM_Button_Opinions>印象</BM_Button_Opinions>
+
+
+  <!-- Milestones -->
+
+
+  <!-- Title -->
+  <BM_MS_Title>&lt;b&gt;獸交里程碑（{0}）&lt;/b&gt;</BM_MS_Title>
+
+  <!-- Sections -->
+  <BM_MS_Sec_DirectExperience>直接經驗：</BM_MS_Sec_DirectExperience>
+  <BM_MS_Sec_EmotionalBonds>情感連結：</BM_MS_Sec_EmotionalBonds>
+  <BM_MS_Sec_SocialExposure>社會接觸：</BM_MS_Sec_SocialExposure>
+  <BM_MS_Sec_WorldviewEvents>世界觀/理念事件：</BM_MS_Sec_WorldviewEvents>
+
+  <!-- Direct Experience -->
+  <BM_MS_HadNonPenetrative>進行非插入式性行為</BM_MS_HadNonPenetrative>
+  <BM_MS_EnjoyedFirstNonPenetrative>享受第一次非插入式性行為</BM_MS_EnjoyedFirstNonPenetrative>
+  <BM_MS_DislikedFirstNonPenetrative>不喜歡第一次非插入式性行為</BM_MS_DislikedFirstNonPenetrative>
+  <BM_MS_AnyNonPenetrativeEnjoyed>享受任何非插入式性行為</BM_MS_AnyNonPenetrativeEnjoyed>
+
+  <BM_MS_HadPenetrative>進行插入式性行為</BM_MS_HadPenetrative>
+  <BM_MS_EnjoyedFirstPenetrative>享受第一次插入式性行為</BM_MS_EnjoyedFirstPenetrative>
+  <BM_MS_DislikedFirstPenetrative>不喜歡第一次插入式性行為</BM_MS_DislikedFirstPenetrative>
+  <BM_MS_AnyPenetrativeEnjoyed>享受任何插入式性行為</BM_MS_AnyPenetrativeEnjoyed>
+
+  <BM_MS_WasRaped>被強姦</BM_MS_WasRaped>
+  <BM_MS_EnjoyedFirstRape>享受第一次被強姦</BM_MS_EnjoyedFirstRape>
+  <BM_MS_DislikedFirstRape>不喜歡第一次被強姦</BM_MS_DislikedFirstRape>
+
+  <BM_MS_FirstEnjoyedPartner>第一次享受的伴侶</BM_MS_FirstEnjoyedPartner>
+
+  <!-- Emotional Bonds -->
+  <BM_MS_FirstNuzzledByAnimal>第一次被動物撒嬌</BM_MS_FirstNuzzledByAnimal>
+  <BM_MS_FirstBondedAnimal>第一次與動物建立羈絆</BM_MS_FirstBondedAnimal>
+  <BM_MS_FirstTamedAnimal>第一次馴服動物</BM_MS_FirstTamedAnimal>
+  <BM_MS_AcceptedAnimalInitiatedMating>接受動物主動求偶</BM_MS_AcceptedAnimalInitiatedMating>
+  <BM_MS_FirstRelation>第一次接受的動物關係</BM_MS_FirstRelation>
+
+  <!-- Social Exposure -->
+  <BM_MS_TalkedWithZoophile>與獸交愛好者交談</BM_MS_TalkedWithZoophile>
+  <BM_MS_WitnessedConsensualBestiality>目擊同意的獸交</BM_MS_WitnessedConsensualBestiality>
+  <BM_MS_WasSeenPositiveDuringSex>在性行為中被正面看待</BM_MS_WasSeenPositiveDuringSex>
+  <BM_MS_WasSeenNegativeDuringSex>在性行為中被負面看待</BM_MS_WasSeenNegativeDuringSex>
+
+  <!-- Ideological Outcomes -->
+  <BM_MS_PregnantFromOrImpregnatedByAnimal>因動物懷孕或使動物懷孕</BM_MS_PregnantFromOrImpregnatedByAnimal>
+  <BM_MS_AnimalParentOfMyChild>我的孩子的動物父母</BM_MS_AnimalParentOfMyChild>
+  <BM_MS_HaveAnimalAsParent>有動物作為父母</BM_MS_HaveAnimalAsParent>
+  <BM_MS_ProducedAnimalOffspring>製造動物後代</BM_MS_ProducedAnimalOffspring>
+  <BM_MS_ParticipatedInRitual>參與獸交儀式</BM_MS_ParticipatedInRitual>
+
+
+  <!-- Opinions -->
+
+
+  <!-- Title -->
+  <BM_OP_Title>&lt;b&gt;動物印象（{0}）&lt;/b&gt;</BM_OP_Title>
+
+  <!-- Empty state (keeps your original leading spaces) -->
+  <BM_OP_NoEntriesIndented>（暫無條目）</BM_OP_NoEntriesIndented>
+
+  <!-- Row format -->
+  <BM_OP_Line>永久={0}、活躍={1}、最終={2}、性愛次數={3}</BM_OP_Line>
+
+  <!-- Shared -->
+  <BM_Button_Back>返回</BM_Button_Back>
+</LanguageData>

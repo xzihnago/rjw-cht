@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RitualOutcome_BestialRelations.description>儀式品質可能會改變參與者對獸交的看法。</RitualOutcome_BestialRelations.description>
+  <RitualOutcome_BestialRelations.extraPredictedOutcomeDescriptions.0>如果{0}令人滿足，人與動物之間就會形成聯繫。</RitualOutcome_BestialRelations.extraPredictedOutcomeDescriptions.0>
+
+  <RitualOutcome_BestialRelations.comps.0.label>教義導師在場</RitualOutcome_BestialRelations.comps.0.label>
+  <RitualOutcome_BestialRelations.comps.2.label>在祭壇舉行</RitualOutcome_BestialRelations.comps.2.label>
+  <RitualOutcome_BestialRelations.comps.2.expectedThingLabelTip>一個祭壇</RitualOutcome_BestialRelations.comps.2.expectedThingLabelTip>
+  <RitualOutcome_BestialRelations.comps.3.label>{PAWN_labelShort}的社交影響力</RitualOutcome_BestialRelations.comps.3.label>
+  <RitualOutcome_BestialRelations.comps.3.labelAbstract>主持的社交影響力</RitualOutcome_BestialRelations.comps.3.labelAbstract>
+  <RitualOutcome_BestialRelations.comps.4.label>參與人數</RitualOutcome_BestialRelations.comps.4.label>
+  <RitualOutcome_BestialRelations.comps.5.label>{PAWN_labelShort}的獸交抵抗度</RitualOutcome_BestialRelations.comps.5.label>
+  <RitualOutcome_BestialRelations.comps.5.labelAbstract>人類的獸交抵抗度</RitualOutcome_BestialRelations.comps.5.labelAbstract>
+  <RitualOutcome_BestialRelations.comps.6.label>相對印象（最低）</RitualOutcome_BestialRelations.comps.6.label>
+  <RitualOutcome_BestialRelations.comps.6.labelAbstract>相對印象（最低）</RitualOutcome_BestialRelations.comps.6.labelAbstract>
+
+  <RitualOutcome_BestialRelations.outcomeChances.0.label>糟糕</RitualOutcome_BestialRelations.outcomeChances.0.label>
+  <RitualOutcome_BestialRelations.outcomeChances.0.description>{0}太糟糕了！</RitualOutcome_BestialRelations.outcomeChances.0.description>
+  <RitualOutcome_BestialRelations.outcomeChances.1.label>沉悶</RitualOutcome_BestialRelations.outcomeChances.1.label>
+  <RitualOutcome_BestialRelations.outcomeChances.1.description>{0}太沉悶了。</RitualOutcome_BestialRelations.outcomeChances.1.description>
+  <RitualOutcome_BestialRelations.outcomeChances.2.label>滿足</RitualOutcome_BestialRelations.outcomeChances.2.label>
+  <RitualOutcome_BestialRelations.outcomeChances.2.description>{0}令人滿足。</RitualOutcome_BestialRelations.outcomeChances.2.description>
+  <RitualOutcome_BestialRelations.outcomeChances.3.label>完美</RitualOutcome_BestialRelations.outcomeChances.3.label>
+  <RitualOutcome_BestialRelations.outcomeChances.3.description>{0}實在完美！</RitualOutcome_BestialRelations.outcomeChances.3.description>
+</LanguageData>

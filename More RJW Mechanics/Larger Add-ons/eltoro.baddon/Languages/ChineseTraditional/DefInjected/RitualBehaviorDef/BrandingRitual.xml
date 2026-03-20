@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RitualBehavior_BrandingRitual.spectatorsLabel>觀禮人</RitualBehavior_BrandingRitual.spectatorsLabel>
+  <RitualBehavior_BrandingRitual.spectatorGerund>旁觀</RitualBehavior_BrandingRitual.spectatorGerund>
+  <RitualBehavior_BrandingRitual.spectatorGerund>旁觀</RitualBehavior_BrandingRitual.spectatorGerund>
+  <RitualBehavior_BrandingRitual.roles.0.label>受禮者</RitualBehavior_BrandingRitual.roles.0.label>
+  <RitualBehavior_BrandingRitual.roles.0.missingDesc>即將烙印的人</RitualBehavior_BrandingRitual.roles.0.missingDesc>
+  <RitualBehavior_BrandingRitual.roles.1.label>烙印者</RitualBehavior_BrandingRitual.roles.1.label>
+  <RitualBehavior_BrandingRitual.roles.1.missingDesc>負責烙印儀式的人</RitualBehavior_BrandingRitual.roles.1.missingDesc>
+  <RitualBehavior_BrandingRitual.stages.0.failTriggers.0.desc>無法接近受禮者。</RitualBehavior_BrandingRitual.stages.0.failTriggers.0.desc>
+  <RitualBehavior_BrandingRitual.stages.0.failTriggers.1.desc>押送員睡著了</RitualBehavior_BrandingRitual.stages.0.failTriggers.1.desc>
+</LanguageData>

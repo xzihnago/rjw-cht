@@ -7,7 +7,6 @@
     <li>r_logentry(p=5)->[RECIPIENT_nameDef]對獸交的想法很感興趣。</li>
     <li>r_logentry(p=5)->[RECIPIENT_nameDef]似乎更容易接受獸交的想法了。</li>
   </BestialityTalk_Recipient_Positive.rulePack.rulesStrings>
-
   <BestialityTalk_Recipient_Negative.rulePack.rulesStrings>
     <li>r_logentry(p=5)->[RECIPIENT_nameDef]對獸交感到更加不愉快。</li>
     <li>r_logentry(p=5)->[RECIPIENT_nameDef]對獸交更加抵抗了。</li>

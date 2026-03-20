@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BreedingWorkMaleColonists.label>交配責任（男性）</BreedingWorkMaleColonists.label>
-  <BreedingWorkMaleSlaves.label>交配責任（男性奴隸）</BreedingWorkMaleSlaves.label>
-  <BreedingWorkFemaleColonists.label>交配責任（女性）</BreedingWorkFemaleColonists.label>
-  <BreedingWorkFemaleSlaves.label>交配責任（女性奴隸）</BreedingWorkFemaleSlaves.label>
+  <BreedingWorkMaleColonists.label>交配職責（男性）</BreedingWorkMaleColonists.label>
+  <BreedingWorkMaleSlaves.label>交配職責（奴隸）</BreedingWorkMaleSlaves.label>
+  <BreedingWorkFemaleColonists.label>交配職責（女性）</BreedingWorkFemaleColonists.label>
+  <BreedingWorkFemaleSlaves.label>交配職責（奴隸）</BreedingWorkFemaleSlaves.label>
+  <BreedingWorkPrisoners.label>交配職責（俘虜）</BreedingWorkPrisoners.label>
+  <BreedingWorkProselytizer.label>交配傳教</BreedingWorkProselytizer.label>
 </LanguageData>

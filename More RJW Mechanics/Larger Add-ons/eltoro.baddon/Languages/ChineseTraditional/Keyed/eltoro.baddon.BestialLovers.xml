@@ -2,5 +2,10 @@
 <LanguageData>
   <Bestial_Lover_LetterLabelAffair>獸交事件</Bestial_Lover_LetterLabelAffair>
   <Bestial_Lover_LetterLabelNewLovers>新的交配夥伴</Bestial_Lover_LetterLabelNewLovers>
-  <Bestial_Lover_MessageNewBondRelationNewName>{HUMAN_labelShort}和{1}有了獸交關係。{HUMAN_labelShort}將{ANIMAL_objective}命名為{ANIMAL_nameFull}。</Bestial_Lover_MessageNewBondRelationNewName>
+  <Bestial_Lover_LetterLabelNewLoversReject>{HUMAN_labelShort}拒絕了{1}的戀愛追求</Bestial_Lover_LetterLabelNewLoversReject>
+  <Bestial_Lover_MessageNewBondRelationNewName>{HUMAN_labelShort}和{1}有了獸性聯繫。{HUMAN_labelShort}將{ANIMAL_objective}命名為{ANIMAL_nameFull}。</Bestial_Lover_MessageNewBondRelationNewName>
+  <Bestial_Lover_LetterLabelAcceptedProposal>新的選定夥伴</Bestial_Lover_LetterLabelAcceptedProposal>
+  <Bestial_Lover_PreDruggedTooltip>兩個人物都必須受到駝峰菇的影響才能緩解制約反應。</Bestial_Lover_PreDruggedTooltip>
+  <BestialRelationsDrugInfo>儀式需要 {0} {2}，但你只有 {1}。</BestialRelationsDrugInfo>
+  <Bestial_Lover_MemoryRef>其他互動</Bestial_Lover_MemoryRef>
 </LanguageData>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Tabs -->
+  <Baddon_Set_Tab_BestialityAcceptance>獸交接受度</Baddon_Set_Tab_BestialityAcceptance>
+  <Baddon_Set_Tab_AnimalInitiated>動物交配</Baddon_Set_Tab_AnimalInitiated>
+  <Baddon_Set_Tab_BreedingWork>戀獸牧場</Baddon_Set_Tab_BreedingWork>
+  <Baddon_Set_Tab_Hybrids>混種</Baddon_Set_Tab_Hybrids>
+  <Baddon_Set_Tab_UI>使用者介面</Baddon_Set_Tab_UI>
+  <Baddon_Set_Tab_HumanAnimalRelations>獸性聯繫</Baddon_Set_Tab_HumanAnimalRelations>
+
+  <!-- Shared -->
+  <Baddon_Set_Tooltip_RequiresRestart>需要重新啟動</Baddon_Set_Tooltip_RequiresRestart>
+  <Baddon_Set_RestartRequired>此設定需要重新啟動才能生效。</Baddon_Set_RestartRequired>
+  <Baddon_Button_Reset>重置</Baddon_Button_Reset>
+
+  <!-- Bestiality Acceptance -->
+  <Baddon_Set_BestialityAcceptance_Desc>取代原有的戀獸癖特性系統。不再使用固定的性行為次數閾值，而是讓人物透過與動物的日常互動逐漸提升對動物的接受度。新增的「獸交對話」互動可以影響這種接受度。更高的接受度會增加獸交行為的幾率，只有高接受度加上經驗累積才能獲得戀獸癖特質。</Baddon_Set_BestialityAcceptance_Desc>
+  <Baddon_Set_EnableBestialityAcceptance>啟用獸交接受度</Baddon_Set_EnableBestialityAcceptance>
+  <Baddon_Set_UseSIPrecept>使用預設性經驗理念情感</Baddon_Set_UseSIPrecept>
+  <Baddon_Set_UseSIPrecept_Tooltip>使用性經驗理念中的預設情感評分。需要重新啟動</Baddon_Set_UseSIPrecept_Tooltip>
+  <Baddon_Set_MinAttraction_Label>最低吸引力評分：{0}</Baddon_Set_MinAttraction_Label>
+  <Baddon_Set_MinAttraction_Tooltip>設定人物對另一人物必須具有的最低吸引力分數，才會考慮與其發生獸交或交配行為。</Baddon_Set_MinAttraction_Tooltip>
+  <Baddon_Set_TalkChances_Label>獸交對話機率：{0}</Baddon_Set_TalkChances_Label>
+  <Baddon_Set_TalkChances_Tooltip>改變人物之間獸交對話的初始機率。</Baddon_Set_TalkChances_Tooltip>
+  <Baddon_Set_TalkAcceptChances_Label>獸交對話接受機率：{0}</Baddon_Set_TalkAcceptChances_Label>
+  <Baddon_Set_TalkAcceptChances_Tooltip>改變人物之間獸交對話的接受機率，包括邀請。</Baddon_Set_TalkAcceptChances_Tooltip>
+  <Baddon_Set_TalkJoinChance_Label>三人行加入機率：{0}</Baddon_Set_TalkJoinChance_Label>
+  <Baddon_Set_TalkJoinChance_Tooltip>改變任何潛在獸交三人行互動的加入機率。</Baddon_Set_TalkJoinChance_Tooltip>
+
+  <!-- Animal-initiated -->
+  <Baddon_Set_AnimalInitiated_Desc>具有特定性偏離特性或經過特殊訓練的動物可能會嘗試與人類交配。嘗試交配的成功率取決於動物的性偏離程度、混血身分等因素。人類可以根據自身意願接受或拒絕。</Baddon_Set_AnimalInitiated_Desc>
+  <Baddon_Set_EnableAnimalInitiated>啟用動物主動交配</Baddon_Set_EnableAnimalInitiated>
+  <Baddon_Set_WildAnimalSelection>野生動物選擇</Baddon_Set_WildAnimalSelection>
+  <Baddon_Set_WildAnimalSelection_Tooltip>允許殖民地動物選擇野生動物進行交配。無需重新啟動</Baddon_Set_WildAnimalSelection_Tooltip>
+  <Baddon_Set_InterspiciesHuman_Label>跨物種人類交配修正：{0}</Baddon_Set_InterspiciesHuman_Label>
+  <Baddon_Set_InterspiciesHuman_Tooltip>改變動物主動發起的跨物種人類交配的接受機率。</Baddon_Set_InterspiciesHuman_Tooltip>
+  <Baddon_Set_AnimalWaitTime_Label>動物等待時間：{0} ticks (≈{1} sec)</Baddon_Set_AnimalWaitTime_Label>
+  <Baddon_Set_AnimalWaitTime_Tooltip>動物在人物可用前的等待 ticks。</Baddon_Set_AnimalWaitTime_Tooltip>
+  <Baddon_Set_TeaseChance_Label>動物性挑逗機率：{0}</Baddon_Set_TeaseChance_Label>
+  <Baddon_Set_TeaseChance_Tooltip>設定動物進行性挑逗而非取消交配嘗試的機率。</Baddon_Set_TeaseChance_Tooltip>
+  <Baddon_Set_InterspiciesRape_Label>跨物種人類強姦修正：{0}</Baddon_Set_InterspiciesRape_Label>
+  <Baddon_Set_InterspiciesRape_Tooltip>改變跨物種人類交配的強姦機率，適用於動物主動發起且人類拒絕的交配嘗試。也會影響激進動物的工作中斷機率。</Baddon_Set_InterspiciesRape_Tooltip>
+
+  <!-- Human-Animal relations -->
+  <Baddon_Set_HumanAnimalRelations_Desc>讓動物嘗試與友善的人類人物發展戀愛關係。如果人類接受，一段新的關係就會建立。這段關係被視為正常的戀愛關係，因此所有原版（以及可能安裝的模組）規則與模因都將適用。狼老公，耶！</Baddon_Set_HumanAnimalRelations_Desc>
+  <Baddon_Set_EnableHumanAnimalRelations>啟用動物 - 人類關係</Baddon_Set_EnableHumanAnimalRelations>
+  <Baddon_Set_BestialRelationInitChance_Label>動物 - 人類關係開始機率：{0}</Baddon_Set_BestialRelationInitChance_Label>
+  <Baddon_Set_BestialRelationInitChance_Tooltip>動物嘗試與人類建立戀愛關係的機率。</Baddon_Set_BestialRelationInitChance_Tooltip>
+  <Baddon_Set_BestialRelationAcceptChance_Label>人類接受動物戀愛追求的機率：{0}</Baddon_Set_BestialRelationAcceptChance_Label>
+  <Baddon_Set_BestialRelationAcceptChance_Tooltip>人類接受動物關係提案的機率。</Baddon_Set_BestialRelationAcceptChance_Tooltip>
+  <Baddon_Set_BestialRelationBedSharing_Label>啟用人類與動物伴侶共用床鋪</Baddon_Set_BestialRelationBedSharing_Label>
+  <Baddon_Set_BestialRelationBedSharing_Tooltip>允許將人類床鋪分配給動物。床鋪必須有擁有者，且擁有者與動物有戀愛關係或羈絆。需要重新啟動。</Baddon_Set_BestialRelationBedSharing_Tooltip>
+
+  <!-- Breeding Work -->
+  <Baddon_Set_BreedingWork_Desc>新增帶有戒律的新模因，允許殖民地居民在被分配到基礎工作時，與標記的動物發生性行為，作為一種單獨的工作類型。</Baddon_Set_BreedingWork_Desc>
+  <Baddon_Set_EnableBreedingWork>啟用戀獸牧場</Baddon_Set_EnableBreedingWork>
+  <Baddon_Set_EnableBreedingWork_Tooltip>無需重啟即可運作</Baddon_Set_EnableBreedingWork_Tooltip>
+  <Baddon_Set_BreedingWorkConditioning_Label>制約反應修正：{0}</Baddon_Set_BreedingWorkConditioning_Label>
+  <Baddon_Set_BreedingWorkConditioning_Tooltip>改變每次性行為後交配制約反應形成的速度。設為 10.0 時，通常只需 1-2 次滿意的性行為即可形成制約反應。</Baddon_Set_BreedingWorkConditioning_Tooltip>
+  <Baddon_Set_BreedingWorkManualAssign_Label>手動戀獸牧場指定</Baddon_Set_BreedingWorkManualAssign_Label>
+  <Baddon_Set_BreedingWorkManualAssign_Tooltip>允許通過 RJW 選單手動指定目標（動物和人類）加入戀獸牧場。</Baddon_Set_BreedingWorkManualAssign_Tooltip>
+
+  <!-- Hybrids -->
+  <Baddon_Set_Hybrids_Desc>人獸交配的後代會繼承一些獨特的特徵，使它們與普通的動物截然不同。</Baddon_Set_Hybrids_Desc>
+  <Baddon_Set_AnimalHybridChance_Label>動物混種出生機率：{0}</Baddon_Set_AnimalHybridChance_Label>
+  <Baddon_Set_AnimalHybridChance_Tooltip>從人獸交配出生的動物具有較低的野性、較高的意識、永遠不會野化、較短的訓練冷卻時間，始終可以撒嬌（包括通常不能撒嬌的物種），並且撒嬌的頻率更高。</Baddon_Set_AnimalHybridChance_Tooltip>
+
+  <!-- UI -->
+  <Baddon_Set_UI_Desc>使用者介面設定。</Baddon_Set_UI_Desc>
+  <Baddon_Set_XOffset_Royalty_Label>X 軸偏移（皇權）：{0}</Baddon_Set_XOffset_Royalty_Label>
+  <Baddon_Set_XOffset_Royalty_Tooltip>將動物性行為記憶概觀圖示向左或向右移動，以對應擁有皇權按鈕的人物</Baddon_Set_XOffset_Royalty_Tooltip>
+  <Baddon_Set_XOffset_Nonplayer_Label>X 軸偏移（非玩家）：{0}</Baddon_Set_XOffset_Nonplayer_Label>
+  <Baddon_Set_XOffset_Nonplayer_Tooltip>將動物性行為記憶概觀圖示向左或向右移動，以對應非殖民地人物</Baddon_Set_XOffset_Nonplayer_Tooltip>
+  <Baddon_Set_XOffset_Other_Label>X 軸偏移（其他）：{0}</Baddon_Set_XOffset_Other_Label>
+  <Baddon_Set_XOffset_Other_Tooltip>將動物性行為記憶概觀圖示向左或向右移動，以對應所有其他人物</Baddon_Set_XOffset_Other_Tooltip>
+  <Baddon_Set_DebugMode>除錯模式</Baddon_Set_DebugMode>
+  <Baddon_Set_DebugMode_Tooltip>啟用除錯日誌。無需重新啟動</Baddon_Set_DebugMode_Tooltip>
+</LanguageData>

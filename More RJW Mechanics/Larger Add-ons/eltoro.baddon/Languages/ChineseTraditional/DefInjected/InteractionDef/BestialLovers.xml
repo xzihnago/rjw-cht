@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BestialLoversInteraction.label>獸交關係嘗試</BestialLoversInteraction.label>
+  <BestialLoversInteraction.label>獸性戀愛</BestialLoversInteraction.label>
   <BestialLoversInteraction.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]對[RECIPIENT_nameDef]表現出越來越濃厚的興趣，並表現出超越普通交配的感情。</li>
     <li>r_logentry->[INITIATOR_nameDef]開始對[RECIPIENT_nameDef]表現出超越一般交配慾望的吸引力。</li>
     <li>r_logentry->[INITIATOR_nameDef]以超越常規交配的關注尋找[RECIPIENT_nameDef]。</li>
   </BestialLoversInteraction.logRulesInitiator.rulesStrings>
+
+  <BestialProposalInteraction.label>獸性求婚</BestialProposalInteraction.label>
+  <BestialProposalInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]已經是[RECIPIENT_nameDef]的伴侶，在頻繁交配和日常習慣的舒適下，開始表現出更強烈的感情與忠誠，就像一對忠誠的伴侶。</li>
+    <li>r_logentry->[INITIATOR_nameDef]已經是[RECIPIENT_nameDef]的伴侶，在持續交配和情感強化接觸的鼓勵下，開始對[RECIPIENT_nameDef]表現出更深的感情，並朝著忠誠的伴侶關係發展。</li>
+    <li>r_logentry->[INITIATOR_nameDef]已經是[RECIPIENT_nameDef]的伴侶，表現出越來越強的忠誠和情感依戀，透過習慣性的交配與日益加深的熟悉感而得到加強，鞏固了他們獨特的印記羈絆。</li>
+  </BestialProposalInteraction.logRulesInitiator.rulesStrings>
 </LanguageData>

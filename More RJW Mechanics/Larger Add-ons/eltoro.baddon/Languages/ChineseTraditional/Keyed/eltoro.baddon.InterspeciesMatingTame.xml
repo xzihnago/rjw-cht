@@ -6,4 +6,5 @@
   <LetterAnimalSexTameAndName>{0}與{1}交配後被馴服了。殖民者決定叫牠{ANIMAL_nameFull}。</LetterAnimalSexTameAndName>
   <AllowHumanInterspeciesSex>允許人類跨物種性交</AllowHumanInterspeciesSex>
   <AllowAnimalInterspeciesSex>允許動物跨物種性交</AllowAnimalInterspeciesSex>
+  <AnimalSelfTrainedHumanInterspeciesSex>獸性自訓：{0}\n{1} 機率</AnimalSelfTrainedHumanInterspeciesSex>
 </LanguageData>

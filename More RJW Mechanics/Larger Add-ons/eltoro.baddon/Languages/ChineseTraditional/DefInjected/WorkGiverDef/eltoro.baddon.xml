@@ -5,6 +5,10 @@
   <BreedAnimals.gerund>交配</BreedAnimals.gerund>
 
   <BreedAnimalsForced.label>強迫動物交配</BreedAnimalsForced.label>
-  <BreedAnimalsForced.verb>交配</BreedAnimalsForced.verb>
-  <BreedAnimalsForced.gerund>交配</BreedAnimalsForced.gerund>
+  <BreedAnimalsForced.verb>強迫交配</BreedAnimalsForced.verb>
+  <BreedAnimalsForced.gerund>強迫交配</BreedAnimalsForced.gerund>
+
+  <BreedAnimalsDelivery.label>將動物帶給俘虜</BreedAnimalsDelivery.label>
+  <BreedAnimalsDelivery.verb>將動物帶給俘虜</BreedAnimalsDelivery.verb>
+  <BreedAnimalsDelivery.gerund>將動物帶給俘虜</BreedAnimalsDelivery.gerund>
 </LanguageData>

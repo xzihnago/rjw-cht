@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RitualOutcome_BrandingRitual.description>視乎儀式表現，參與者將獲得{MINMOOD}至{MAXMOOD}的心情加成，持續{MOODDAYS}天。</RitualOutcome_BrandingRitual.description>
+
+  <RitualOutcome_BrandingRitual.comps.2.label>教義導師在場</RitualOutcome_BrandingRitual.comps.2.label>
+  <RitualOutcome_BrandingRitual.comps.3.label>參與人數</RitualOutcome_BrandingRitual.comps.3.label>
+  <RitualOutcome_BrandingRitual.comps.4.label>在祭壇舉行</RitualOutcome_BrandingRitual.comps.4.label>
+  <RitualOutcome_BrandingRitual.comps.4.expectedThingLabelTip>一個祭壇</RitualOutcome_BrandingRitual.comps.4.expectedThingLabelTip>
+
+  <RitualOutcome_BrandingRitual.outcomeChances.0.label>糟糕</RitualOutcome_BrandingRitual.outcomeChances.0.label>
+  <RitualOutcome_BrandingRitual.outcomeChances.0.description>{0}太糟糕了！佈道既結結巴巴又語無倫次。烙印行動笨拙不堪，執行得非常糟糕。\n隨著儀式的拖延，觀眾越來越感到不舒服。</RitualOutcome_BrandingRitual.outcomeChances.0.description>
+  <RitualOutcome_BrandingRitual.outcomeChances.1.label>沉悶</RitualOutcome_BrandingRitual.outcomeChances.1.label>
+  <RitualOutcome_BrandingRitual.outcomeChances.1.description>{0}太沉悶了。重複的佈道內容，烙印行動缺乏自信與氣場。\n儀式雖然完成了，但卻讓人感覺不到任何意義。</RitualOutcome_BrandingRitual.outcomeChances.1.description>
+  <RitualOutcome_BrandingRitual.outcomeChances.2.label>滿足</RitualOutcome_BrandingRitual.outcomeChances.2.label>
+  <RitualOutcome_BrandingRitual.outcomeChances.2.description>{0}令人滿足。佈道內容充滿意義，烙印行動簡潔果斷。\n儀式莊嚴肅穆，井然有序。</RitualOutcome_BrandingRitual.outcomeChances.2.description>
+  <RitualOutcome_BrandingRitual.outcomeChances.3.label>完美</RitualOutcome_BrandingRitual.outcomeChances.3.label>
+  <RitualOutcome_BrandingRitual.outcomeChances.3.description>{0}實在完美！烙印者的演講激起了在場聽眾的熱情，烙印行動也以十足的自信順利進行。\n此次儀式給在場的所有人留下了深刻的印象。</RitualOutcome_BrandingRitual.outcomeChances.3.description>
+</LanguageData>

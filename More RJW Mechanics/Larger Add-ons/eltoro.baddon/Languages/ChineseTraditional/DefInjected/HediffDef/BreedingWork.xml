@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedingBrandedPainful.label>被烙印</BreedingBrandedPainful.label>
+  <BreedingBrandedPainful.description>這名人物被有意地用烙鐵烙上印記，表明其被指派履行其職責。\n\n烙印起初會帶來劇烈疼痛，但隨著燒傷癒合，不適感會逐漸消退。\n\n癒合後，烙印將永久保留，成為人物職責的象徵。</BreedingBrandedPainful.description>
+  <BreedingBrandedPainful.comps.HediffComp_ReplaceHediff.letterLabel>烙印癒合：{PAWN_nameDef}</BreedingBrandedPainful.comps.HediffComp_ReplaceHediff.letterLabel>
+  <BreedingBrandedPainful.comps.HediffComp_ReplaceHediff.letterDesc>{PAWN_nameDef}開始出現劇烈頭痛。{PAWN_pronoun}似乎無法正常思考，並且正在迅速喪失{PAWN_possessive}認知功能。</BreedingBrandedPainful.comps.HediffComp_ReplaceHediff.letterDesc>
+  <BreedingBrandedPainful.stages.fresh.label>新</BreedingBrandedPainful.stages.fresh.label>
+  <BreedingBrandedPainful.stages.burning.label>灼燒</BreedingBrandedPainful.stages.burning.label>
+  <BreedingBrandedPainful.stages.aching.label>疼痛</BreedingBrandedPainful.stages.aching.label>
+
+  <BreedingBranded.label>被烙印</BreedingBranded.label>
+  <BreedingBranded.description>這名人物被有意地用烙鐵烙上印記，永久表明其被指派履行其職責。</BreedingBranded.description>
+  <BreedingBranded.stages.scarred.label>疤痕</BreedingBranded.stages.scarred.label>
+
+  <BreedingConditioningProgress.label>交配制約反應進度</BreedingConditioningProgress.label>
+  <BreedingConditioningProgress.description>人物正在接受交配調教。</BreedingConditioningProgress.description>
+
+  <BreedingConditioning_Level1.label>交配制約反應（輕微）</BreedingConditioning_Level1.label>
+  <BreedingConditioning_Level1.description>這名人物已被輕度調教用於交配。</BreedingConditioning_Level1.description>
+
+  <BreedingConditioning_Level2.label>交配制約反應（中期）</BreedingConditioning_Level2.label>
+  <BreedingConditioning_Level2.description>這名人物已被中度調教用於交配。</BreedingConditioning_Level2.description>
+
+  <BreedingConditioning_Level3.label>交配制約反應（完全）</BreedingConditioning_Level3.label>
+  <BreedingConditioning_Level3.description>這名人物已被完全調教用於交配。</BreedingConditioning_Level3.description>
+</LanguageData>

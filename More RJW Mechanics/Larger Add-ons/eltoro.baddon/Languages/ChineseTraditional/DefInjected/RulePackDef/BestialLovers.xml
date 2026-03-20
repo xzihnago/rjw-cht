@@ -5,4 +5,30 @@
     <li>sent->[RECIPIENT_nameDef]認可了[INITIATOR_nameDef]的愛意，現在是[INITIATOR_nameDef]的交配伴侶。</li>
     <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]的興趣激起，選擇成為[INITIATOR_nameDef]的交配伴侶。</li>
   </BestialLovers_RomanceAttemptAccepted.rulePack.rulesStrings>
+  <BestialLovers_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]很感激[INITIATOR_nameDef]的愛意，但還是婉拒成為[INITIATOR_nameDef]的交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]察覺到了[INITIATOR_nameDef]的興趣，但冷靜地拒絕成為交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]感受到了[INITIATOR_nameDef]的慾望，但選擇不成為交配伴侶。</li>
+  </BestialLovers_RomanceAttemptRejected.rulePack.rulesStrings>
+  <BestialLovers_RomanceAttemptAccepted_Forced.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]的不斷關注與持續交配所折磨，最終屈服並成為了它們的交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]不再抵抗[INITIATOR_nameDef]的存在——熟悉與反覆交配使它們的猶豫變得遲鈍，使他們成為它們的交配伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]在[INITIATOR_nameDef]咄咄逼人的交配壓力下，難以理解自己的感受，最終屈服並成為了它們的交配伴侶。</li>
+  </BestialLovers_RomanceAttemptAccepted_Forced.rulePack.rulesStrings>
+
+  <BestialLovers_BestialProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]與[INITIATOR_nameDef]建立了深厚的聯繫，現在是[INITIATOR_nameDef]的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]認可了[INITIATOR_nameDef]的忠誠，並發自內心決定成為它們的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]以信任與承諾回應了[INITIATOR_nameDef]的奉獻，成為了它們的選定伴侶。</li>
+  </BestialLovers_BestialProposalAccepted.rulePack.rulesStrings>
+  <BestialLovers_BestialProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]感受到了[INITIATOR_nameDef]的深情，但還是婉拒成為它們的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]很欣賞[INITIATOR_nameDef]的深厚忠誠，但拒絕成為它們的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]珍視[INITIATOR_nameDef]的信任與愛，但無法作為它們的選定伴侶回應同樣程度的終身忠誠。</li>
+  </BestialLovers_BestialProposalRejected.rulePack.rulesStrings>
+  <BestialLovers_BestialProposalAccepted_Forced.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef]無法分辨這種關係何時不再是單方面的——由重複、臭跡與不斷交配所塑造——他們屈服於這種關係，成為了[INITIATOR_nameDef]的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]被[INITIATOR_nameDef]的持續關注與頻繁交配所淹沒，最終屈服並成為了它們的選定伴侶。</li>
+    <li>sent->[RECIPIENT_nameDef]不再抗拒[INITIATOR_nameDef]的存在所帶來的吸引力——界限逐漸被侵蝕，最終平靜地接受了自己作為選定伴侶的角色。</li>
+  </BestialLovers_BestialProposalAccepted_Forced.rulePack.rulesStrings>
 </LanguageData>

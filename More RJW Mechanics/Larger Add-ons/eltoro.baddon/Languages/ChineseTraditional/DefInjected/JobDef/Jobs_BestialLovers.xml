@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BestialLoversInteractionJob.reportString>讓人類成為他的愛人</BestialLoversInteractionJob.reportString>
+  <BestialLoversInteractionJob.reportString>搭訕人類</BestialLoversInteractionJob.reportString>
+  <BestialProposalInteractionJob.reportString>搭訕人類</BestialProposalInteractionJob.reportString>
+  <RitualAdministerDrug.reportString>調教{0}</RitualAdministerDrug.reportString>
 </LanguageData>

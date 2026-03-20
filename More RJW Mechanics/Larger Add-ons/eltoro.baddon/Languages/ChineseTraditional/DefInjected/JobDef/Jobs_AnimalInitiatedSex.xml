@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexInitiatorAnimalSex.reportString>與人類交配</SexInitiatorAnimalSex.reportString>
+  <SexInitiatorAnimalPreSex.reportString>準備與人類交配</SexInitiatorAnimalPreSex.reportString>
+  <ForcedBreeding.reportString>對人類配種</ForcedBreeding.reportString>
+  <ForcedBreedingWaiting.reportString>對人類配種</ForcedBreedingWaiting.reportString>
+  <InterspiciesMatingInteraction.reportString>接近人類進行交配</InterspiciesMatingInteraction.reportString>
+  <InterspiciesMatingInteractionAccept.reportString>移動以與人類交配</InterspiciesMatingInteractionAccept.reportString>
+  <InterspiciesMatingInteractionDecline.reportString>離開交配嘗試</InterspiciesMatingInteractionDecline.reportString>
+  <SexInitiatorAnimalSexRape.reportString>強姦</SexInitiatorAnimalSexRape.reportString>
+</LanguageData>

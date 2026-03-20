@@ -1,26 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BreedingWorkMaleColonists.label>自願</BreedingWorkMaleColonists.label>
-  <BreedingWorkMaleColonists.description>男性殖民者被要求自願交配指定的動物，這是他們職責的一部分。</BreedingWorkMaleColonists.description>
+  <BrandingRitual.label>烙印</BrandingRitual.label>
+  <BrandingRitual.description>烙印者用燒紅的烙鐵在選定的人物身上烙印。觀禮人會在旁參與，烙印者會發表演說、在受禮者身上烙印、並致詞作結。</BrandingRitual.description>
 
+  <BreedingWorkProselytizerSlaves.label>奴隸</BreedingWorkProselytizerSlaves.label>
+  <BreedingWorkProselytizerSlaves.description>被奴役者，應透過紀律與身體責任來引導，直到他們被溫和地引導去接受共享和諧的真理。</BreedingWorkProselytizerSlaves.description>
+  <BreedingWorkProselytizerPrisoners.label>俘虜</BreedingWorkProselytizerPrisoners.label>
+  <BreedingWorkProselytizerPrisoners.description>被監禁者，應透過紀律與身體責任來引導，直到他們被溫和地引導去接受共享和諧的真理。</BreedingWorkProselytizerPrisoners.description>
+  <BreedingWorkProselytizerBoth.label>兩者</BreedingWorkProselytizerBoth.label>
+  <BreedingWorkProselytizerBoth.description>在殖民地照顧下的人，無論被監禁或被奴役，都應透過紀律與身體責任來引導，直到他們被溫和地引導去接受共享和諧的真理。</BreedingWorkProselytizerBoth.description>
+
+  <BreedingWorkPrisonersSelf.label>自發</BreedingWorkPrisonersSelf.label>
+  <BreedingWorkPrisonersSelf.description>被強制執行職責的俘虜需要在牢房內自行尋找指定的動物。</BreedingWorkPrisonersSelf.description>
+  <BreedingWorkPrisonersDelivered.label>配發</BreedingWorkPrisonersDelivered.label>
+  <BreedingWorkPrisonersDelivered.description>被強制執行職責的俘虜應盡可能尋找指定的動物。如果沒有，殖民地會配發一隻動物給他們。</BreedingWorkPrisonersDelivered.description>
+
+
+  <BreedingWorkMaleColonists.label>自願</BreedingWorkMaleColonists.label>
+  <BreedingWorkMaleColonists.description>男性殖民者被要求自願服務指定的動物，這是他們職責的一部分。</BreedingWorkMaleColonists.description>
   <BreedingWorkMaleSlaves.label>自願</BreedingWorkMaleSlaves.label>
-  <BreedingWorkMaleSlaves.description>男性奴隸被要求自願交配指定的動物，這是他們職責的一部分。</BreedingWorkMaleSlaves.description>
+  <BreedingWorkMaleSlaves.description>男性奴隸被要求自願服務指定的動物，這是他們職責的一部分。</BreedingWorkMaleSlaves.description>
 
   <BreedingWorkMaleForcedColonists.label>強制</BreedingWorkMaleForcedColonists.label>
-  <BreedingWorkMaleForcedColonists.description>男性殖民者被強迫交配指定的動物，無論是否願意或有性慾。</BreedingWorkMaleForcedColonists.description>
-
+  <BreedingWorkMaleForcedColonists.description>男性殖民者被強迫服務指定的動物，無論他們是否願意或有性慾。</BreedingWorkMaleForcedColonists.description>
   <BreedingWorkMaleForcedSlaves.label>強制</BreedingWorkMaleForcedSlaves.label>
-  <BreedingWorkMaleForcedSlaves.description>男性奴隸被強迫交配指定的動物，無論是否願意或有性慾。</BreedingWorkMaleForcedSlaves.description>
+  <BreedingWorkMaleForcedSlaves.description>男性奴隸被強迫服務指定的動物，無論他們是否願意或有性慾。</BreedingWorkMaleForcedSlaves.description>
+
+  <BreedingWorkMaleBrandedColonists.label>烙印</BreedingWorkMaleBrandedColonists.label>
+  <BreedingWorkMaleBrandedColonists.description>只有被烙印的男性殖民者會被強迫服務指定的動物，無論他們是否願意或有性慾。</BreedingWorkMaleBrandedColonists.description>
+  <BreedingWorkMaleBrandedSlaves.label>烙印</BreedingWorkMaleBrandedSlaves.label>
+  <BreedingWorkMaleBrandedSlaves.description>只有被烙印的男性奴隸會被強迫服務指定的動物，無論他們是否願意或有性慾。</BreedingWorkMaleBrandedSlaves.description>
+
 
   <BreedingWorkFemaleColonists.label>自願</BreedingWorkFemaleColonists.label>
-  <BreedingWorkFemaleColonists.description>女性殖民者被要求自願與指定的動物交配，這是他們職責的一部分。</BreedingWorkFemaleColonists.description>
-
+  <BreedingWorkFemaleColonists.description>女性殖民者被要求自願服侍指定的動物，這是她們職責的一部分。</BreedingWorkFemaleColonists.description>
   <BreedingWorkFemaleSlaves.label>自願</BreedingWorkFemaleSlaves.label>
-  <BreedingWorkFemaleSlaves.description>女性奴隸被要求自願與指定的動物交配，這是他們職責的一部分。</BreedingWorkFemaleSlaves.description>
+  <BreedingWorkFemaleSlaves.description>女性奴隸被要求自願服侍指定的動物，這是她們職責的一部分。</BreedingWorkFemaleSlaves.description>
 
   <BreedingWorkFemaleForcedColonists.label>強制</BreedingWorkFemaleForcedColonists.label>
-  <BreedingWorkFemaleForcedColonists.description>女性殖民者被強迫與指定的動物交配，無論是否願意或有性慾。</BreedingWorkFemaleForcedColonists.description>
-
+  <BreedingWorkFemaleForcedColonists.description>女性殖民者被強迫服侍指定的動物，無論她們是否願意或有性慾。</BreedingWorkFemaleForcedColonists.description>
   <BreedingWorkFemaleForcedSlaves.label>強制</BreedingWorkFemaleForcedSlaves.label>
-  <BreedingWorkFemaleForcedSlaves.description>女性奴隸被強迫與指定的動物交配，無論是否願意或有性慾。</BreedingWorkFemaleForcedSlaves.description>
+  <BreedingWorkFemaleForcedSlaves.description>女性奴隸被強迫服侍指定的動物，無論她們是否願意或有性慾。</BreedingWorkFemaleForcedSlaves.description>
+
+  <BreedingWorkFemaleBrandedColonists.label>烙印</BreedingWorkFemaleBrandedColonists.label>
+  <BreedingWorkFemaleBrandedColonists.description>只有被烙印的女性殖民者會被強迫服侍指定的動物，無論她們是否願意或有性慾。</BreedingWorkFemaleBrandedColonists.description>
+  <BreedingWorkFemaleBrandedSlaves.label>烙印</BreedingWorkFemaleBrandedSlaves.label>
+  <BreedingWorkFemaleBrandedSlaves.description>只有被烙印的女性奴隸會被強迫服侍指定的動物，無論她們是否願意或有性慾。</BreedingWorkFemaleBrandedSlaves.description>
 </LanguageData>

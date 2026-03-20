@@ -1,51 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <BreedingWork_BreedingConditioned_Level1.stages.0.label>被訓練交配</BreedingWork_BreedingConditioned_Level1.stages.0.label>
-  <BreedingWork_BreedingConditioned_Level1.stages.0.description>我已經被迫交配很多次了，所以現在我不在乎了。</BreedingWork_BreedingConditioned_Level1.stages.0.description>
+  <BreedingWork_Branded.stages.0.label>烙印於交配</BreedingWork_Branded.stages.0.label>
+  <BreedingWork_Branded.stages.0.description>他們把我烙印成種畜而不是人。揮之不去的疼痛時刻提醒著我那段屈辱的經歷。</BreedingWork_Branded.stages.0.description>
 
-  <BreedingWork_BreedingConditioned_Level2.stages.0.label>被訓練交配</BreedingWork_BreedingConditioned_Level2.stages.0.label>
-  <BreedingWork_BreedingConditioned_Level2.stages.0.description>我從沒想過我會喜歡這種感覺…但是被像牲畜一樣對待，卻有一種令人感到舒適的感覺。</BreedingWork_BreedingConditioned_Level2.stages.0.description>
+  <BreedingWork_TerribleBranding.stages.0.label>糟糕的烙印</BreedingWork_TerribleBranding.stages.0.label>
+  <BreedingWork_TerribleBranding.stages.0.description>拙劣的烙印，讓人看著很不舒服。詞語空洞，儀式也尷尬地拖延了很久。</BreedingWork_TerribleBranding.stages.0.description>
+  <BreedingWork_BoringBranding.stages.0.label>沉悶的烙印</BreedingWork_BoringBranding.stages.0.label>
+  <BreedingWork_BoringBranding.stages.0.description>這場烙印平淡無奇，缺乏新意。演講乏善可陳，儀式也毫無氣勢。</BreedingWork_BoringBranding.stages.0.description>
+  <BreedingWork_SatisfyingBranding.stages.0.label>滿足的烙印</BreedingWork_SatisfyingBranding.stages.0.label>
+  <BreedingWork_SatisfyingBranding.stages.0.description>令人滿足的烙印。講詞簡潔明瞭，印記乾淨俐落。</BreedingWork_SatisfyingBranding.stages.0.description>
+  <BreedingWork_SpectacularBranding.stages.0.label>完美的烙印</BreedingWork_SpectacularBranding.stages.0.label>
+  <BreedingWork_SpectacularBranding.stages.0.description>講者的話語、烙印者的堅定與那一刻的莊嚴感，共同構成了一場震撼人心的儀式。</BreedingWork_SpectacularBranding.stages.0.description>
 
-  <BreedingWork_BreedingConditioned_Level3.stages.0.label>被訓練交配</BreedingWork_BreedingConditioned_Level3.stages.0.label>
-  <BreedingWork_BreedingConditioned_Level3.stages.0.description>他們甚至不需要催促我──我主動上前。</BreedingWork_BreedingConditioned_Level3.stages.0.description>
+  <BreedingWork_BreedingConditioned_Level1.stages.0.label>被調教交配</BreedingWork_BreedingConditioned_Level1.stages.0.label>
+  <BreedingWork_BreedingConditioned_Level1.stages.0.description>我被迫交配了太多次，現在一切都麻木了。羞恥與厭惡感不再如此強烈。</BreedingWork_BreedingConditioned_Level1.stages.0.description>
+  <BreedingWork_BreedingConditioned_Level2.stages.0.label>被調教交配</BreedingWork_BreedingConditioned_Level2.stages.0.label>
+  <BreedingWork_BreedingConditioned_Level2.stages.0.description>我從沒想過會從中找到任何慰藉…但被像種畜一樣對待，似乎成了我唯一確定的事。</BreedingWork_BreedingConditioned_Level2.stages.0.description>
+  <BreedingWork_BreedingConditioned_Level3.stages.0.label>被調教交配</BreedingWork_BreedingConditioned_Level3.stages.0.label>
+  <BreedingWork_BreedingConditioned_Level3.stages.0.description>再爭也無濟於事了。種畜——這就是我，不多不少。</BreedingWork_BreedingConditioned_Level3.stages.0.description>
 
-  <BreedingWork_MaleColonist_Pos.stages.0.label>交配動物</BreedingWork_MaleColonist_Pos.stages.0.label>
-  <BreedingWork_MaleColonist_Pos.stages.0.description>我交配了一隻動物。我一開始不知道自己會有什麼感覺——但結果我很喜歡它。</BreedingWork_MaleColonist_Pos.stages.0.description>
 
-  <BreedingWork_MaleColonist_Neg.stages.0.label>被迫交配動物</BreedingWork_MaleColonist_Neg.stages.0.label>
-  <BreedingWork_MaleColonist_Neg.stages.0.description>我生來就是用來交配動物的。我覺得自己像牲畜，而不是人。</BreedingWork_MaleColonist_Neg.stages.0.description>
-  <BreedingWork_MaleColonist_Neg.stages.1.label>被迫交配動物</BreedingWork_MaleColonist_Neg.stages.1.label>
+  <BreedingWork_MaleColonist_Pos.stages.0.label>與動物交配</BreedingWork_MaleColonist_Pos.stages.0.label>
+  <BreedingWork_MaleColonist_Pos.stages.0.description>我與一隻動物交配了。感覺還不錯——事實上，挺有成就感的。也許我應該找個時間再試一次。</BreedingWork_MaleColonist_Pos.stages.0.description>
+  <BreedingWork_MaleColonist_Pos.stages.1.label>與動物交配</BreedingWork_MaleColonist_Pos.stages.1.label>
+  <BreedingWork_MaleColonist_Pos.stages.1.description>這就是我的角色：一匹種畜。需要的時候就騎上去，休息，然後重複──這個責任讓我內心無比平靜。</BreedingWork_MaleColonist_Pos.stages.1.description>
+
+  <BreedingWork_MaleColonist_Neg.stages.0.label>被迫與動物交配</BreedingWork_MaleColonist_Neg.stages.0.label>
+  <BreedingWork_MaleColonist_Neg.stages.0.description>我生來就是用來與動物交配的。我覺得自己像牲畜，而不是人。</BreedingWork_MaleColonist_Neg.stages.0.description>
+  <BreedingWork_MaleColonist_Neg.stages.1.label>被迫與動物交配</BreedingWork_MaleColonist_Neg.stages.1.label>
   <BreedingWork_MaleColonist_Neg.stages.1.description>我又一次被使用了。現在感覺好像什麼事都沒發生過一樣。</BreedingWork_MaleColonist_Neg.stages.1.description>
-  <BreedingWork_MaleColonist_Neg.stages.2.label>被迫交配動物</BreedingWork_MaleColonist_Neg.stages.2.label>
-  <BreedingWork_MaleColonist_Neg.stages.2.description>我又交配了一次。沒有抵抗。只有溫暖…也許我真的能成為一匹好種馬。</BreedingWork_MaleColonist_Neg.stages.2.description>
+  <BreedingWork_MaleColonist_Neg.stages.2.label>被迫與動物交配</BreedingWork_MaleColonist_Neg.stages.2.label>
+  <BreedingWork_MaleColonist_Neg.stages.2.description>我又交配了一次。不再有抵抗。也許我終究會成為一匹好種畜——我現在只會這個了。</BreedingWork_MaleColonist_Neg.stages.2.description>
+
 
   <BreedingWork_FemaleColonist_Pos.stages.0.label>被動物交配</BreedingWork_FemaleColonist_Pos.stages.0.label>
-  <BreedingWork_FemaleColonist_Pos.stages.0.description>我讓一隻動物和我交配。感覺並不難受…事實上，感覺出奇地好。</BreedingWork_FemaleColonist_Pos.stages.0.description>
+  <BreedingWork_FemaleColonist_Pos.stages.0.description>我讓一隻動物對我交配了。感覺並不難受…事實上，感覺出奇地好。也許我應該找個時間再來一次。</BreedingWork_FemaleColonist_Pos.stages.0.description>
+  <BreedingWork_FemaleColonist_Pos.stages.1.label>被動物交配</BreedingWork_FemaleColonist_Pos.stages.1.label>
+  <BreedingWork_FemaleColonist_Pos.stages.1.description>這就是我的角色：種畜。跪下，抬起臀部，等待交配。重複…這無止盡的循環永遠平息了所有的紛爭。</BreedingWork_FemaleColonist_Pos.stages.1.description>
 
-  <BreedingWork_FemaleColonist_Neg.stages.0.label>被迫與動物交配</BreedingWork_FemaleColonist_Neg.stages.0.label>
+  <BreedingWork_FemaleColonist_Neg.stages.0.label>被迫被動物交配</BreedingWork_FemaleColonist_Neg.stages.0.label>
   <BreedingWork_FemaleColonist_Neg.stages.0.description>我強迫自己與動物交配。我並不想這樣──然而，我還是自願了。我感覺自己像牲畜一樣假裝自願。</BreedingWork_FemaleColonist_Neg.stages.0.description>
-  <BreedingWork_FemaleColonist_Neg.stages.1.label>被迫與動物交配</BreedingWork_FemaleColonist_Neg.stages.1.label>
+  <BreedingWork_FemaleColonist_Neg.stages.1.label>被迫被動物交配</BreedingWork_FemaleColonist_Neg.stages.1.label>
   <BreedingWork_FemaleColonist_Neg.stages.1.description>我又被交配了。我現在什麼感覺都沒有了。</BreedingWork_FemaleColonist_Neg.stages.1.description>
-  <BreedingWork_FemaleColonist_Neg.stages.2.label>被迫與動物交配</BreedingWork_FemaleColonist_Neg.stages.2.label>
-  <BreedingWork_FemaleColonist_Neg.stages.2.description>我又一次被交配了。我毫無反抗地屈服了。就像發情的牲畜——也許我現在就是這樣了。</BreedingWork_FemaleColonist_Neg.stages.2.description>
+  <BreedingWork_FemaleColonist_Neg.stages.2.label>被迫被動物交配</BreedingWork_FemaleColonist_Neg.stages.2.label>
+  <BreedingWork_FemaleColonist_Neg.stages.2.description>我又一次被交配了。我毫無反抗地屈服了。或許我終究還是會成為優秀的牲畜——這是我僅存的一切。</BreedingWork_FemaleColonist_Neg.stages.2.description>
 
-  <BreedingWork_MaleSlave_Pos.stages.0.label>交配動物</BreedingWork_MaleSlave_Pos.stages.0.label>
-  <BreedingWork_MaleSlave_Pos.stages.0.description>我需要交配動物──這倒沒怎麼困擾我；至少這是輕鬆的工作。</BreedingWork_MaleSlave_Pos.stages.0.description>
 
-  <BreedingWork_MaleSlave_Neg.stages.0.label>被迫交配動物</BreedingWork_MaleSlave_Neg.stages.0.label>
-  <BreedingWork_MaleSlave_Neg.stages.0.description>他們強迫我交配動物。我甚至不再被當人看待——只是一頭執行任務的牲畜。</BreedingWork_MaleSlave_Neg.stages.0.description>
-  <BreedingWork_MaleSlave_Neg.stages.1.label>被迫交配動物</BreedingWork_MaleSlave_Neg.stages.1.label>
+  <BreedingWork_MaleSlave_Pos.stages.0.label>與動物交配</BreedingWork_MaleSlave_Pos.stages.0.label>
+  <BreedingWork_MaleSlave_Pos.stages.0.description>我需要與動物交配──這倒沒怎麼困擾我；至少這是輕鬆的工作。</BreedingWork_MaleSlave_Pos.stages.0.description>
+  <BreedingWork_MaleSlave_Pos.stages.1.label>與動物交配</BreedingWork_MaleSlave_Pos.stages.1.label>
+  <BreedingWork_MaleSlave_Pos.stages.1.description>騎上、休息、重複。吃、別說話、服從。現在，無需做任何決定，也無需恐懼——這就是種畜的生活，也是像我這樣的奴隸的生活。</BreedingWork_MaleSlave_Pos.stages.1.description>
+
+  <BreedingWork_MaleSlave_Neg.stages.0.label>被迫與動物交配</BreedingWork_MaleSlave_Neg.stages.0.label>
+  <BreedingWork_MaleSlave_Neg.stages.0.description>他們強迫我與動物交配。我甚至不再被當人看待——只是一頭執行任務的牲畜。</BreedingWork_MaleSlave_Neg.stages.0.description>
+  <BreedingWork_MaleSlave_Neg.stages.1.label>被迫與動物交配</BreedingWork_MaleSlave_Neg.stages.1.label>
   <BreedingWork_MaleSlave_Neg.stages.1.description>他們讓我再做一遍。已經無所謂了。</BreedingWork_MaleSlave_Neg.stages.1.description>
-  <BreedingWork_MaleSlave_Neg.stages.2.label>被迫交配動物</BreedingWork_MaleSlave_Neg.stages.2.label>
-  <BreedingWork_MaleSlave_Neg.stages.2.description>我又開始了，不假思索地衝刺著。沒人強迫我。那裡很溫暖…感覺很好，比我想承認的還要好。</BreedingWork_MaleSlave_Neg.stages.2.description>
+  <BreedingWork_MaleSlave_Neg.stages.2.label>被迫與動物交配</BreedingWork_MaleSlave_Neg.stages.2.label>
+  <BreedingWork_MaleSlave_Neg.stages.2.description>我又開始了，不假思索地衝撞著。也許我終究會成為一匹好種畜——這是我僅存的一切。</BreedingWork_MaleSlave_Neg.stages.2.description>
+
 
   <BreedingWork_FemaleSlave_Pos.stages.0.label>被動物交配</BreedingWork_FemaleSlave_Pos.stages.0.label>
   <BreedingWork_FemaleSlave_Pos.stages.0.description>我被動物交配了──還得自己邀請它來。倒也沒怎麼困擾我──至少這是單純的工作。</BreedingWork_FemaleSlave_Pos.stages.0.description>
+  <BreedingWork_FemaleSlave_Pos.stages.1.label>被動物交配</BreedingWork_FemaleSlave_Pos.stages.1.label>
+  <BreedingWork_FemaleSlave_Pos.stages.1.description>雙膝下垂。臀部抬起。等待。被交配。無需思考——這適合牲畜。也適合我。</BreedingWork_FemaleSlave_Pos.stages.1.description>
 
-  <BreedingWork_FemaleSlave_Neg.stages.0.label>被迫與動物交配</BreedingWork_FemaleSlave_Neg.stages.0.label>
+  <BreedingWork_FemaleSlave_Neg.stages.0.label>被迫被動物交配</BreedingWork_FemaleSlave_Neg.stages.0.label>
   <BreedingWork_FemaleSlave_Neg.stages.0.description>他們讓我乖乖地待在那裡，等著交配。我被當成牲畜一樣對待──在他們眼裡，我不過如此。</BreedingWork_FemaleSlave_Neg.stages.0.description>
-  <BreedingWork_FemaleSlave_Neg.stages.1.label>被迫與動物交配</BreedingWork_FemaleSlave_Neg.stages.1.label>
-  <BreedingWork_FemaleSlave_Neg.stages.1.description>我又一次交配了。我沒有任何感覺。只是例行公事。</BreedingWork_FemaleSlave_Neg.stages.1.description>
-  <BreedingWork_FemaleSlave_Neg.stages.2.label>被迫與動物交配</BreedingWork_FemaleSlave_Neg.stages.2.label>
-  <BreedingWork_FemaleSlave_Neg.stages.2.description>我又一次被騎乘。沒有恐懼，沒有羞恥感──只有溫暖。被這樣使用，感覺就不再那麼糟了。</BreedingWork_FemaleSlave_Neg.stages.2.description>
+  <BreedingWork_FemaleSlave_Neg.stages.1.label>被迫被動物交配</BreedingWork_FemaleSlave_Neg.stages.1.label>
+  <BreedingWork_FemaleSlave_Neg.stages.1.description>我又一次被交配了。現在幾乎感覺不到了——只剩下空虛。</BreedingWork_FemaleSlave_Neg.stages.1.description>
+  <BreedingWork_FemaleSlave_Neg.stages.2.label>被迫被動物交配</BreedingWork_FemaleSlave_Neg.stages.2.label>
+  <BreedingWork_FemaleSlave_Neg.stages.2.description>我又被騎上了。我不假思索地迎了上去。或許我終究還是會成為優秀的牲畜──這是我僅存的一切。</BreedingWork_FemaleSlave_Neg.stages.2.description>
 </LanguageData>

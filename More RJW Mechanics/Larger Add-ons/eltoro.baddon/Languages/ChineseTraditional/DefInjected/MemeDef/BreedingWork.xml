@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedingWork.label>戀獸牧場</BreedingWork.label>
+  <BreedingWork.description>養育動物乃正道；真正的奉獻意味著孕育它們的後代，並讓它們孕育我們的子民。</BreedingWork.description>
+
+  <BreedingWork.generalRules.rulesStrings>
+    <li>memeAdjective->生育的</li>
+    <li>memeAdjective->妊娠的</li>
+    <li>memeAdjective->腹部腫脹的</li>
+    <li>memeConcept->野獸分娩</li>
+    <li>memeConcept->野獸懷孕</li>
+    <li>memeLeaderNoun->繁殖者</li>
+  </BreedingWork.generalRules.rulesStrings>
+
+  <BreedingWork.descriptionMaker.rules.rulesStrings>
+    <!-- theist myth -->
+    <li>creation(tag=meme_ZoophilicRancher)        ->[deity0_name]創造了各種野獸，並將它們贈予人類，說道：「將你們自己自由地獻給所有的牲畜，讓雙方的子宮都膨脹，作為永恆的奉獻。」</li>
+    <li>episode(uses=1,tag=meme_ZoophilicRancher)  ->[deity0_name]創造了大地上所有高貴的動物和野獸，並說：「你們要將這些高貴的生物納入你們的血肉之中，讓它們也納入你們；透過共享的子宮和隆起的腹部，你們將繁衍後代，榮耀我。</li>
+    <!-- ideological founder -->
+    <li>setup(tag=meme_ZoophilicRancher)           ->[founderName]首先將自己的身體獻給了野獸，由此誕生了第一窩幼崽與真正的信仰本身。</li>
+    <li>story(uses=1,tag=meme_ZoophilicRancher)    ->[founderName]透過自由放牧牲畜，開始傳播畜群，直到平原上充滿了生機。</li>
+    <!-- ideological lesson -->
+    <li>lessonIntro(tag=meme_ZoophilicRancher)         ->在營火旁靜謐的時刻，信徒們會低聲吟誦這個真理：</li>
+    <li>lesson(tag=meme_ZoophilicRancher)              ->臣服於動物的懷抱，孕育它們的後代，並透過它們獲得新生——此為無盡的循環。</li>
+    <li>lessonReinforcement(tag=meme_ZoophilicRancher) ->與動物繁衍後代，生育它們，那是永恆的幸福。</li>
+    <!-- archist -->
+    <li>archistBasis(tag=meme_ZoophilicRancher)    ->就像牧羊人照顧羊群一樣，遠古科技守護著人類，因為我們是他們最珍愛的群體──注定要和諧地融合繁衍。</li>
+    <li>archistFact(tag=meme_ZoophilicRancher)     ->遠古科技使種子與子宮在不同物種間潛在相容，以便我們能夠成為不同種族之間的活橋樑，共同孕育我們更美好的未來。</li>
+    <li>archistProphecy(tag=meme_ZoophilicRancher) ->[inTheEnd]，當遠古科技退隱到更高的境界時，我們這些信徒將永遠作為他們子民的服務者，我們的子宮與他們的子宮在永恆的神聖循環中交織在一起。</li>
+    <!-- animist -->
+    <li>animistFact(tag=meme_ZoophilicRancher)     ->這些動物是漂泊在荒野中的古老靈魂，尋求指引；只有透過我們神聖的種子與隆起的腹部，它們才能找到真正的道路，並在和諧中重生。</li>
+  </BreedingWork.descriptionMaker.rules.rulesStrings>
+
+  <BreedingWork.symbolPacks.0.ideoName>戀獸牧場</BreedingWork.symbolPacks.0.ideoName>
+  <BreedingWork.symbolPacks.0.theme>播種</BreedingWork.symbolPacks.0.theme>
+  <BreedingWork.symbolPacks.0.adjective>獸性的</BreedingWork.symbolPacks.0.adjective>
+  <BreedingWork.symbolPacks.0.member>播種者</BreedingWork.symbolPacks.0.member>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialRelations_Preferred.label>偏好</BestialRelations_Preferred.label>
+  <BestialRelations_Preferred.description>與動物建立良好關係被視為一種可取且光榮的做法，它引導著我們殖民地中的動物與人類走向更大的和諧。</BestialRelations_Preferred.description>
+
+  <BestialRelations_Acceptable.label>接受</BestialRelations_Acceptable.label>
+  <BestialRelations_Acceptable.description>一般認為人與動物的關係是司空見慣的，與人與人之間的關係沒有區別。</BestialRelations_Acceptable.description>
+
+  <BestialRelations_Disapproved.label>反對</BestialRelations_Disapproved.label>
+  <BestialRelations_Disapproved.description>與動物發生關係是極度令人厭惡與羞恥的。</BestialRelations_Disapproved.description>
+
+  <BestialRelations_Ritual.label>戀獸婚禮</BestialRelations_Ritual.label>
+  <BestialRelations_Ritual.description>一場戀獸儀式，儀式中，人與動物都會被下藥並進行某種形式的調教。如果成功，他們將建立一種新的關係。</BestialRelations_Ritual.description>
+</LanguageData>

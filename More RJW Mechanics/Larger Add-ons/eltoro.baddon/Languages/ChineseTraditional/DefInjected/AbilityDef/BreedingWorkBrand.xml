@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreedingWorkBrand.label>烙印</BreedingWorkBrand.label>
+  <BreedingWorkBrand.description>職責的烙印。</BreedingWorkBrand.description>
+  <BreedingWorkBrand.comps.CompAbilityEffect_BreedingWorkBranding.successMessage>{INITIATOR_labelShort}成功烙印了{RECIPIENT_labelShort}。</BreedingWorkBrand.comps.CompAbilityEffect_BreedingWorkBranding.successMessage>
+</LanguageData>

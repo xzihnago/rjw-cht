@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RitualBehavior_BestialRelations.spectatorsLabel>觀禮人</RitualBehavior_BestialRelations.spectatorsLabel>
+  <RitualBehavior_BestialRelations.spectatorGerund>旁觀</RitualBehavior_BestialRelations.spectatorGerund>
+  <RitualBehavior_BestialRelations.spectatorGerund>旁觀</RitualBehavior_BestialRelations.spectatorGerund>
+  <RitualBehavior_BestialRelations.roles.0.label>主持</RitualBehavior_BestialRelations.roles.0.label>
+  <RitualBehavior_BestialRelations.roles.0.missingDesc>負責儀式的人</RitualBehavior_BestialRelations.roles.0.missingDesc>
+  <RitualBehavior_BestialRelations.roles.1.label>人類</RitualBehavior_BestialRelations.roles.1.label>
+  <RitualBehavior_BestialRelations.roles.2.label>動物</RitualBehavior_BestialRelations.roles.2.label>
+  <RitualBehavior_BestialRelations.stages.0.failTriggers.0.desc>無法接近動物。</RitualBehavior_BestialRelations.stages.0.failTriggers.0.desc>
+  <RitualBehavior_BestialRelations.stages.0.failTriggers.1.desc>押送員睡著了</RitualBehavior_BestialRelations.stages.0.failTriggers.1.desc>
+  <RitualBehavior_BestialRelations.stages.1.failTriggers.0.desc>無法接近人類。</RitualBehavior_BestialRelations.stages.1.failTriggers.0.desc>
+  <RitualBehavior_BestialRelations.stages.1.failTriggers.1.desc>押送員睡著了</RitualBehavior_BestialRelations.stages.1.failTriggers.1.desc>
+</LanguageData>

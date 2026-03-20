@@ -16,7 +16,7 @@
     <li>r_logentry->[INITIATOR_nameDef]躺下，雙腿顫抖著為[RECIPIENT_nameDef]分開陰唇，臉轉向一旁。</li>
   </BreedingWorkInviteForcedFemale.logRulesInitiator.rulesStrings>
 
-  <BreedingWorkInviteMale.label>準備交配動物</BreedingWorkInviteMale.label>
+  <BreedingWorkInviteMale.label>準備與動物交配</BreedingWorkInviteMale.label>
   <BreedingWorkInviteMale.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]站在[RECIPIENT_nameDef]身後，一手撫摸著他的陰莖，另一手分開她的陰唇。</li>
     <li>r_logentry->[INITIATOR_nameDef]抓住[RECIPIENT_nameDef]的後臀，用手指分開她的陰唇，同時抽動他的陰莖。</li>
@@ -24,7 +24,7 @@
     <li>r_logentry->[INITIATOR_nameDef]穩住[RECIPIENT_nameDef]的腰側，將他的陰莖抵住她的陰唇並摩擦，讓她做好準備。</li>
   </BreedingWorkInviteMale.logRulesInitiator.rulesStrings>
 
-  <BreedingWorkInviteForcedMale.label>準備交配動物</BreedingWorkInviteForcedMale.label>
+  <BreedingWorkInviteForcedMale.label>準備與動物交配</BreedingWorkInviteForcedMale.label>
   <BreedingWorkInviteForcedMale.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]走到[RECIPIENT_nameDef]的後腿後面，顫抖著摩擦著疲軟的陰莖，搖搖晃晃地將龜頭抵在她的陰唇，當它變硬時，他如釋重負地嘆了口氣。</li>
     <li>r_logentry->[INITIATOR_nameDef]怒氣沖沖地站在[RECIPIENT_nameDef]身後，一邊用顫抖的手指分開她的陰唇，一邊低聲咒罵著。</li>
@@ -44,7 +44,7 @@
     <li>r_logentry->[INITIATOR_nameDef]用爪子抓著地面，然後將前腿放在[RECIPIENT_nameDef]的背上，接受她的邀請。</li>
   </BreedingWorkAnimalResponseFemale.logRulesInitiator.rulesStrings>
 
-  <BreedingWorkAnimalResponseMale.label>交配標記動物</BreedingWorkAnimalResponseMale.label>
+  <BreedingWorkAnimalResponseMale.label>與標記動物交配</BreedingWorkAnimalResponseMale.label>
   <BreedingWorkAnimalResponseMale.logRulesInitiator.rulesStrings>
     <li>r_logentry->[RECIPIENT_nameDef]已經站在[INITIATOR_nameDef]身後，將勃起的陰莖抵住她的臀部，開始交配。</li>
     <li>r_logentry->[RECIPIENT_nameDef]站在[INITIATOR_nameDef]的臀部後面，引導著他的陰莖向她的後方移動，開始了性行為。</li>
@@ -60,7 +60,7 @@
     <li>r_logentry->[INITIATOR_nameDef]用爪子抓著地面，然後將前腿放在[RECIPIENT_nameDef]的背上，接受她的邀請。</li>
   </BreedingWorkAnimalResponseFemaleForced.logRulesInitiator.rulesStrings>
 
-  <BreedingWorkAnimalResponseMaleForced.label>交配標記動物</BreedingWorkAnimalResponseMaleForced.label>
+  <BreedingWorkAnimalResponseMaleForced.label>與標記動物交配</BreedingWorkAnimalResponseMaleForced.label>
   <BreedingWorkAnimalResponseMaleForced.logRulesInitiator.rulesStrings>
     <li>r_logentry->[RECIPIENT_nameDef]已經站在[INITIATOR_nameDef]身後，將勃起的陰莖抵住她的臀部，開始交配。</li>
     <li>r_logentry->[RECIPIENT_nameDef]站在[INITIATOR_nameDef]的臀部後面，引導著他的陰莖向她的後方移動，開始了性行為。</li>

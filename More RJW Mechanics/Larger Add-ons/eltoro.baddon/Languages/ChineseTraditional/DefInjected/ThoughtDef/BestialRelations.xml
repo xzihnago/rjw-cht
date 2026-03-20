@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestialRelations_Thought_Preferred.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Preferred.stages.0.label>
+  <BestialRelations_Thought_Preferred.stages.0.description>我與一隻動物建立了聯繫。這是我應該做的。</BestialRelations_Thought_Preferred.stages.0.description>
+  <BestialRelations_Thought_Known_Preferred.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Known_Preferred.stages.0.label>
+  <BestialRelations_Thought_Known_Preferred.stages.0.description>一位成員與動物建立了聯繫。這將使我們所有人都受益。</BestialRelations_Thought_Known_Preferred.stages.0.description>
+  <BestialRelations_Thought_Known_Preferred_Opinion.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Known_Preferred_Opinion.stages.0.label>
+
+  <BestialRelations_Thought_Disapproved.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Disapproved.stages.0.label>
+  <BestialRelations_Thought_Disapproved.stages.0.description>我同意成為動物的伴侶，但這是個錯誤的做法。</BestialRelations_Thought_Disapproved.stages.0.description>
+  <BestialRelations_Thought_Known_Disapproved.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Known_Disapproved.stages.0.label>
+  <BestialRelations_Thought_Known_Disapproved.stages.0.description>我們當中有人與動物發生了關係。這個人墮落到動物的階級，給整個族群蒙羞。</BestialRelations_Thought_Known_Disapproved.stages.0.description>
+  <BestialRelations_Thought_Known_Disapproved_Opinion.stages.0.label>與動物建立聯繫</BestialRelations_Thought_Known_Disapproved_Opinion.stages.0.label>
+</LanguageData>

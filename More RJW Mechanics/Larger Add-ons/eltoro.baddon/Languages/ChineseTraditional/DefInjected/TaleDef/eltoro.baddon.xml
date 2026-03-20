@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BecameBestialLover.label>建立獸性聯繫</BecameBestialLover.label>
+  <BecameBestialLover.rulePack.rulesStrings>
+    <li>tale_noun->[HUMAN_nameDef]與[ANIMAL_nameDef]形成動物般的關係</li>
+    <li>tale_noun->[ANIMAL_nameDef]成為[HUMAN_nameDef]的野獸伴侶</li>
+    <li>tale_noun->[HUMAN_nameDef]與[ANIMAL_nameDef]建立浪漫羈絆</li>
+
+    <li>image->[HUMAN_nameFull]輕輕擁抱[ANIMAL_nameFull]，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]將頭靠在[ANIMAL_nameFull]的身上，[circumstance_group]</li>
+    <li>image->[ANIMAL_nameFull]親密地磨蹭[HUMAN_nameFull]的臉，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]凝視著[ANIMAL_nameFull]的眼睛，帶著平靜的驚奇，[circumstance_group]</li>
+    <li>image->[ANIMAL_nameFull]蜷縮著保護性地圍繞著[HUMAN_nameFull]，[circumstance_group]</li>
+
+    <li>circumstance_phrase->其他動物則好奇地看著</li>
+    <li>circumstance_phrase->周圍聚集了[Quantity_adjphrase]名圍觀者</li>
+    <li>circumstance_phrase->[Quantity_adjphrase]名殖民者在附近觀察</li>
+    <li>circumstance_phrase->被微笑的殖民者包圍著</li>
+    <li>circumstance_phrase->周圍一片寧靜祥和</li>
+
+    <li>desc_sentence->[HUMAN_nameDef]臉頰緋紅，害羞地看著[ANIMAL_nameDef]，同時輕輕撫摸[ANIMAL_possessive]頭。</li>
+    <li>desc_sentence->[HUMAN_nameDef]溫柔地笑著，[ANIMAL_nameDef]用鼻子磨蹭[HUMAN_possessive]手。</li>
+    <li>desc_sentence->[HUMAN_nameDef]害羞地別過臉去，臉頰泛紅，但[HUMAN_possessive]手仍然放在[ANIMAL_nameDef]上。</li>
+    <li>desc_sentence->[HUMAN_nameDef]看起來既驚訝又害羞，因為[ANIMAL_nameDef]親暱地舔著[HUMAN_possessive]臉頰。</li>
+    <li>desc_sentence->[HUMAN_nameDef]與[ANIMAL_nameDef]彼此凝視，眼中充滿了溫柔而無言的愛意。</li>
+    <li>desc_sentence->[ANIMAL_nameDef]將[ANIMAL_possessive]頭貼在[HUMAN_nameDef]的胸膛上，眼神溫柔而深情。</li>
+    <li>desc_sentence->[HUMAN_nameDef]靦腆地笑著，[ANIMAL_nameDef]忠誠地待在[HUMAN_possessive]身邊，場景令人心生溫暖。</li>
+  </BecameBestialLover.rulePack.rulesStrings>
+
+  <FirstEnjoyedBestialSex.label>享受獸交</FirstEnjoyedBestialSex.label>
+  <FirstEnjoyedBestialSex.rulePack.rulesStrings>
+    <li>tale_noun->[ANIMAL_nameDef]與[HUMAN_nameDef]交配</li>
+    <li>tale_noun->[HUMAN_nameDef]與[ANIMAL_nameDef]的獸性遭遇</li>
+
+    <li>image->[ANIMAL_nameFull]熱情地騎乘[HUMAN_nameFull]，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]與[ANIMAL_nameFull]狂野地交配，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]撫摸並取悅[ANIMAL_nameFull]，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]將[HUMAN_possessive]身體緊密地壓在[ANIMAL_nameFull]上，[circumstance_group]</li>
+    <li>image->[HUMAN_nameFull]用嘴取悅[ANIMAL_nameFull]，眼神充滿愛慕，[circumstance_group]</li>
+    <li>image->[ANIMAL_nameFull]用嘴取悅[HUMAN_nameFull]，眼神充滿愛慕，[circumstance_group]</li>
+
+    <li>circumstance_phrase->其他動物在一旁觀看，明顯表現出興奮之情</li>
+    <li>circumstance_phrase->雙方都氣喘吁籲</li>
+    <li>circumstance_phrase->地面被他們混合的愛液弄得濕滑</li>
+    <li>circumstance_phrase->彼此身上沾滿了對方的愛液</li>
+    <li>circumstance_phrase->周圍瀰漫著他們交配時散發的濃烈麝香味</li>
+    <li>circumstance_phrase->他們的身體閃閃發亮，汗水與體液交織在一起</li>
+
+    <li>desc_sentence->[HUMAN_nameDef]將[HUMAN_possessive]背欣喜若狂地向後仰去，雙眼半閉，嘴唇微微張開。</li>
+    <li>desc_sentence->[HUMAN_nameDef]隨著每一個動作顫抖，眼睛也隨之顫動，[HUMAN_possessive]表情融化成純粹的喜悅。</li>
+    <li>desc_sentence->[HUMAN_nameDef]將[HUMAN_possessive]頭向後仰，臉上泛起欣喜若狂的紅暈。</li>
+    <li>desc_sentence->[ANIMAL_nameDef]興奮得顫抖，每一塊肌肉都緊繃顫抖，[ANIMAL_possessive]性慾達到了頂峰。</li>
+    <li>desc_sentence->[ANIMAL_nameDef]向後拱起[ANIMAL_possessive]背，雙眼半睜，露出深沉的、動物般的滿足感。</li>
+    <li>desc_sentence->[ANIMAL_nameDef]繃緊[ANIMAL_possessive]全身緊貼[HUMAN_nameDef]，表現出一種深刻、凝滯的幸福。</li>
+    <li>desc_sentence->[HUMAN_nameDef]開始以[ANIMAL_nameDef]特有的溫柔而野性的方式表達[HUMAN_possessive]愛。</li>
+    <li>desc_sentence->雙方緊緊相擁，肌肉一齊緊繃，表情交融，沉浸在無比的幸福之中。</li>
+  </FirstEnjoyedBestialSex.rulePack.rulesStrings>
+
+  <GaveBirthAnimal.label>生下動物後代</GaveBirthAnimal.label>
+  <GaveBirthAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[MOTHER_nameDef]的第一次動物分娩</li>
+    <li>tale_noun->[MOTHER_nameDef]驚訝地生下了[MOTHER_possessive]動物寶寶</li>
+    <li>tale_noun->[MOTHER_nameDef]生下[MOTHER_possessive]動物寶寶</li>
+    <li>tale_noun->[MOTHER_nameDef]因生下[MOTHER_possessive]動物寶寶而感到震驚</li>
+
+    <li>image->[MOTHER_nameFull]用力縮腹，睜大雙眼，外型奇特的[baby]緩緩露出，[circumstance_group]</li>
+    <li>image->[MOTHER_nameFull]倒吸一口氣，[baby]滑了出來，露出了它奇特的外型，[circumstance_group]</li>
+    <li>image->[MOTHER_nameFull]緊緊抓住床單，而[baby]不自然的體型在分娩過程中將她撐開，[circumstance_group]</li>
+    <li>image->[MOTHER_nameFull]用盡全力，臉部扭曲，[baby]終於開始離開她的身體，[circumstance_group]</li>
+    <li>image->[MOTHER_nameFull]顫抖著，身體被擴張到極限，[baby]不自然的外型逐漸顯現，[circumstance_group]</li>
+    <li>image->[MOTHER_nameFull]咬著牙喘著粗氣，被[baby]出乎意料的體型撐得擴張，[circumstance_group]</li>
+
+    <li>baby->幼獸</li>
+    <li>baby->幼崽</li>
+    <li>baby->幼犢</li>
+    <li>baby->幼子</li>
+
+    <li>circumstance_phrase->醫生用器械幫助新生兒出產</li>
+    <li>circumstance_phrase->獸醫使用工具幫助新生兒出產</li>
+    <li>circumstance_phrase->獸醫托住新生兒的後半身，引導其安全分娩</li>
+    <li>circumstance_phrase->醫生小心翼翼地調整新生兒的體位以利分娩</li>
+    <li>circumstance_phrase->獸醫輕輕地抓住新生兒剛冒出的腿，引導它出來</li>
+    <li>circumstance_phrase->[MOTHER_nameFull]因長時間的努力而氣喘吁吁</li>
+
+    <li>desc_sentence->分娩後，[MOTHER_nameDef]輕聲低語，看著她意想不到的孩子，眼中充滿了敬畏。</li>
+    <li>desc_sentence->當嬰兒被抱到眼前時，[MOTHER_nameDef]輕輕地倒吸了一口氣，難以置信地凝視著它。</li>
+    <li>desc_sentence->當嬰兒被抱到她的視線範圍內時，[MOTHER_nameDef]屏息凝視著，驚嘆不已，儘管這感覺很陌生，但她的內心卻充滿了喜悅。</li>
+    <li>desc_sentence->當助手們將新生兒展示給她看時，[MOTHER_nameDef]看著嬰兒，眼中噙著淚水，既震驚又充滿愛意。</li>
+  </GaveBirthAnimal.rulePack.rulesStrings>
+</LanguageData>

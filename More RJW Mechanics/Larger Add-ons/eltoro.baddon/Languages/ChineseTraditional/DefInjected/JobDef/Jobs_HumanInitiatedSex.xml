@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SexRecieverAnimalSex.reportString>交配</SexRecieverAnimalSex.reportString>
+  <ForcedBreedingReciever.reportString>配種</ForcedBreedingReciever.reportString>
+  <ForcedBreedingRecieverMale.reportString>被迫配種</ForcedBreedingRecieverMale.reportString>
+  <BestialityConsensual.reportString>與動物交配</BestialityConsensual.reportString>
+  <BestialityRape.reportString>強姦動物</BestialityRape.reportString>
+  <JoinMating.reportString>加入動物交配</JoinMating.reportString>
+  <JoinBreeding.reportString>加入動物配種</JoinBreeding.reportString>
+  <Rape_Struggle.reportString>試圖強姦{0}</Rape_Struggle.reportString>
+  <Rape_StruggleRape.reportString>強姦{0}</Rape_StruggleRape.reportString>
+</LanguageData>

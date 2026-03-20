@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <AnimalBreedInvite.reportString>準備被交配</AnimalBreedInvite.reportString>
-  <AnimalBreedInviteForced.reportString>準備被交配</AnimalBreedInviteForced.reportString>
-  <BreedingWorkSexAnimalInitiate.reportString>交配</BreedingWorkSexAnimalInitiate.reportString>
-  <BreedingWorkRapeAnimalInitiate.reportString>播種</BreedingWorkRapeAnimalInitiate.reportString>
-  <AnimalBreedInviteForcedMale.reportString>準備交配動物</AnimalBreedInviteForcedMale.reportString>
+  <AnimalBreedInvite.reportString>準備履行職責</AnimalBreedInvite.reportString>
+  <AnimalBreedInviteForced.reportString>準備強制履行職責</AnimalBreedInviteForced.reportString>
+  <BreedingWorkSexAnimalInitiate.reportString>履行職責</BreedingWorkSexAnimalInitiate.reportString>
+  <BreedingWorkRapeAnimalInitiate.reportString>強制履行職責</BreedingWorkRapeAnimalInitiate.reportString>
+  <BreedingWorkRitualBrand.reportString>烙印{0}</BreedingWorkRitualBrand.reportString>
+  <BreedingWorkDeliverAnimal.reportString>將{0}移至{2}</BreedingWorkDeliverAnimal.reportString>
+  <BreedingWorkResetPrisonerCooldown.reportString>將動物移至{0}失敗</BreedingWorkResetPrisonerCooldown.reportString>
 </LanguageData>

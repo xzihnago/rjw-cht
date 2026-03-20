@@ -2,6 +2,14 @@
 <LanguageData>
   <BestialLovers_Affair.stages.0.label>野獸的行為</BestialLovers_Affair.stages.0.label>
 
+  <BestialLovers_WantToSleepWithMate.stages.0.label>獨自入眠</BestialLovers_WantToSleepWithMate.stages.0.label>
+  <BestialLovers_WantToSleepWithMate.stages.0.description>我應該和我的動物一起睡覺。</BestialLovers_WantToSleepWithMate.stages.0.description>
+  <BestialLovers_WantToSleepWithAnyone.stages.0.label>獨自入眠</BestialLovers_WantToSleepWithAnyone.stages.0.label>
+  <BestialLovers_WantToSleepWithAnyone.stages.0.description>我應該和我的動物或人類伴侶一起睡覺。</BestialLovers_WantToSleepWithAnyone.stages.0.description>
+
+  <BestialLovers_OpinionOfMyAnimal.stages.0.label>與我的{0}{1}在一起的感覺</BestialLovers_OpinionOfMyAnimal.stages.0.label>
+  <BestialLovers_OpinionOfMyAnimal.stages.0.description>和他在一起讓我有這樣的感覺。</BestialLovers_OpinionOfMyAnimal.stages.0.description>
+
   <BestialLovers_CheatedOnMe_ResHigh.stages.0.label>因為動物背叛我</BestialLovers_CheatedOnMe_ResHigh.stages.0.label>
   <BestialLovers_CheatedOnMeMood_ResHigh.stages.0.label>{0}背叛了我</BestialLovers_CheatedOnMeMood_ResHigh.stages.0.label>
   <BestialLovers_CheatedOnMeMood_ResHigh.stages.0.description>被背叛了…和一隻動物。這種恥辱比背叛本身更讓人痛苦。</BestialLovers_CheatedOnMeMood_ResHigh.stages.0.description>
@@ -9,4 +17,12 @@
   <BestialLovers_CheatedOnMe_ResLow.stages.0.label>因為動物背叛我</BestialLovers_CheatedOnMe_ResLow.stages.0.label>
   <BestialLovers_CheatedOnMeMood_ResLow.stages.0.label>{0}背叛了我</BestialLovers_CheatedOnMeMood_ResLow.stages.0.label>
   <BestialLovers_CheatedOnMeMood_ResLow.stages.0.description>被背叛了…和一隻動物。我並不介意獸交，但我介意被排除在外。</BestialLovers_CheatedOnMeMood_ResLow.stages.0.description>
+
+  <BestialLovers_AnimalCheatedOnMe_ResHigh.stages.0.label>我的動物伴侶背叛我</BestialLovers_AnimalCheatedOnMe_ResHigh.stages.0.label>
+  <BestialLovers_AnimalCheatedOnMeMood_ResHigh.stages.0.label>{0}背叛了我</BestialLovers_AnimalCheatedOnMeMood_ResHigh.stages.0.label>
+  <BestialLovers_AnimalCheatedOnMeMood_ResHigh.stages.0.description>被一隻動物…背叛了。這種恥辱難以忍受──我為了一個可以輕易取代我的野獸而自貶。</BestialLovers_AnimalCheatedOnMeMood_ResHigh.stages.0.description>
+
+  <BestialLovers_AnimalCheatedOnMe_ResLow.stages.0.label>我的動物伴侶背叛我</BestialLovers_AnimalCheatedOnMe_ResLow.stages.0.label>
+  <BestialLovers_AnimalCheatedOnMeMood_ResLow.stages.0.label>{0}背叛了我</BestialLovers_AnimalCheatedOnMeMood_ResLow.stages.0.label>
+  <BestialLovers_AnimalCheatedOnMeMood_ResLow.stages.0.description>我心愛的動物選擇了另一個人…我以為我們之間的感情很特別。動物也能愛得那麼深沉，而此刻，這比什麼都讓我心痛。</BestialLovers_AnimalCheatedOnMeMood_ResLow.stages.0.description>
 </LanguageData>

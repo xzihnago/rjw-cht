@@ -9,4 +9,6 @@
   <ForcedBreeding_Tip_NotMature>無法指定：該動物尚未性成熟或無法進行性行為。</ForcedBreeding_Tip_NotMature>
   <ForcedBreeding_Tip_NoGenitals>無法指定：該動物沒有功能性生殖器官。</ForcedBreeding_Tip_NoGenitals>
   <ForcedBreeding_Tip_CanDesignate>指定該動物用於強制播種。</ForcedBreeding_Tip_CanDesignate>
+  <AbilityMustNotHaveBranded>{0_labelShort}必須尚未被烙印。</AbilityMustNotHaveBranded>
+  <MustHaveBreedingWork>需要戀獸牧場模因。</MustHaveBreedingWork>
 </LanguageData>
