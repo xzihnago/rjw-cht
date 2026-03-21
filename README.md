@@ -10,7 +10,7 @@ RJW 與部分附加模組的中文化。<br />
 
 | 模組（1.6）                                                                                     | 版本                   | 狀態                         |
 | ----------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------- |
-| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                                       | `eb57e81`              | 完整                         |
+| [RimJobWorld](https://gitgud.io/Ed86/rjw)                                                       | `b23f5db` `2026-03-09` | 完整                         |
 | Animations                                                                                      |                        |                              |
 | [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                   | `dbe300d`              | 完整                         |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                        | `8d2dc63`              | 完整                         |

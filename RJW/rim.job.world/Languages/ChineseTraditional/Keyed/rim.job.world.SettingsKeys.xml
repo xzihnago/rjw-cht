@@ -2,6 +2,12 @@
 <LanguageData>
   <!-- Settings-->
   <RJWSettingsMain>RJW - 基礎設定</RJWSettingsMain>
+  <RJWSettingsMainTitle_General>一般</RJWSettingsMainTitle_General>
+  <RJWSettingsMainTitle_Audio>音訊</RJWSettingsMainTitle_Audio>
+  <RJWSettingsMainTitle_SexNeed>性需求</RJWSettingsMainTitle_SexNeed>
+  <RJWSettingsMainTitle_Nymphomaniacs>性愛成癮</RJWSettingsMainTitle_Nymphomaniacs>
+  <RJWSettingsMainTitle_PawnControl>人物控制</RJWSettingsMainTitle_PawnControl>
+
   <NymphTamed>流鶯加入</NymphTamed>
   <NymphTamed_desc>生成帶有「性愛成癮」特性的角色加入殖民地。</NymphTamed_desc>
   <NymphWild>流鶯襲擊</NymphWild>
@@ -31,8 +37,8 @@
   <futa_natives_chance_desc>扶他 / 偽娘土著（工業時代及以下）出現頻率\n有效範圍：0-100\n預設值：0。</futa_natives_chance_desc>
   <futa_spacers_chance>扶他 / 偽娘太空民出現頻率</futa_spacers_chance>
   <futa_spacers_chance_desc>扶他 / 偽娘太空民出現頻率\n有效範圍：0-100\n預設值：5。</futa_spacers_chance_desc>
-  <love_enhancer_override>允許愛情增強劑覆蓋角色偏好 允許愛情增強道具覆蓋棋子的偏好。</love_enhancer_override>
-  <love_enhancer_override_desc>啟用後，愛情增強劑將使角色享受性行為，如同他們是受虐狂和戀獸癖一樣。</love_enhancer_override_desc>
+  <love_enhancer_override>允許愛情增強劑覆蓋人物偏好</love_enhancer_override>
+  <love_enhancer_override_desc>啟用後，愛情增強劑將使人物享受性行為，如同他們是受虐狂和戀獸癖一樣。</love_enhancer_override_desc>
 
   <sexneed_decay_rate_name>性需求衰減倍率</sexneed_decay_rate_name>
   <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。\n建議範圍：50% 至 200%</sexneed_decay_rate_desc>
@@ -101,12 +107,22 @@
   <VisitorsCanCP_desc>訪客可以強姦慰安者</VisitorsCanCP_desc>
   <AnimalsCanCP>允許動物強姦慰安者</AnimalsCanCP>
   <AnimalsCanCP_desc>允許動物強姦慰安者。需要同時啟用獸交功能。</AnimalsCanCP_desc>
-  <NonFutaWomenRaping_MaxVulnerability>女性強姦脆弱度上限</NonFutaWomenRaping_MaxVulnerability>
+  <NonFutaWomenRaping_MaxVulnerability>女性強姦犯脆弱度閾值</NonFutaWomenRaping_MaxVulnerability>
   <NonFutaWomenRaping_MaxVulnerability_desc>只有脆弱度低於此值的女性才能強姦他人。\n動物的脆弱度總是 100%\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</NonFutaWomenRaping_MaxVulnerability_desc>
   <Rapee_MinVulnerability_human>人類被強姦脆弱度下限</Rapee_MinVulnerability_human>
   <Rapee_MinVulnerability_human_desc>脆弱度高於此值的人物將成為強姦目標。\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</Rapee_MinVulnerability_human_desc>
   <Rapee_MinVulnerability_animals>動物被強姦脆弱度下限</Rapee_MinVulnerability_animals>
   <Rapee_MinVulnerability_animals_desc>脆弱度高於此值的動物將成為戀獸癖的強姦目標。\n點擊「查看關於這個物件的訊息 > 屬性」以查看脆弱度。\n\n有效範圍 0%-300%</Rapee_MinVulnerability_animals_desc>
+
+  <RJW_ShowParts>RJW 部位顯示</RJW_ShowParts>
+  <RJW_ShowParts_Extended>拓展</RJW_ShowParts_Extended>
+  <RJW_ShowParts_Extended_desc>顯示有​​關部位的更多資訊（例如液體量）</RJW_ShowParts_Extended_desc>
+  <RJW_ShowParts_Show>顯示</RJW_ShowParts_Show>
+  <RJW_ShowParts_Show_desc>顯示由 RJW 添加的性特徵</RJW_ShowParts_Show_desc>
+  <RJW_ShowParts_Known>已知</RJW_ShowParts_Known>
+  <RJW_ShowParts_Known_desc>?</RJW_ShowParts_Known_desc>
+  <RJW_ShowParts_Hide>隱藏</RJW_ShowParts_Hide>
+  <RJW_ShowParts_Hide_desc>不顯示 RJW 添加的性特徵</RJW_ShowParts_Hide_desc>
 
 
   <RJWSettingsHookup>RJW - 約炮設定</RJWSettingsHookup>
@@ -114,6 +130,12 @@
   <SettingHookupsEnabled_desc>控制單身居民是否可以與其他單身居民約炮。</SettingHookupsEnabled_desc>
   <SettingQuickHookupsEnabled>啟用打野炮</SettingQuickHookupsEnabled>
   <SettingQuickHookupsEnabled_desc>控制單身居民是否可以與其他單身居民打野炮。\n警告：這可能會打斷工作中的居民。</SettingQuickHookupsEnabled_desc>
+  <SettingFreeLovinMeansPoly>「肉慾：放縱」視為多元關係</SettingFreeLovinMeansPoly>
+  <SettingFreeLovinMeansPoly_desc>控制是否將「肉慾：放縱」理念視為多元關係。需要重啟遊戲以生效。\n警告：無理念模式或經典模式預設採用「肉慾：放縱」理念。</SettingFreeLovinMeansPoly_desc>
+  <SettingSharedBedMeansPoly>一起睡視為多元關係</SettingSharedBedMeansPoly>
+  <SettingSharedBedMeansPoly_desc>控制擁有允許你與配偶以外的人同床共枕的理念是否意味著你是多元關係\n警告：無理念模式或經典模式預設允許所有角色採用此設定。</SettingSharedBedMeansPoly_desc>
+  <SettingCheatIfSafe>如果出軌不會被發現，那就出軌</SettingCheatIfSafe>
+  <SettingCheatIfSafe_desc>控制擁有情人的人物是否會在知道不會被發現的情況下出軌。</SettingCheatIfSafe_desc>
   <SettingNoHookupsDuringWorkHours>工作時間禁止約炮</SettingNoHookupsDuringWorkHours>
   <SettingNoHookupsDuringWorkHours_desc>控制居民是否可以在工作時間約炮。\n性愛成癮特性不受此控制。</SettingNoHookupsDuringWorkHours_desc>
   <SettingColonistsCanHookup>允許殖民者約炮</SettingColonistsCanHookup>
@@ -149,6 +171,8 @@
 
 
   <RJWSettingsDebug>RJW - 除錯設定</RJWSettingsDebug>
+  <RJWSettingsDebugTitle_OnlyForDevelopers>僅限開發者 :)</RJWSettingsDebugTitle_OnlyForDevelopers>
+
   <!-- debug stuff-->
   <submit_button_enabled>啟用「屈服」按鈕</submit_button_enabled>
   <submit_button_enabled_desc>按下「屈服」按鈕以允許你逃過更致命的傷害，放任自己被強姦。\n如果你認為榮耀大於生命，那就把它關了吧。\n記住，如果你改變了想法，你可以隨時更改此選項。</submit_button_enabled_desc>
@@ -221,9 +245,23 @@
   <DebugNymph>流鶯除錯資訊</DebugNymph>
   <DebugNymph_desc>流鶯子模組的詳細模式。</DebugNymph_desc>
 
+  <Hint_RMB_Meaning>提示：RMB 指的是「滑鼠右鍵」</Hint_RMB_Meaning>
+
+  <!-- supported mods -->
+  <DebugSupportedMods_title>支援模組</DebugSupportedMods_title>
+  <DebugSupportedMods_desc>RJW 內建特殊相容的其他模組</DebugSupportedMods_desc>
+  <DebugSupportedModsDetected_name>檢測到</DebugSupportedModsDetected_name>
+  <DebugSupportedModsNotDetected_name>未找到</DebugSupportedModsNotDetected_name>
+
 
   <!-- Pregnancy stuff-->
   <RJWSettingsPregnancy>RJW - 妊娠設定</RJWSettingsPregnancy>
+  <RJWSettingsPregnancyTitle_General>一般</RJWSettingsPregnancyTitle_General>
+  <RJWSettingsPregnancyTitle_Eggs>卵</RJWSettingsPregnancyTitle_Eggs>
+  <RJWSettingsPregnancyTitle_Inheritance>遺傳</RJWSettingsPregnancyTitle_Inheritance>
+  <RJWSettingsPregnancyTitle_Fertility>生育能力</RJWSettingsPregnancyTitle_Fertility>
+  <RJWSettingsPregnancyTitle_Duration>持續時間</RJWSettingsPregnancyTitle_Duration>
+
   <UseVanillaPregnancy>生機 DLC 妊娠</UseVanillaPregnancy>
   <UseVanillaPregnancy_desc>對於人類女性的懷孕，使用生機 DLC 妊娠。</UseVanillaPregnancy_desc>
   <RJWH_pregnancy>啟用人型生物妊娠</RJWH_pregnancy>
@@ -322,35 +360,35 @@
 
   <!-- sex types -->
   <RJWSettingsPreference>RJW - 性交設定</RJWSettingsPreference>
-  <SexTypeFrequency>性交類型頻率：\n[越高 = 越常見]</SexTypeFrequency>
-  <vaginal>性交頻率</vaginal>
-  <vaginal_desc>性交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：120。</vaginal_desc>
-  <cunnilingus>舔陰頻率</cunnilingus>
-  <cunnilingus_desc>舔陰的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</cunnilingus_desc>
-  <anal>肛交頻率</anal>
-  <anal_desc>肛交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</anal_desc>
-  <rimming>舔肛頻率</rimming>
-  <rimming_desc>舔肛的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：40。</rimming_desc>
-  <fellatio>口交頻率</fellatio>
-  <fellatio_desc>口交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</fellatio_desc>
-  <handjob>手交頻率</handjob>
-  <handjob_desc>手交的頻率。需要能用的手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：80。</handjob_desc>
-  <mutual_masturbation>互相自慰頻率</mutual_masturbation>
-  <mutual_masturbation_desc>互相自慰的頻率（兩個人物互相自慰）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：70。</mutual_masturbation_desc>
-  <double_penetration>雙重插入頻率</double_penetration>
-  <double_penetration_desc>雙重插入的頻率，需要同時有肛門和陰道。需要多根陰莖，如半陰莖。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：60。</double_penetration_desc>
-  <breastjob>乳交頻率</breastjob>
-  <breastjob_desc>乳交的頻率。需要一個有乳房的人物與一個有陰莖的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：50。</breastjob_desc>
-  <fingering>指交頻率</fingering>
-  <fingering_desc>指交的頻率。需要一個有陰道的人物與一個有手的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：50。</fingering_desc>
-  <scissoring>剪刀腿頻率</scissoring>
-  <scissoring_desc>剪刀式的頻率（一種交叉體位，兩人雙腿對夾互相磨陰蒂）。需要兩個人物都擁有陰道。\n\n有效範圍：1-200。\n預設值：50。</scissoring_desc>
-  <footjob>足交頻率</footjob>
-  <footjob_desc>足交的頻率（用腳刺激陰莖）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：30。</footjob_desc>
-  <fisting>拳交頻率</fisting>
-  <fisting_desc>肛門拳交的頻率（陰道拳交尚未實現）。需要一人有手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍： 1-200。\n預設值：30。</fisting_desc>
-  <sixtynine>69 頻率</sixtynine>
-  <sixtynine_desc>69 頻率（互相口交）需要兩個人物都擁有生殖器。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-200。\n預設值：69。</sixtynine_desc>
+  <SexTypeFrequency>性交類型頻率：\n</SexTypeFrequency>
+  <vaginal>性交</vaginal>
+  <vaginal_desc>性交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：120。</vaginal_desc>
+  <cunnilingus>舔陰</cunnilingus>
+  <cunnilingus_desc>舔陰的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：80。</cunnilingus_desc>
+  <anal>肛交</anal>
+  <anal_desc>肛交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：80。</anal_desc>
+  <rimming>舔肛</rimming>
+  <rimming_desc>舔肛的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：40。</rimming_desc>
+  <fellatio>口交</fellatio>
+  <fellatio_desc>口交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：80。</fellatio_desc>
+  <handjob>手交</handjob>
+  <handjob_desc>手交的頻率。需要能用的手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：80。</handjob_desc>
+  <mutual_masturbation>互相自慰</mutual_masturbation>
+  <mutual_masturbation_desc>互相自慰的頻率（兩個人物互相自慰）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：70。</mutual_masturbation_desc>
+  <double_penetration>雙重插入</double_penetration>
+  <double_penetration_desc>雙重插入的頻率，需要同時有肛門和陰道。需要多根陰莖，如半陰莖。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：60。</double_penetration_desc>
+  <breastjob>乳交</breastjob>
+  <breastjob_desc>乳交的頻率。需要一個有乳房的人物與一個有陰莖的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：50。</breastjob_desc>
+  <fingering>指交</fingering>
+  <fingering_desc>指交的頻率。需要一個有陰道的人物與一個有手的人物。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：50。</fingering_desc>
+  <scissoring>磨豆腐</scissoring>
+  <scissoring_desc>磨豆腐的頻率（一種交叉體位，兩人雙腿對夾互相磨陰蒂）。需要兩個人物都擁有陰道。\n\n有效範圍：1-300。\n預設值：50。</scissoring_desc>
+  <footjob>足交</footjob>
+  <footjob_desc>足交的頻率（用腳刺激陰莖）。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：30。</footjob_desc>
+  <fisting>拳交</fisting>
+  <fisting_desc>肛門拳交的頻率（陰道拳交尚未實現）。需要一人有手。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍： 1-300。\n預設值：30。</fisting_desc>
+  <sixtynine>69</sixtynine>
+  <sixtynine_desc>69 頻率（互相口交）需要兩個人物都擁有生殖器。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：69。</sixtynine_desc>
   <FapEverywhere>隨時隨地自慰</FapEverywhere>
   <FapEverywhere_desc>人物會隨心所欲地自慰。</FapEverywhere_desc>
   <FapInBed>在床上自慰</FapInBed>
@@ -390,11 +428,12 @@
   <RapeAlertBreeding>配種警報</RapeAlertBreeding>
   <RapeAlertBreeding_desc>當配種目標被強姦時顯示警告。</RapeAlertBreeding_desc>
 
-  <SexualitySpread1>性取向來源：</SexualitySpread1>
+  <SexualitySpread1>性取向來源</SexualitySpread1>
   <SexualitySpread2>RJW 性取向傳播。\n這只用於性愛！\n對看法沒有影響</SexualitySpread2>
   <SexualitySpreadVanilla>[從原版匯入]</SexualitySpreadVanilla>
   <SexualitySpreadPsychology>[從 Psychology 模組匯入]</SexualitySpreadPsychology>
   <SexualitySpreadIndividuality>[從 [SYR]Individuality 模組匯入]</SexualitySpreadIndividuality>
+  <SexualitySpreadRimpsyche>[從 Rimpsyche 模組匯入]</SexualitySpreadRimpsyche>
 
   <SexualityAsexual>無性戀：</SexualityAsexual>
   <SexualityPansexual>泛性戀：</SexualityPansexual>

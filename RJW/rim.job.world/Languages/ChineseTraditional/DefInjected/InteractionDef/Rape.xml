@@ -118,12 +118,12 @@
   <Rape_Beakjob.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫喙交。</Rape_Beakjob.logRulesRecipient.rulesStrings.0>
   <Rape_Beakjob.modExtensions.0.RMBLabel>喙交</Rape_Beakjob.modExtensions.0.RMBLabel>
 
-  <Rape_Scissoring.label>剪刀式</Rape_Scissoring.label>
-  <Rape_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]剪刀式。</Rape_Scissoring.logRulesInitiator.rulesStrings.0>
-  <Rape_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫剪刀式。</Rape_Scissoring.logRulesRecipient.rulesStrings.0>
-  <Rape_Scissoring.modExtensions.0.RMBLabel>剪刀式</Rape_Scissoring.modExtensions.0.RMBLabel>
-  <Rape_Reverse_Scissoring.label>剪刀式</Rape_Reverse_Scissoring.label>
-  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]剪刀式。</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
-  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫剪刀式。</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
-  <Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>剪刀式</Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>
+  <Rape_Scissoring.label>磨豆腐</Rape_Scissoring.label>
+  <Rape_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]磨豆腐。</Rape_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫磨豆腐。</Rape_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Rape_Scissoring.modExtensions.0.RMBLabel>磨豆腐</Rape_Scissoring.modExtensions.0.RMBLabel>
+  <Rape_Reverse_Scissoring.label>磨豆腐</Rape_Reverse_Scissoring.label>
+  <Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>r_logentry->強迫[RECIPIENT_nameDef]磨豆腐。</Rape_Reverse_Scissoring.logRulesInitiator.rulesStrings.0>
+  <Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>r_logentry->被[INITIATOR_nameDef]強迫磨豆腐。</Rape_Reverse_Scissoring.logRulesRecipient.rulesStrings.0>
+  <Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>磨豆腐</Rape_Reverse_Scissoring.modExtensions.0.RMBLabel>
 </LanguageData>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--Sexuality card-->
+  <SC_title>性能力</SC_title>
+
   <SexcardTooltip>展示性能力</SexcardTooltip>
   <SexPartWants>想要成為：</SexPartWants>
   <PartsEditLabel>編輯{0}</PartsEditLabel>
