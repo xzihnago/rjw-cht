@@ -56,10 +56,10 @@
     <li>ed86.rjwia</li>
     <li>rjw.milk.humanoid</li>
   </loadAfter>
-  <description>
-    RJW 與部分附加模組的中文化，包含以下模組
+  <description><![CDATA[
+RJW 與部分附加模組的中文化，包含以下模組
 
-    ======================= 1.6 =======================
+<color=#FFD800><size=24>== 1.6 ==</size></color>
     • RimJobWorld
 
     • Rimworld Animations 2.0
@@ -95,10 +95,10 @@
 
     • RJW Race Support
 
-    ======================= 1.5 =======================
+<color=#FFD800><size=24>== 1.5 ==</size></color>
     • (1.5RJW5.4) RimJobWorld - Licentia Labs
     • RimJobWorld - Licentia Labs Stretching Edition
     • (1.5RJW5.4) RimJobWorld - Interaction Addon
     • RimJobWorld - Milkable Colonists
-  </description>
+]]></description>
 </ModMetaData>
