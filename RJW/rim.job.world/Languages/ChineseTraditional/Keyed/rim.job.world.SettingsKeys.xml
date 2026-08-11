@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <RJWSettingsCategory>RimJobWorld</RJWSettingsCategory>
   <!-- Settings-->
-  <RJWSettingsMain>RJW - 基礎設定</RJWSettingsMain>
+  <RJWSettingsMain>一般</RJWSettingsMain>
   <RJWSettingsMainTitle_General>一般</RJWSettingsMainTitle_General>
   <RJWSettingsMainTitle_Audio>音訊</RJWSettingsMainTitle_Audio>
   <RJWSettingsMainTitle_SexNeed>性需求</RJWSettingsMainTitle_SexNeed>
@@ -25,9 +26,9 @@
   <NymphFrustratedRape>流鶯性飢渴時強暴。</NymphFrustratedRape>
   <NymphFrustratedRape_desc>當流鶯感到性飢渴並且沒有伴侶時，她們會隨機強暴某人／某物。</NymphFrustratedRape_desc>
 
-  <FemaleFuta>允許扶他</FemaleFuta>
+  <FemaleFuta>啟用扶他</FemaleFuta>
   <FemaleFuta_desc>生成女性時帶有陰莖。</FemaleFuta_desc>
-  <MaleTrap>允許偽娘</MaleTrap>
+  <MaleTrap>啟用偽娘</MaleTrap>
   <MaleTrap_desc>生成男性時帶有乳房。</MaleTrap_desc>
   <male_nymph_chance>男性流鶯出現頻率</male_nymph_chance>
   <male_nymph_chance_desc>男性流鶯出現頻率\n有效範圍：0-100\n預設值：0。</male_nymph_chance_desc>
@@ -38,7 +39,7 @@
   <futa_spacers_chance>扶他 / 偽娘太空民出現頻率</futa_spacers_chance>
   <futa_spacers_chance_desc>扶他 / 偽娘太空民出現頻率\n有效範圍：0-100\n預設值：5。</futa_spacers_chance_desc>
   <love_enhancer_override>允許愛情增強劑覆蓋人物偏好</love_enhancer_override>
-  <love_enhancer_override_desc>啟用後，愛情增強劑將使人物享受性行為，如同他們是受虐狂和戀獸癖一樣。</love_enhancer_override_desc>
+  <love_enhancer_override_desc>啟用後，愛情增強劑將使人物享受性行為，如同他們是被虐狂和戀獸癖一樣。</love_enhancer_override_desc>
 
   <sexneed_decay_rate_name>性需求衰減倍率</sexneed_decay_rate_name>
   <sexneed_decay_rate_desc>0% 表示無衰減\n1000000% 將使星球狂暴。\n建議範圍：50% 至 200%</sexneed_decay_rate_desc>
@@ -64,6 +65,8 @@
   <wild_mating_enabled_desc>允許野生（非殖民地）動物在啟用動物間交配的情況下互相交配。\n不影響動物之間指定的跨物種性行為。</wild_mating_enabled_desc>
   <necrophilia_enabled>啟用姦屍</necrophilia_enabled>
   <necrophilia_enabled_desc>允許人物姦屍。通常只有戀屍癖的角色會這麼做，但在極端情況下總會有人飢不擇食。</necrophilia_enabled_desc>
+  <mechanophilia_enabled>啟用機械性愛</mechanophilia_enabled>
+  <mechanophilia_enabled_desc>允許與機械進行性行為。</mechanophilia_enabled_desc>
   <sounds_enabled>啟用 RJW 音效</sounds_enabled>
   <sounds_enabled_desc>啟用 RJW 特定音效。\n此選項與遊戲本身的音效無關。如果遊戲被靜音，該選項不會發揮作用。</sounds_enabled_desc>
   <sounds_sex_volume>性交音量</sounds_sex_volume>
@@ -81,11 +84,13 @@
   <cum_filth_desc>改變性交產生的精液髒污量。停用該選項將降低遊戲難度，因為省去了打掃髒污的需求。</cum_filth_desc>
 
   <RPG_hero_control_name>主角模式</RPG_hero_control_name>
-  <RPG_hero_control_desc>允許玩家設定一位人物作為自己的分身並無條件直接控制。</RPG_hero_control_desc>
+  <RPG_hero_control_desc>允許玩家設定一位人物作為自己的分身並無條件直接控制。當前人物死亡時，玩家可以更換角色。</RPG_hero_control_desc>
   <RPG_hero_control_HC_name>主角模式（硬核）</RPG_hero_control_HC_name>
   <RPG_hero_control_HC_desc>硬核：玩家只能控制主角，準備些潤滑油吧，你會需要很多的。\n（適用於多人遊戲）</RPG_hero_control_HC_desc>
   <RPG_hero_control_Ironman_name>主角模式（鐵人）</RPG_hero_control_Ironman_name>
-  <RPG_hero_control_Ironman_desc>硬核：只能設定一次主角。</RPG_hero_control_Ironman_desc>
+  <RPG_hero_control_Ironman_desc>硬核：玩家每局遊戲只能設定一次主角。</RPG_hero_control_Ironman_desc>
+  <RPG_hero_control_AI_sex_name>主角 AI</RPG_hero_control_AI_sex_name>
+  <RPG_hero_control_AI_sex_desc>允許主角 AI 發起性行為（與其他所有角色一樣）。</RPG_hero_control_AI_sex_desc>
 
   <UseAdvancedAgeScaling>進階年齡比例</UseAdvancedAgeScaling>
   <UseAdvancedAgeScaling_desc>對於非人類種族啟用進階年齡映射（更長或更短的生命週期）</UseAdvancedAgeScaling_desc>
@@ -125,7 +130,7 @@
   <RJW_ShowParts_Hide_desc>不顯示 RJW 添加的性特徵</RJW_ShowParts_Hide_desc>
 
 
-  <RJWSettingsHookup>RJW - 約炮設定</RJWSettingsHookup>
+  <RJWSettingsHookup>休閒性愛</RJWSettingsHookup>
   <SettingHookupsEnabled>啟用約炮（全體）</SettingHookupsEnabled>
   <SettingHookupsEnabled_desc>控制單身居民是否可以與其他單身居民約炮。</SettingHookupsEnabled_desc>
   <SettingQuickHookupsEnabled>啟用打野炮</SettingQuickHookupsEnabled>
@@ -170,10 +175,15 @@
   <SettingMinimumRelationshipToHookup_desc>控制雙方人物約炮需要的最低看法。\n預設值為 20\n性愛成癮 > 0</SettingMinimumRelationshipToHookup_desc>
 
 
-  <RJWSettingsDebug>RJW - 除錯設定</RJWSettingsDebug>
+  <RJWSettingsDebug>除錯</RJWSettingsDebug>
   <RJWSettingsDebugTitle_OnlyForDevelopers>僅限開發者 :)</RJWSettingsDebugTitle_OnlyForDevelopers>
 
   <!-- debug stuff-->
+  <RMB_enabled>啟用右鍵</RMB_enabled>
+  <RMB_enabled_desc>允許使用滑鼠右鍵來發送性相關命令。\n這可能會導致某些模組出現問題。</RMB_enabled_desc>
+  <RMB_ability>啟用右鍵功能</RMB_ability>
+  <RMB_ability_desc>為人物添加可複製右鍵功能的能力，適用於右鍵無法使用的情況。</RMB_ability_desc>
+
   <submit_button_enabled>啟用「屈服」按鈕</submit_button_enabled>
   <submit_button_enabled_desc>按下「屈服」按鈕以允許你逃過更致命的傷害，放任自己被強姦。\n如果你認為榮耀大於生命，那就把它關了吧。\n記住，如果你改變了想法，你可以隨時更改此選項。</submit_button_enabled_desc>
   <RJW_designation_box>顯示 RJW 按鈕</RJW_designation_box>
@@ -194,8 +204,8 @@
   <override_control_desc>玩家可以手動控制性活動。</override_control_desc>
   <AddTrait_Rapist>獲得強暴犯特性</AddTrait_Rapist>
   <AddTrait_Rapist_desc>進行 10 次以上性行為的人物有機率獲得強暴犯特性，需要其中 >12% 的性行為是強姦。</AddTrait_Rapist_desc>
-  <AddTrait_Masocist>獲得受虐狂特性</AddTrait_Masocist>
-  <AddTrait_Masocist_desc>被強姦的人物有機率獲得受虐狂特性。精神崩壞後被強姦有 5% 機率獲得。</AddTrait_Masocist_desc>
+  <AddTrait_Masocist>獲得被虐狂特性</AddTrait_Masocist>
+  <AddTrait_Masocist_desc>被強姦的人物有機率獲得被虐狂特性。精神崩壞後被強姦有 5% 機率獲得。</AddTrait_Masocist_desc>
   <AddTrait_Nymphomaniac>獲得性愛成癮特性</AddTrait_Nymphomaniac>
   <AddTrait_Nymphomaniac_desc>進行 10 次以上性行為的人物有機率獲得性愛成癮特性，需要駝峰菇成癮。</AddTrait_Nymphomaniac_desc>
   <AddTrait_Necrophiliac>獲得戀屍癖特性</AddTrait_Necrophiliac>
@@ -255,7 +265,7 @@
 
 
   <!-- Pregnancy stuff-->
-  <RJWSettingsPregnancy>RJW - 妊娠設定</RJWSettingsPregnancy>
+  <RJWSettingsPregnancy>妊娠</RJWSettingsPregnancy>
   <RJWSettingsPregnancyTitle_General>一般</RJWSettingsPregnancyTitle_General>
   <RJWSettingsPregnancyTitle_Eggs>卵</RJWSettingsPregnancyTitle_Eggs>
   <RJWSettingsPregnancyTitle_Inheritance>遺傳</RJWSettingsPregnancyTitle_Inheritance>
@@ -308,9 +318,11 @@
   <RJWI_FertilizationCheck_desc>僅在「性交」卵孔中使卵受精。</RJWI_FertilizationCheck_desc>
 
   <egg_pregnancy_eggs_size>卵大小倍率</egg_pregnancy_eggs_size>
-  <egg_pregnancy_eggs_size_desc>0 - 可以植入無限量的卵。</egg_pregnancy_eggs_size_desc>
+  <egg_pregnancy_eggs_size_desc>0%：所有卵的大小都是 0.01。\n100%：卵的大小是正常的，按其母親的體型縮放。</egg_pregnancy_eggs_size_desc>
   <egg_pregnancy_ovipositor_capacity_factor>產卵管容量倍率</egg_pregnancy_ovipositor_capacity_factor>
-  <egg_pregnancy_ovipositor_capacity_factor_desc>雌性產卵管的容量倍率。</egg_pregnancy_ovipositor_capacity_factor_desc>
+  <egg_pregnancy_ovipositor_capacity_factor_desc>雌性產卵管的容量倍率。\n100%: 2 * 20% 人物體型\n500%: 2 * 100% 人物體型。</egg_pregnancy_ovipositor_capacity_factor_desc>
+  <egg_pregnancy_unlimited_capacity>卵孔具有無限卵容量</egg_pregnancy_unlimited_capacity>
+  <egg_pregnancy_unlimited_capacity_desc>人物可以植入幾乎無限數量的卵。</egg_pregnancy_unlimited_capacity_desc>
 
   <MechanoidImplanting>啟用機械族植入</MechanoidImplanting>
   <MechanoidImplanting_desc>允許機械族勘探並植入子機。</MechanoidImplanting_desc>
@@ -359,7 +371,7 @@
   <egg_pregnancy_duration_desc>更高 -> 更久。</egg_pregnancy_duration_desc>
 
   <!-- sex types -->
-  <RJWSettingsPreference>RJW - 性交設定</RJWSettingsPreference>
+  <RJWSettingsPreference>性交</RJWSettingsPreference>
   <SexTypeFrequency>性交類型頻率：\n</SexTypeFrequency>
   <vaginal>性交</vaginal>
   <vaginal_desc>性交的頻率。注意：此頻率會受其他因素影響，如肉穴是否可用、強姦、賣淫等。\n\n有效範圍：1-300。\n預設值：120。</vaginal_desc>

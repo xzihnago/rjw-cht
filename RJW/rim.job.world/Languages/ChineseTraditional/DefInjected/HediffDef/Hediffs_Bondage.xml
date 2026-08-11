@@ -2,19 +2,19 @@
 <LanguageData>
   <Chains.label>鏈條</Chains.label>
   <Chains.labelNoun>鏈條</Chains.labelNoun>
-  <Chains.description>一系列限制穿戴者的鎖鏈。</Chains.description>
+  <Chains.description>一系列鎖鏈緊緊束縛著佩戴者，限制其行動。沒有外力幫助，逃脫是不可能的。</Chains.description>
 
   <BoundHands.label>綁手</BoundHands.label>
   <BoundHands.labelNoun>綁手</BoundHands.labelNoun>
-  <BoundHands.description>綁手。</BoundHands.description>
+  <BoundHands.description>雙手被縛。行動極為受限。希望附近有人有鑰匙。</BoundHands.description>
 
   <BoundLegs.label>綁腿</BoundLegs.label>
   <BoundLegs.labelNoun>綁腿</BoundLegs.labelNoun>
-  <BoundLegs.description>綁腿。</BoundLegs.description>
+  <BoundLegs.description>雙腿被綁住。動彈不得。掙扎只會讓繩子綁得更緊。</BoundLegs.description>
 
   <RJW_Restraints.label>束縛</RJW_Restraints.label>
   <RJW_Restraints.labelNoun>束縛。</RJW_Restraints.labelNoun>
-  <RJW_Restraints.description>一套束縛帶。</RJW_Restraints.description>
+  <RJW_Restraints.description>一套能完全束縛佩戴者的裝置。這可不是什麼體面的姿勢。</RJW_Restraints.description>
 
   <RJW_Cocoon.label>結繭</RJW_Cocoon.label>
   <RJW_Cocoon.labelNoun>結繭</RJW_Cocoon.labelNoun>

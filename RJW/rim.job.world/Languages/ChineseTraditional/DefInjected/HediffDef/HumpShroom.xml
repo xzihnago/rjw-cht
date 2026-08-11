@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HumpShroomEffect.label>催情</HumpShroomEffect.label>
-  <HumpShroomEffect.description>駝峰菇催情效果。</HumpShroomEffect.description>
+  <HumpShroomEffect.description>食用駝峰菇後，身體進入高度興奮的狀態。一切都顯得更加…有趣。</HumpShroomEffect.description>
 
   <HumpShroomTolerance.label>駝峰菇耐受</HumpShroomTolerance.label>
-  <HumpShroomTolerance.description>駝峰菇效果耐受。</HumpShroomTolerance.description>
+  <HumpShroomTolerance.description>對駝峰菇產生了耐受。需要更高的劑量才能達到相同的效果。</HumpShroomTolerance.description>
   <HumpShroomTolerance.stages.small.label>輕微</HumpShroomTolerance.stages.small.label>
   <HumpShroomTolerance.stages.large.label>強烈</HumpShroomTolerance.stages.large.label>
   <HumpShroomTolerance.stages.massive.label>極強</HumpShroomTolerance.stages.massive.label>
 
   <HumpShroomAddiction.label>駝峰菇成癮</HumpShroomAddiction.label>
-  <HumpShroomAddiction.description>駝峰菇效果成癮。</HumpShroomAddiction.description>
+  <HumpShroomAddiction.description>對駝峰菇成癮。如果沒有定期服用，成癮者的滿足感就會消失。</HumpShroomAddiction.description>
   <HumpShroomAddiction.stages.withdrawal.label>戒斷</HumpShroomAddiction.stages.withdrawal.label>
 </LanguageData>

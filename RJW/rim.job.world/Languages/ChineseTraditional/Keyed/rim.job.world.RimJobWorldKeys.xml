@@ -78,6 +78,33 @@
   <ForHeroRefuseHCDesc>硬核模式下的非主角殖民者</ForHeroRefuseHCDesc>
   <RJW_Message_BecameHero>{0}現在是{1}的主角</RJW_Message_BecameHero>
 
+  <!-- Tab tooltips -->
+  <RJW_Hero_DisabledTip>必須先在設定中啟用主角模式。</RJW_Hero_DisabledTip>
+  <RJW_Hero_Ironman_AlreadyHeroTip>{PAWN_labelShort}已被指定為主角。由於啟用了鐵人模式，無法指定新的人物。</RJW_Hero_Ironman_AlreadyHeroTip>
+  <RJW_Hero_AlreadyExistsTip>其他人物已被指定為主角。</RJW_Hero_AlreadyExistsTip>
+  <RJW_Hero_AlreadyHeroTip>{PAWN_labelShort}已被指定為主角。在{PAWN_pronoun}死亡後可以指定新的主角。</RJW_Hero_AlreadyHeroTip>
+  <RJW_Hero_DesignateTip>指定{PAWN_labelShort}為主角。</RJW_Hero_DesignateTip>
+  <RJW_Hero_DesignateDialog_Title><![CDATA[指定為<color=yellow>主角</color>]]></RJW_Hero_DesignateDialog_Title>
+  <RJW_Hero_DesignateDialog_Desc><![CDATA[指定為<color=yellow>主角</color>將給予對人物性行為的直接控制。]]></RJW_Hero_DesignateDialog_Desc>
+  <RJW_Hero_DesignateDialog_Text_Normal><![CDATA[新的<color=yellow>主角</color>只能在目前的人物死亡後指定。]]></RJW_Hero_DesignateDialog_Text_Normal>
+  <RJW_Hero_DesignateDialog_Text_Ironman><![CDATA[由於啟用了<color=yellow>主角模式（鐵人）</color>，每場遊戲只能指定一次<color=yellow>主角</color>。]]></RJW_Hero_DesignateDialog_Text_Ironman>
+  <RJW_Comfort_SettingDisabledTip>慰安者已在模組設定中停用。\n啟用「強姦」選項即可指定慰安者。</RJW_Comfort_SettingDisabledTip>
+  <RJW_Comfort_DisabledTip>{PAWN_labelShort}永遠不會同意成為慰安者，因為{PAWN_pronoun}不是被虐狂。</RJW_Comfort_DisabledTip>
+  <RJW_Comfort_OnTip>{PAWN_labelShort}已被指定為慰安者。\n\n點擊此處取消指定。</RJW_Comfort_OnTip>
+  <RJW_Comfort_OffTip>{PAWN_labelShort}未被指定為慰安者。\n\n點擊此處進行指定。</RJW_Comfort_OffTip>
+  <RJW_BreedHumanlike_SettingDisabledTip>獸交已在模組設定中停用。\n啟用「獸交」選項即可指定用於繁殖的殖民者。</RJW_BreedHumanlike_SettingDisabledTip>
+  <RJW_BreedHumanlike_DisabledTip>{PAWN_labelShort}永遠不會同意成為動物苗床，因為{PAWN_pronoun}不是戀獸癖。</RJW_BreedHumanlike_DisabledTip>
+  <RJW_BreedHumanlike_OnTip>{PAWN_labelShort}已被指定為動物苗床。\n\n點擊此處取消指定。</RJW_BreedHumanlike_OnTip>
+  <RJW_BreedHumanlike_OffTip>{PAWN_labelShort}未被指定為動物苗床。\n\n點擊此處進行指定。</RJW_BreedHumanlike_OffTip>
+  <RJW_BreedAnimal_SettingDisabledTip>繁殖功能已在模組設定中停用。\n啟用「動物間繁殖」選項即可指定用於繁殖的動物。</RJW_BreedAnimal_SettingDisabledTip>
+  <RJW_BreedAnimal_DisabledTip>{PAWN_labelShort}無法被指定用於繁殖。</RJW_BreedAnimal_DisabledTip>
+  <RJW_BreedAnimal_OnTip>{PAWN_labelShort}已被指定用於繁殖。\n\n點擊此處取消指定。</RJW_BreedAnimal_OnTip>
+  <RJW_BreedAnimal_OffTip>{PAWN_labelShort}未被指定用於繁殖。\n\n點擊此處進行指定。</RJW_BreedAnimal_OffTip>
+  <RJW_BreederAnimal_SettingDisabledTip>繁殖功能已在模組設定中停用。\n啟用「動物間繁殖」選項即可指定用於繁殖的動物。</RJW_BreederAnimal_SettingDisabledTip>
+  <RJW_BreederAnimal_DisabledTip>{PAWN_labelShort}無法被指定為繁殖者。</RJW_BreederAnimal_DisabledTip>
+  <RJW_BreederAnimal_OnTip>{PAWN_labelShort}已被指定為繁殖者。\n\n點擊此處取消指定。</RJW_BreederAnimal_OnTip>
+  <RJW_BreederAnimal_OffTip>{PAWN_labelShort}未被指定為繁殖者。\n\n點擊此處進行指定。</RJW_BreederAnimal_OffTip>
+
   <!-- Hediff tooltips -->
   <RJW_PartInfo_braCup>罩杯：{0}</RJW_PartInfo_braCup>
   <RJW_PartInfo_braSizeNone>胸罩尺寸：-</RJW_PartInfo_braSizeNone>

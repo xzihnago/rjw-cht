@@ -5,26 +5,40 @@
 
   <SexcardTooltip>展示性能力</SexcardTooltip>
   <SexPartWants>想要成為：</SexPartWants>
+  <SexcardEditDevEntry>RJW：性取向卡片 NG</SexcardEditDevEntry>
   <PartsEditLabel>編輯{0}</PartsEditLabel>
   <PartsEditFluidMultiplierLabel>液體量倍率</PartsEditFluidMultiplierLabel>
   <PartsEditDevEntry>RJW：編輯部位</PartsEditDevEntry>
 
   <SC_Fertility_Enable>啟用生育</SC_Fertility_Enable>
-  <SC_Fertility_Enchance>強化生育</SC_Fertility_Enchance>
+  <SC_Fertility_Enhance>強化生育</SC_Fertility_Enhance>
   <SC_Fertility_Disable>停用生育</SC_Fertility_Disable>
 
   <SC_FluidType>體液類型</SC_FluidType>
   <SC_FluidTypeDefault>（預設）</SC_FluidTypeDefault>
   <SC_Reroll>重擲</SC_Reroll>
 
-  <SC_Sexuality>性取向：{0}</SC_Sexuality>
+  <SC_Gender>性別</SC_Gender>
+  <SC_Sexuality>性取向</SC_Sexuality>
   <SC_Sexuality_Asexual>無性戀</SC_Sexuality_Asexual>
   <SC_Sexuality_Bisexual>雙性戀</SC_Sexuality_Bisexual>
   <SC_Sexuality_Heterosexual>異性戀</SC_Sexuality_Heterosexual>
   <SC_Sexuality_Homosexual>同性戀</SC_Sexuality_Homosexual>
-  <SC_Sexuality_LeaningHeterosexual>雙性戀，偏向異性戀</SC_Sexuality_LeaningHeterosexual>
-  <SC_Sexuality_LeaningHomosexual>雙性戀，偏向同性戀</SC_Sexuality_LeaningHomosexual>
+  <SC_Sexuality_LeaningHeterosexual>偏向異性戀</SC_Sexuality_LeaningHeterosexual>
+  <SC_Sexuality_LeaningHomosexual>偏向同性戀</SC_Sexuality_LeaningHomosexual>
   <SC_Sexuality_MostlyHeterosexual>主要是異性戀</SC_Sexuality_MostlyHeterosexual>
   <SC_Sexuality_MostlyHomosexual>主要是同性戀</SC_Sexuality_MostlyHomosexual>
   <SC_Sexuality_Pansexual>泛性戀</SC_Sexuality_Pansexual>
+
+  <SC_Kinsey>金賽量表</SC_Kinsey>
+  <SC_Kinsey_desc>這是阿爾弗雷德·金賽於 1948 年開發的視覺模型，它使用 0 到 6 的範圍來描述一個人的性取向。\n\n0 - 完全異性戀\n3 - 雙性戀\n6 - 完全同性戀\n\n數字 1 到 5 表示同性戀程度逐漸增加。</SC_Kinsey_desc>
+  <SC_Kinsey_Asexual>無性戀</SC_Kinsey_Asexual>
+  <SC_Kinsey_Bisexual>異性性傾向與同性性傾向相同（雙性戀）</SC_Kinsey_Bisexual>
+  <SC_Kinsey_Heterosexual>完全的異性性傾向</SC_Kinsey_Heterosexual>
+  <SC_Kinsey_Homosexual>完全的同性性傾向</SC_Kinsey_Homosexual>
+  <SC_Kinsey_LeaningHeterosexual>以異性性傾向為主，在一些情況下會有同性性傾向</SC_Kinsey_LeaningHeterosexual>
+  <SC_Kinsey_LeaningHomosexual>以同性性傾向為主，在一些情況下會有異性性傾向傾向</SC_Kinsey_LeaningHomosexual>
+  <SC_Kinsey_MostlyHeterosexual>以異性性傾向為主，在極少的情況下會有同性性傾向</SC_Kinsey_MostlyHeterosexual>
+  <SC_Kinsey_MostlyHomosexual>以同性性傾向為主，在極少的情況下會有異性性傾向</SC_Kinsey_MostlyHomosexual>
+  <SC_Kinsey_Pansexual>泛性戀</SC_Kinsey_Pansexual>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Aphrodisiac.label>催情藥</Aphrodisiac.label>
-  <Aphrodisiac.description>一種由駝峰菇製成的吸食性藥物。</Aphrodisiac.description>
+  <Aphrodisiac.description>一種從駝峰菇中提煉出來的可吸食藥物。它能強烈激發性慾並降低抑制力。請謹慎使用，或不使用。</Aphrodisiac.description>
   <Aphrodisiac.ingestible.ingestCommandString>吸食{0}</Aphrodisiac.ingestible.ingestCommandString>
   <Aphrodisiac.ingestible.ingestReportString>吸食{0}</Aphrodisiac.ingestible.ingestReportString>
   <Aphrodisiac.ingestible.ingestReportStringEat>吸食{0}</Aphrodisiac.ingestible.ingestReportStringEat>
