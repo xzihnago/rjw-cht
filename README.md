@@ -12,7 +12,7 @@ RJW 與部分附加模組的中文化。<br />
 | ----------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------- |
 | [RimJobWorld](https://gitgud.io/Ed86/rjw)                                                       | `0d4a50f` `2026-07-07` | 完整                         |
 | Animations                                                                                      |                        |                              |
-| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                   | `dbe300d`              | 完整                         |
+| [Rimworld Animations 2.0](https://gitgud.io/c0ffeeeeeeee/rimworld-animations)                   | `dbe300d` `2025-10-14` | 完整                         |
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                        | `8d2dc63`              | 完整                         |
 | [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                          | `c109908`              | 完整                         |
 | Body Graphics                                                                                   |                        |                              |
