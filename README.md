@@ -16,42 +16,42 @@ RJW 與部分附加模組的中文化。<br />
 | [Ultimate Animation Pack](https://gitgud.io/Teacher/UAP)                                        | `8d2dc63`              | 完整                         |
 | [ElToros Bestiality Animations](https://gitgud.io/ElToro/rjw-elt-anim)                          | `49339ec` `2026-08-04` | 完整                         |
 | Body Graphics                                                                                   |                        |                              |
-| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)            | `10f6384`              | 補全（紋身）                 |
-| [AKT_LewdClothes](https://gitgud.io/TeH_Dav/akt-lewd-clothes)                                   | `d8d5d1a`              | 完整                         |
-| [RJW QA LewdClothes](https://gitgud.io/TeH_Dav/qa-lewd-clothes)                                 | `1a7da19`              | 完整                         |
-| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)             | `a3130e2`              | 完整                         |
+| [Sized Apparel for RJW (SAR version)](https://gitgud.io/jikulopo/sized-apparel-zero)            | `cb06036` `2026-07-08` | 補全（紋身）                 |
+| [AKT_LewdClothes](https://gitgud.io/TeH_Dav/akt-lewd-clothes)                                   | `e329bd1` `2026-05-11` | 完整                         |
+| [RJW QA LewdClothes](https://gitgud.io/TeH_Dav/qa-lewd-clothes)                                 | `3f2ee90` `2026-05-11` | 完整                         |
+| [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)             | `a3130e2` `2025-10-03` | 完整                         |
 | Clothing                                                                                        |                        |                              |
-| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                             | `cfe5b29`              | 完整                         |
+| [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                             | `ceb5b4a` `2026-07-19` | 完整                         |
 | [RimJobWorld - Onahole Extension](https://gitgud.io/splicing3089/rimjobworld-onahole-extension) | `2ed4dae`              | 完整                         |
 | DLC Support                                                                                     |                        |                              |
-| [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)               | `432e90d`              | 完整                         |
-| [C0ffeeRIA](https://gitgud.io/Ryufais/coffees-rjw-ideology-addons)                              | `b6d1306`              | 完整                         |
-| [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                             | `7c8a853`              | 完整                         |
+| [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)               | `a8a17fe` `2026-03-11` | 完整                         |
+| [C0ffeeRIA](https://gitgud.io/Ryufais/coffees-rjw-ideology-addons)                              | `f7deada` `2026-01-07` | 完整                         |
+| [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                             | `7c8a853` `2025-09-04` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)               | `d1935ea`              | 完整                         |
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                               | `4946df5`              | 完整（部分跨模組支援未翻譯） |
-| [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                      | `78c74c6`              | 完整                         |
+| [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                      | `1f79872` `2026-07-20` | 完整                         |
 | More RJW Mechanics                                                                              |                        |                              |
 | [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                         | `7dd4e47`              | 完整                         |
 | [RJW Menstruation - Resources](https://gitgud.io/ElToro/rjw-menstruation-resources)             | `63ab511`              | 完整                         |
-| [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                               | `b347aaf`              | 完整                         |
-| [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                                 | `72b6a99`              | 完整                         |
+| [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                               | `b347aaf` `2025-11-09` | 完整                         |
+| [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                                 | `72b6a99` `2025-09-06` | 完整                         |
 | [ElToros Bestiality Addon](https://gitgud.io/ElToro/rjw-elt-baddon)                             | `38fe045` `2026-02-26` | 完整                         |
-| [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                         | `049bacd`              | 完整                         |
-| [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                               | `18ed15a`              | 完整                         |
-| [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                               | `680645d`              | 完整                         |
-| [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                               | `ff105d4`              | 完整                         |
+| [RimJobWorld - STD](https://gitgud.io/Nalzurin/rjw-std)                                         | `049bacd` `2025-09-05` | 完整                         |
+| [RimJobWorld - FB](https://gitgud.io/Ed86/rjw-fb)                                               | `18ed15a` `2025-09-13` | 完整                         |
+| [RimJobWorld - FC](https://gitgud.io/Ed86/rjw-fc)                                               | `680645d` `2025-09-13` | 完整                         |
+| [RimJobWorld - FH](https://gitgud.io/Ed86/rjw-fh)                                               | `ff105d4` `2025-09-13` | 完整                         |
 | [Cumpilation](https://github.com/vegapnk/Cumpilation)                                           | `f5abdbc`              | 完整                         |
-| [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                             | `5fffbb3`              | 完整                         |
+| [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                             | `5fffbb3` `2025-09-13` | 完整                         |
 | Race Mods                                                                                       |                        |                              |
 | [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                               | `5437134`              | 完整（部分跨模組支援未翻譯） |
 
-| 模組（1.5）                                                                                         | 版本      | 狀態 |
-| --------------------------------------------------------------------------------------------------- | --------- | ---- |
-| More RJW Mechanics                                                                                  |           |      |
-| `1.5RJW5.4` [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs)              | `938d073` | 完整 |
-| [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed3` | 完整 |
-| `1.5RJW5.4` [RimJobWorld - Interaction Addon](https://gitgud.io/Ed86/rjw-ia)                        | `13b2091` | 完整 |
-| [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `6566b74` | 完整 |
+| 模組（1.5）                                                                                         | 版本                   | 狀態 |
+| --------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
+| More RJW Mechanics                                                                                  |                        |      |
+| `1.5RJW5.4` [RimJobWorld - Licentia Labs](https://gitgud.io/Jaaldabaoth/licentia-labs)              | `938d073` `2024-06-01` | 完整 |
+| [RimJobWorld - Licentia Labs Stretching Edition](https://gitgud.io/ElToro/licentia-labs-stretching) | `488fed3` `2024-10-27` | 完整 |
+| `1.5RJW5.4` [RimJobWorld - Interaction Addon](https://gitgud.io/Ed86/rjw-ia)                        | `13b2091` `2024-05-24` | 完整 |
+| [RimJobWorld - Milkable Colonists](https://gitgud.io/sombrahide/rjw-milkable-colonists-biotech)     | `6566b74` `2024-09-22` | 完整 |
 
 # 參閱
 
