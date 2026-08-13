@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimatedKnotting.reportString>卡住{0}</AnimatedKnotting.reportString>
+  <AnimatedKnottingReciever.reportString>被{0}卡住</AnimatedKnottingReciever.reportString>
+</LanguageData>
