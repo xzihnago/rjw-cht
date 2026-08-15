@@ -28,7 +28,7 @@ RJW 與部分附加模組的中文化。<br />
 | [C0ffeeRIA](https://gitgud.io/Ryufais/coffees-rjw-ideology-addons)                              | `f7deada` `2026-01-07` | 完整                         |
 | [RJW-Events](https://gitgud.io/Nalzurin/rjw-events)                                             | `7c8a853` `2025-09-04` | 完整                         |
 | [RimJobWorld - Brothel Colony](https://gitgud.io/CalamaBanana/rjw-brothel-colony)               | `5e7d665` `2026-07-09` | 完整                         |
-| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                               | `4946df5`              | 完整（部分跨模組支援未翻譯） |
+| [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                               | `59e8e2a` `2026-07-23` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                      | `1f79872` `2026-07-20` | 完整                         |
 | More RJW Mechanics                                                                              |                        |                              |
 | [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                         | `7dd4e47`              | 完整                         |
