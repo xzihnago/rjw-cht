@@ -31,7 +31,7 @@ RJW 與部分附加模組的中文化。<br />
 | [RJW Genes](https://github.com/vegapnk/RJW-Genes)                                               | `59e8e2a` `2026-07-23` | 完整（部分跨模組支援未翻譯） |
 | [Fantasy Races](https://gitgud.io/Euclidean/Fantasy-Races)                                      | `1f79872` `2026-07-20` | 完整                         |
 | More RJW Mechanics                                                                              |                        |                              |
-| [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                         | `7dd4e47`              | 完整                         |
+| [RJW Menstruation Cycle](https://gitgud.io/lutepickle/rjw_menstruation)                         | `b5df8b1` `2026-06-09` | 完整                         |
 | [RJW Menstruation - Resources](https://gitgud.io/ElToro/rjw-menstruation-resources)             | `63ab511`              | 完整                         |
 | [Privacy, Please!](https://gitgud.io/FireSplitter/privacy-please)                               | `b347aaf` `2025-11-09` | 完整                         |
 | [RJW Sexperience](https://gitgud.io/amevarashi/rjw-sexperience)                                 | `72b6a99` `2025-09-06` | 完整                         |
