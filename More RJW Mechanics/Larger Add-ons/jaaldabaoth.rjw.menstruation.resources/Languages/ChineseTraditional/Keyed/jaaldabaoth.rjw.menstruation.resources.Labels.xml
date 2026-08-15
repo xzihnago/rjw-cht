@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Settings: labels -->
+  <RJWMR_Settings_EnablePregnancy_Label>啟用「異常懷孕」健康狀態</RJWMR_Settings_EnablePregnancy_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionHuman_Label>啟用人類「產後虛弱」健康狀態</RJWMR_Settings_EnablePostpartumExhaustionHuman_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionAnimal_Label>啟用動物「產後虛弱」健康狀態</RJWMR_Settings_EnablePostpartumExhaustionAnimal_Label>
+  <RJWMR_Settings_EnablePostpartumExhaustionAll_Label>套用「產後虛弱」至所有懷孕</RJWMR_Settings_EnablePostpartumExhaustionAll_Label>
+  <RJWMR_Settings_EnableShorterBiotech_Label>加速生機的異常懷孕</RJWMR_Settings_EnableShorterBiotech_Label>
+
+  <!-- Settings: tooltips -->
+  <RJWMR_Settings_EnablePregnancy_Tip>在 resource 妊娠期間加入「異常懷孕」的健康狀態，施加暫時的負面效果。</RJWMR_Settings_EnablePregnancy_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionHuman_Tip>在人類女性分娩後加入「產後虛弱」的健康狀態，暫時阻止移動。</RJWMR_Settings_EnablePostpartumExhaustionHuman_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionAnimal_Tip>在動物女性分娩後加入「產後虛弱」的健康狀態，暫時阻止移動。</RJWMR_Settings_EnablePostpartumExhaustionAnimal_Tip>
+  <RJWMR_Settings_EnablePostpartumExhaustionAll_Tip>套用「產後虛弱」至所有懷孕，不僅是 resource 怀孕。需要上面的人類與 / 或動物選項。</RJWMR_Settings_EnablePostpartumExhaustionAll_Tip>
+  <RJWMR_Settings_EnableShorterBiotech_Tip>加速生機的異常懷孕以匹配月經多重懷孕。可能會影響性能。</RJWMR_Settings_EnableShorterBiotech_Tip>
+</LanguageData>
