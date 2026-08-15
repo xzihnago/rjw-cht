@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <FervorTrackerNeedFervor>你需要至少 {0} 點熱情。</FervorTrackerNeedFervor>
+  <FervorTrackerNeedFervor>你需要至少 100 點熱情。</FervorTrackerNeedFervor>
   <FervorTrackerConvertAsMuchFervor>轉換為盡可能多的熱情。</FervorTrackerConvertAsMuchFervor>
   <FervorTrackerConvertFervorIntoDevPoint>將 {0} 點熱情轉換為一發展點數</FervorTrackerConvertFervorIntoDevPoint>
 
