@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HydraulicBreasts.label>人造乳房</HydraulicBreasts.label>
+  <HydraulicBreasts.labelNoun>人造乳房</HydraulicBreasts.labelNoun>
+  <HydraulicBreasts.description>一對可晃動的矽膠袋，植入使用者天然皮膚或人工固定（如果是機器人）的皮膚下。</HydraulicBreasts.description>
+
+  <HydraulicPenis.label>人造陰莖</HydraulicPenis.label>
+  <HydraulicPenis.labelNoun>人造陰莖</HydraulicPenis.labelNoun>
+  <HydraulicPenis.description>它擁有柔軟的本體，具備液壓擴張功能、舒適的加熱功能和液體輸送功能，足以媲美真正的陰莖。無菌。</HydraulicPenis.description>
+
+  <HydraulicVagina.label>人造陰道</HydraulicVagina.label>
+  <HydraulicVagina.labelNoun>人造陰道</HydraulicVagina.labelNoun>
+  <HydraulicVagina.description>就其組件而言，做工相當不錯。這款產品採用「務實」的設計，利用電刺激、加熱和壓力來模擬正常陰道的內部結構。別忘了及時補充潤滑劑。\n\n由於設計與材料的限制，它無法模擬子宮的功能。</HydraulicVagina.description>
+
+  <HydraulicAnus.label>人造肛門</HydraulicAnus.label>
+  <HydraulicAnus.labelNoun>人造肛門</HydraulicAnus.labelNoun>
+  <HydraulicAnus.description>最初設計主要是為了實用功能，但這款模型經過多次升級，更適合用於一些陰險的勾當。</HydraulicAnus.description>
+</LanguageData>

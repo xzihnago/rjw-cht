@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BreastSurgeryUdder.label>安裝乳袋</BreastSurgeryUdder.label>
+  <BreastSurgeryUdder.description>安裝乳袋，替換同部位器官。</BreastSurgeryUdder.description>
+  <BreastSurgeryUdder.jobString>安裝乳袋</BreastSurgeryUdder.jobString>
+
+  <MultiBreastUdder.label>加裝乳袋</MultiBreastUdder.label>
+  <MultiBreastUdder.description>加裝額外的乳袋。</MultiBreastUdder.description>
+  <MultiBreastUdder.jobString>加裝乳袋</MultiBreastUdder.jobString>
+</LanguageData>

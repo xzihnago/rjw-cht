@@ -43,7 +43,7 @@ RJW 與部分附加模組的中文化。<br />
 | [Cumpilation](https://github.com/vegapnk/Cumpilation)                                           | `918e986` `2026-07-29` | 完整                         |
 | [RimJobWorld - Cum](https://gitgud.io/Ed86/rjw-cum)                                             | `5fffbb3` `2025-09-13` | 完整                         |
 | Race Mods                                                                                       |                        |                              |
-| [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                               | `5437134`              | 完整（部分跨模組支援未翻譯） |
+| [RJW Race Support](https://gitgud.io/WinterKein/rjw-race-support)                               | `6f45e6c` `2026-07-21` | 完整（部分跨模組支援未翻譯） |
 
 | 模組（1.5）                                                                                         | 版本                   | 狀態 |
 | --------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
