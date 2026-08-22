@@ -22,7 +22,7 @@ RJW 與部分附加模組的中文化。<br />
 | [Sized Apparel for Slaves](https://gitgud.io/cptyossarian/sized-apparel-for-slaves)             | `a3130e2` `2025-10-03` | 完整                         |
 | Clothing                                                                                        |                        |                              |
 | [RimJobWorld - Extension](https://gitgud.io/Nalzurin/rjw-extension)                             | `ceb5b4a` `2026-07-19` | 完整                         |
-| [RimJobWorld - Onahole Extension](https://gitgud.io/splicing3089/rimjobworld-onahole-extension) | `2ed4dae`              | 完整                         |
+| [RimJobWorld - Onahole Extension](https://gitgud.io/splicing3089/rimjobworld-onahole-extension) | `429813c` `2026-07-28` | 完整                         |
 | DLC Support                                                                                     |                        |                              |
 | [RJW Sexperience Ideology](https://gitgud.io/amevarashi/rjw-sexperience-ideology)               | `a8a17fe` `2026-03-11` | 完整                         |
 | [C0ffeeRIA](https://gitgud.io/Ryufais/coffees-rjw-ideology-addons)                              | `f7deada` `2026-01-07` | 完整                         |

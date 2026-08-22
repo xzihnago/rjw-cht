@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Onahole_TentacleWhip.label>觸手</Onahole_TentacleWhip.label>
+  <Onahole_TentacleWhip.deathMessage>{0}被鞭打致死。</Onahole_TentacleWhip.deathMessage>
+</LanguageData>

@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <OnaholeCross.label>十字架</OnaholeCross.label>
-  <OnaholeCross.description>綑綁俘虜的十字架。</OnaholeCross.description>
+  <OnaholeCross.description>一個十字架，可以將人物鎖在上面，雙手展開並被鎖鏈纏繞，暴露出脆弱的下半身。</OnaholeCross.description>
 
   <OnaholeGoddessStatue.label>女神雕像</OnaholeGoddessStatue.label>
-  <OnaholeGoddessStatue.description>一個女神的雕像。</OnaholeGoddessStatue.description>
+  <OnaholeGoddessStatue.description>由血肉團與生化鐵氧體填充的大型可動雕像。可以命令它抓住靠近的敵對人物，然後悉心照料並取悅直到被釋放。</OnaholeGoddessStatue.description>
 
   <OnaholeHanger.label>掛架</OnaholeHanger.label>
-  <OnaholeHanger.description>將俘虜吊在金屬掛架上。</OnaholeHanger.description>
+  <OnaholeHanger.description>一個金屬架，上面垂著鏈條，可以把人物掛在上面，擺成任何想要的姿勢以供取樂。</OnaholeHanger.description>
 
   <OnaholeHorseMount.label>三角木馬</OnaholeHorseMount.label>
-  <OnaholeHorseMount.description>將俘虜用鎖鏈吊在三角木馬上。</OnaholeHorseMount.description>
+  <OnaholeHorseMount.description>並非僅供騎乘。它會將目標的雙腿向外分開，並將其鼠蹊部壓在帶肋條的位置上，同時將其雙手綁在身後。</OnaholeHorseMount.description>
 
   <OnaholeIronMaiden.label>鐵處女</OnaholeIronMaiden.label>
-  <OnaholeIronMaiden.description>將俘虜用鎖鏈綁在金屬框架上。</OnaholeIronMaiden.description>
+  <OnaholeIronMaiden.description>一個金屬櫃，裡面沒有鋒利的尖刺，而是佈滿了觸手，隨時準備抓住最近的入侵者，把他們拉進去，在玩具被奪走之前，盡可能地探測、戳刺與吸取他們的東西。</OnaholeIronMaiden.description>
 
   <OnaholeMetalFrame.label>金屬框</OnaholeMetalFrame.label>
-  <OnaholeMetalFrame.description>將俘虜用鎖鏈綁在金屬框架上。</OnaholeMetalFrame.description>
+  <OnaholeMetalFrame.description>一個金屬框，可以將人物的四肢綁在上面，隨時供任何想要的人使用。</OnaholeMetalFrame.description>
 
   <OnaholePillory.label>頸手枷</OnaholePillory.label>
-  <OnaholePillory.description>將俘虜綁在頸手枷上。</OnaholePillory.description>
+  <OnaholePillory.description>一個木製的刑具，用來固定人物的頭部與手臂，使人物可以自由地供任何想要的人使用。</OnaholePillory.description>
 
   <OnaholePole.label>立桿</OnaholePole.label>
-  <OnaholePole.description>將俘虜用鎖鏈綁在立桿上。</OnaholePole.description>
+  <OnaholePole.description>一根簡單的木棍，用來拴住人物以便自由使用。就只是一根大木棍。</OnaholePole.description>
+
+  <OnaholeTentacleTrap.label>觸手陷阱</OnaholeTentacleTrap.label>
+  <OnaholeTentacleTrap.description>一種利用觸手捕捉並束縛目標的陷阱。被束縛的人物將在兩天後溶解。</OnaholeTentacleTrap.description>
 </LanguageData>

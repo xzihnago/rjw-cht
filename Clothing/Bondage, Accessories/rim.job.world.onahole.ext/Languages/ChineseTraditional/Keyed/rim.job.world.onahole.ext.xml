@@ -5,6 +5,7 @@
   <RJW_Onahole_Free>免費</RJW_Onahole_Free>
   <RJW_Onahole_CustomTransforms>自訂紋理偏移</RJW_Onahole_CustomTransforms>
   <RJW_Onahole_ForGuestUse_Desc>允許訪客使用肉便器，若價格不為 0，訪客將付費使用。</RJW_Onahole_ForGuestUse_Desc>
+  <RJW_Onahole_ForHumanUse_Desc>允許人型人物使用肉便器。涵蓋所有人型種族，包括模組人物。</RJW_Onahole_ForHumanUse_Desc>
   <RJW_Onahole_ForAnimalUse_Desc>允許動物使用肉便器，此設定將覆蓋 RJW 設定</RJW_Onahole_ForAnimalUse_Desc>
   <RJW_Onahole_ForInsectUse_Desc>允許昆蟲使用肉便器，此設定將覆蓋 RJW 設定</RJW_Onahole_ForInsectUse_Desc>
   <RJW_Onahole_ForMechanoidUse_Desc>允許機械族使用肉便器。若因殖民地機械族而懷孕，寶寶將自動被駭入</RJW_Onahole_ForMechanoidUse_Desc>
@@ -35,6 +36,15 @@
   <RJW_Onahole_PriceAppraiseOne>評價為一時的肉便器價格</RJW_Onahole_PriceAppraiseOne>
   <RJW_Onahole_Offset>偏移</RJW_Onahole_Offset>
   <RJW_Onahole_Scale>縮放</RJW_Onahole_Scale>
+  <RJW_Onahole_Position>位置</RJW_Onahole_Position>
+  <RJW_Onahole_Preview>預覽</RJW_Onahole_Preview>
+  <RJW_Onahole_ShowActualTexture>顯示實際紋理</RJW_Onahole_ShowActualTexture>
+  <RJW_Onahole_SaveAsDefault>儲存為預設…</RJW_Onahole_SaveAsDefault>
+  <RJW_Onahole_SaveExact>精確匹配</RJW_Onahole_SaveExact>
+  <RJW_Onahole_SaveFileWildcard>檔案名稱萬用字元</RJW_Onahole_SaveFileWildcard>
+  <RJW_Onahole_SaveModWildcard>模組 ID 萬用字元</RJW_Onahole_SaveModWildcard>
+  <RJW_Onahole_SavedAsDefault>儲存為預設</RJW_Onahole_SavedAsDefault>
+  <RJW_Onahole_TransformLegend>● = 與預設值不同</RJW_Onahole_TransformLegend>
   <RJW_Onahole_Stimulate>刺激</RJW_Onahole_Stimulate>
   <RJW_Onahole_FluidStorage>液體儲存</RJW_Onahole_FluidStorage>
   <RJW_Onahole_ChangeBindStyle>更改束縛風格</RJW_Onahole_ChangeBindStyle>
@@ -49,16 +59,18 @@
   <RJW_Onahole_Show>顯示</RJW_Onahole_Show>
   <RJW_Onahole_SetRestriction>允許/禁止使用肉便器</RJW_Onahole_SetRestriction>
   <RJW_Onahole_Feed>餵食肉便器</RJW_Onahole_Feed>
-  <RJW_Onahole_CantFeed>無營養價值，無法餵食</RJW_Onahole_CantFeed>
   <RJW_Onahole_AutoConvert>轉換為物品並儲存</RJW_Onahole_AutoConvert>
   <RJW_Onahole_Destroy>銷毀</RJW_Onahole_Destroy>
   <RJW_Onahole_NoConvertibleItem>無可轉換物品</RJW_Onahole_NoConvertibleItem>
   <RJW_Onahole_AutoCapture_Desc>自動捕捉周圍敵人並束縛他們</RJW_Onahole_AutoCapture_Desc>
+  <RJW_Onahole_NoOtherRaces>無其他種族</RJW_Onahole_NoOtherRaces>
   <!-- Enums -->
   <RJW_Onahole_Factionless>無派系</RJW_Onahole_Factionless>
   <RJW_Onahole_Insect>昆蟲</RJW_Onahole_Insect>
   <!-- Messages -->
   <RJW_Onahole_QuitRaiding>{0}的{1}使用了肉便器{2}後筋疲力盡，無法繼續突襲並決定離開</RJW_Onahole_QuitRaiding>
+  <RJW_Onahole_GoodwillGained>獲得友好度</RJW_Onahole_GoodwillGained>
+  <RJW_Onahole_NotOnAssignedList>{0}不在指定使用列表中，且該列表不為空。</RJW_Onahole_NotOnAssignedList>
   <!-- Defeat -->
   <RJW_Onahole_Defeat>戰敗</RJW_Onahole_Defeat>
   <RJW_Onahole_DontDefeatMode>無戰敗效果</RJW_Onahole_DontDefeatMode>
@@ -71,6 +83,7 @@
   <RJW_Onahole_InfinityDefeat_Desc>移除戰敗效果的時間限制。\n\n（注意：直到所有殖民者死亡才會停止）</RJW_Onahole_InfinityDefeat_Desc>
   <RJW_Onahole_DefeatTick>戰敗效果時間（Tick）</RJW_Onahole_DefeatTick>
   <RJW_Onahole_DefeatTick_Desc>設定戰敗效果的時間限制。</RJW_Onahole_DefeatTick_Desc>
+  <RJW_Onahole_KidnappedColonistFound_Desc>{PAWN_nameDef}，很久以前被綁架並被認定已失蹤，如今在這個地方被發現——被固定成一個肉便器，成了這裡的家具之一。經歷了這麼長時間，{PAWN_pronoun}仍然活著，儘管囚禁明顯留下了痕跡。是否發起營救，或是任由{PAWN_objective}遭受這樣的命運，由你來決定。</RJW_Onahole_KidnappedColonistFound_Desc>
   <!-- Brothel Colony -->
   <RJW_Onahole_BrothelColony>妓院殖民地</RJW_Onahole_BrothelColony>
   <RJW_Onahole_UseBrothelPrice>使用妓院價格作為肉便器價格</RJW_Onahole_UseBrothelPrice>
@@ -81,4 +94,20 @@
   <!-- DBH -->
   <RJW_Onahole_Shower>洗澡</RJW_Onahole_Shower>
   <RJW_Onahole_Shower_Desc>自動在需要時給肉便器洗澡</RJW_Onahole_Shower_Desc>
+  <!-- Mimic -->
+  <RJW_Onahole_MorphToBuilding>變形</RJW_Onahole_MorphToBuilding>
+  <RJW_Onahole_MorphToBuilding_Desc>化身為誘人的陷阱。毫無防備的獵物被吸引前來查看，最終會發現自己被困住並遭束縛。</RJW_Onahole_MorphToBuilding_Desc>
+  <RJW_Onahole_MorphedToBuildingDueToDamage_MSG>{0}本能地變化出堅硬的外殼以求在襲擊中生存。</RJW_Onahole_MorphedToBuildingDueToDamage_MSG>
+  <RJW_Onahole_ExitBuildingForm>結束變形</RJW_Onahole_ExitBuildingForm>
+  <RJW_Onahole_ExitBuildingForm_Desc>恢復為移動型態。</RJW_Onahole_ExitBuildingForm_Desc>
+  <RJW_Onahole_ExitBuildingFormNeedsBodyFluid>這個生物需要食物來療傷並褪去保護殼。</RJW_Onahole_ExitBuildingFormNeedsBodyFluid>
+  <RJW_Onahole_ExitBuildingFormDueToDamage_MSG>{0}的保護殼在攻擊下破碎，被迫恢復到自然狀態。</RJW_Onahole_ExitBuildingFormDueToDamage_MSG>
+  <RJW_Onahole_StrangeChest>奇怪的箱子</RJW_Onahole_StrangeChest>
+  <RJW_Onahole_StrangeChest_Desc>一個擺放位置很奇怪的容器，感覺很不協調。總覺得哪裡不對勁…或許最好還是別動它？</RJW_Onahole_StrangeChest_Desc>
+  <RJW_Onahole_MimicTamed>馴服模仿怪</RJW_Onahole_MimicTamed>
+  <RJW_Onahole_MimicTamed_Desc>這種神秘生物{0}以體液為生。經過漫長的沉睡後，它甦醒過來，{1}給予了它期盼已久的體液，並建立了聯繫。</RJW_Onahole_MimicTamed_Desc>
+  <RJW_Onahole_CaptiveDissolving>{PAWN_labelShort}正在被溶解。</RJW_Onahole_CaptiveDissolving>
+  <RJW_Onahole_CaptiveDissolved>{PAWN_labelShort}已徹底溶解，不留任何痕跡。</RJW_Onahole_CaptiveDissolved>
+  <RJW_Onahole_ToggleWeebForm>切換型態</RJW_Onahole_ToggleWeebForm>
+  <RJW_Onahole_ToggleWeebForm_Desc>在不同型態之間切換。</RJW_Onahole_ToggleWeebForm_Desc>
 </LanguageData>

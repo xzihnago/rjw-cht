@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Onahole_Mimic.label>模仿怪</Onahole_Mimic.label>
+  <Onahole_Mimic.description>一種擬態生物</Onahole_Mimic.description>
+  <Onahole_Mimic.tools.tentacle.label>觸手</Onahole_Mimic.tools.tentacle.label>
+
+  <Onahole_MimicBuilding.label>模仿怪</Onahole_MimicBuilding.label>
+  <Onahole_MimicBuilding.description>模仿怪</Onahole_MimicBuilding.description>
+</LanguageData>

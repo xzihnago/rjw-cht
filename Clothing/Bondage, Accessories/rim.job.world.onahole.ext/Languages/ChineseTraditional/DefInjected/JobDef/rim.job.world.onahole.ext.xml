@@ -2,6 +2,7 @@
 <LanguageData>
   <BeOnahole.reportString>成為肉便器</BeOnahole.reportString>
   <BindOnahole.reportString>束縛TargetA</BindOnahole.reportString>
+  <MorphToBuilding.reportString>變成建築物</MorphToBuilding.reportString>
   <RefillDrugInfuser.reportString>補充TargetA</RefillDrugInfuser.reportString>
   <RefillFeederFood.reportString>補充TargetA的自動餵食器</RefillFeederFood.reportString>
   <UnbindOnahole.reportString>釋放肉便器</UnbindOnahole.reportString>
