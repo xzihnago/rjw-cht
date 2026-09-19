@@ -5,8 +5,8 @@
   <rjw_vatgrown_sex_slave.title>培養艙性奴隸</rjw_vatgrown_sex_slave.title>
   <rjw_vatgrown_sex_slave.titleShort>性奴隸</rjw_vatgrown_sex_slave.titleShort>
 
-  <rjw_feisty.description>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]的行為說「不」，他會賞你一拳。</rjw_feisty.description>
-  <rjw_feisty.baseDesc>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]的行為說「不」，他會賞你一拳。</rjw_feisty.baseDesc>
+  <rjw_feisty.description>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]行為說「不」，他會賞你一拳。</rjw_feisty.description>
+  <rjw_feisty.baseDesc>[PAWN_nameDef]是天生的征服者，如果你試圖對[PAWN_possessive]行為說「不」，他會賞你一拳。</rjw_feisty.baseDesc>
   <rjw_feisty.title>易怒流鶯</rjw_feisty.title>
   <rjw_feisty.titleShort>流鶯</rjw_feisty.titleShort>
 
