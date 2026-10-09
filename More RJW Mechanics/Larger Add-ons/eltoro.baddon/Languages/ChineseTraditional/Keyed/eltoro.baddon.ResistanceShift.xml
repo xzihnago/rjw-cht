@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BAddon_ResistanceShift_Label>{PAWN_nameDef}對獸交的抵抗發生了變化。</BAddon_ResistanceShift_Label>
+  <BAddon_ResistanceShift_Text>隨著時間的推移，{PAWN_nameDef}對獸交的抵抗改變了。\n\n\n{EXTRA}</BAddon_ResistanceShift_Text>
+</LanguageData>

@@ -12,6 +12,10 @@
   <BM_NeverAccept>&lt;i&gt;&lt;color=red&gt;{0}永遠不會真正接受獸交。&lt;/color&gt;&lt;/i&gt;</BM_NeverAccept>
   <BM_AcceptanceSeverity>接受程度：{0}</BM_AcceptanceSeverity>
   <BM_AcceptanceMaxCap>接受最大上限：{0}</BM_AcceptanceMaxCap>
+  <BM_ReadyToInitiate>會發起獸交：{0}</BM_ReadyToInitiate>
+  <BM_ConditionedLevel>職責調教：{0}</BM_ConditionedLevel>
+  <BM_ConditionedProgress>調教進度：{0}</BM_ConditionedProgress>
+  <BM_ConditionedNone>未調教</BM_ConditionedNone>
 
   <!-- Trauma -->
   <BM_RapeTrauma>強姦創傷：{0}</BM_RapeTrauma>
@@ -45,9 +49,10 @@
   <BM_MS_Sec_DirectExperience>直接經驗：</BM_MS_Sec_DirectExperience>
   <BM_MS_Sec_EmotionalBonds>情感連結：</BM_MS_Sec_EmotionalBonds>
   <BM_MS_Sec_SocialExposure>社會接觸：</BM_MS_Sec_SocialExposure>
-  <BM_MS_Sec_WorldviewEvents>世界觀/理念事件：</BM_MS_Sec_WorldviewEvents>
+  <BM_MS_Sec_WorldviewEvents>世界觀 / 理念事件：</BM_MS_Sec_WorldviewEvents>
 
   <!-- Direct Experience -->
+  <BM_MS_FirstSexualized>第一次性吸引動物</BM_MS_FirstSexualized>
   <BM_MS_HadNonPenetrative>進行非插入式性行為</BM_MS_HadNonPenetrative>
   <BM_MS_EnjoyedFirstNonPenetrative>享受第一次非插入式性行為</BM_MS_EnjoyedFirstNonPenetrative>
   <BM_MS_DislikedFirstNonPenetrative>不喜歡第一次非插入式性行為</BM_MS_DislikedFirstNonPenetrative>

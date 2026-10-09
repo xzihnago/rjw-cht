@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalSexTrain_RequestConsensual.label>請求幫助訓練動物</AnimalSexTrain_RequestConsensual.label>
+  <AnimalSexTrain_RequestConsensual.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]主動聯繫[RECIPIENT_nameDef]並請求協助[INITIATOR_possessive]動物進行[training_type]的訓練。[RECIPIENT_nameDef]同意提供協助。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef]討論如何幫助動物做好[training_type]的準備。[RECIPIENT_nameDef]點頭並接受了請求。</li>
+    <li>r_logentry->[INITIATOR_nameDef]請求[RECIPIENT_nameDef]協助對[INITIATOR_possessive]動物進行[training_type]的訓練。[RECIPIENT_nameDef]毫不猶豫地同意了。</li>
+    <li>r_logentry->[INITIATOR_nameDef]解釋了為使動物接受[training_type]所需的訓練，[RECIPIENT_nameDef]同意提供協助。</li>
+    <li>r_logentry->[INITIATOR_nameDef]請求[RECIPIENT_nameDef]協助訓練動物[training_type]。[RECIPIENT_nameDef]接受了請求。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef]討論了動物為[training_type]所做的準備，[RECIPIENT_nameDef]同意參加。</li>
+    <li>r_logentry->[INITIATOR_nameDef]詢問[RECIPIENT_nameDef]是否願意幫助動物接受[training_type]的訓練。[RECIPIENT_nameDef]同意了。</li>
+    <li>r_logentry->[INITIATOR_nameDef]解釋了[RECIPIENT_nameDef]可以如何協助動物進行[training_type]的準備工作。[RECIPIENT_nameDef]接受了這個提議。</li>
+
+    <li>training_type->與人類交配</li>
+    <li>training_type->與人類發生性行為</li>
+    <li>training_type->與人類繁殖</li>
+  </AnimalSexTrain_RequestConsensual.logRulesInitiator.rulesStrings>
+
+  <AnimalSexTrain_RequestRape.label>命令幫助訓練動物</AnimalSexTrain_RequestRape.label>
+  <AnimalSexTrain_RequestRape.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]說[INITIATOR_pronoun]需要幫助訓練動物[training_type]，然後命令[RECIPIENT_nameDef]作為肉畜。</li>
+    <li>r_logentry->[INITIATOR_nameDef]將動物帶到[RECIPIENT_nameDef]旁，並告訴[RECIPIENT_objective]，[RECIPIENT_pronoun]將用作[training_type]的訓練肉畜。</li>
+    <li>r_logentry->[INITIATOR_nameDef]通知[RECIPIENT_nameDef]動物需要一個活體物件進行[training_type]的訓練，並且[RECIPIENT_pronoun]已被選中。</li>
+    <li>r_logentry->[INITIATOR_nameDef]駁回了[RECIPIENT_nameDef]的反對意見，並命令[RECIPIENT_objective]作為該動物的練習對象。</li>
+    <li>r_logentry->[INITIATOR_nameDef]指著等待的動物，告訴[RECIPIENT_nameDef]幫忙訓練它[training_type]，並讓拒絕聽起來很危險。</li>
+    <li>r_logentry->[INITIATOR_nameDef]冷冷地告訴[RECIPIENT_nameDef]這隻動物需要[training_type]的幫助，而且肉畜沒有拒絕的權利。</li>
+    <li>r_logentry->[INITIATOR_nameDef]將[RECIPIENT_nameDef]指定為動物的活體訓練對象，無視其所有抗議。</li>
+    <li>r_logentry->[INITIATOR_nameDef]命令[RECIPIENT_nameDef]協助動物進行[training_type]的訓練，將[RECIPIENT_objective]視為肉畜。</li>
+
+    <li>training_type->與人類交配</li>
+    <li>training_type->職責</li>
+    <li>training_type->與人類繁殖</li>
+  </AnimalSexTrain_RequestRape.logRulesInitiator.rulesStrings>
+
+  <AnimalSexTrain_TrainingAttempt.label>決定訓練動物</AnimalSexTrain_TrainingAttempt.label>
+  <AnimalSexTrain_TrainingAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]訓練[RECIPIENT_nameDef][training_type]，仔細地糾正了動物的姿勢。</li>
+    <li>r_logentry->[INITIATOR_nameDef]為[RECIPIENT_nameDef]準備[training_type]，鼓勵動物保持冷靜與合作。</li>
+    <li>r_logentry->[INITIATOR_nameDef]調整[RECIPIENT_nameDef]的觀點，為[training_type]做準備。</li>
+    <li>r_logentry->[INITIATOR_nameDef]教[RECIPIENT_nameDef]在[training_type]期間預期的姿勢。</li>
+    <li>r_logentry->[INITIATOR_nameDef]鼓勵[RECIPIENT_nameDef]進入[training_type]所需的體位，並獎勵該動物的合作。</li>
+    <li>r_logentry->[INITIATOR_nameDef]繼續為[RECIPIENT_nameDef]進行[training_type]的訓練，修正每一個錯誤的動作。</li>
+    <li>r_logentry->[INITIATOR_nameDef]用耐心應對來使[RECIPIENT_nameDef]熟悉[training_type]中涉及的體位。</li>
+    <li>r_logentry->[INITIATOR_nameDef]調教[RECIPIENT_nameDef]在[training_type]期間保持靜止與應對。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef]排練[training_type]所需的體位。</li>
+    <li>r_logentry->[INITIATOR_nameDef]重複體位練習，直到[RECIPIENT_nameDef]開始可靠應對。</li>
+    <li>r_logentry->[INITIATOR_nameDef]與[RECIPIENT_nameDef]一起訓練[training_type]期間預期的行為，獎勵每一次冷靜與正確的應對。</li>
+    <li>r_logentry->[INITIATOR_nameDef]讓[RECIPIENT_nameDef]熟悉[training_type]所需的應對與體位。</li>
+    <li>r_logentry->[INITIATOR_nameDef]幫助[RECIPIENT_nameDef]保持所需的姿勢，為[training_type]做準備。</li>
+
+    <li>training_type->與人類交配</li>
+    <li>training_type->與人類發生性行為</li>
+    <li>training_type->與人類繁殖</li>
+  </AnimalSexTrain_TrainingAttempt.logRulesInitiator.rulesStrings>
+</LanguageData>

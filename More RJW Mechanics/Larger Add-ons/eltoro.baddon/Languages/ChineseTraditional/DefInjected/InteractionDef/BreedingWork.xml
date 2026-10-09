@@ -54,10 +54,10 @@
 
   <BreedingWorkAnimalResponseFemaleForced.label>被標記動物交配</BreedingWorkAnimalResponseFemaleForced.label>
   <BreedingWorkAnimalResponseFemaleForced.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef]低下頭，急切地嗅著[RECIPIENT_nameDef]，他的陰莖已經在他身下變硬。</li>
+    <li>r_logentry->[INITIATOR_nameDef]低下頭，急切地嗅著[RECIPIENT_nameDef]，他的陰莖完全勃起。</li>
     <li>r_logentry->[INITIATOR_nameDef]發出低沉的咆哮，用鼻子輕推她的臀部，準備騎乘。</li>
     <li>r_logentry->[INITIATOR_nameDef]舔著[RECIPIENT_nameDef]裸露的陰唇，然後爬上她的背部。</li>
-    <li>r_logentry->[INITIATOR_nameDef]用爪子抓著地面，然後將前腿放在[RECIPIENT_nameDef]的背上，接受她的邀請。</li>
+    <li>r_logentry->[INITIATOR_nameDef]用爪子刨了刨地面，然後將前腿搭在[RECIPIENT_nameDef]的背上。</li>
   </BreedingWorkAnimalResponseFemaleForced.logRulesInitiator.rulesStrings>
 
   <BreedingWorkAnimalResponseMaleForced.label>與標記動物交配</BreedingWorkAnimalResponseMaleForced.label>
@@ -67,4 +67,70 @@
     <li>r_logentry->[RECIPIENT_nameDef]站在[INITIATOR_nameDef]身後，將他的陰莖與她的臀部對齊，準備交配。</li>
     <li>r_logentry->[RECIPIENT_nameDef]穩住[INITIATOR_nameDef]，將他的陰莖抵在她的臀部，開始交配。</li>
   </BreedingWorkAnimalResponseMaleForced.logRulesInitiator.rulesStrings>
+
+  <BreedingWorkOrderFemaleForced.label></BreedingWorkOrderFemaleForced.label>
+  <BreedingWorkOrderFemaleForced.logRulesInitiator.rulesStrings>
+    <!-- Main log entry -->
+    <li>r_logentry->[INITIATOR_nameDef][initial_delivery][animal_description][undress][start]。</li>
+
+    <!-- Initial delivery -->
+    <li>initial_delivery->帶來</li>
+    <li>initial_delivery->牽著</li>
+    <li>initial_delivery->送來</li>
+
+    <!-- Animal description (Male animal) -->
+    <li>animal_description->一隻勃起的雄性動物</li>
+    <li>animal_description->一隻發情的雄性動物</li>
+    <li>animal_description->一隻勃起的陰莖清晰可見的雄性動物</li>
+    <li>animal_description->一隻陰莖在身下晃動的發情雄性動物</li>
+    <li>animal_description->一隻明顯準備好進行繁殖的渴望交配的雄性動物</li>
+
+    <!-- Undress / Preparation -->
+    <li>undress->，並命令[RECIPIENT_nameDef]脫掉衣服</li>
+    <li>undress->，並強制剝掉[RECIPIENT_nameDef]的衣服</li>
+    <li>undress->，並命令[RECIPIENT_nameDef]脫光衣服</li>
+
+    <!-- Start breeding -->
+    <li>start->。\n一切準備就緒後，[INITIATOR_nameDef]將[RECIPIENT_nameDef]推倒在地，並命令那隻雄性動物爬到她身上</li>
+    <li>start->。\n片刻之後，[INITIATOR_nameDef]將[RECIPIENT_nameDef]帶到動物面前，並告訴她，如果想活命就必須獻身</li>
+    <li>start->。\n[INITIATOR_nameDef]強制[RECIPIENT_nameDef]就位並命令她開始</li>
+    <li>start->。\n[INITIATOR_nameDef]帶著一絲冷笑，命令[RECIPIENT_nameDef]讓那隻動物與她交配</li>
+    <li>start->。\n[INITIATOR_nameDef]將[RECIPIENT_nameDef]的臀部向後推，迫使她貼近那隻雄性動物勃起的陰莖</li>
+  </BreedingWorkOrderFemaleForced.logRulesInitiator.rulesStrings>
+
+  <BreedingWorkOrderMaleForced.label></BreedingWorkOrderMaleForced.label>
+  <BreedingWorkOrderMaleForced.logRulesInitiator.rulesStrings>
+    <!-- Main log entry -->
+    <li>r_logentry->[INITIATOR_nameDef][initial_delivery][animal_description][undress][arousal][start]。</li>
+
+    <!-- Initial delivery -->
+    <li>initial_delivery->帶來</li>
+    <li>initial_delivery->送來</li>
+    <li>initial_delivery->牽著</li>
+
+    <!-- Animal description -->
+    <li>animal_description->一隻陰唇腫脹、閃閃發亮的雌性動物</li>
+    <li>animal_description->一隻發情的雌性動物</li>
+    <li>animal_description->一隻腫脹的生殖器正滴著液體到地板上的雌性動物</li>
+    <li>animal_description->一隻外陰腫脹且明顯搏動的雌性動物</li>
+
+    <!-- Undress / Preparation -->
+    <li>undress->，並命令[RECIPIENT_nameDef]脫掉衣服</li>
+    <li>undress->，並強制剝掉[RECIPIENT_nameDef]的衣服</li>
+    <li>undress->，並命令[RECIPIENT_nameDef]脫光衣服</li>
+
+    <!-- Arousal / Getting erect -->
+    <li>arousal->。\n那隻動物看到赤裸裸的俘虜，便衝向他，開始用濕潤的陰唇摩擦他，迫使[RECIPIENT_nameDef]的陰莖勃起</li>
+    <li>arousal->。\n注意到[RECIPIENT_nameDef]的猶豫，[INITIATOR_nameDef]冷冷地命令他勃起，否則將面臨嚴厲的懲罰</li>
+    <li>arousal->。\n[RECIPIENT_nameDef]很快就明白了即將發生的事情，順從地勃起了，希望能避免懲罰</li>
+    <li>arousal->。\n[INITIATOR_nameDef]微笑著，因為[RECIPIENT_nameDef]被氣味與景象不由自主地喚起了性慾</li>
+    <li>arousal->。\n那隻動物將她濕漉漉的陰部緊貼著[RECIPIENT_nameDef]的大腿，很快就讓他勃起了</li>
+
+    <!-- Start breeding -->
+    <li>start->。\n一切準備就緒後，[INITIATOR_nameDef]將[RECIPIENT_nameDef]推到動物身後，命令他開始交配</li>
+    <li>start->。\n片刻之後，[INITIATOR_nameDef]將動物的側腹對準[RECIPIENT_nameDef]，並告訴他，如果想活命就必須開始</li>
+    <li>start->。\n[INITIATOR_nameDef]強制[RECIPIENT_nameDef]就位並命令他開始交配</li>
+    <li>start->。\n[INITIATOR_nameDef]帶著一絲殘忍的冷笑，命令[RECIPIENT_nameDef]開始騎上那隻動物</li>
+    <li>start->。\n[INITIATOR_nameDef]將俘虜向前推，迫使他抵住那隻動物滴水的入口</li>
+  </BreedingWorkOrderMaleForced.logRulesInitiator.rulesStrings>
 </LanguageData>

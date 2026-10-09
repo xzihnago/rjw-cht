@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <ELB_AnimalPetSexualizeInteraction.label>寵愛動物</ELB_AnimalPetSexualizeInteraction.label>
+  <ELB_AnimalPetSexualizeInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->在撫摸[RECIPIENT_nameDef]時，[INITIATOR_nameDef]注意到這隻動物正在發情，並覺得這個想法很誘人。</li>
+    <li>r_logentry->[INITIATOR_nameDef]在撫摸時注意到[RECIPIENT_nameDef]的興奮，並感到一陣緩緩升起的熱情。</li>
+    <li>r_logentry->在撫摸過程中，[INITIATOR_nameDef]察覺到了[RECIPIENT_nameDef]的興奮，並感到一絲慾望的火花閃現。</li>
+    <li>r_logentry->用手沿著[RECIPIENT_nameDef]的側身撫摸時，[INITIATOR_nameDef]注意到了動物的興奮，將這一刻變成了毫無疑問的色情時刻。</li>
+  </ELB_AnimalPetSexualizeInteraction.logRulesInitiator.rulesStrings>
+
   <ELB_AnimalPetInteraction.label>寵愛動物</ELB_AnimalPetInteraction.label>
   <ELB_AnimalPetInteraction.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef]將一隻手放在[RECIPIENT_nameDef]的頭上，緩緩地撫摸著。</li>

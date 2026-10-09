@@ -12,4 +12,6 @@
   <ForcedBreed_NonVenerated.description>只有非聖獸將成為交配目標。</ForcedBreed_NonVenerated.description>
   <ForcedBreed_NonBonded.label>僅限非羈絆動物</ForcedBreed_NonBonded.label>
   <ForcedBreed_NonBonded.description>只有非羈絆動物將成為交配目標。</ForcedBreed_NonBonded.description>
+  <ForcedBreed_Designated.label>僅限指定動物</ForcedBreed_Designated.label>
+  <ForcedBreed_Designated.description>只有手動指定的動物將成為交配目標。</ForcedBreed_Designated.description>
 </LanguageData>

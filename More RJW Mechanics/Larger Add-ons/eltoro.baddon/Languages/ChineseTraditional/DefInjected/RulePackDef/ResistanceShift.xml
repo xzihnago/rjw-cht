@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BAddon_ResistanceShift_Body.rulePack.rulesStrings>
+    <li>r_sentence->透過履行職責進行的訓練逐漸削弱了[PAWN_nameDef]對獸交的嚴厲反對。</li>
+    <li>r_sentence->延伸的職責逐漸瓦解了[PAWN_nameDef]對獸交的堅定信念。</li>
+    <li>r_sentence->持續不斷的職責逐漸瓦解了[PAWN_nameDef]對獸交的堅定反對。</li>
+    <li>r_sentence->持續的職責訓練逐漸改變了[PAWN_nameDef]對獸交毫不妥協的看法。</li>
+    <li>r_sentence->反覆的職責訓練逐漸削弱了[PAWN_nameDef]對獸交的堅決反對。</li>
+    <li>r_sentence->履行職責所累積的本能逐漸削弱了[PAWN_nameDef]對獸交的根深蒂固的反對態度。</li>
+  </BAddon_ResistanceShift_Body.rulePack.rulesStrings>
+  <BAddon_ResistanceShift_Ending.rulePack.rulesStrings>
+    <li>r_sentence->[PAWN_nameDef]對獸交的看法已經變得不那麼僵化了。</li>
+    <li>r_sentence->[PAWN_nameDef]不再像以前那樣反對獸交了。</li>
+    <li>r_sentence->[PAWN_nameDef]不再直接拒絕所有涉及獸交的情況。</li>
+    <li>r_sentence->[PAWN_nameDef]在[PAWN_possessive]對獸交的看法上不再像以前那樣毫不妥協了。</li>
+    <li>r_sentence->[PAWN_nameDef]對獸交的抵抗減弱了。</li>
+    <li>r_sentence->[PAWN_nameDef]對獸交的態度有所軟化。</li>
+  </BAddon_ResistanceShift_Ending.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BAddon_ReadyBestiality_Label>{PAWN_nameDef}對獸交的看法發生了變化。</BAddon_ReadyBestiality_Label>
+  <BAddon_ReadyBestiality_Text>隨著時間的推移，一系列的經歷與影響促使{PAWN_nameDef}重新思考他們對獸交的看法。\n\n\n以下因素促使了這次轉變：\n\n{EXTRA}</BAddon_ReadyBestiality_Text>
+</LanguageData>

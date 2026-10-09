@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BAddon_RapeTrauma_Label>{PAWN_nameDef}患上了強姦創傷。</BAddon_RapeTrauma_Label>
+  <BAddon_RapeTrauma_Text>{PAWN_nameDef}遭到動物強姦，這段經歷給她留下了持久的精神創傷。\n\n這種創傷可能會限制{PAWN_nameDef}對獸交的接受程度，直到她康復為止。\n\n康復是可能的，但這通常需要時間、安全的環境與更好的經歷。與動物建立羈絆、馴服它們、與接納獸交的人交流，或其他愉快的動物互動，都有助於{PAWN_nameDef}逐漸克服創傷。</BAddon_RapeTrauma_Text>
+
+  <BAddon_RapeTraumaHealed_Label>{PAWN_nameDef}已克服動物強姦創傷。</BAddon_RapeTraumaHealed_Label>
+  <BAddon_RapeTraumaHealed_Text>隨著時間的推移與後續的正面經歷，{PAWN_nameDef}已經逐漸走出被動物強姦所造成的創傷。\n\n這段記憶並未消失，但不再主導{PAWN_nameDef}對獸交的反應。如今，他們能夠繼續接受這種行為，不再受創傷的阻礙。</BAddon_RapeTraumaHealed_Text>
+</LanguageData>

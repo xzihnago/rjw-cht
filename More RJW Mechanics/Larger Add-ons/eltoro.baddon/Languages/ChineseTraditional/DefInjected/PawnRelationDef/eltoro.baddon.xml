@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <FixatedMatingTarget.label>固定交配對象</FixatedMatingTarget.label>
+  <ExMatingTarget.label>前交配對象</ExMatingTarget.label>
+
   <BestialLovers_MatingCompanion.label>交配伴侶</BestialLovers_MatingCompanion.label>
   <BestialLovers_ChosenPartner.label>選定伴侶</BestialLovers_ChosenPartner.label>
   <BestialLovers_LifePartner.label>生命伴侶</BestialLovers_LifePartner.label>
