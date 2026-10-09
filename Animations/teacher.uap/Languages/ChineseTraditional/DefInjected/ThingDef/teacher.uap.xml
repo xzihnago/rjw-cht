@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UAP_GroupTogetherSpot.label>群體聚集點</UAP_GroupTogetherSpot.label>
+  <UAP_GroupTogetherSpot.description>標記一個地點，選擇的人物可以在此聚集並開始 UAP 集體動畫。不消耗任何材料，並且其地面標記可以隱藏。</UAP_GroupTogetherSpot.description>
+</LanguageData>

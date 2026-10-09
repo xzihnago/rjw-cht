@@ -9,6 +9,7 @@
     <!-- ===========================================     Animations     =========================================== -->
     <li IfModActive="c0ffee.rimworld.animations">Animations/c0ffee.rimworld.animations</li>
     <li IfModActive="teacher.uap">Animations/teacher.uap</li>
+    <li IfModActive="teacher.uap">Animations/teacher.uap_cryptidfarmer.stripper</li>
     <li IfModActive="eltoro.anims">Animations/eltoro.anims</li>
     <!-- ===========================================   Body Graphics    =========================================== -->
     <!-- Sized Apparel Zero -->
